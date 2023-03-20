@@ -1,0 +1,24 @@
+{
+    "id": "on-semiconductor-mbr0540t1g",
+    "reference": "D",
+    "mpn": "MBR0540T1G",
+    "category": "Semiconductor",
+    "type": "Schottky Rectifier, 40 V, 500 mA, Single, SOD-123, 2 Pins, 510 mV",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": false,
+        "footprint": false
+    },
+    "blendfileId": "d-sod-123f",
+    "symbolId": "mbr0540t1g",
+    "footprintId": "d-sod-123f",
+    "manufacturerId": "on-semiconductor",
+    "tagIds": [
+        "smt",
+        "rectifier",
+        "semiconductor",
+        "diode",
+        "schottky"
+    ]
+}

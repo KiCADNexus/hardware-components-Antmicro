@@ -1,0 +1,20 @@
+{
+    "id": "semtech-gs2971a",
+    "reference": "U",
+    "mpn": "GS2971A",
+    "category": "IC",
+    "type": "SDI receiver",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": false,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "bga-100-11x11mm-layout10x10-p1mm",
+    "symbolId": "gs2971a",
+    "footprintId": "bga-100-11x11mm-layout10x10-p1mm",
+    "manufacturerId": "semtech",
+    "tagIds": [
+        "ic"
+    ]
+}

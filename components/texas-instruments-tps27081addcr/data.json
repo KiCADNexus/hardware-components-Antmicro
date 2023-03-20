@@ -1,0 +1,24 @@
+{
+    "id": "texas-instruments-tps27081addcr",
+    "reference": "U",
+    "mpn": "TPS27081ADDCR",
+    "category": "IC",
+    "type": "Power Load Switch with Level Shift, High Side, Active High, 1 Output, 8V, SSOT-6",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": false,
+        "footprint": true
+    },
+    "blendfileId": "sot-23-6",
+    "symbolId": "tps27081addcr",
+    "footprintId": "sot-23-6",
+    "manufacturerId": "texas-instruments",
+    "tagIds": [
+        "smt",
+        "switch",
+        "ic",
+        "power",
+        "driver"
+    ]
+}

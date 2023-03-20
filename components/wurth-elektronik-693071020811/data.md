@@ -1,0 +1,1 @@
+Memory Card Connector, MicroSD, Push-Push, 8 Contacts, Copper Alloy, Gold Plated Contacts, WR-CRD

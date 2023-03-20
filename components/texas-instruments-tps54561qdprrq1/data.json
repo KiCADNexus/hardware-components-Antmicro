@@ -1,0 +1,26 @@
+{
+    "id": "texas-instruments-tps54561qdprrq1",
+    "reference": "U",
+    "mpn": "TPS54561QDPRRQ1",
+    "category": "IC",
+    "type": "DC/DC converter",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "soic-8-1ep-3-9x4-9x1-75mm-p1-27mm",
+    "symbolId": "tps54561qdprrq1",
+    "footprintId": "soic-8-1ep-3-9x4-9x1-75mm-p1-27mm",
+    "manufacturerId": "texas-instruments",
+    "tagIds": [
+        "smt",
+        "pmic",
+        "ic",
+        "switching",
+        "voltage",
+        "regulator",
+        "dc-dc"
+    ]
+}

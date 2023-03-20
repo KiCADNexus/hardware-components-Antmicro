@@ -1,0 +1,26 @@
+{
+    "id": "texas-instruments-lm2831ymf-nopb",
+    "reference": "U",
+    "mpn": "LM2831YMF/NOPB",
+    "category": "IC",
+    "type": "Linear voltage regulator",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": false,
+        "footprint": false
+    },
+    "blendfileId": "sot95p280x145-5n",
+    "symbolId": "lm2831ymf-nopb",
+    "footprintId": "sot95p280x145-5n",
+    "manufacturerId": "texas-instruments",
+    "tagIds": [
+        "smt",
+        "pmic",
+        "ic",
+        "switching",
+        "buck",
+        "voltage",
+        "regulator"
+    ]
+}

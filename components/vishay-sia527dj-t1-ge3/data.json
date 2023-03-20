@@ -1,0 +1,23 @@
+{
+    "id": "vishay-sia527dj-t1-ge3",
+    "reference": "Q",
+    "mpn": "SIA527DJ-T1-GE3",
+    "category": "Semiconductor",
+    "type": "Dual MOSFET, N and P Channel, 12 V, 12 V, 4.5 A, 4.5 A, 0.024 ohm",
+    "datasheetUrl": "https://www.vishay.com/docs/64162/sia527dj.pdf",
+    "assets": {
+        "blendfile": false,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "powerpak-sc-70-6",
+    "symbolId": "sia527dj",
+    "footprintId": "powerpak-sc-70-6",
+    "manufacturerId": "vishay",
+    "tagIds": [
+        "mosfet",
+        "transistor",
+        "array",
+        "smt"
+    ]
+}

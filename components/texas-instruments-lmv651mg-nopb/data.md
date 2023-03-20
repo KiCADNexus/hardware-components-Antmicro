@@ -1,0 +1,1 @@
+OP AMP, 12MHZ, 3V/US, SC-70-5

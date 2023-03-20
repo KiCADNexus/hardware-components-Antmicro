@@ -1,0 +1,12 @@
+{
+    "id": "ats2d1g-nc-lfs",
+    "blendfile": "ATS2D1G_NC_LFS.blend",
+    "previews": [
+        {
+            "id": "iso-front",
+            "description": "Render in iso-front view",
+            "fileName": "isoF.webp",
+            "animations": {}
+        }
+    ]
+}

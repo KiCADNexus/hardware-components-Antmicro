@@ -1,0 +1,23 @@
+{
+    "id": "microchip-technology-mcp4661-502e-ml",
+    "reference": "U",
+    "mpn": "MCP4661-502E/ML",
+    "category": "IC",
+    "type": "Interface I/O expander",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": false,
+        "footprint": true
+    },
+    "blendfileId": "qfn-16-1ep-4x4mm-p0-65mm",
+    "symbolId": "mcp4661-502e-ml",
+    "footprintId": "qfn-16-1ep-4x4mm-p0-65mm",
+    "manufacturerId": "microchip-technology",
+    "tagIds": [
+        "smt",
+        "potentiometer",
+        "ic",
+        "i2c"
+    ]
+}

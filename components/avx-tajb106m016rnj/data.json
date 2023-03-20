@@ -1,0 +1,24 @@
+{
+    "id": "avx-tajb106m016rnj",
+    "reference": "C",
+    "mpn": "TAJB106M016RNJ",
+    "category": "Passive",
+    "type": "Surface Mount Tantalum Capacitor, 10 \u00b5F, 16 V, 1411 [3528 Metric], \u00b1 20%, 2.8 ohm, B",
+    "datasheetUrl": "https://www.mouser.pl/datasheet/2/40/TAJ-3165264.pdf",
+    "assets": {
+        "blendfile": false,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "kemet-b",
+    "symbolId": "c-10u-kemet-b",
+    "footprintId": "kemet-b",
+    "manufacturerId": "avx",
+    "tagIds": [
+        "1210",
+        "smt",
+        "capacitor",
+        "passive",
+        "tantalum"
+    ]
+}

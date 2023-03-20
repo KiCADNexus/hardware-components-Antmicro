@@ -1,0 +1,1 @@
+Logic IC, AND Gate, Single, 2 Inputs, 5 Pins, SOT-353, 74LVC1G08

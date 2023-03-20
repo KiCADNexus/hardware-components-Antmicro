@@ -1,0 +1,26 @@
+{
+    "id": "texas-instruments-tps56c230rjer",
+    "reference": "U",
+    "mpn": "TPS56C230RJER",
+    "category": "IC",
+    "type": "DC/DC converter",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": false,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "qfn-20-ep-3x3-pitch0-45mm",
+    "symbolId": "tps56c230",
+    "footprintId": "qfn-20-ep-3x3-pitch0-45mm",
+    "manufacturerId": "texas-instruments",
+    "tagIds": [
+        "smt",
+        "pmic",
+        "ic",
+        "switching",
+        "voltage",
+        "regulator",
+        "dc-dc"
+    ]
+}

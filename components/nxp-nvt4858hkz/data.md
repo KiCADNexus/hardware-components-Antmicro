@@ -1,0 +1,1 @@
+Level Translator, 4 Input, 1.08 V to 1.98 V, xQFN-16

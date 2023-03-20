@@ -1,0 +1,22 @@
+{
+    "id": "diodes-incorporated-dmhc3025lsd-13",
+    "reference": "Q",
+    "mpn": "DMHC3025LSD-13",
+    "category": "Semiconductor",
+    "type": "Dual MOSFET, Complementary N and P Channel, 30 V, 30 V, 6 A, 6 A, 0.019 ohm",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": false,
+        "footprint": true
+    },
+    "blendfileId": "soic-8-1ep-3-9x4-9x1-75mm-p1-27mm",
+    "symbolId": "dmhc3025lsd-13",
+    "footprintId": "soic-8-1ep-3-9x4-9x1-75mm-p1-27mm",
+    "manufacturerId": "diodes-incorporated",
+    "tagIds": [
+        "smt",
+        "mosfet",
+        "semiconductor"
+    ]
+}

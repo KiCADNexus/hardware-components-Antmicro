@@ -1,0 +1,1 @@
+Flip-Flop, Non Inverted, Positive Edge, 74LVC1G175, D, 300 MHz, 50 mA, SC-74

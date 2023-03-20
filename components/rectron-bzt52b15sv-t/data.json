@@ -1,0 +1,23 @@
+{
+    "id": "rectron-bzt52b15sv-t",
+    "reference": "D",
+    "mpn": "BZT52B15SV-T",
+    "category": "Semiconductor",
+    "type": "Zener diode",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": false,
+        "footprint": false
+    },
+    "blendfileId": "sod-323",
+    "symbolId": "bzt52b15sv-t",
+    "footprintId": "sod-323",
+    "manufacturerId": "rectron",
+    "tagIds": [
+        "smt",
+        "diode",
+        "semiconductor",
+        "zener"
+    ]
+}

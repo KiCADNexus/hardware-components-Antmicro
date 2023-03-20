@@ -1,0 +1,24 @@
+{
+    "id": "diodes-incorporated-1n5819hw-7-f",
+    "reference": "D",
+    "mpn": "1N5819HW-7-F",
+    "category": "Semiconductor",
+    "type": "Schottky Rectifier, 40 V, 1 A, Single, SOD-123, 2 Pins, 750 mV",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": true,
+        "footprint": false
+    },
+    "blendfileId": "d-sod-123f",
+    "symbolId": "1n5819hw-7-f",
+    "footprintId": "d-sod-123f",
+    "manufacturerId": "diodes-incorporated",
+    "tagIds": [
+        "smt",
+        "rectifier",
+        "semiconductor",
+        "diode",
+        "schottky"
+    ]
+}

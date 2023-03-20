@@ -1,0 +1,23 @@
+{
+    "id": "quicklogic-eos3ff512-wrn42",
+    "reference": "U",
+    "mpn": "EOS3FF512-WRN42",
+    "category": "IC",
+    "type": "BGA chip",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": false,
+        "symbol": false,
+        "footprint": false
+    },
+    "blendfileId": "42-wlcsp",
+    "symbolId": "eos-s3",
+    "footprintId": "42-wlcsp",
+    "manufacturerId": "quicklogic",
+    "tagIds": [
+        "smt",
+        "soc",
+        "ic",
+        "fpga"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "id": "diodes-incorporated-ap7330-w5-7",
+    "reference": "U",
+    "mpn": "AP7330-W5-7",
+    "category": "IC",
+    "type": "Voltage regulator",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "sot-23-5",
+    "symbolId": "ap7330-w5-7",
+    "footprintId": "sot-23-5",
+    "manufacturerId": "diodes-incorporated",
+    "tagIds": [
+        "smt",
+        "pmic",
+        "ic",
+        "voltage",
+        "ldo"
+    ]
+}

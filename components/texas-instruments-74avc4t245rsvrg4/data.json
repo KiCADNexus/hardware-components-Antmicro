@@ -1,0 +1,23 @@
+{
+    "id": "texas-instruments-74avc4t245rsvrg4",
+    "reference": "U",
+    "mpn": "74AVC4T245RSVRG4",
+    "category": "IC",
+    "type": "Logic translator/level shifter",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "uqfn-16-1-8x2-6mm-p0-4mm-texas-rsv0016a",
+    "symbolId": "74avc4t245-uqfn",
+    "footprintId": "uqfn-16-1-8x2-6mm-p0-4mm-texas-rsv0016a",
+    "manufacturerId": "texas-instruments",
+    "tagIds": [
+        "smt",
+        "logic",
+        "ic",
+        "level-shifter"
+    ]
+}

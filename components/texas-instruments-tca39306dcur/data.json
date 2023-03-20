@@ -1,0 +1,24 @@
+{
+    "id": "texas-instruments-tca39306dcur",
+    "reference": "U",
+    "mpn": "TCA39306DCUR",
+    "category": "IC",
+    "type": "Logic translator/level shifter",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": true,
+        "footprint": false
+    },
+    "blendfileId": "vssop-8",
+    "symbolId": "tca39306-vssop",
+    "footprintId": "vssop-8",
+    "manufacturerId": "texas-instruments",
+    "tagIds": [
+        "smt",
+        "logic",
+        "ic",
+        "level-shifter",
+        "voltage"
+    ]
+}

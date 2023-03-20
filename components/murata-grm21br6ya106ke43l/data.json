@@ -1,0 +1,23 @@
+{
+    "id": "murata-grm21br6ya106ke43l",
+    "reference": "C",
+    "mpn": "GRM21BR6YA106KE43L",
+    "category": "Passive",
+    "type": "SMT capacitor",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "c-0805-2012metric",
+    "symbolId": "c-10u-0805-35v",
+    "footprintId": "c-0805-2012metric",
+    "manufacturerId": "murata",
+    "tagIds": [
+        "0805",
+        "smt",
+        "capacitor",
+        "passive"
+    ]
+}

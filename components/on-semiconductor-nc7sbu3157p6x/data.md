@@ -1,0 +1,1 @@
+Analogue Switch, 1 Channels, SPDT, 15 ohm, 1.65V to 5.5V, SC-70, 6 Pins

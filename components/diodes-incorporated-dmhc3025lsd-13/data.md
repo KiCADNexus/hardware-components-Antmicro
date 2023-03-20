@@ -1,0 +1,1 @@
+Dual MOSFET, Complementary N and P Channel, 30 V, 30 V, 6 A, 6 A, 0.019 ohm

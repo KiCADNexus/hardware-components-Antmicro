@@ -1,0 +1,22 @@
+{
+    "id": "vishay-crcw20100000z0ef",
+    "reference": "R",
+    "mpn": "CRCW20100000Z0EF",
+    "category": "Passive",
+    "type": "SMT resistor",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "r-2010-5025metric",
+    "symbolId": "r-0r-2010",
+    "footprintId": "r-2010-5025metric",
+    "manufacturerId": "vishay",
+    "tagIds": [
+        "smt",
+        "resistor",
+        "passive"
+    ]
+}

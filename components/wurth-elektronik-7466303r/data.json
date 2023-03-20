@@ -1,0 +1,23 @@
+{
+    "id": "wurth-elektronik-7466303r",
+    "reference": "J",
+    "mpn": "7466303R",
+    "category": "Connector",
+    "type": "PCB Terminal, 90\u00b0 SMT Block, Brass, Tin, REDCUBE WP-SMRA",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": false,
+        "symbol": false,
+        "footprint": false
+    },
+    "blendfileId": "7466303r",
+    "symbolId": "7466303r",
+    "footprintId": "7466303r",
+    "manufacturerId": "wurth-elektronik",
+    "tagIds": [
+        "horizontal",
+        "smt",
+        "wire-board",
+        "connector"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "id": "te-connectivity-1-2199230-6",
+    "reference": "J",
+    "mpn": "1-2199230-6",
+    "category": "Connector",
+    "type": "PC connector",
+    "datasheetUrl": "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F2199230%7FB3%7Fpdf%7FEnglish%7FENG_CD_2199230_B3.pdf%7F1-2199230-6",
+    "assets": {
+        "blendfile": false,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "1-2199230-6",
+    "symbolId": "bus-m-2-0-5p-1-2199230-6",
+    "footprintId": "1-2199230-6",
+    "manufacturerId": "te-connectivity",
+    "tagIds": [
+        "connector"
+    ]
+}

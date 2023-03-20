@@ -1,0 +1,1 @@
+Logic IC, Inverter, Single, 1 Inputs, 5 Pins, TSSOP, 74LVC1G14

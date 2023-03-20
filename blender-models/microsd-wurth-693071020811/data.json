@@ -1,0 +1,12 @@
+{
+    "id": "microsd-wurth-693071020811",
+    "blendfile": "MicroSD_Wurth_693071020811.blend",
+    "previews": [
+        {
+            "id": "iso-front",
+            "description": "Render in iso-front view",
+            "fileName": "isoF.webp",
+            "animations": {}
+        }
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "id": "pulse-electronics-h6096nl",
+    "reference": "L",
+    "mpn": "H6096NL",
+    "category": "Passive",
+    "type": "Interface driver/receiver/transceiver",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": false,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "soic127p1594x685-24n",
+    "symbolId": "h6096nl",
+    "footprintId": "soic127p1594x685-24n",
+    "manufacturerId": "pulse-electronics",
+    "tagIds": [
+        "passive"
+    ]
+}

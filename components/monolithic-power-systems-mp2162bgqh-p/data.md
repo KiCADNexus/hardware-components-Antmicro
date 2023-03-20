@@ -1,0 +1,1 @@
+DC-DC Switching Synchronous Buck Regulator, 2.5V-6V in, 600mV to 6V out, 2A, 1.5MHz, QFN-8

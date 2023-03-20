@@ -1,0 +1,1 @@
+Power Inductor (SMT), 3.3 µH, 4.1 A, Shielded, 8.4 A, WE-LHMI

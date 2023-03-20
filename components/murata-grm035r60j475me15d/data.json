@@ -1,0 +1,23 @@
+{
+    "id": "murata-grm035r60j475me15d",
+    "reference": "C",
+    "mpn": "GRM035R60J475ME15D",
+    "category": "Passive",
+    "type": "SMT capacitor",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": false,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "c-0201",
+    "symbolId": "c-4u7-0201",
+    "footprintId": "c-0201",
+    "manufacturerId": "murata",
+    "tagIds": [
+        "0201",
+        "smt",
+        "capacitor",
+        "passive"
+    ]
+}

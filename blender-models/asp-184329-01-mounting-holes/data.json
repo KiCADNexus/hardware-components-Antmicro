@@ -1,0 +1,12 @@
+{
+    "id": "asp-184329-01-mounting-holes",
+    "blendfile": "ASP-184329-01_mounting_holes.blend",
+    "previews": [
+        {
+            "id": "iso-front",
+            "description": "Render in iso-front view",
+            "fileName": "isoF.webp",
+            "animations": {}
+        }
+    ]
+}

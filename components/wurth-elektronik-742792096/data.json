@@ -1,0 +1,23 @@
+{
+    "id": "wurth-elektronik-742792096",
+    "reference": "FB",
+    "mpn": "742792096",
+    "category": "Passive",
+    "type": "Ferrite Bead, 0805 [2012 Metric], 1 kohm, 1 A, WE-CBF, 0.3 ohm, \u00b1 25%",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": false,
+        "footprint": true
+    },
+    "blendfileId": "fb-0805-2012metric",
+    "symbolId": "742792096",
+    "footprintId": "fb-0805-2012metric",
+    "manufacturerId": "wurth-elektronik",
+    "tagIds": [
+        "0805",
+        "smt",
+        "ferrite-bead",
+        "passive"
+    ]
+}

@@ -1,0 +1,1 @@
+Buffer, 74AUP1G17, 0.8 V to 3.6 V, TSSOP-5

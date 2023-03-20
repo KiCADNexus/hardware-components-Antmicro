@@ -1,0 +1,25 @@
+{
+    "id": "murata-grm21br61h225ka73l",
+    "reference": "C",
+    "mpn": "GRM21BR61H225KA73L",
+    "category": "Passive",
+    "type": "SMT capacitor",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "c-0805-2012metric",
+    "symbolId": "c-2u2-0805",
+    "footprintId": "c-0805-2012metric",
+    "manufacturerId": "murata",
+    "tagIds": [
+        "0805",
+        "smt",
+        "capacitor",
+        "passive",
+        "ceramic",
+        "mlcc"
+    ]
+}

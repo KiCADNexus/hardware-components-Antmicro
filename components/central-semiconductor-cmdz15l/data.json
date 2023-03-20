@@ -1,0 +1,22 @@
+{
+    "id": "central-semiconductor-cmdz15l",
+    "reference": "Z",
+    "mpn": "CMDZ15L",
+    "category": "Passive",
+    "type": "Zener diode",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": false,
+        "footprint": false
+    },
+    "blendfileId": "sod-323",
+    "symbolId": "cmdz15l",
+    "footprintId": "sod-323",
+    "manufacturerId": "central-semiconductor",
+    "tagIds": [
+        "smt",
+        "diode",
+        "semiconductor"
+    ]
+}

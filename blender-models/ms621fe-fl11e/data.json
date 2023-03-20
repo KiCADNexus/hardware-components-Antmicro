@@ -1,0 +1,12 @@
+{
+    "id": "ms621fe-fl11e",
+    "blendfile": "MS621FE-FL11E.blend",
+    "previews": [
+        {
+            "id": "iso-front",
+            "description": "Render in iso-front view",
+            "fileName": "isoF.webp",
+            "animations": {}
+        }
+    ]
+}

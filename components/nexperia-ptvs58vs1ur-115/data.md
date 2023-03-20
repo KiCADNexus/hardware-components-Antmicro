@@ -1,0 +1,1 @@
+TVS Diode, PTVS5, Unidirectional, 58 V, 93.6 V, SOD-123, 2 Pins

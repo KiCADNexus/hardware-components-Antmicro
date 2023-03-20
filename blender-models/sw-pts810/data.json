@@ -1,0 +1,12 @@
+{
+    "id": "sw-pts810",
+    "blendfile": "SW_PTS810.blend",
+    "previews": [
+        {
+            "id": "iso-front",
+            "description": "Render in iso-front view",
+            "fileName": "isoF.webp",
+            "animations": {}
+        }
+    ]
+}

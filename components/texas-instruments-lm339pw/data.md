@@ -1,0 +1,1 @@
+Analogue Comparator, Differential, 4 Comparators, 300 ns, 2V to 36V, TSSOP, 14 Pins

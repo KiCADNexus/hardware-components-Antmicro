@@ -1,0 +1,23 @@
+{
+    "id": "yageo-rl1206fr-7w0r01l",
+    "reference": "R",
+    "mpn": "RL1206FR-7W0R01L",
+    "category": "Passive",
+    "type": "SMT resistor",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "r-1206-3216metric",
+    "symbolId": "r-0r01-1206",
+    "footprintId": "r-1206-3216metric",
+    "manufacturerId": "yageo",
+    "tagIds": [
+        "0402",
+        "smt",
+        "resistor",
+        "passive"
+    ]
+}

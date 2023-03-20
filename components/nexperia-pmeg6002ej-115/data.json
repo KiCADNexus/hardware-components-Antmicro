@@ -1,0 +1,24 @@
+{
+    "id": "nexperia-pmeg6002ej-115",
+    "reference": "D",
+    "mpn": "PMEG6002EJ,115",
+    "category": "Semiconductor",
+    "type": "Schottky Rectifier, Low VF, 60 V, 200 mA, Single, SOD-323F, 2 Pins, 600 mV",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "d-sod-323f",
+    "symbolId": "pmeg6002ej-115",
+    "footprintId": "d-sod-323f",
+    "manufacturerId": "nexperia",
+    "tagIds": [
+        "smt",
+        "diode",
+        "semiconductor",
+        "rectifier",
+        "schottky"
+    ]
+}

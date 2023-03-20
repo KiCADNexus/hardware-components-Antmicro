@@ -1,0 +1,23 @@
+{
+    "id": "xilinx-xc7a100t-fgg484",
+    "reference": "U",
+    "mpn": "XC7A100T-FGG484",
+    "category": "IC",
+    "type": "Microcontroller",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": false,
+        "symbol": true,
+        "footprint": false
+    },
+    "blendfileId": "xilinx-fgg484",
+    "symbolId": "xc7a100t-fgg484",
+    "footprintId": "xilinx-fgg484",
+    "manufacturerId": "xilinx",
+    "tagIds": [
+        "smt",
+        "microcontroller",
+        "ic",
+        "fpga"
+    ]
+}

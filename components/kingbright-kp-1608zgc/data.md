@@ -1,0 +1,1 @@
+LED, Low Power, Green, SMT, 0603, 20 mA, 3.3 V, 525 nm

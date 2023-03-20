@@ -1,0 +1,25 @@
+{
+    "id": "murata-grm155r61h104ke14d",
+    "reference": "C",
+    "mpn": "GRM155R61H104KE14D",
+    "category": "Passive",
+    "type": "SMT capacitor",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "c-0402-1005metric",
+    "symbolId": "c-100n-0402",
+    "footprintId": "c-0402-1005metric",
+    "manufacturerId": "murata",
+    "tagIds": [
+        "0402",
+        "smt",
+        "capacitor",
+        "passive",
+        "ceramic",
+        "mlcc"
+    ]
+}

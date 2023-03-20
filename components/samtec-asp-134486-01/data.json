@@ -1,0 +1,20 @@
+{
+    "id": "samtec-asp-134486-01",
+    "reference": "J",
+    "mpn": "ASP-134486-01",
+    "category": "Connector",
+    "type": "Mezzanine Connector, Vita 57 XMC, Array, Female, 1.27 mm, 10 Rows, 400 Contacts, Surface Mount",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": false,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "fmc-samtec-asp-134486-01",
+    "symbolId": "asp-134486-01",
+    "footprintId": "fmc-samtec-asp-134486-01",
+    "manufacturerId": "samtec",
+    "tagIds": [
+        "connector"
+    ]
+}

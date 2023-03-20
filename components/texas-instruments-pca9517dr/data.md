@@ -1,0 +1,1 @@
+Specialized Interface, I2C, SMBus, I2C Bus & SMBus Systems Applications, 2.7 V, 5.5 V, SOIC, 8 Pins

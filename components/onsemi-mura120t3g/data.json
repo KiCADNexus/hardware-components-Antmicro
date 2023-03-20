@@ -1,0 +1,20 @@
+{
+    "id": "onsemi-mura120t3g",
+    "reference": "D",
+    "mpn": "MURA120T3G",
+    "category": "Semiconductor",
+    "type": "Fast / Ultrafast Diode, 200 V, 1 A, Single, 875 mV, 35 ns, 40 A",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": false,
+        "footprint": true
+    },
+    "blendfileId": "do-214ac",
+    "symbolId": "mura120t3g",
+    "footprintId": "do-214ac",
+    "manufacturerId": "onsemi",
+    "tagIds": [
+        "semiconductor"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "id": "multicomp-pro-mc00625w0402180r6",
+    "reference": "R",
+    "mpn": "MC00625W0402180R6",
+    "category": "Passive",
+    "type": "SMT resistor",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": false,
+        "symbol": true,
+        "footprint": false
+    },
+    "blendfileId": "0402-res-eia",
+    "symbolId": "r-80r6-0402-eia",
+    "footprintId": "0402-res-eia",
+    "manufacturerId": "multicomp-pro",
+    "tagIds": [
+        "0402",
+        "smt",
+        "resistor",
+        "passive"
+    ]
+}

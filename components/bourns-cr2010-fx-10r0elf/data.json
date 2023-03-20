@@ -1,0 +1,22 @@
+{
+    "id": "bourns-cr2010-fx-10r0elf",
+    "reference": "R",
+    "mpn": "CR2010-FX-10R0ELF",
+    "category": "Passive",
+    "type": "SMT resistor",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "r-2010-5025metric",
+    "symbolId": "r-10r-2010",
+    "footprintId": "r-2010-5025metric",
+    "manufacturerId": "bourns",
+    "tagIds": [
+        "smt",
+        "resistor",
+        "passive"
+    ]
+}

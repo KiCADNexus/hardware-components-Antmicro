@@ -1,0 +1,22 @@
+{
+    "id": "vishay-ihlp1212aeerr47m11",
+    "reference": "L",
+    "mpn": "IHLP1212AEERR47M11",
+    "category": "Passive",
+    "type": "Power Inductor (SMT), 470 nH, 6.7 A, Shielded, 6.7 A",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": false,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "ihlp-1212ae",
+    "symbolId": "ihlp1212aeerr47m11",
+    "footprintId": "ihlp-1212ae",
+    "manufacturerId": "vishay",
+    "tagIds": [
+        "smt",
+        "inductor",
+        "passive"
+    ]
+}

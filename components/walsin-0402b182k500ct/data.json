@@ -1,0 +1,24 @@
+{
+    "id": "walsin-0402b182k500ct",
+    "reference": "C",
+    "mpn": "0402B182K500CT",
+    "category": "Passive",
+    "type": "SMT capacitor",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "c-0402-1005metric",
+    "symbolId": "c-1n8-0402",
+    "footprintId": "c-0402-1005metric",
+    "manufacturerId": "walsin",
+    "tagIds": [
+        "0402",
+        "smt",
+        "capacitor",
+        "passive",
+        "mlcc"
+    ]
+}

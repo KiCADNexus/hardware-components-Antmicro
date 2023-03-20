@@ -1,0 +1,1 @@
+Power Inductor (SMT), 680 nH, Shielded, DFE322512F

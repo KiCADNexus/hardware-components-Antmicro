@@ -1,0 +1,20 @@
+{
+    "id": "molex-5051101097",
+    "reference": "J",
+    "mpn": "5051101097",
+    "category": "Connector",
+    "type": "FFC connector",
+    "datasheetUrl": "https://www.molex.com/content/dam/molex/molex-dot-com/products/automated/en-us/salesdrawingpdf/505/505110/5051101097_sd.pdf?inline",
+    "assets": {
+        "blendfile": false,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "conn-ffc-molex-5051101097",
+    "symbolId": "conn-ffc-molex-5051101097",
+    "footprintId": "conn-ffc-molex-5051101097",
+    "manufacturerId": "molex",
+    "tagIds": [
+        "connector"
+    ]
+}

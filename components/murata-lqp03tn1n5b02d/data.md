@@ -1,0 +1,1 @@
+Thin Film Inductor, 1.5 nH, 0.15 ohm, 15 GHz, 600 mA, 0201 [0603 Metric], LQP03TN

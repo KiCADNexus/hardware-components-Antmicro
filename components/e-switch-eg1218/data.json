@@ -1,0 +1,24 @@
+{
+    "id": "e-switch-eg1218",
+    "reference": "SW",
+    "mpn": "EG1218",
+    "category": "Switch",
+    "type": "Slide switch",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": false,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "sw-slide-e-switch-eg1218",
+    "symbolId": "sw-eg1218",
+    "footprintId": "sw-slide-e-switch-eg1218",
+    "manufacturerId": "e-switch",
+    "tagIds": [
+        "vertical",
+        "smt",
+        "switch",
+        "mechanical",
+        "slide"
+    ]
+}

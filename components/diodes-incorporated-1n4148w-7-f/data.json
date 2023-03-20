@@ -1,0 +1,23 @@
+{
+    "id": "diodes-incorporated-1n4148w-7-f",
+    "reference": "D",
+    "mpn": "1N4148W-7-F",
+    "category": "Semiconductor",
+    "type": "Small Signal Diode, Single, 100 V, 300 mA, 1.25 V, 4 ns, 2 A",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": false,
+        "symbol": false,
+        "footprint": false
+    },
+    "blendfileId": "d-sod-123f",
+    "symbolId": "1n4148w-7-f",
+    "footprintId": "d-sod-123f",
+    "manufacturerId": "diodes-incorporated",
+    "tagIds": [
+        "smt",
+        "rectifier",
+        "semiconductor",
+        "diode"
+    ]
+}

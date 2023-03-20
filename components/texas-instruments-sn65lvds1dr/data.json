@@ -1,0 +1,23 @@
+{
+    "id": "texas-instruments-sn65lvds1dr",
+    "reference": "U",
+    "mpn": "SN65LVDS1DR",
+    "category": "IC",
+    "type": "Interface driver/receiver/transceiver",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "soic-8-1ep-3-9x4-9x1-75mm-p1-27mm",
+    "symbolId": "sn65lvds1-soic",
+    "footprintId": "soic-8-1ep-3-9x4-9x1-75mm-p1-27mm",
+    "manufacturerId": "texas-instruments",
+    "tagIds": [
+        "smt",
+        "interface",
+        "ic",
+        "lvds"
+    ]
+}

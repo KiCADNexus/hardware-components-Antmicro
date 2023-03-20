@@ -1,0 +1,23 @@
+{
+    "id": "samsung-electro-mechanics-cl32a107mqvnnne",
+    "reference": "C",
+    "mpn": "CL32A107MQVNNNE",
+    "category": "Passive",
+    "type": "SMT capacitor",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "c-1210-3225metric",
+    "symbolId": "c-100u-1210",
+    "footprintId": "c-1210-3225metric",
+    "manufacturerId": "samsung-electro-mechanics",
+    "tagIds": [
+        "1210",
+        "smt",
+        "capacitor",
+        "passive"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "id": "wurth-elektronik-7447798720",
+    "reference": "L",
+    "mpn": "7447798720",
+    "category": "Passive",
+    "type": "Power Inductor (SMT), 7.2 \u00b5H, 7.9 A, Shielded, 6 A, WE-PDF",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": false,
+        "footprint": false
+    },
+    "blendfileId": "l-4141-we-pdf",
+    "symbolId": "7447798720",
+    "footprintId": "l-4141-we-pdf",
+    "manufacturerId": "wurth-elektronik",
+    "tagIds": [
+        "smt",
+        "inductor",
+        "passive"
+    ]
+}

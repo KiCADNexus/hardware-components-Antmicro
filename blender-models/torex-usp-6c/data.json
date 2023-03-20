@@ -1,0 +1,12 @@
+{
+    "id": "torex-usp-6c",
+    "blendfile": "Torex_USP-6C.blend",
+    "previews": [
+        {
+            "id": "iso-front",
+            "description": "Render in iso-front view",
+            "fileName": "isoF.webp",
+            "animations": {}
+        }
+    ]
+}

@@ -1,0 +1,1 @@
+Flash Memory, Serial NOR, 32 Mbit, 4M x 8bit, SPI, SOIC, 8 Pins

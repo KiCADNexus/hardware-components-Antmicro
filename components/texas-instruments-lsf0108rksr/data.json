@@ -1,0 +1,24 @@
+{
+    "id": "texas-instruments-lsf0108rksr",
+    "reference": "U",
+    "mpn": "LSF0108RKSR",
+    "category": "IC",
+    "type": "Voltage Level Translator, 8 Input, 1.5 ns, 0 V to 5 V, VQFN-20",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": false,
+        "symbol": true,
+        "footprint": false
+    },
+    "blendfileId": "qfn50p450x250x100-21n",
+    "symbolId": "lsf0108rksr",
+    "footprintId": "qfn50p450x250x100-21n",
+    "manufacturerId": "texas-instruments",
+    "tagIds": [
+        "smt",
+        "logic",
+        "ic",
+        "level-shifter",
+        "voltage"
+    ]
+}

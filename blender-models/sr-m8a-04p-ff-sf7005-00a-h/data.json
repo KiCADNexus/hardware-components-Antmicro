@@ -1,0 +1,12 @@
+{
+    "id": "sr-m8a-04p-ff-sf7005-00a-h",
+    "blendfile": "SR-M8A-04P-FF-SF7005-00A_H_.blend",
+    "previews": [
+        {
+            "id": "iso-front",
+            "description": "Render in iso-front view",
+            "fileName": "isoF.webp",
+            "animations": {}
+        }
+    ]
+}

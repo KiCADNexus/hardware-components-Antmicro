@@ -1,0 +1,23 @@
+{
+    "id": "vishay-bzt52c18-g3-18",
+    "reference": "D",
+    "mpn": "BZT52C18-G3-18",
+    "category": "Semiconductor",
+    "type": "Zener diode",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": false,
+        "footprint": false
+    },
+    "blendfileId": "d-sod-123f",
+    "symbolId": "bzt52bxx",
+    "footprintId": "d-sod-123f",
+    "manufacturerId": "vishay",
+    "tagIds": [
+        "smt",
+        "diode",
+        "semiconductor",
+        "zener"
+    ]
+}

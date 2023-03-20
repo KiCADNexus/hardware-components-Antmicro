@@ -1,0 +1,1 @@
+Power Load Distribution Switch, High Side, Active Low, 1 Output, 2.665 A, 0.065 ohm, SOT-26-6

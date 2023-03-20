@@ -1,0 +1,23 @@
+{
+    "id": "nexperia-pdtc123ju-115",
+    "reference": "Q",
+    "mpn": "PDTC123JU,115",
+    "category": "Semiconductor",
+    "type": "Bipolar Pre-Biased / Digital Transistor, BRT, Single NPN, 50 V, 100 mA, 2.2 kohm, 47 kohm",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": false,
+        "footprint": true
+    },
+    "blendfileId": "sot-323",
+    "symbolId": "pdtc123ju-115",
+    "footprintId": "sot-323",
+    "manufacturerId": "nexperia",
+    "tagIds": [
+        "smt",
+        "transistor",
+        "semiconductor",
+        "bipolar"
+    ]
+}

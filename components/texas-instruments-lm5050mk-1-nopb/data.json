@@ -1,0 +1,23 @@
+{
+    "id": "texas-instruments-lm5050mk-1-nopb",
+    "reference": "Q",
+    "mpn": "LM5050MK-1/NOPB",
+    "category": "Semiconductor",
+    "type": "Ideal diode controller",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": false,
+        "footprint": true
+    },
+    "blendfileId": "sot-23-6",
+    "symbolId": "lm5050mk-1-nopb",
+    "footprintId": "sot-23-6",
+    "manufacturerId": "texas-instruments",
+    "tagIds": [
+        "smt",
+        "pmic",
+        "semiconductor",
+        "controller"
+    ]
+}

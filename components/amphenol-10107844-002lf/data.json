@@ -1,0 +1,22 @@
+{
+    "id": "amphenol-10107844-002lf",
+    "reference": "J",
+    "mpn": "10107844-002LF",
+    "category": "Connector",
+    "type": "CARD EDGE CONN, DUAL SIDE, 36PWR+24SIG",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": false,
+        "symbol": false,
+        "footprint": false
+    },
+    "blendfileId": "10107844-002lf",
+    "symbolId": "10107844-002lf",
+    "footprintId": "10107844-002lf",
+    "manufacturerId": "amphenol",
+    "tagIds": [
+        "horizontal",
+        "edge",
+        "connector"
+    ]
+}

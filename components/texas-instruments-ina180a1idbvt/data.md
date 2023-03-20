@@ -1,0 +1,1 @@
+Current Sense Amplifier, 1 Amplifier, 80 µA, SOT-23, 5 Pins, -40 °C, 125 °C

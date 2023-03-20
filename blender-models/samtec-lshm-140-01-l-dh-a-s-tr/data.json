@@ -1,0 +1,12 @@
+{
+    "id": "samtec-lshm-140-01-l-dh-a-s-tr",
+    "blendfile": "SAMTEC_LSHM-140-01-L-DH-A-S-TR.blend",
+    "previews": [
+        {
+            "id": "iso-front",
+            "description": "Render in iso-front view",
+            "fileName": "isoF.webp",
+            "animations": {}
+        }
+    ]
+}

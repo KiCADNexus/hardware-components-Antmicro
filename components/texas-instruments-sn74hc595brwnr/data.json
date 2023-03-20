@@ -1,0 +1,24 @@
+{
+    "id": "texas-instruments-sn74hc595brwnr",
+    "reference": "U",
+    "mpn": "SN74HC595BRWNR",
+    "category": "IC",
+    "type": "Shift Register, 74HC595, Serial to Parallel, 1 Element, 8 bit, X1QFN, 16 Pins",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": false,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "x1qfn-16-1ep-2-5x2-5mm",
+    "symbolId": "sn74hc595b",
+    "footprintId": "x1qfn-16-1ep-2-5x2-5mm",
+    "manufacturerId": "texas-instruments",
+    "tagIds": [
+        "smt",
+        "logic",
+        "ic",
+        "level-shifter",
+        "voltage"
+    ]
+}

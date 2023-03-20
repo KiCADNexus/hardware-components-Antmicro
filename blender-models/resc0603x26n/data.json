@@ -1,0 +1,12 @@
+{
+    "id": "resc0603x26n",
+    "blendfile": "RESC0603X26N.blend",
+    "previews": [
+        {
+            "id": "iso-front",
+            "description": "Render in iso-front view",
+            "fileName": "isoF.webp",
+            "animations": {}
+        }
+    ]
+}

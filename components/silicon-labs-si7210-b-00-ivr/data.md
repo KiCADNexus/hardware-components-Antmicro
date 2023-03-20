@@ -1,0 +1,1 @@
+Hall Effect Sensor, Magnetic Position and Temperature Sensor, SOT-23, 5 Pins, 1.71 V, 5.5 V

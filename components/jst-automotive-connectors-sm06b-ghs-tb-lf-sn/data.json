@@ -1,0 +1,25 @@
+{
+    "id": "jst-automotive-connectors-sm06b-ghs-tb-lf-sn",
+    "reference": "J",
+    "mpn": "SM06B-GHS-TB(LF)(SN)",
+    "category": "Connector",
+    "type": "Rectangular connector (header, male pins)",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": false,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "jst-sm06b-srss-tb-lf-sn",
+    "symbolId": "sm06b-ghs-tb-lf-sn",
+    "footprintId": "jst-sm06b-srss-tb-lf-sn",
+    "manufacturerId": "jst-automotive-connectors",
+    "tagIds": [
+        "horizontal",
+        "smt",
+        "wire-board",
+        "connector",
+        "male",
+        "header"
+    ]
+}

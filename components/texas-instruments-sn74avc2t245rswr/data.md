@@ -1,0 +1,1 @@
+Transceiver Non Inverting, AVC Family, 2 Input, 12 mA, 2.4 ns, 1.2 V to 3.6 V, LFCSP-10

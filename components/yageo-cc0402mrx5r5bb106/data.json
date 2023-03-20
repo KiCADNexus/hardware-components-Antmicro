@@ -1,0 +1,25 @@
+{
+    "id": "yageo-cc0402mrx5r5bb106",
+    "reference": "C",
+    "mpn": "CC0402MRX5R5BB106",
+    "category": "Passive",
+    "type": "SMT capacitor",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "c-0402-1005metric",
+    "symbolId": "c-10u-0402",
+    "footprintId": "c-0402-1005metric",
+    "manufacturerId": "yageo",
+    "tagIds": [
+        "0402",
+        "smt",
+        "capacitor",
+        "passive",
+        "mlcc",
+        "ceramic"
+    ]
+}

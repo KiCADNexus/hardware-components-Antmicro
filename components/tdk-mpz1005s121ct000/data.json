@@ -1,0 +1,23 @@
+{
+    "id": "tdk-mpz1005s121ct000",
+    "reference": "FB",
+    "mpn": "MPZ1005S121CT000",
+    "category": "Passive",
+    "type": "FERRITE BEAD, 0.09OHM, 1.2A, 0402, FULL REEL",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "fb-0402-1005metric",
+    "symbolId": "mpz1005s121ct000",
+    "footprintId": "fb-0402-1005metric",
+    "manufacturerId": "tdk",
+    "tagIds": [
+        "0402",
+        "smt",
+        "ferrite-bead",
+        "passive"
+    ]
+}

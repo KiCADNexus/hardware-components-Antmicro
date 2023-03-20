@@ -1,0 +1,12 @@
+{
+    "id": "qfn-56-1ep-8x8mm-p0-5mm",
+    "blendfile": "QFN-56-1EP_8x8mm_P0.5mm.blend",
+    "previews": [
+        {
+            "id": "iso-front",
+            "description": "Render in iso-front view",
+            "fileName": "isoF.webp",
+            "animations": {}
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "id": "texas-instruments-csd86330q3d",
+    "reference": "U",
+    "mpn": "CSD86330Q3D",
+    "category": "IC",
+    "type": "Dual MOSFET, N Channel, 25 V, 25 V, 20 A, 20 A, 4.6 ohm",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": false,
+        "symbol": false,
+        "footprint": false
+    },
+    "blendfileId": "csd86330q3d",
+    "symbolId": "csd86330q3d",
+    "footprintId": "csd86330q3d",
+    "manufacturerId": "texas-instruments",
+    "tagIds": [
+        "smt",
+        "transistor",
+        "ic",
+        "mosfet",
+        "array"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "id": "tdk-cga9n3x7s2a106k230kb",
+    "reference": "C",
+    "mpn": "CGA9N3X7S2A106K230KB",
+    "category": "Passive",
+    "type": "SMT capacitor",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "c-2220-5650metric",
+    "symbolId": "c-10u-2220-100v",
+    "footprintId": "c-2220-5650metric",
+    "manufacturerId": "tdk",
+    "tagIds": [
+        "smt",
+        "capacitor",
+        "passive"
+    ]
+}

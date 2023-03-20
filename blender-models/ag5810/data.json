@@ -1,0 +1,12 @@
+{
+    "id": "ag5810",
+    "blendfile": "Ag5810.blend",
+    "previews": [
+        {
+            "id": "iso-front",
+            "description": "Render in iso-front view",
+            "fileName": "isoF.webp",
+            "animations": {}
+        }
+    ]
+}

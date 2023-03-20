@@ -1,0 +1,26 @@
+{
+    "id": "texas-instruments-tps65295rjet",
+    "reference": "U",
+    "mpn": "TPS65295RJET",
+    "category": "IC",
+    "type": "DC/DC switching voltage regulator",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": false,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "tps65295rjet",
+    "symbolId": "tps65295rje",
+    "footprintId": "tps65295rjet",
+    "manufacturerId": "texas-instruments",
+    "tagIds": [
+        "smt",
+        "pmic",
+        "ic",
+        "switching",
+        "voltage",
+        "regulator",
+        "dc-dc"
+    ]
+}

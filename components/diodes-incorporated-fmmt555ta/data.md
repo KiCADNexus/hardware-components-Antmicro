@@ -1,0 +1,1 @@
+Bipolar (BJT) Single Transistor, PNP, 150 V, 100 mA, 500 mW, SOT-23, Surface Mount

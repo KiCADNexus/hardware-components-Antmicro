@@ -1,0 +1,23 @@
+{
+    "id": "nidec-components-cvs-03b",
+    "reference": "SW",
+    "mpn": "CVS-03B",
+    "category": "Switch",
+    "type": "Slide switch",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": false,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "sw-dip-spstx03-slide-copal-cvs-03xb-w5-9mm-p1mm",
+    "symbolId": "cvs-03b",
+    "footprintId": "sw-dip-spstx03-slide-copal-cvs-03xb-w5-9mm-p1mm",
+    "manufacturerId": "nidec-components",
+    "tagIds": [
+        "horizontal",
+        "smt",
+        "switch",
+        "mechanical"
+    ]
+}

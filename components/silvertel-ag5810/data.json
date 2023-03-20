@@ -1,0 +1,25 @@
+{
+    "id": "silvertel-ag5810",
+    "reference": "PS",
+    "mpn": "Ag5810",
+    "category": "PS",
+    "type": "DC/DC converter",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": false,
+        "symbol": false,
+        "footprint": false
+    },
+    "blendfileId": "ag5810",
+    "symbolId": "ag5810",
+    "footprintId": "ag5810",
+    "manufacturerId": "silvertel",
+    "tagIds": [
+        "tht",
+        "poe",
+        "module",
+        "power",
+        "converter",
+        "module"
+    ]
+}

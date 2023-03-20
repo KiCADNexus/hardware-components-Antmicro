@@ -1,0 +1,1 @@
+Level Translating I2C-Bus Repeater, 2 Inputs, 0.9 V to 5.5 V Supply, 50 mA Out, HWSON-8

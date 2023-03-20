@@ -1,0 +1,1 @@
+EEPROM, 2 Kbit, 256 x 8bit / 128 x 16bit, 2 MHz, DFN, 8 Pins

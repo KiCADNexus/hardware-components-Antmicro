@@ -1,0 +1,1 @@
+Oscillator, 24 MHz, 50 ppm, SMT, 5mm x 3.2mm, 3.3 V, 7C Series

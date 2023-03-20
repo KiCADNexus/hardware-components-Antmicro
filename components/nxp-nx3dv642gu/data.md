@@ -1,0 +1,1 @@
+Crosspoint Switch, Analogue, 2.65V to 4.3V Supply, XQFN-24

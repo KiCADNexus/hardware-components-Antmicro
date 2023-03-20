@@ -1,0 +1,24 @@
+{
+    "id": "semtech-srv05-4-tct",
+    "reference": "D",
+    "mpn": "SRV05-4.TCT",
+    "category": "Semiconductor",
+    "type": "TVS diode",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": false,
+        "footprint": true
+    },
+    "blendfileId": "sot-23-6",
+    "symbolId": "srv05-4-tct",
+    "footprintId": "sot-23-6",
+    "manufacturerId": "semtech",
+    "tagIds": [
+        "smt",
+        "diode",
+        "semiconductor",
+        "tvs",
+        "esd"
+    ]
+}

@@ -1,0 +1,1 @@
+DRAM, Mobile LPDDR4, 32 Gbit, 1G x 32bit, 2.133 GHz, WFBGA, 200 Pins

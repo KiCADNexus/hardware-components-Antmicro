@@ -1,0 +1,23 @@
+{
+    "id": "multicomp-pro-mcmr04x185-jtl",
+    "reference": "R",
+    "mpn": "MCMR04X185_JTL",
+    "category": "Passive",
+    "type": "SMT resistor",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "r-0402-1005metric",
+    "symbolId": "r-1m8-5-0402",
+    "footprintId": "r-0402-1005metric",
+    "manufacturerId": "multicomp-pro",
+    "tagIds": [
+        "0402",
+        "smt",
+        "resistor",
+        "passive"
+    ]
+}

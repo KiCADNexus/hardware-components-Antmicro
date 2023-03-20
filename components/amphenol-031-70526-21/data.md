@@ -1,0 +1,1 @@
+RF / Coaxial Connector, BNC Coaxial, Straight Bulkhead Jack, Board Edge / End Launch, 75 ohm

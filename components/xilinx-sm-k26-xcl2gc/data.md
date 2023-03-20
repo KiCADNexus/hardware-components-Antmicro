@@ -1,0 +1,1 @@
+Plug-In Module, XCK26-SFVC784-2LV-C, Kria SOM Carrier Card

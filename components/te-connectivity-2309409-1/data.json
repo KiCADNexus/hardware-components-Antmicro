@@ -1,0 +1,24 @@
+{
+    "id": "te-connectivity-2309409-1",
+    "reference": "J",
+    "mpn": "2309409-1",
+    "category": "Connector",
+    "type": "Memory Card Connector, DDR4, SODIMM, Cam-In Locking, 260 Contacts, Copper Alloy",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": false,
+        "symbol": false,
+        "footprint": false
+    },
+    "blendfileId": "te-2309409-1",
+    "symbolId": "2309409-1",
+    "footprintId": "te-2309409-1",
+    "manufacturerId": "te-connectivity",
+    "tagIds": [
+        "horizontal",
+        "smt",
+        "memory",
+        "connector",
+        "ddr"
+    ]
+}

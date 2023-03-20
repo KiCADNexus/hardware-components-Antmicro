@@ -1,0 +1,24 @@
+{
+    "id": "vishay-tmcma0j107mtrf",
+    "reference": "C",
+    "mpn": "TMCMA0J107MTRF",
+    "category": "Passive",
+    "type": "SMT capacitor",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "c-1206-3216metric",
+    "symbolId": "c-100u-1206",
+    "footprintId": "c-1206-3216metric",
+    "manufacturerId": "vishay",
+    "tagIds": [
+        "1206",
+        "smt",
+        "capacitor",
+        "passive",
+        "tantalum"
+    ]
+}

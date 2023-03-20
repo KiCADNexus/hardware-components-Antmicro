@@ -1,0 +1,24 @@
+{
+    "id": "nexperia-ptvs48vs1ur-115",
+    "reference": "D",
+    "mpn": "PTVS48VS1UR,115",
+    "category": "Semiconductor",
+    "type": "Rectifier diode",
+    "datasheetUrl": "https://www.mouser.pl/datasheet/2/916/PTVSXS1UR_SER-1545507.pdf",
+    "assets": {
+        "blendfile": true,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "sod-123f",
+    "symbolId": "ptvs48vs1ur",
+    "footprintId": "sod-123f",
+    "manufacturerId": "nexperia",
+    "tagIds": [
+        "smt",
+        "diode",
+        "semiconductor",
+        "tvs",
+        "esd"
+    ]
+}

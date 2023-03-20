@@ -1,0 +1,1 @@
+Mezzanine Connector, High Density Array, Male, 0.635 mm, 4 Rows, 240 Contacts, Surface Mount

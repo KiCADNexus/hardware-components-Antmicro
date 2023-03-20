@@ -1,0 +1,12 @@
+{
+    "id": "r-2010-5025metric",
+    "blendfile": "R_2010_5025Metric.blend",
+    "previews": [
+        {
+            "id": "iso-front",
+            "description": "Render in iso-front view",
+            "fileName": "isoF.webp",
+            "animations": {}
+        }
+    ]
+}

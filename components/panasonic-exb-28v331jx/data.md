@@ -1,0 +1,1 @@
+Fixed Network Resistor, 330 ohm, Isolated, 4 Resistors, 0804 [2010 Metric], Convex, ± 5%

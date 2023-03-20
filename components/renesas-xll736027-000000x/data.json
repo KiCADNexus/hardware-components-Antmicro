@@ -1,0 +1,23 @@
+{
+    "id": "renesas-xll736027-000000x",
+    "reference": "U",
+    "mpn": "XLL736027.000000X",
+    "category": "IC",
+    "type": "Oscillator",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": false,
+        "symbol": false,
+        "footprint": true
+    },
+    "blendfileId": "ju6-6-7x5mm-p2-54mm",
+    "symbolId": "oscillator-smt-27mhz-ju6",
+    "footprintId": "ju6-6-7x5mm-p2-54mm",
+    "manufacturerId": "renesas",
+    "tagIds": [
+        "smt",
+        "oscillator",
+        "ic",
+        "clock"
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "id": "samtec-qse-040-01-x-d-a",
+    "reference": "J",
+    "mpn": "QSE-040-01-X-D-A",
+    "category": "Connector",
+    "type": "Board-to-board connector",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": false,
+        "symbol": false,
+        "footprint": false
+    },
+    "blendfileId": "samtec-qse-040-01-x-d-a",
+    "symbolId": "qse-040-01-x-d-a",
+    "footprintId": "samtec-qse-040-01-x-d-a",
+    "manufacturerId": "samtec",
+    "tagIds": [
+        "connector"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "id": "texas-instruments-lm339pw",
+    "reference": "U",
+    "mpn": "LM339PW",
+    "category": "IC",
+    "type": "Analogue Comparator, Differential, 4 Comparators, 300 ns, 2V to 36V, TSSOP, 14 Pins",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "tssop-14-4-4x5mm-p0-65mm",
+    "symbolId": "lm339-tssop-split",
+    "footprintId": "tssop-14-4-4x5mm-p0-65mm",
+    "manufacturerId": "texas-instruments",
+    "tagIds": [
+        "smt",
+        "amp",
+        "ic"
+    ]
+}

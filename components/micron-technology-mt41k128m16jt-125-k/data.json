@@ -1,0 +1,22 @@
+{
+    "id": "micron-technology-mt41k128m16jt-125-k",
+    "reference": "U",
+    "mpn": "MT41K128M16JT-125:K",
+    "category": "IC",
+    "type": "SDRAM",
+    "datasheetUrl": "https://eu.mouser.com/datasheet/2/671/mict_s_a0002296722_1-2290882.pdf",
+    "assets": {
+        "blendfile": false,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "bga-96-48-8x14mm-layout16x9-p0-8mm",
+    "symbolId": "mt41k128m16jt-125-k",
+    "footprintId": "bga-96-48-8x14mm-layout16x9-p0-8mm",
+    "manufacturerId": "micron-technology",
+    "tagIds": [
+        "smt",
+        "dram",
+        "ic"
+    ]
+}

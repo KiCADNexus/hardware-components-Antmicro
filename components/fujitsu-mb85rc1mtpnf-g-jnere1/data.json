@@ -1,0 +1,23 @@
+{
+    "id": "fujitsu-mb85rc1mtpnf-g-jnere1",
+    "reference": "U",
+    "mpn": "MB85RC1MTPNF-G-JNERE1",
+    "category": "IC",
+    "type": "FRAM",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "soic-8-1ep-3-9x4-9x1-75mm-p1-27mm",
+    "symbolId": "mb85rc1mtpnf-g",
+    "footprintId": "soic-8-1ep-3-9x4-9x1-75mm-p1-27mm",
+    "manufacturerId": "fujitsu",
+    "tagIds": [
+        "smt",
+        "memory",
+        "ic",
+        "i2c"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "id": "nexperia-bc847w-115",
+    "reference": "Q",
+    "mpn": "BC847W,115",
+    "category": "Semiconductor",
+    "type": "Bipolar (BJT) Single Transistor, General Purpose, NPN, 45 V, 100 mA, 200 mW, SOT-323, Surface Mount",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": false,
+        "footprint": true
+    },
+    "blendfileId": "sot-323",
+    "symbolId": "bc847w",
+    "footprintId": "sot-323",
+    "manufacturerId": "nexperia",
+    "tagIds": [
+        "smt",
+        "transistor",
+        "semiconductor",
+        "bipolar",
+        "npn"
+    ]
+}

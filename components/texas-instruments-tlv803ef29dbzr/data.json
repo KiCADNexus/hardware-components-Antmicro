@@ -1,0 +1,24 @@
+{
+    "id": "texas-instruments-tlv803ef29dbzr",
+    "reference": "U",
+    "mpn": "TLV803EF29DBZR",
+    "category": "IC",
+    "type": "Power distribution switch/load driver",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": false,
+        "footprint": true
+    },
+    "blendfileId": "sot-23-3",
+    "symbolId": "tlv803ef29dbzr",
+    "footprintId": "sot-23-3",
+    "manufacturerId": "texas-instruments",
+    "tagIds": [
+        "smt",
+        "pmic",
+        "ic",
+        "switch",
+        "driver"
+    ]
+}

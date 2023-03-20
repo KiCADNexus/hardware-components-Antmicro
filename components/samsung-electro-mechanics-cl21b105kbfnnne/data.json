@@ -1,0 +1,25 @@
+{
+    "id": "samsung-electro-mechanics-cl21b105kbfnnne",
+    "reference": "C",
+    "mpn": "CL21B105KBFNNNE",
+    "category": "Passive",
+    "type": "SMT capacitor",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "c-0805-2012metric",
+    "symbolId": "c-1u-0805-50v",
+    "footprintId": "c-0805-2012metric",
+    "manufacturerId": "samsung-electro-mechanics",
+    "tagIds": [
+        "0805",
+        "smt",
+        "capacitor",
+        "passive",
+        "mlcc",
+        "ceramic"
+    ]
+}

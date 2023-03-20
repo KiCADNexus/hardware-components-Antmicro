@@ -1,0 +1,1 @@
+Power Inductor (SMT), 1.5 µH, 17 A, Shielded, 19.5 A, SRP6050CA

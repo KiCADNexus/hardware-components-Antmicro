@@ -1,0 +1,22 @@
+{
+    "id": "cypress-semiconductor-s25fl128lagnfa010",
+    "reference": "U",
+    "mpn": "S25FL128LAGNFA010",
+    "category": "IC",
+    "type": "Memory",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": false,
+        "footprint": true
+    },
+    "blendfileId": "wson-8-6x8x0-5mm-p1-27mm",
+    "symbolId": "s25fl128lagnfa010",
+    "footprintId": "wson-8-6x8x0-5mm-p1-27mm",
+    "manufacturerId": "cypress-semiconductor",
+    "tagIds": [
+        "smt",
+        "memory",
+        "ic"
+    ]
+}

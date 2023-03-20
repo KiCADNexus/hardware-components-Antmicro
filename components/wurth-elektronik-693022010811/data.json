@@ -1,0 +1,20 @@
+{
+    "id": "wurth-elektronik-693022010811",
+    "reference": "J",
+    "mpn": "693022010811",
+    "category": "Connector",
+    "type": null,
+    "datasheetUrl": "https://www.we-online.com/components/products/datasheet/693022010811.pdf",
+    "assets": {
+        "blendfile": false,
+        "symbol": true,
+        "footprint": false
+    },
+    "blendfileId": "693022010811",
+    "symbolId": "we-microsim-hinge-693022010811",
+    "footprintId": "693022010811",
+    "manufacturerId": "wurth-elektronik",
+    "tagIds": [
+        "connector"
+    ]
+}

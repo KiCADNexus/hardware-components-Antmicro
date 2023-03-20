@@ -1,0 +1,22 @@
+{
+    "id": "lattice-semiconductor-lif-md6000-6jmg80i",
+    "reference": "U",
+    "mpn": "LIF-MD6000-6JMG80I",
+    "category": "IC",
+    "type": "FPGA, CrossLink, PLL37 I/O, 400 MHz, 5936 Cells, 1.14 V to 1.26 V, CTFBGA-80",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": false,
+        "symbol": false,
+        "footprint": false
+    },
+    "blendfileId": "bga-80pin-ckfbga80-7-0x7-0mm",
+    "symbolId": "crosslink-lif-md6000-6jmg80i",
+    "footprintId": "bga-80pin-ckfbga80-7-0x7-0mm",
+    "manufacturerId": "lattice-semiconductor",
+    "tagIds": [
+        "smt",
+        "fpga",
+        "ic"
+    ]
+}

@@ -1,0 +1,1 @@
+SMT Chip Resistor, 100 kohm, ± 1%, 500 mW, 2010 [5025 Metric], Metal Film, High Voltage

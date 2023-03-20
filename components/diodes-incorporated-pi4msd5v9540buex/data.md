@@ -1,0 +1,1 @@
+Multiplexer, 2 Channels, 1:2, 1.65 V to 5.5 V, MSOP-8

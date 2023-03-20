@@ -1,0 +1,12 @@
+{
+    "id": "vml0806",
+    "blendfile": "VML0806.blend",
+    "previews": [
+        {
+            "id": "iso-front",
+            "description": "Render in iso-front view",
+            "fileName": "isoF.webp",
+            "animations": {}
+        }
+    ]
+}

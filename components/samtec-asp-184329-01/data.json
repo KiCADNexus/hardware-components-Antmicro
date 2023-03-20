@@ -1,0 +1,20 @@
+{
+    "id": "samtec-asp-184329-01",
+    "reference": "J",
+    "mpn": "ASP-184329-01",
+    "category": "Connector",
+    "type": "Mezzanine Connector, Array, Female, 1.27 mm, 14 Rows, 560 Contacts, Surface Mount",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "asp-184329-01-mounting-holes",
+    "symbolId": "asp-184329-01-mounting-holes",
+    "footprintId": "asp-184329-01-mounting-holes",
+    "manufacturerId": "samtec",
+    "tagIds": [
+        "connector"
+    ]
+}

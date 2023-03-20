@@ -1,0 +1,1 @@
+NAND Flash Serial e-MMC 64G-bit SanDisk iNAND 7250 Industrial

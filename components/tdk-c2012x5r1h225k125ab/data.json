@@ -1,0 +1,23 @@
+{
+    "id": "tdk-c2012x5r1h225k125ab",
+    "reference": "C",
+    "mpn": "C2012X5R1H225K125AB",
+    "category": "Passive",
+    "type": "SMT capacitor",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "c-0805-2012metric",
+    "symbolId": "c-2u2-0805-50v",
+    "footprintId": "c-0805-2012metric",
+    "manufacturerId": "tdk",
+    "tagIds": [
+        "0805",
+        "smt",
+        "capacitor",
+        "passive"
+    ]
+}

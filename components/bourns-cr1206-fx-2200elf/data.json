@@ -1,0 +1,23 @@
+{
+    "id": "bourns-cr1206-fx-2200elf",
+    "reference": "R",
+    "mpn": "CR1206-FX-2200ELF",
+    "category": "Passive",
+    "type": "RES, THICK FILM, 220R, 1%, 0.25W, 1206",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "r-1206-3216metric",
+    "symbolId": "r-220r-1206",
+    "footprintId": "r-1206-3216metric",
+    "manufacturerId": "bourns",
+    "tagIds": [
+        "1206",
+        "smt",
+        "resistor",
+        "passive"
+    ]
+}

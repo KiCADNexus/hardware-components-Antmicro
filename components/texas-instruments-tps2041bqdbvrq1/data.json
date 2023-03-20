@@ -1,0 +1,24 @@
+{
+    "id": "texas-instruments-tps2041bqdbvrq1",
+    "reference": "U",
+    "mpn": "TPS2041BQDBVRQ1",
+    "category": "IC",
+    "type": "Power distribution switch/load driver",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": false,
+        "footprint": true
+    },
+    "blendfileId": "sot-753",
+    "symbolId": "tps2041bqdbvrq1",
+    "footprintId": "sot-753",
+    "manufacturerId": "texas-instruments",
+    "tagIds": [
+        "smt",
+        "switch",
+        "ic",
+        "power",
+        "driver"
+    ]
+}

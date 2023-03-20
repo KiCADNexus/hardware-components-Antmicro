@@ -1,0 +1,1 @@
+Pin Header, Wire-to-Board, 1.27 mm, 2 Rows, 34 Contacts, Surface Mount Straight, WR-BHD Series

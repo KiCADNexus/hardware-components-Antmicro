@@ -1,0 +1,12 @@
+{
+    "id": "capc7343x400n",
+    "blendfile": "CAPC7343X400N.blend",
+    "previews": [
+        {
+            "id": "iso-front",
+            "description": "Render in iso-front view",
+            "fileName": "isoF.webp",
+            "animations": {}
+        }
+    ]
+}

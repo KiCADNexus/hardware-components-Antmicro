@@ -1,0 +1,12 @@
+{
+    "id": "jetson-orin-nx-nano-module",
+    "blendfile": "jetson-orin-nx-nano-module.blend",
+    "previews": [
+        {
+            "id": "iso-front",
+            "description": "Render in iso-front view",
+            "fileName": "isoF.webp",
+            "animations": {}
+        }
+    ]
+}

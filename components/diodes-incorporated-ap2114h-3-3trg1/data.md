@@ -1,0 +1,1 @@
+LDO, FIXED, 3.3V, 1A, -40 TO 85DEG C

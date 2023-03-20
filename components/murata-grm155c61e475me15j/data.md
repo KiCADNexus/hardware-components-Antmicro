@@ -1,0 +1,1 @@
+SMT ceramic capacitor

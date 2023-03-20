@@ -1,0 +1,24 @@
+{
+    "id": "switchcraft-pjran1x1u01x",
+    "reference": "J",
+    "mpn": "PJRAN1X1U01X",
+    "category": "Connector",
+    "type": "RCA connector",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": false,
+        "symbol": false,
+        "footprint": false
+    },
+    "blendfileId": "pjran1x1u01x",
+    "symbolId": "pjran1x1u01x",
+    "footprintId": "pjran1x1u01x",
+    "manufacturerId": "switchcraft",
+    "tagIds": [
+        "horizontal",
+        "tht",
+        "audio",
+        "connector",
+        "female"
+    ]
+}

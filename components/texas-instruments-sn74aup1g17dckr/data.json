@@ -1,0 +1,24 @@
+{
+    "id": "texas-instruments-sn74aup1g17dckr",
+    "reference": "U",
+    "mpn": "SN74AUP1G17DCKR",
+    "category": "IC",
+    "type": "Buffer, 74AUP1G17, 0.8 V to 3.6 V, TSSOP-5",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "sc-70-5",
+    "symbolId": "sn74aup1g17-sc70",
+    "footprintId": "sc-70-5",
+    "manufacturerId": "texas-instruments",
+    "tagIds": [
+        "smt",
+        "logic",
+        "ic",
+        "buffer",
+        "transceiver"
+    ]
+}

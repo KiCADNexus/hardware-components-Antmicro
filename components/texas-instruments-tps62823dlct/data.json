@@ -1,0 +1,26 @@
+{
+    "id": "texas-instruments-tps62823dlct",
+    "reference": "U",
+    "mpn": "TPS62823DLCT",
+    "category": "IC",
+    "type": "DC/DC converter",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "qfn-8-2x1mm",
+    "symbolId": "tps62823dlct",
+    "footprintId": "qfn-8-2x1mm",
+    "manufacturerId": "texas-instruments",
+    "tagIds": [
+        "smt",
+        "pmic",
+        "ic",
+        "switching",
+        "voltage",
+        "regulator",
+        "dc-dc"
+    ]
+}

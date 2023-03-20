@@ -1,0 +1,12 @@
+{
+    "id": "xdfn-2-1x0-60mm",
+    "blendfile": "XDFN-2_1x0.60mm.blend",
+    "previews": [
+        {
+            "id": "iso-front",
+            "description": "Render in iso-front view",
+            "fileName": "isoF.webp",
+            "animations": {}
+        }
+    ]
+}

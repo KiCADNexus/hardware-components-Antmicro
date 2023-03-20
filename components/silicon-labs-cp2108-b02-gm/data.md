@@ -1,0 +1,1 @@
+USB to Quad UART Bridge Controller 64-Pin QFN EP T/R

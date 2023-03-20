@@ -1,0 +1,24 @@
+{
+    "id": "maxim-integrated-products-ltc2943idd-pbf",
+    "reference": "U",
+    "mpn": "LTC2943IDD#PBF",
+    "category": "IC",
+    "type": "Battery manager",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": false,
+        "symbol": false,
+        "footprint": false
+    },
+    "blendfileId": "wfdfn-8-1ep-3x3mm",
+    "symbolId": "ltc2943idd-pbf",
+    "footprintId": "wfdfn-8-1ep-3x3mm",
+    "manufacturerId": "maxim-integrated-products",
+    "tagIds": [
+        "smt",
+        "pmic",
+        "ic",
+        "management",
+        "battery"
+    ]
+}

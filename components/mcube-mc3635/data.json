@@ -1,0 +1,22 @@
+{
+    "id": "mcube-mc3635",
+    "reference": "U",
+    "mpn": "MC3635",
+    "category": "IC",
+    "type": "AXIAL FAN, 17MM, 5VDC, 0.7CFM, 16DBA",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": false,
+        "symbol": false,
+        "footprint": false
+    },
+    "blendfileId": "mc3635",
+    "symbolId": "mc3635",
+    "footprintId": "mc3635",
+    "manufacturerId": "mcube",
+    "tagIds": [
+        "smt",
+        "sensor",
+        "ic"
+    ]
+}

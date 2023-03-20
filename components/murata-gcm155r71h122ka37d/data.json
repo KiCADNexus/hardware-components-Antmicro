@@ -1,0 +1,25 @@
+{
+    "id": "murata-gcm155r71h122ka37d",
+    "reference": "C",
+    "mpn": "GCM155R71H122KA37D",
+    "category": "Passive",
+    "type": "SMT capacitor",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "c-0402-1005metric",
+    "symbolId": "c-1n2-50v-0402",
+    "footprintId": "c-0402-1005metric",
+    "manufacturerId": "murata",
+    "tagIds": [
+        "0402",
+        "smt",
+        "capacitor",
+        "passive",
+        "ceramic",
+        "mlcc"
+    ]
+}

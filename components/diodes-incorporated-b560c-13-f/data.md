@@ -1,0 +1,1 @@
+Schottky Rectifier, 60 V, 5 A, Single, DO-214AB (SMC), 2 Pins, 700 mV

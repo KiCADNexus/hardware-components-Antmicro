@@ -1,0 +1,20 @@
+{
+    "id": "caravel-breakout-pcb",
+    "reference": "U",
+    "mpn": "Caravel_breakout_PCB",
+    "category": "IC",
+    "type": "Module",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": false,
+        "footprint": false
+    },
+    "blendfileId": "caravel-breakout",
+    "symbolId": "caravel-breakout-pcb",
+    "footprintId": "caravel-breakout",
+    "manufacturerId": "caravel",
+    "tagIds": [
+        "ic"
+    ]
+}

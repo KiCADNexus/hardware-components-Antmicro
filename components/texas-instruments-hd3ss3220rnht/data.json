@@ -1,0 +1,23 @@
+{
+    "id": "texas-instruments-hd3ss3220rnht",
+    "reference": "U",
+    "mpn": "HD3SS3220RNHT",
+    "category": "IC",
+    "type": "Interface controller",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": false,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "wqfn-30-1ep-4-6x2-6mm-p0-4mm",
+    "symbolId": "hd3ss3220rnh",
+    "footprintId": "wqfn-30-1ep-4-6x2-6mm-p0-4mm",
+    "manufacturerId": "texas-instruments",
+    "tagIds": [
+        "smt",
+        "controller",
+        "ic",
+        "interface"
+    ]
+}

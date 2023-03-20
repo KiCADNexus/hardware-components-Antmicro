@@ -1,0 +1,22 @@
+{
+    "id": "hirose-electric-u-fl-r-smt-10",
+    "reference": "J",
+    "mpn": "U.FL-R-SMT(10)",
+    "category": "Connector",
+    "type": "RF COAX CONN, U.FL JACK, PCB",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": false,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "coax-conn-u-fl",
+    "symbolId": "u-fl-r-smt-10",
+    "footprintId": "coax-conn-u-fl",
+    "manufacturerId": "hirose-electric",
+    "tagIds": [
+        "horizontal",
+        "smt",
+        "connector"
+    ]
+}

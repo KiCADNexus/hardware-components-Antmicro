@@ -1,0 +1,24 @@
+{
+    "id": "dialog-semiconductor-slg59m1457v",
+    "reference": "U",
+    "mpn": "SLG59M1457V",
+    "category": "IC",
+    "type": "Power distribution switch/load driver",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": false,
+        "symbol": false,
+        "footprint": false
+    },
+    "blendfileId": "renesas-tdfn-8-1-5x2-0mm-p0-5mm",
+    "symbolId": "slg59m1457v",
+    "footprintId": "renesas-tdfn-8-1-5x2-0mm-p0-5mm",
+    "manufacturerId": "dialog-semiconductor",
+    "tagIds": [
+        "smt",
+        "pmic",
+        "ic",
+        "driver",
+        "power"
+    ]
+}

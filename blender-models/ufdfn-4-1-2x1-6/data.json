@@ -1,0 +1,12 @@
+{
+    "id": "ufdfn-4-1-2x1-6",
+    "blendfile": "UFDFN-4_1.2x1.6.blend",
+    "previews": [
+        {
+            "id": "iso-front",
+            "description": "Render in iso-front view",
+            "fileName": "isoF.webp",
+            "animations": {}
+        }
+    ]
+}

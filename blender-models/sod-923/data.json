@@ -1,0 +1,12 @@
+{
+    "id": "sod-923",
+    "blendfile": "SOD-923.blend",
+    "previews": [
+        {
+            "id": "iso-front",
+            "description": "Render in iso-front view",
+            "fileName": "isoF.webp",
+            "animations": {}
+        }
+    ]
+}

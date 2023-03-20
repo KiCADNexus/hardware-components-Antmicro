@@ -1,0 +1,12 @@
+{
+    "id": "t4145035081-002",
+    "blendfile": "T4145035081-002.blend",
+    "previews": [
+        {
+            "id": "iso-front",
+            "description": "Render in iso-front view",
+            "fileName": "isoF.webp",
+            "animations": {}
+        }
+    ]
+}

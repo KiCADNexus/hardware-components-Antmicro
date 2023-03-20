@@ -1,0 +1,1 @@
+Power Inductor (SMT), 2.2 µH, 8 A, Shielded, 14 A, IHLP-2525CZ-01, 2525 [6363 Metric]

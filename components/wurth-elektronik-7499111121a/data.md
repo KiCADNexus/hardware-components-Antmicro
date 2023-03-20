@@ -1,0 +1,1 @@
+Modular Connector, RJ45 Jack, 1 x 1 (Port), 8P8C, Through Hole Mount

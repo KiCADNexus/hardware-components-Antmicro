@@ -1,0 +1,12 @@
+{
+    "id": "bm04b-srss-tb-lf-sn",
+    "blendfile": "BM04B-SRSS-TB-LF-SN.blend",
+    "previews": [
+        {
+            "id": "iso-front",
+            "description": "Render in iso-front view",
+            "fileName": "isoF.webp",
+            "animations": {}
+        }
+    ]
+}

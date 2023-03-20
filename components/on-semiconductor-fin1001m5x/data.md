@@ -1,0 +1,1 @@
+LVDS Driver, Differential Driver, -40 °C, 85 °C, 3 V, 3.6 V, SOT-23

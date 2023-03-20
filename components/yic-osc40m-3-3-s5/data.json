@@ -1,0 +1,22 @@
+{
+    "id": "yic-osc40m-3-3-s5",
+    "reference": "Y",
+    "mpn": "OSC40M-3.3/S5",
+    "category": "Oscillator",
+    "type": "Oscillator",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": false,
+        "symbol": false,
+        "footprint": true
+    },
+    "blendfileId": "osc-4-5-0x3-2mm",
+    "symbolId": "oscillator-smt-40mhz-osc-s5",
+    "footprintId": "osc-4-5-0x3-2mm",
+    "manufacturerId": "yic",
+    "tagIds": [
+        "smt",
+        "clock",
+        "oscillator"
+    ]
+}

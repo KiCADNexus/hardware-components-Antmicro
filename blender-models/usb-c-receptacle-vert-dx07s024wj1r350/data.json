@@ -1,0 +1,12 @@
+{
+    "id": "usb-c-receptacle-vert-dx07s024wj1r350",
+    "blendfile": "USB-C_Receptacle_Vert_DX07S024WJ1R350.blend",
+    "previews": [
+        {
+            "id": "iso-front",
+            "description": "Render in iso-front view",
+            "fileName": "isoF.webp",
+            "animations": {}
+        }
+    ]
+}

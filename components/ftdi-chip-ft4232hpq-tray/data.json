@@ -1,0 +1,27 @@
+{
+    "id": "ftdi-chip-ft4232hpq-tray",
+    "reference": "U",
+    "mpn": "FT4232HPQ-TRAY",
+    "category": "IC",
+    "type": "Interface controller",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": false,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "qfn-68-1ep-8x8mm-p0-4mm",
+    "symbolId": "ft4232hp-qfn",
+    "footprintId": "qfn-68-1ep-8x8mm-p0-4mm",
+    "manufacturerId": "ftdi-chip",
+    "tagIds": [
+        "smt",
+        "interface",
+        "ic",
+        "controller",
+        "usb",
+        "uart",
+        "i2c",
+        "spi"
+    ]
+}

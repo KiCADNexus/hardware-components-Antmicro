@@ -1,0 +1,26 @@
+{
+    "id": "analog-devices-ltc4358cde-pbf",
+    "reference": "U",
+    "mpn": "LTC4358CDE#PBF",
+    "category": "IC",
+    "type": "Ideal diode",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": false,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "dfn-14-1ep-4x3mm-p0-5mm",
+    "symbolId": "ltc4358cde",
+    "footprintId": "dfn-14-1ep-4x3mm-p0-5mm",
+    "manufacturerId": "analog-devices",
+    "tagIds": [
+        "smt",
+        "pmic",
+        "ic",
+        "power",
+        "management",
+        "diode",
+        "controller"
+    ]
+}

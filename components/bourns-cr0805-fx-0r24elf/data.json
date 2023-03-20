@@ -1,0 +1,23 @@
+{
+    "id": "bourns-cr0805-fx-0r24elf",
+    "reference": "R",
+    "mpn": "CR0805-FX-0R24ELF",
+    "category": "Passive",
+    "type": "SMT resistor",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": false,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "r-0805-2012metric",
+    "symbolId": "r-0r24-0805",
+    "footprintId": "r-0805-2012metric",
+    "manufacturerId": "bourns",
+    "tagIds": [
+        "0805",
+        "smt",
+        "resistor",
+        "passive"
+    ]
+}

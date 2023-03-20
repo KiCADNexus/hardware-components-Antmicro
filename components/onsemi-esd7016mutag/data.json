@@ -1,0 +1,20 @@
+{
+    "id": "onsemi-esd7016mutag",
+    "reference": "U12",
+    "mpn": "ESD7016MUTAG",
+    "category": "U12",
+    "type": "TVS diode",
+    "datasheetUrl": "https://www.onsemi.com/pdf/datasheet/esd7016-d.pdf",
+    "assets": {
+        "blendfile": false,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "udfn-8-3-3x1-0mm-p0-4",
+    "symbolId": "esd7016mutag",
+    "footprintId": "udfn-8-3-3x1-0mm-p0-4",
+    "manufacturerId": "onsemi",
+    "tagIds": [
+        "ic"
+    ]
+}

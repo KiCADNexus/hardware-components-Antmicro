@@ -1,0 +1,20 @@
+{
+    "id": "efabless-breakout",
+    "reference": "U",
+    "mpn": "Breakout",
+    "category": "IC",
+    "type": "Module",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": false,
+        "symbol": false,
+        "footprint": false
+    },
+    "blendfileId": "caravel-breakout",
+    "symbolId": "caravel-breakout",
+    "footprintId": "caravel-breakout",
+    "manufacturerId": "efabless",
+    "tagIds": [
+        "ic"
+    ]
+}

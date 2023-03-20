@@ -1,0 +1,1 @@
+Dual MOSFET, N Channel, 25 V, 25 V, 20 A, 20 A, 4.6 ohm

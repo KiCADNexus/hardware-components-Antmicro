@@ -1,0 +1,12 @@
+{
+    "id": "usb-c-female-e8124-015-01",
+    "blendfile": "USB-C_Female_E8124-015-01.blend",
+    "previews": [
+        {
+            "id": "iso-front",
+            "description": "Render in iso-front view",
+            "fileName": "isoF.webp",
+            "animations": {}
+        }
+    ]
+}

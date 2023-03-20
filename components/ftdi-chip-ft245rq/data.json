@@ -1,0 +1,24 @@
+{
+    "id": "ftdi-chip-ft245rq",
+    "reference": "U",
+    "mpn": "FT245RQ",
+    "category": "IC",
+    "type": "Interface Bridges, USB to FIFO, 1.8 V, 5.25 V, QFN, 32 Pins, -40 \u00b0C",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": false,
+        "footprint": true
+    },
+    "blendfileId": "qfn-32-1ep-5x5mm",
+    "symbolId": "ft245rq",
+    "footprintId": "qfn-32-1ep-5x5mm",
+    "manufacturerId": "ftdi-chip",
+    "tagIds": [
+        "smt",
+        "interface",
+        "ic",
+        "controller",
+        "usb"
+    ]
+}

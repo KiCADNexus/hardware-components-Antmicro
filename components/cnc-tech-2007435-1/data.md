@@ -1,0 +1,1 @@
+HDMI Connector, 19 Contacts, Jack, PCB Mount, Through Hole Right Angle, Gold Plated Contacts

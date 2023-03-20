@@ -1,0 +1,1 @@
+Pin Header, Board-to-Board, 2.54 mm, 1 Rows, 6 Contacts, Surface Mount Right Angle, TSM Series

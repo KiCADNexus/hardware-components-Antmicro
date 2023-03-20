@@ -1,0 +1,23 @@
+{
+    "id": "te-connectivity-2309413-1",
+    "reference": "A",
+    "mpn": "2309413-1",
+    "category": "Module",
+    "type": "SoM connector",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": true,
+        "footprint": false
+    },
+    "blendfileId": "jetson-nano-connector",
+    "symbolId": "jetson-nano-new-release",
+    "footprintId": "jetson-nano-connector",
+    "manufacturerId": "te-connectivity",
+    "tagIds": [
+        "smt",
+        "memory",
+        "module",
+        "ddr"
+    ]
+}

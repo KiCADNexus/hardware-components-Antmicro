@@ -1,0 +1,1 @@
+Pin Header, Square Pin, Signal, Wire-to-Board, 2.54 mm, 1 Rows, 4 Contacts, Through Hole Straight

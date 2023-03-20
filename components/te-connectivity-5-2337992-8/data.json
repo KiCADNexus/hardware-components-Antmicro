@@ -1,0 +1,25 @@
+{
+    "id": "te-connectivity-5-2337992-8",
+    "reference": "J",
+    "mpn": "5-2337992-8",
+    "category": "Connector",
+    "type": "Modular Connector, RJ45 Jack, 1 x 1 (Port), 8P8C, Cat5e, Through Hole Mount",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": false,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "rj45-5-2337992-8-horizontal",
+    "symbolId": "bus-rj45-5-2337992-8",
+    "footprintId": "rj45-5-2337992-8-horizontal",
+    "manufacturerId": "te-connectivity",
+    "tagIds": [
+        "rj45",
+        "horizontal",
+        "tht",
+        "ethernet",
+        "connector",
+        "female"
+    ]
+}

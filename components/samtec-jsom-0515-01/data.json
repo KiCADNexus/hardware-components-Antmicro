@@ -1,0 +1,20 @@
+{
+    "id": "samtec-jsom-0515-01",
+    "reference": "H",
+    "mpn": "JSOM-0515-01",
+    "category": "Hardware",
+    "type": "Mechanical part",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": false,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "spacer-m5mm-h4-65mm-samtec-jsom-0515-01",
+    "symbolId": "spacer-h5-15mm-jsom-0515-01",
+    "footprintId": "spacer-m5mm-h4-65mm-samtec-jsom-0515-01",
+    "manufacturerId": "samtec",
+    "tagIds": [
+        "spacer"
+    ]
+}

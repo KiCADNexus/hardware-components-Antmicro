@@ -1,0 +1,12 @@
+{
+    "id": "usb-micro-b-629105150921",
+    "blendfile": "USB-Micro-B_629105150921.blend",
+    "previews": [
+        {
+            "id": "iso-front",
+            "description": "Render in iso-front view",
+            "fileName": "isoF.webp",
+            "animations": {}
+        }
+    ]
+}

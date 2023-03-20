@@ -1,0 +1,22 @@
+{
+    "id": "micron-technology-mt60b2g8hb-48b-a",
+    "reference": "U",
+    "mpn": "MT60B2G8HB-48B:A",
+    "category": "IC",
+    "type": "DRAM, SDRAM, 16 Gbit, 2G x 8bit, FBGA, 82 Pins",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": false,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "bga-82-11x9mm-layout13x11-p0-8mm-ddr5-mo-210-an",
+    "symbolId": "mt60b2g8hb-48b-a",
+    "footprintId": "bga-82-11x9mm-layout13x11-p0-8mm-ddr5-mo-210-an",
+    "manufacturerId": "micron-technology",
+    "tagIds": [
+        "smt",
+        "dram",
+        "ic"
+    ]
+}

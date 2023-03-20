@@ -1,0 +1,1 @@
+MOSFET Controller Low Side, N-Channel, 2.97V-40V supply, 1A peak out, VSSOP-8

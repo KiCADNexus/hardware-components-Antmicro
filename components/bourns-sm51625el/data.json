@@ -1,0 +1,20 @@
+{
+    "id": "bourns-sm51625el",
+    "reference": "U",
+    "mpn": "SM51625EL",
+    "category": "IC",
+    "type": "Interface driver/receiver/transceiver",
+    "datasheetUrl": "https://www.mouser.pl/datasheet/2/54/sm51625el-934089.pdf",
+    "assets": {
+        "blendfile": false,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "t-sm51625el",
+    "symbolId": "sm51625el",
+    "footprintId": "t-sm51625el",
+    "manufacturerId": "bourns",
+    "tagIds": [
+        "ic"
+    ]
+}

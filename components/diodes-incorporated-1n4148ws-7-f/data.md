@@ -1,0 +1,1 @@
+Small Signal Diode, Single, 75 V, 150 mA, 1.25 V, 4 ns, 2 A

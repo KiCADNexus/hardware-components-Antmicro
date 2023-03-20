@@ -1,0 +1,1 @@
+LED, Blue, SMD, 1005, 5 mA, 3.15 V

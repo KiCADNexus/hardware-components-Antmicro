@@ -1,0 +1,25 @@
+{
+    "id": "texas-instruments-sn74lvc1g125dckr",
+    "reference": "U",
+    "mpn": "SN74LVC1G125DCKR",
+    "category": "IC",
+    "type": "Buffer, 1.65 V to 5.5 V, SOT-353-5",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "sot-353",
+    "symbolId": "sn74lvc1g125-sc70",
+    "footprintId": "sot-353",
+    "manufacturerId": "texas-instruments",
+    "tagIds": [
+        "smt",
+        "logic",
+        "ic",
+        "buffer",
+        "transceiver",
+        "driver"
+    ]
+}

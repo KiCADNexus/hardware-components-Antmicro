@@ -1,0 +1,24 @@
+{
+    "id": "c-k-pcm12smtr",
+    "reference": "SW",
+    "mpn": "PCM12SMTR",
+    "category": "Switch",
+    "type": "Slide switch",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": false,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "pcm12smtr",
+    "symbolId": "sw-spdt-pcm12smtr",
+    "footprintId": "pcm12smtr",
+    "manufacturerId": "c-k",
+    "tagIds": [
+        "vertical",
+        "smt",
+        "switch",
+        "switch",
+        "slide"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "id": "analog-devices-adv7282wbcpz-m",
+    "reference": "U",
+    "mpn": "ADV7282WBCPZ-M",
+    "category": "IC",
+    "type": "Video decoder",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "lfcsp-32-1ep-5x5mm",
+    "symbolId": "adv7282-m",
+    "footprintId": "lfcsp-32-1ep-5x5mm",
+    "manufacturerId": "analog-devices",
+    "tagIds": [
+        "smt",
+        "video",
+        "ic",
+        "decoder"
+    ]
+}

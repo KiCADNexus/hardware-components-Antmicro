@@ -1,0 +1,24 @@
+{
+    "id": "diptronics-mss3-v-t-r",
+    "reference": "SW",
+    "mpn": "MSS3-V-T/R",
+    "category": "Switch",
+    "type": "Slide switch",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": false,
+        "symbol": false,
+        "footprint": false
+    },
+    "blendfileId": "switch-slide-mss3",
+    "symbolId": "mss3-v-t-r",
+    "footprintId": "switch-slide-mss3",
+    "manufacturerId": "diptronics",
+    "tagIds": [
+        "horizontal",
+        "smt",
+        "switch",
+        "mechanical",
+        "slide"
+    ]
+}

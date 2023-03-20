@@ -1,0 +1,25 @@
+{
+    "id": "texas-instruments-pca9515adgkr",
+    "reference": "U",
+    "mpn": "PCA9515ADGKR",
+    "category": "IC",
+    "type": "Interface driver/receiver/transceiver",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": false,
+        "symbol": false,
+        "footprint": true
+    },
+    "blendfileId": "vssop-8-3x3mm-p0-65mm",
+    "symbolId": "pca9515adgkr",
+    "footprintId": "vssop-8-3x3mm-p0-65mm",
+    "manufacturerId": "texas-instruments",
+    "tagIds": [
+        "smt",
+        "interface",
+        "ic",
+        "transceiver",
+        "driver",
+        "buffer"
+    ]
+}

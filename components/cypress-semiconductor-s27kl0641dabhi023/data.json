@@ -1,0 +1,25 @@
+{
+    "id": "cypress-semiconductor-s27kl0641dabhi023",
+    "reference": "U",
+    "mpn": "S27KL0641DABHI023",
+    "category": "IC",
+    "type": "DRAM, HyperRAM, 64 Mbit, 8M x 8bit, 100 MHz, FBGA, 24 Pins",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": false,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "fbga-24-1-6x8mm-layout5x5-p1mm",
+    "symbolId": "s27kl0641dabhi023",
+    "footprintId": "fbga-24-1-6x8mm-layout5x5-p1mm",
+    "manufacturerId": "cypress-semiconductor",
+    "tagIds": [
+        "smt",
+        "memory",
+        "ic",
+        "dram",
+        "hyperbus",
+        "hyperram"
+    ]
+}

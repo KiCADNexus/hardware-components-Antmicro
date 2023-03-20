@@ -1,0 +1,23 @@
+{
+    "id": "texas-instruments-txu0104pwr",
+    "reference": "U",
+    "mpn": "TXU0104PWR",
+    "category": "IC",
+    "type": "Logic translator/level shifter",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": false,
+        "symbol": false,
+        "footprint": true
+    },
+    "blendfileId": "tssop-14-4-4x5mm-p0-65mm",
+    "symbolId": "txu0104pwr",
+    "footprintId": "tssop-14-4-4x5mm-p0-65mm",
+    "manufacturerId": "texas-instruments",
+    "tagIds": [
+        "smt",
+        "logic",
+        "ic",
+        "level-shifter"
+    ]
+}

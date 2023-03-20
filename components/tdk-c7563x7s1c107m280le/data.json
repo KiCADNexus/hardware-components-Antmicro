@@ -1,0 +1,22 @@
+{
+    "id": "tdk-c7563x7s1c107m280le",
+    "reference": "C",
+    "mpn": "C7563X7S1C107M280LE",
+    "category": "Passive",
+    "type": "SMT capacitor",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "c-2220-5650metric",
+    "symbolId": "c-47u-2220",
+    "footprintId": "c-2220-5650metric",
+    "manufacturerId": "tdk",
+    "tagIds": [
+        "smt",
+        "capacitor",
+        "passive"
+    ]
+}

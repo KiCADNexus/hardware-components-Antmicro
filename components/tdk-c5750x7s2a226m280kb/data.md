@@ -1,0 +1,1 @@
+SMT Multilayer Ceramic Capacitor, 22 µF, 100 V, 2220 [5750 Metric], ± 20%, X7S, C

@@ -1,0 +1,12 @@
+{
+    "id": "0895-2c1r-gvh",
+    "blendfile": "0895-2C1R-GVH.blend",
+    "previews": [
+        {
+            "id": "iso-front",
+            "description": "Render in iso-front view",
+            "fileName": "isoF.webp",
+            "animations": {}
+        }
+    ]
+}

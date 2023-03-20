@@ -1,0 +1,12 @@
+{
+    "id": "do-220aa",
+    "blendfile": "DO-220AA.blend",
+    "previews": [
+        {
+            "id": "iso-front",
+            "description": "Render in iso-front view",
+            "fileName": "isoF.webp",
+            "animations": {}
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "id": "diodes-incorporated-bzt52c12",
+    "reference": "D",
+    "mpn": "BZT52C12",
+    "category": "Semiconductor",
+    "type": "Zener diode",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": false,
+        "footprint": false
+    },
+    "blendfileId": "d-sod-123f",
+    "symbolId": "bzt52c12",
+    "footprintId": "d-sod-123f",
+    "manufacturerId": "diodes-incorporated",
+    "tagIds": [
+        "smt",
+        "diode",
+        "semiconductor",
+        "zener"
+    ]
+}

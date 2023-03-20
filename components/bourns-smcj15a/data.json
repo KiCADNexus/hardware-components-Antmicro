@@ -1,0 +1,24 @@
+{
+    "id": "bourns-smcj15a",
+    "reference": "D",
+    "mpn": "SMCJ15A",
+    "category": "Semiconductor",
+    "type": "TVS diode",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": false,
+        "footprint": false
+    },
+    "blendfileId": "do-214ab",
+    "symbolId": "smcj15a",
+    "footprintId": "do-214ab",
+    "manufacturerId": "bourns",
+    "tagIds": [
+        "smt",
+        "diode",
+        "semiconductor",
+        "tvs",
+        "esd"
+    ]
+}

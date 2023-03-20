@@ -1,0 +1,23 @@
+{
+    "id": "bourns-cr1206-fx-1002elf",
+    "reference": "R",
+    "mpn": "CR1206-FX-1002ELF",
+    "category": "Passive",
+    "type": "RES, THICK FILM, 10K, 1%, 0.25W, 1206, REEL",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "r-1206-3216metric",
+    "symbolId": "r-10k-1206",
+    "footprintId": "r-1206-3216metric",
+    "manufacturerId": "bourns",
+    "tagIds": [
+        "1206",
+        "smt",
+        "resistor",
+        "passive"
+    ]
+}

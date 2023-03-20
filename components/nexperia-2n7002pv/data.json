@@ -1,0 +1,24 @@
+{
+    "id": "nexperia-2n7002pv",
+    "reference": "Q",
+    "mpn": "2N7002PV",
+    "category": "Semiconductor",
+    "type": "Power MOSFET, N Channel, 60 V, 350 mA, 1 ohm, SOT-666, Surface Mount",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": false,
+        "footprint": true
+    },
+    "blendfileId": "sot-563",
+    "symbolId": "2n7002pv",
+    "footprintId": "sot-563",
+    "manufacturerId": "nexperia",
+    "tagIds": [
+        "smt",
+        "transistor",
+        "semiconductor",
+        "mosfet",
+        "nmos"
+    ]
+}

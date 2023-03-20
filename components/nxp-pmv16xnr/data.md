@@ -1,0 +1,1 @@
+Power MOSFET, N Channel, 20 V, 6.8 A, 0.016 ohm, TO-236AB, Surface Mount

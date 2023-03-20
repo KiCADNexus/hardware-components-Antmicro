@@ -1,0 +1,1 @@
+LED, Low Power, Red, SMT, 0603, 20 mA, 2 V, 617 nm

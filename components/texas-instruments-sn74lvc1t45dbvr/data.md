@@ -1,0 +1,1 @@
+Transceiver, Single Bit Dual Supply Bus, 74LVC1T45, 1.65V to 5.5V, SOT-23-6

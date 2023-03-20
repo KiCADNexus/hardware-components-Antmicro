@@ -1,0 +1,23 @@
+{
+    "id": "on-semiconductor-pca9517admr2g",
+    "reference": "U",
+    "mpn": "PCA9517ADMR2G",
+    "category": "IC",
+    "type": "LVL TRANSLATING I2C BUS REPEATER, MSOP-8",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "tssop-8-3x3mm-p0-65mm",
+    "symbolId": "pca9517a-tssop",
+    "footprintId": "tssop-8-3x3mm-p0-65mm",
+    "manufacturerId": "on-semiconductor",
+    "tagIds": [
+        "smt",
+        "logic",
+        "ic",
+        "level-shifter"
+    ]
+}

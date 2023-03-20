@@ -1,0 +1,1 @@
+Ferrite Bead, 0805 [2012 Metric], 30 ohm, 8.5 A, BLM21SN, 0.004 ohm, ± 10ohm

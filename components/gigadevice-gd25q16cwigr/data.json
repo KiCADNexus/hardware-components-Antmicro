@@ -1,0 +1,24 @@
+{
+    "id": "gigadevice-gd25q16cwigr",
+    "reference": "U",
+    "mpn": "GD25Q16CWIGR",
+    "category": "IC",
+    "type": "Memory",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": false,
+        "footprint": false
+    },
+    "blendfileId": "gd25q16cwig",
+    "symbolId": "gd25q16cwigr",
+    "footprintId": "gd25q16cwig",
+    "manufacturerId": "gigadevice",
+    "tagIds": [
+        "smt",
+        "memory",
+        "ic",
+        "spi",
+        "flash"
+    ]
+}

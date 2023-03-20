@@ -1,0 +1,12 @@
+{
+    "id": "microsd-amphenol-1140084168",
+    "blendfile": "MicroSD_Amphenol_1140084168.blend",
+    "previews": [
+        {
+            "id": "iso-front",
+            "description": "Render in iso-front view",
+            "fileName": "isoF.webp",
+            "animations": {}
+        }
+    ]
+}

@@ -1,0 +1,1 @@
+Transceiver RS422, RS485, 4.75V-5.25V supply, 1 Driver, NSOIC-8

@@ -1,0 +1,1 @@
+EEPROM, 1 Kbit, 128 x 8bit, Serial I2C (2-Wire), 1 MHz, SOIC-8

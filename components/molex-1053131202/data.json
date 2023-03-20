@@ -1,0 +1,22 @@
+{
+    "id": "molex-1053131202",
+    "reference": "J",
+    "mpn": "1053131202",
+    "category": "Connector",
+    "type": "Rectangular connector (header, female pins)",
+    "datasheetUrl": "https://www.molex.com/molex/products/part-detail/pcb_headers/1053131202",
+    "assets": {
+        "blendfile": false,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "conn-molex-nanofit-1053131202",
+    "symbolId": "conn-molex-nanofit-1053131202",
+    "footprintId": "conn-molex-nanofit-1053131202",
+    "manufacturerId": "molex",
+    "tagIds": [
+        "tht",
+        "header",
+        "connector"
+    ]
+}

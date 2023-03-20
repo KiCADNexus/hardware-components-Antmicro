@@ -1,0 +1,21 @@
+{
+    "id": "microchip-technology-usb3310c-cp",
+    "reference": "U",
+    "mpn": "USB3310C-CP",
+    "category": "IC",
+    "type": "USB interface",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": false,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "qfn-24-1ep-4x4mm-p0-5mm",
+    "symbolId": "usb3310c-cp",
+    "footprintId": "qfn-24-1ep-4x4mm-p0-5mm",
+    "manufacturerId": "microchip-technology",
+    "tagIds": [
+        "smt",
+        "ic"
+    ]
+}

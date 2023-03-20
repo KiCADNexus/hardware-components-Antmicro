@@ -1,0 +1,23 @@
+{
+    "id": "toshiba-tc358742xbg",
+    "reference": "U",
+    "mpn": "TC358742XBG",
+    "category": "IC",
+    "type": "Interface controller",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": false,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "bga-64-8x8-6-0x6-0mm",
+    "symbolId": "tc358742xbg",
+    "footprintId": "bga-64-8x8-6-0x6-0mm",
+    "manufacturerId": "toshiba",
+    "tagIds": [
+        "smt",
+        "interface",
+        "ic",
+        "controller"
+    ]
+}

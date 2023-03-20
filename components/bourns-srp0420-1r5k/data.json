@@ -1,0 +1,22 @@
+{
+    "id": "bourns-srp0420-1r5k",
+    "reference": "L",
+    "mpn": "SRP0420-1R5K",
+    "category": "Passive",
+    "type": "Power Inductor (SMT), 1.5 \u00b5H, 6 A, Shielded, 8 A, SRP0420",
+    "datasheetUrl": "https://www.bourns.com/docs/product-datasheets/srp0420.pdf",
+    "assets": {
+        "blendfile": true,
+        "symbol": false,
+        "footprint": true
+    },
+    "blendfileId": "l-1716-4441metric",
+    "symbolId": "srp0420-1r5k",
+    "footprintId": "l-1716-4441metric",
+    "manufacturerId": "bourns",
+    "tagIds": [
+        "smt",
+        "inductor",
+        "passive"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": "texas-instruments-tca9548arger",
+    "reference": "U",
+    "mpn": "TCA9548ARGER",
+    "category": "IC",
+    "type": "Specialized Interface, I2C, SMBus, Servers & Routers, 1.65 V, 5.5 V, VQFN, 24 Pins",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": false,
+        "footprint": true
+    },
+    "blendfileId": "vqfn-24-1ep-3-8x3-8x1-0mm-p0-5mm",
+    "symbolId": "tca9548arger",
+    "footprintId": "vqfn-24-1ep-3-8x3-8x1-0mm-p0-5mm",
+    "manufacturerId": "texas-instruments",
+    "tagIds": [
+        "smt",
+        "switch",
+        "ic",
+        "logic",
+        "signal",
+        "mux"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "id": "bourns-cr1206-fx-10r0elf",
+    "reference": "R",
+    "mpn": "CR1206-FX-10R0ELF",
+    "category": "Passive",
+    "type": "SMT resistor",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "r-1206-3216metric",
+    "symbolId": "r-10r-1206",
+    "footprintId": "r-1206-3216metric",
+    "manufacturerId": "bourns",
+    "tagIds": [
+        "1206",
+        "smt",
+        "resistor",
+        "passive"
+    ]
+}

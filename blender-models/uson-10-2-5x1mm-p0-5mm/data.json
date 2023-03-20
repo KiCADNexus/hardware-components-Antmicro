@@ -1,0 +1,12 @@
+{
+    "id": "uson-10-2-5x1mm-p0-5mm",
+    "blendfile": "USON-10_2.5x1mm_P0.5mm.blend",
+    "previews": [
+        {
+            "id": "iso-front",
+            "description": "Render in iso-front view",
+            "fileName": "isoF.webp",
+            "animations": {}
+        }
+    ]
+}

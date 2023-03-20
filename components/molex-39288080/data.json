@@ -1,0 +1,26 @@
+{
+    "id": "molex-39288080",
+    "reference": "J",
+    "mpn": "39288080",
+    "category": "Connector",
+    "type": "Pin Header, Vertical, 94V-0, Power, Wire-to-Board, 4.2 mm, 2 Rows, 8 Contacts",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": false,
+        "symbol": false,
+        "footprint": false
+    },
+    "blendfileId": "molex-39288080",
+    "symbolId": "39288080",
+    "footprintId": "molex-39288080",
+    "manufacturerId": "molex",
+    "tagIds": [
+        "vertical",
+        "tht",
+        "header",
+        "connector",
+        "male",
+        "wire-board",
+        "power"
+    ]
+}

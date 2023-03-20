@@ -1,0 +1,1 @@
+Bipolar Pre-Biased / Digital Transistor, BRT, Single NPN, 50 V, 100 mA, 2.2 kohm, 47 kohm

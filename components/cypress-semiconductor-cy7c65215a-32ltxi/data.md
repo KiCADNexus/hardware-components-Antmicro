@@ -1,0 +1,1 @@
+Interface Bridges, USB to I2C, SPI, UART, 1.71 V, 5.5 V, QFN, 32 Pins, -40 °C

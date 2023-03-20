@@ -1,0 +1,23 @@
+{
+    "id": "winbond-w25q80dvuxie-tr",
+    "reference": "U",
+    "mpn": "W25Q80DVUXIE TR",
+    "category": "IC",
+    "type": "Memory",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": false,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "uson-8-2x3mm-p0-5mm",
+    "symbolId": "w25q80dv-uson",
+    "footprintId": "uson-8-2x3mm-p0-5mm",
+    "manufacturerId": "winbond",
+    "tagIds": [
+        "smt",
+        "memory",
+        "ic",
+        "flash"
+    ]
+}

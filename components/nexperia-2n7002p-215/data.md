@@ -1,0 +1,1 @@
+Power MOSFET, N Channel, 60 V, 360 mA, 1 ohm, TO-236AB, Surface Mount

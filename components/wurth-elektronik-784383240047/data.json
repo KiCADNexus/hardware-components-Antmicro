@@ -1,0 +1,22 @@
+{
+    "id": "wurth-elektronik-784383240047",
+    "reference": "L",
+    "mpn": "784383240047",
+    "category": "Passive",
+    "type": "Power Inductor (SMT), AEC-Q200, 470 nH, 3.4 A, Shielded, 6.25 A, WE-MAIA",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": false,
+        "symbol": true,
+        "footprint": false
+    },
+    "blendfileId": "l-wuerth-maia-2512",
+    "symbolId": "784383240047",
+    "footprintId": "l-wuerth-maia-2512",
+    "manufacturerId": "wurth-elektronik",
+    "tagIds": [
+        "smt",
+        "inductor",
+        "passive"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "id": "qfn-48-1ep-7x7mm",
+    "blendfile": "QFN-48-1EP_7x7mm.blend",
+    "previews": [
+        {
+            "id": "iso-front",
+            "description": "Render in iso-front view",
+            "fileName": "isoF.webp",
+            "animations": {}
+        }
+    ]
+}

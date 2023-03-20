@@ -1,0 +1,1 @@
+Fixed LDO Voltage Regulator, 4.5V to 20V, 400 mV drop, 3.3V/250mA out, SOIC-8

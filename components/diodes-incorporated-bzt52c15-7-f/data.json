@@ -1,0 +1,23 @@
+{
+    "id": "diodes-incorporated-bzt52c15-7-f",
+    "reference": "Z",
+    "mpn": "BZT52C15-7-F",
+    "category": "Passive",
+    "type": "Zener diode",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": false,
+        "footprint": false
+    },
+    "blendfileId": "d-sod-123f",
+    "symbolId": "bzt52c15-7-f",
+    "footprintId": "d-sod-123f",
+    "manufacturerId": "diodes-incorporated",
+    "tagIds": [
+        "smt",
+        "diode",
+        "semiconductor",
+        "zener"
+    ]
+}

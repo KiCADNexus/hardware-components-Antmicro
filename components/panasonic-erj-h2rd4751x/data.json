@@ -1,0 +1,23 @@
+{
+    "id": "panasonic-erj-h2rd4751x",
+    "reference": "R",
+    "mpn": "ERJ-H2RD4751X",
+    "category": "Passive",
+    "type": "SMT resistor",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "r-0402-1005metric",
+    "symbolId": "r-4k75-0-5-0402",
+    "footprintId": "r-0402-1005metric",
+    "manufacturerId": "panasonic",
+    "tagIds": [
+        "0402",
+        "smt",
+        "resistor",
+        "passive"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "id": "maxim-integrated-products-max812reus-t",
+    "reference": "U",
+    "mpn": "MAX812REUS+T",
+    "category": "IC",
+    "type": "Voltage monitor",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "sot-143-4",
+    "symbolId": "max812reus-t",
+    "footprintId": "sot-143-4",
+    "manufacturerId": "maxim-integrated-products",
+    "tagIds": [
+        "smt",
+        "pmic",
+        "ic",
+        "voltage",
+        "monitor"
+    ]
+}

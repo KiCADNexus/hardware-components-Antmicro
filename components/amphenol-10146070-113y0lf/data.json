@@ -1,0 +1,20 @@
+{
+    "id": "amphenol-10146070-113y0lf",
+    "reference": "J",
+    "mpn": "10146070-113Y0LF",
+    "category": "Connector",
+    "type": "PCI connector",
+    "datasheetUrl": "https://www.farnell.com/datasheets/3212936.pdf",
+    "assets": {
+        "blendfile": false,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "amphenol-10146070-113y0lf",
+    "symbolId": "pcie-x16-10146070-113y0lf-vertical",
+    "footprintId": "amphenol-10146070-113y0lf",
+    "manufacturerId": "amphenol",
+    "tagIds": [
+        "connector"
+    ]
+}

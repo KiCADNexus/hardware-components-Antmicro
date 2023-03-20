@@ -1,0 +1,23 @@
+{
+    "id": "multicomp-pro-mc0402n330j500ct",
+    "reference": "C",
+    "mpn": "MC0402N330J500CT",
+    "category": "Passive",
+    "type": "SMT capacitor",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "c-0402-1005metric",
+    "symbolId": "c-33p-0402",
+    "footprintId": "c-0402-1005metric",
+    "manufacturerId": "multicomp-pro",
+    "tagIds": [
+        "0402",
+        "smt",
+        "capacitor",
+        "passive"
+    ]
+}

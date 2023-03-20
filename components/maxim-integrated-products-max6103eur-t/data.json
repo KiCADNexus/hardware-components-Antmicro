@@ -1,0 +1,25 @@
+{
+    "id": "maxim-integrated-products-max6103eur-t",
+    "reference": "U",
+    "mpn": "MAX6103EUR+T",
+    "category": "IC",
+    "type": "Voltage Reference, Micropower, Low Dropout, Series",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": false,
+        "footprint": true
+    },
+    "blendfileId": "sot-23-3",
+    "symbolId": "max6103eur-t",
+    "footprintId": "sot-23-3",
+    "manufacturerId": "maxim-integrated-products",
+    "tagIds": [
+        "smt",
+        "pmic",
+        "ic",
+        "voltage",
+        "regulator",
+        "linear"
+    ]
+}

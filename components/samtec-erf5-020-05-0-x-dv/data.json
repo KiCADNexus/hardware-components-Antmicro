@@ -1,0 +1,20 @@
+{
+    "id": "samtec-erf5-020-05-0-x-dv",
+    "reference": "J",
+    "mpn": "ERF5-020-05.0-X-DV",
+    "category": "Connector",
+    "type": "Board-to-board connector",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": false,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "erf5-020-05-0-x-dv",
+    "symbolId": "erf5-020-05-0-x-dv",
+    "footprintId": "erf5-020-05-0-x-dv",
+    "manufacturerId": "samtec",
+    "tagIds": [
+        "connector"
+    ]
+}

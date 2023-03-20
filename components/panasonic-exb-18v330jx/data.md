@@ -1,0 +1,1 @@
+Fixed Network Resistor, 33 ohm, Isolated, 4 Resistors, 0502 [1406 Metric], Flat, ± 5%

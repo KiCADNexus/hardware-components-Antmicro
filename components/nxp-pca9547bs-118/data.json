@@ -1,0 +1,25 @@
+{
+    "id": "nxp-pca9547bs-118",
+    "reference": "U",
+    "mpn": "PCA9547BS,118",
+    "category": "IC",
+    "type": "Specialized Interface, I2C, I2C-Bus System, 2.3 V, 5.5 V, HVQFN, 24 Pins",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "vqfn-24-1ep-3-8x3-8x1-0mm-p0-5mm",
+    "symbolId": "pca9547-vqfn",
+    "footprintId": "vqfn-24-1ep-3-8x3-8x1-0mm-p0-5mm",
+    "manufacturerId": "nxp",
+    "tagIds": [
+        "smt",
+        "mux",
+        "ic",
+        "i2c",
+        "decoder",
+        "encoder"
+    ]
+}

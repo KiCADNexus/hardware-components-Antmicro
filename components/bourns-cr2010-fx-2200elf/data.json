@@ -1,0 +1,22 @@
+{
+    "id": "bourns-cr2010-fx-2200elf",
+    "reference": "R",
+    "mpn": "CR2010-FX-2200ELF",
+    "category": "Passive",
+    "type": "Resistor",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "r-2010-5025metric",
+    "symbolId": "r-220r-2010",
+    "footprintId": "r-2010-5025metric",
+    "manufacturerId": "bourns",
+    "tagIds": [
+        "smt",
+        "resistor",
+        "passive"
+    ]
+}

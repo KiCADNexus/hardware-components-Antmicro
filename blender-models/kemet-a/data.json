@@ -1,0 +1,12 @@
+{
+    "id": "kemet-a",
+    "blendfile": "KEMET_A.blend",
+    "previews": [
+        {
+            "id": "iso-front",
+            "description": "Render in iso-front view",
+            "fileName": "isoF.webp",
+            "animations": {}
+        }
+    ]
+}

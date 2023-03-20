@@ -1,0 +1,20 @@
+{
+    "id": "texas-instruments-txb0104rutr",
+    "reference": "U",
+    "mpn": "TXB0104RUTR",
+    "category": "IC",
+    "type": "Level shifter",
+    "datasheetUrl": "http://www.ti.com/lit/ds/symlink/txb0104.pdf",
+    "assets": {
+        "blendfile": false,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "uqfn-12-2x1-7mm-p0-4mm-texas-rut",
+    "symbolId": "txb0104-uqfn",
+    "footprintId": "uqfn-12-2x1-7mm-p0-4mm-texas-rut",
+    "manufacturerId": "texas-instruments",
+    "tagIds": [
+        "ic"
+    ]
+}

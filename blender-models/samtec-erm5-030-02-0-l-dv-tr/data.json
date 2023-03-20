@@ -1,0 +1,12 @@
+{
+    "id": "samtec-erm5-030-02-0-l-dv-tr",
+    "blendfile": "SAMTEC_ERM5-030-02.0-L-DV-TR.blend",
+    "previews": [
+        {
+            "id": "iso-front",
+            "description": "Render in iso-front view",
+            "fileName": "isoF.webp",
+            "animations": {}
+        }
+    ]
+}

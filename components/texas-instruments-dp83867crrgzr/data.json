@@ -1,0 +1,23 @@
+{
+    "id": "texas-instruments-dp83867crrgzr",
+    "reference": "U",
+    "mpn": "DP83867CRRGZR",
+    "category": "IC",
+    "type": "Interface controller",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": false,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "qfn-48-1ep-7x7mm",
+    "symbolId": "dp83867cr-vqfn",
+    "footprintId": "qfn-48-1ep-7x7mm",
+    "manufacturerId": "texas-instruments",
+    "tagIds": [
+        "smt",
+        "ethernet",
+        "ic",
+        "transceiver"
+    ]
+}

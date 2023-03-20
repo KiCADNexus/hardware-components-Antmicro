@@ -1,0 +1,1 @@
+Power Distribution Switch, Current Limited, High Side, Active High, 2 Outputs, 5.5V, 0.9A, SOIC-8

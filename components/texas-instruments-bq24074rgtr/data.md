@@ -1,0 +1,1 @@
+Battery Charger,  1 Cell Li-Ion Battery, 10.2 V input, 4.2 V / 1.5 A charge, VQFN-16

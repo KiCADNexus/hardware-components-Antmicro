@@ -1,0 +1,1 @@
+Ferrite Bead, 0805 [2012 Metric], 22 ohm, 6 A, BLM15A SH, 0.009 ohm, ± 25%

@@ -1,0 +1,23 @@
+{
+    "id": "vishay-b360a-m3-61t",
+    "reference": "D",
+    "mpn": "B360A-M3/61T",
+    "category": "Semiconductor",
+    "type": "Rectifier diode",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "do-214ac",
+    "symbolId": "b360a-m3",
+    "footprintId": "do-214ac",
+    "manufacturerId": "vishay",
+    "tagIds": [
+        "smt",
+        "diode",
+        "semiconductor",
+        "rectifier"
+    ]
+}

@@ -1,0 +1,1 @@
+Ferrite Bead, 0603 [1608 Metric], 470 ohm, 1 A, BLM18P, 0.2 ohm, ± 25%

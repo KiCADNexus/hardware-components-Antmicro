@@ -1,0 +1,1 @@
+LED, Yellow, SMD, 1005, 20 mA, 2 V

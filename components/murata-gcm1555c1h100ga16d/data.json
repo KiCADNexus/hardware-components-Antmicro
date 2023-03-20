@@ -1,0 +1,23 @@
+{
+    "id": "murata-gcm1555c1h100ga16d",
+    "reference": "C",
+    "mpn": "GCM1555C1H100GA16D",
+    "category": "Passive",
+    "type": "SMT capacitor",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "c-0402-1005metric",
+    "symbolId": "c-10p-0402",
+    "footprintId": "c-0402-1005metric",
+    "manufacturerId": "murata",
+    "tagIds": [
+        "0402",
+        "smt",
+        "capacitor",
+        "passive"
+    ]
+}

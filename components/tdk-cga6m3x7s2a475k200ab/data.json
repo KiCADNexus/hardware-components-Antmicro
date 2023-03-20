@@ -1,0 +1,23 @@
+{
+    "id": "tdk-cga6m3x7s2a475k200ab",
+    "reference": "C",
+    "mpn": "CGA6M3X7S2A475K200AB",
+    "category": "Passive",
+    "type": "SMT capacitor",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "c-1210-3225metric",
+    "symbolId": "c-4u7-1210-100v",
+    "footprintId": "c-1210-3225metric",
+    "manufacturerId": "tdk",
+    "tagIds": [
+        "1210",
+        "smt",
+        "capacitor",
+        "passive"
+    ]
+}

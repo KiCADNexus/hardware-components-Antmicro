@@ -1,0 +1,23 @@
+{
+    "id": "maxlinear-sp3485en-l-tr",
+    "reference": "U",
+    "mpn": "SP3485EN-L/TR",
+    "category": "IC",
+    "type": "Interface driver/receiver/transceiver",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": false,
+        "footprint": true
+    },
+    "blendfileId": "soic-8-1ep-3-9x4-9x1-75mm-p1-27mm",
+    "symbolId": "sp3485en-l-tr",
+    "footprintId": "soic-8-1ep-3-9x4-9x1-75mm-p1-27mm",
+    "manufacturerId": "maxlinear",
+    "tagIds": [
+        "smt",
+        "interface",
+        "ic",
+        "transceiver"
+    ]
+}

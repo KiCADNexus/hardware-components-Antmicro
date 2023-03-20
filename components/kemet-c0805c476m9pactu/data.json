@@ -1,0 +1,23 @@
+{
+    "id": "kemet-c0805c476m9pactu",
+    "reference": "C",
+    "mpn": "C0805C476M9PACTU",
+    "category": "Passive",
+    "type": "SMT capacitor",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "c-0805-2012metric",
+    "symbolId": "c-47u-0805",
+    "footprintId": "c-0805-2012metric",
+    "manufacturerId": "kemet",
+    "tagIds": [
+        "0805",
+        "smt",
+        "capacitor",
+        "passive"
+    ]
+}

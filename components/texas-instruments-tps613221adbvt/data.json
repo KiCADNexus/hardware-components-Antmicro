@@ -1,0 +1,26 @@
+{
+    "id": "texas-instruments-tps613221adbvt",
+    "reference": "U",
+    "mpn": "TPS613221ADBVT",
+    "category": "IC",
+    "type": "Synchronous Boost Step Up Regulator, Fixed, 0.9V to 5.5V In, 3.3V/1.2A Out, 1.6MHz, SOT-23-5",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "sot-23-5",
+    "symbolId": "tps613221a-sot-23-5",
+    "footprintId": "sot-23-5",
+    "manufacturerId": "texas-instruments",
+    "tagIds": [
+        "smt",
+        "pmic",
+        "ic",
+        "switching",
+        "voltage",
+        "regulator",
+        "dc-dc"
+    ]
+}

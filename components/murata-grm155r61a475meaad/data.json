@@ -1,0 +1,23 @@
+{
+    "id": "murata-grm155r61a475meaad",
+    "reference": "C",
+    "mpn": "GRM155R61A475MEAAD",
+    "category": "Passive",
+    "type": "SMT capacitor",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "c-0402-1005metric",
+    "symbolId": "c-4u7-0402",
+    "footprintId": "c-0402-1005metric",
+    "manufacturerId": "murata",
+    "tagIds": [
+        "0402",
+        "smt",
+        "capacitor",
+        "passive"
+    ]
+}

@@ -1,0 +1,1 @@
+LVDS Driver, LVDS Differential Receiver, -40 °C, 85 °C, 3 V, 3.6 V, TSSOP

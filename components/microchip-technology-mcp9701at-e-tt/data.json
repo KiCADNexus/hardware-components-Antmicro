@@ -1,0 +1,22 @@
+{
+    "id": "microchip-technology-mcp9701at-e-tt",
+    "reference": "U",
+    "mpn": "MCP9701AT-E/TT",
+    "category": "IC",
+    "type": "Temperature sensor",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": false,
+        "footprint": true
+    },
+    "blendfileId": "sot-23-3",
+    "symbolId": "mcp9701at-e-tt",
+    "footprintId": "sot-23-3",
+    "manufacturerId": "microchip-technology",
+    "tagIds": [
+        "smt",
+        "sensor",
+        "ic"
+    ]
+}

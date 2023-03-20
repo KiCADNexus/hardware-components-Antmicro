@@ -1,0 +1,20 @@
+{
+    "id": "microchip-technology-at24cs01-sshm-b",
+    "reference": "U",
+    "mpn": "AT24CS01-SSHM-B",
+    "category": "IC",
+    "type": "Interface controller",
+    "datasheetUrl": "https://ww1.microchip.com/downloads/aemDocuments/documents/MPD/ProductDocuments/DataSheets/20006330A.pdf",
+    "assets": {
+        "blendfile": true,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "soic-8-1ep-3-9x4-9x1-75mm-p1-27mm",
+    "symbolId": "at24cs01-soic8",
+    "footprintId": "soic-8-1ep-3-9x4-9x1-75mm-p1-27mm",
+    "manufacturerId": "microchip-technology",
+    "tagIds": [
+        "ic"
+    ]
+}

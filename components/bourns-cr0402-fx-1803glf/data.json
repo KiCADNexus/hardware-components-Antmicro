@@ -1,0 +1,23 @@
+{
+    "id": "bourns-cr0402-fx-1803glf",
+    "reference": "R",
+    "mpn": "CR0402-FX-1803GLF",
+    "category": "Passive",
+    "type": "SMT resistor",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "r-0402-1005metric",
+    "symbolId": "r-180k-0402",
+    "footprintId": "r-0402-1005metric",
+    "manufacturerId": "bourns",
+    "tagIds": [
+        "0402",
+        "smt",
+        "resistor",
+        "passive"
+    ]
+}

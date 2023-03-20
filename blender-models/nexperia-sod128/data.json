@@ -1,0 +1,12 @@
+{
+    "id": "nexperia-sod128",
+    "blendfile": "Nexperia_SOD128.blend",
+    "previews": [
+        {
+            "id": "iso-front",
+            "description": "Render in iso-front view",
+            "fileName": "isoF.webp",
+            "animations": {}
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "id": "hirose-electric-u-fl-r-smt-1-10",
+    "reference": "J",
+    "mpn": "U.FL-R-SMT-1(10)",
+    "category": "Connector",
+    "type": "RF / Coaxial Connector, U.FL Coaxial, Straight Jack, Surface Mount Vertical, 50 ohm, Brass",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": false,
+        "footprint": true
+    },
+    "blendfileId": "coax-conn-u-fl",
+    "symbolId": "u-fl-r-smt-1-10",
+    "footprintId": "coax-conn-u-fl",
+    "manufacturerId": "hirose-electric",
+    "tagIds": [
+        "horizontal",
+        "smt",
+        "connector"
+    ]
+}

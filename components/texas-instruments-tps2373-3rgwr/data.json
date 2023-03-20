@@ -1,0 +1,24 @@
+{
+    "id": "texas-instruments-tps2373-3rgwr",
+    "reference": "U",
+    "mpn": "TPS2373-3RGWR",
+    "category": "IC",
+    "type": "Power distribution switch/load driver",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "sot-583",
+    "symbolId": "tps2373-3rgw",
+    "footprintId": "sot-583",
+    "manufacturerId": "texas-instruments",
+    "tagIds": [
+        "smt",
+        "switch",
+        "ic",
+        "power",
+        "driver"
+    ]
+}

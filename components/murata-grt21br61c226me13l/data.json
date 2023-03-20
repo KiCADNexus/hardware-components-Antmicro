@@ -1,0 +1,25 @@
+{
+    "id": "murata-grt21br61c226me13l",
+    "reference": "C",
+    "mpn": "GRT21BR61C226ME13L",
+    "category": "Passive",
+    "type": "SMT capacitor",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "c-0805-2012metric",
+    "symbolId": "c-22u-0805-16v",
+    "footprintId": "c-0805-2012metric",
+    "manufacturerId": "murata",
+    "tagIds": [
+        "0805",
+        "smt",
+        "capacitor",
+        "passive",
+        "ceramic",
+        "mlcc"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "id": "diodes-incorporated-bss138-7-f",
+    "reference": "Q",
+    "mpn": "BSS138-7-F",
+    "category": "Semiconductor",
+    "type": "Power MOSFET, N Channel, 50 V, 200 mA, 1.4 ohm, SOT-23, Surface Mount",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "sot-23-3",
+    "symbolId": "bss138-7-f",
+    "footprintId": "sot-23-3",
+    "manufacturerId": "diodes-incorporated",
+    "tagIds": [
+        "smt",
+        "mosfet",
+        "semiconductor"
+    ]
+}

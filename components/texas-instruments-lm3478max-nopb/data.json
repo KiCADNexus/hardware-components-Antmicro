@@ -1,0 +1,26 @@
+{
+    "id": "texas-instruments-lm3478max-nopb",
+    "reference": "U",
+    "mpn": "LM3478MAX/NOPB",
+    "category": "IC",
+    "type": "DC/DC switching voltage regulator",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": false,
+        "footprint": true
+    },
+    "blendfileId": "soic-8-1ep-3-9x4-9x1-75mm-p1-27mm",
+    "symbolId": "lm3478max-nopb",
+    "footprintId": "soic-8-1ep-3-9x4-9x1-75mm-p1-27mm",
+    "manufacturerId": "texas-instruments",
+    "tagIds": [
+        "smt",
+        "pmic",
+        "ic",
+        "switching",
+        "boost",
+        "voltage",
+        "regulator"
+    ]
+}

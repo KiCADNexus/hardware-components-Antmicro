@@ -1,0 +1,25 @@
+{
+    "id": "yageo-cc0402jrnpo9bn220",
+    "reference": "C",
+    "mpn": "CC0402JRNPO9BN220",
+    "category": "Passive",
+    "type": "SMT capacitor",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "c-0402-1005metric",
+    "symbolId": "c-22p-0402",
+    "footprintId": "c-0402-1005metric",
+    "manufacturerId": "yageo",
+    "tagIds": [
+        "0402",
+        "smt",
+        "capacitor",
+        "passive",
+        "mlcc",
+        "ceramic"
+    ]
+}

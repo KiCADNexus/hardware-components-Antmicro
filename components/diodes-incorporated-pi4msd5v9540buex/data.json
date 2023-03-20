@@ -1,0 +1,23 @@
+{
+    "id": "diodes-incorporated-pi4msd5v9540buex",
+    "reference": "U",
+    "mpn": "PI4MSD5V9540BUEX",
+    "category": "IC",
+    "type": "Multiplexer, 2 Channels, 1:2, 1.65 V to 5.5 V, MSOP-8",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": false,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "msop-8-3x3x1-1mm-p0-65mm",
+    "symbolId": "pi4msd5v9540b-msop",
+    "footprintId": "msop-8-3x3x1-1mm-p0-65mm",
+    "manufacturerId": "diodes-incorporated",
+    "tagIds": [
+        "smt",
+        "mux",
+        "ic",
+        "i2c"
+    ]
+}

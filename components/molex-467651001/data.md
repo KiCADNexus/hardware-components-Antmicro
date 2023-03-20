@@ -1,0 +1,1 @@
+HDMI Connector, Type D, 19 Contacts, Receptacle, Surface Mount, Surface Mount Right Angle

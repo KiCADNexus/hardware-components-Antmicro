@@ -1,0 +1,12 @@
+{
+    "id": "bus-ddr4-socket-dimm-2199155-1",
+    "blendfile": "Bus_DDR4_Socket_DIMM_2199155-1.blend",
+    "previews": [
+        {
+            "id": "iso-front",
+            "description": "Render in iso-front view",
+            "fileName": "isoF.webp",
+            "animations": {}
+        }
+    ]
+}

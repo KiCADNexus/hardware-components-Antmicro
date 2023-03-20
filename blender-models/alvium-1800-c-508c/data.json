@@ -1,0 +1,12 @@
+{
+    "id": "alvium-1800-c-508c",
+    "blendfile": "Alvium_1800_C-508c.blend",
+    "previews": [
+        {
+            "id": "iso-front",
+            "description": "Render in iso-front view",
+            "fileName": "isoF.webp",
+            "animations": {}
+        }
+    ]
+}

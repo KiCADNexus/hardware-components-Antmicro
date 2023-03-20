@@ -1,0 +1,1 @@
+Power MOSFET, P Channel, 20 V, 35 A, 0.0072 ohm, PowerPAK 1212, Surface Mount

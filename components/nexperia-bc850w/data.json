@@ -1,0 +1,23 @@
+{
+    "id": "nexperia-bc850w",
+    "reference": "Q",
+    "mpn": "BC850W",
+    "category": "Semiconductor",
+    "type": "Bipolar transistor",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": false,
+        "footprint": true
+    },
+    "blendfileId": "sot-323",
+    "symbolId": "bc850w",
+    "footprintId": "sot-323",
+    "manufacturerId": "nexperia",
+    "tagIds": [
+        "smt",
+        "transistor",
+        "semiconductor",
+        "npn"
+    ]
+}

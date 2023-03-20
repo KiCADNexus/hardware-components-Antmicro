@@ -1,0 +1,1 @@
+Tactile Switch, PTS810, Top Actuated, Surface Mount, Oval Button, 160 gf, 50mA at 16VDC

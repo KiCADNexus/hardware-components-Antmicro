@@ -1,0 +1,25 @@
+{
+    "id": "stmicroelectronics-esda25p35-1u1m",
+    "reference": "D",
+    "mpn": "ESDA25P35-1U1M",
+    "category": "Semiconductor",
+    "type": "TVS diode",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": false,
+        "symbol": true,
+        "footprint": false
+    },
+    "blendfileId": "0603-diode",
+    "symbolId": "esda25p35-1u1m",
+    "footprintId": "0603-diode",
+    "manufacturerId": "stmicroelectronics",
+    "tagIds": [
+        "0603",
+        "smt",
+        "diode",
+        "semiconductor",
+        "tvs",
+        "esd"
+    ]
+}

@@ -1,0 +1,1 @@
+Crystal, 8 MHz, SMT, 5mm x 3.2mm, 50 ppm, 18 pF, 10 ppm, ABM3BAIG

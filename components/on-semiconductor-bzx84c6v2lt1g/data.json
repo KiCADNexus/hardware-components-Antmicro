@@ -1,0 +1,23 @@
+{
+    "id": "on-semiconductor-bzx84c6v2lt1g",
+    "reference": "D",
+    "mpn": "BZX84C6V2LT1G",
+    "category": "Semiconductor",
+    "type": "Zener diode",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": false,
+        "footprint": true
+    },
+    "blendfileId": "sot-23-3",
+    "symbolId": "bzx84c6v2lt1g",
+    "footprintId": "sot-23-3",
+    "manufacturerId": "on-semiconductor",
+    "tagIds": [
+        "smt",
+        "diode",
+        "semiconductor",
+        "zener"
+    ]
+}

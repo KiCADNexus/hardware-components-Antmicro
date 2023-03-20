@@ -1,0 +1,1 @@
+Crystal, 32.768 kHz, SMT, 1.2mm x 1mm, 12.5 pF, 20 ppm, ECX-1210

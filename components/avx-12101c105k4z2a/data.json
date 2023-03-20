@@ -1,0 +1,25 @@
+{
+    "id": "avx-12101c105k4z2a",
+    "reference": "C",
+    "mpn": "12101C105K4Z2A",
+    "category": "Passive",
+    "type": "SMT Multilayer Ceramic Capacitor, 1 \u00b5F, 100 V, 1210 [3225 Metric], \u00b1 10%, X7R, AVX 1210 MLCC",
+    "datasheetUrl": "https://www.mouser.pl/datasheet/2/40/AutoMLCC-2952695.pdf",
+    "assets": {
+        "blendfile": false,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "c-1210-3225metric",
+    "symbolId": "c-1u-100v-1210",
+    "footprintId": "c-1210-3225metric",
+    "manufacturerId": "avx",
+    "tagIds": [
+        "1210",
+        "smt",
+        "capacitor",
+        "passive",
+        "ceramic",
+        "mlcc"
+    ]
+}

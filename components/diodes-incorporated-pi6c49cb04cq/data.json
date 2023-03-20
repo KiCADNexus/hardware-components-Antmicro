@@ -1,0 +1,23 @@
+{
+    "id": "diodes-incorporated-pi6c49cb04cq",
+    "reference": "U",
+    "mpn": "PI6C49CB04CQ",
+    "category": "IC",
+    "type": "Clock generator/frequency synthesizer (PLL)",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": false,
+        "symbol": false,
+        "footprint": true
+    },
+    "blendfileId": "soic-8-1ep-3-9x4-9x1-75mm-p1-27mm",
+    "symbolId": "pi6c49cb04cq",
+    "footprintId": "soic-8-1ep-3-9x4-9x1-75mm-p1-27mm",
+    "manufacturerId": "diodes-incorporated",
+    "tagIds": [
+        "smt",
+        "buffer",
+        "ic",
+        "clock"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "id": "nexperia-ptvs5v0z1uskpyl",
+    "reference": "D",
+    "mpn": "PTVS5V0Z1USKPYL",
+    "category": "Semiconductor",
+    "type": "TVS diode",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": false,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "sod-964",
+    "symbolId": "ptvs5v0z1uskp",
+    "footprintId": "sod-964",
+    "manufacturerId": "nexperia",
+    "tagIds": [
+        "smt",
+        "diode",
+        "semiconductor",
+        "tvs",
+        "esd"
+    ]
+}

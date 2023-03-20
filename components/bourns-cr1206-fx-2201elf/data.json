@@ -1,0 +1,23 @@
+{
+    "id": "bourns-cr1206-fx-2201elf",
+    "reference": "R",
+    "mpn": "CR1206-FX-2201ELF",
+    "category": "Passive",
+    "type": "SMT Chip Resistor, 2.2 kohm, \u00b1 1%, 250 mW, 1206 [3216 Metric], Thick Film, General Purpose",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "r-1206-3216metric",
+    "symbolId": "r-2k2-1206",
+    "footprintId": "r-1206-3216metric",
+    "manufacturerId": "bourns",
+    "tagIds": [
+        "1206",
+        "smt",
+        "resistor",
+        "passive"
+    ]
+}

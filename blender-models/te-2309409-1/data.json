@@ -1,0 +1,12 @@
+{
+    "id": "te-2309409-1",
+    "blendfile": "TE_2309409-1.blend",
+    "previews": [
+        {
+            "id": "iso-front",
+            "description": "Render in iso-front view",
+            "fileName": "isoF.webp",
+            "animations": {}
+        }
+    ]
+}

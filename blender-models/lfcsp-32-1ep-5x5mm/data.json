@@ -1,0 +1,12 @@
+{
+    "id": "lfcsp-32-1ep-5x5mm",
+    "blendfile": "LFCSP-32-1EP-5x5mm.blend",
+    "previews": [
+        {
+            "id": "iso-front",
+            "description": "Render in iso-front view",
+            "fileName": "isoF.webp",
+            "animations": {}
+        }
+    ]
+}

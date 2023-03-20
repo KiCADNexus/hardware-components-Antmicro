@@ -1,0 +1,23 @@
+{
+    "id": "nxp-nts0102dp",
+    "reference": "U",
+    "mpn": "NTS0102DP",
+    "category": "IC",
+    "type": "Transceiver, 1.65 V to 3.6 V, TSSOP-8",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "tssop-8-3x3mm-p0-65mm",
+    "symbolId": "nts0102-tssop",
+    "footprintId": "tssop-8-3x3mm-p0-65mm",
+    "manufacturerId": "nxp",
+    "tagIds": [
+        "smt",
+        "level-shifter",
+        "ic",
+        "logic"
+    ]
+}

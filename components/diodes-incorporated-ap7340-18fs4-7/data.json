@@ -1,0 +1,24 @@
+{
+    "id": "diodes-incorporated-ap7340-18fs4-7",
+    "reference": "U",
+    "mpn": "AP7340-18FS4-7",
+    "category": "IC",
+    "type": "Linear voltage regulator",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": false,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "xdfn4",
+    "symbolId": "ap7340-18fs4-7",
+    "footprintId": "xdfn4",
+    "manufacturerId": "diodes-incorporated",
+    "tagIds": [
+        "smt",
+        "pmic",
+        "ic",
+        "voltage",
+        "ldo"
+    ]
+}

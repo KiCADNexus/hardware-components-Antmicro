@@ -1,0 +1,23 @@
+{
+    "id": "nxp-bc818w",
+    "reference": "Q",
+    "mpn": "BC818W",
+    "category": "Semiconductor",
+    "type": "Bipolar transistor",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": false,
+        "footprint": true
+    },
+    "blendfileId": "sot-323",
+    "symbolId": "bc818w",
+    "footprintId": "sot-323",
+    "manufacturerId": "nxp",
+    "tagIds": [
+        "smt",
+        "transistor",
+        "semiconductor",
+        "npn"
+    ]
+}

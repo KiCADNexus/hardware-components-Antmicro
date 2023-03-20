@@ -1,0 +1,23 @@
+{
+    "id": "panasonic-erj2ge0r00x",
+    "reference": "R",
+    "mpn": "ERJ2GE0R00X",
+    "category": "Passive",
+    "type": "SMT resistor",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "r-0402-1005metric",
+    "symbolId": "r-0r-0402",
+    "footprintId": "r-0402-1005metric",
+    "manufacturerId": "panasonic",
+    "tagIds": [
+        "0402",
+        "smt",
+        "resistor",
+        "passive"
+    ]
+}

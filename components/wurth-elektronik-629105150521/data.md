@@ -1,0 +1,1 @@
+USB Connector, With Pegs, Micro USB Type B, USB 2.0, Receptacle, 5 Ways, Surface Mount, Right Angle

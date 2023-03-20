@@ -1,0 +1,22 @@
+{
+    "id": "texas-instruments-tmcs1100a2qdrq1",
+    "reference": "U",
+    "mpn": "TMCS1100A2QDRQ1",
+    "category": "IC",
+    "type": "Sensor/transducer",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": false,
+        "footprint": true
+    },
+    "blendfileId": "soic-8-1ep-3-9x4-9x1-75mm-p1-27mm",
+    "symbolId": "tmcs1100a2-q1",
+    "footprintId": "soic-8-1ep-3-9x4-9x1-75mm-p1-27mm",
+    "manufacturerId": "texas-instruments",
+    "tagIds": [
+        "smt",
+        "sensor",
+        "ic"
+    ]
+}

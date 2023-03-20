@@ -1,0 +1,1 @@
+Small Signal Schottky Diode, Single, 30 V, 200 mA, 800 mV, 600 mA, 125 °C

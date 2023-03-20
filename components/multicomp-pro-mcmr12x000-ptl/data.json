@@ -1,0 +1,23 @@
+{
+    "id": "multicomp-pro-mcmr12x000-ptl",
+    "reference": "R",
+    "mpn": "MCMR12X000_PTL",
+    "category": "Passive",
+    "type": "SMT resistor",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "r-1206-3216metric",
+    "symbolId": "r-0r-1206",
+    "footprintId": "r-1206-3216metric",
+    "manufacturerId": "multicomp-pro",
+    "tagIds": [
+        "1206",
+        "smt",
+        "resistor",
+        "passive"
+    ]
+}

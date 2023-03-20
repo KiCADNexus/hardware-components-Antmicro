@@ -1,0 +1,1 @@
+Modular connector with magnetics

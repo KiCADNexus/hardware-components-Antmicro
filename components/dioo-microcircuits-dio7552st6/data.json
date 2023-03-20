@@ -1,0 +1,23 @@
+{
+    "id": "dioo-microcircuits-dio7552st6",
+    "reference": "U",
+    "mpn": "DIO7552ST6",
+    "category": "IC",
+    "type": "Power distribution switch/load driver",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": false,
+        "footprint": false
+    },
+    "blendfileId": "sot23-6",
+    "symbolId": "dio7552st6",
+    "footprintId": "sot23-6",
+    "manufacturerId": "dioo-microcircuits",
+    "tagIds": [
+        "smt",
+        "pmic",
+        "ic",
+        "power"
+    ]
+}

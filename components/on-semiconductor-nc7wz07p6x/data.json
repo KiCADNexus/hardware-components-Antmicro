@@ -1,0 +1,23 @@
+{
+    "id": "on-semiconductor-nc7wz07p6x",
+    "reference": "U",
+    "mpn": "NC7WZ07P6X",
+    "category": "IC",
+    "type": "Buffer, 1.65 V to 5.5 V, SC-70-6",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "sot-363",
+    "symbolId": "nc7wz07-sc",
+    "footprintId": "sot-363",
+    "manufacturerId": "on-semiconductor",
+    "tagIds": [
+        "smt",
+        "driver",
+        "ic",
+        "logic"
+    ]
+}

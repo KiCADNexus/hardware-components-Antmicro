@@ -1,0 +1,23 @@
+{
+    "id": "panasonic-exb2hv510jv",
+    "reference": "R",
+    "mpn": "EXB2HV510JV",
+    "category": "Passive",
+    "type": "Fixed Network Resistor, 51 ohm, Isolated, 8 Resistors, 1506 [3816 Metric], Convex, \u00b1 5%",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": true,
+        "footprint": false
+    },
+    "blendfileId": "r-array-convex-8x0602",
+    "symbolId": "8x51r-0602-array",
+    "footprintId": "r-array-convex-8x0602",
+    "manufacturerId": "panasonic",
+    "tagIds": [
+        "smt",
+        "resistor",
+        "passive",
+        "array"
+    ]
+}

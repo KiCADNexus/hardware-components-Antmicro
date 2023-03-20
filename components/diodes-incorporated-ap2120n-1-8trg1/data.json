@@ -1,0 +1,24 @@
+{
+    "id": "diodes-incorporated-ap2120n-1-8trg1",
+    "reference": "U",
+    "mpn": "AP2120N-1.8TRG1",
+    "category": "IC",
+    "type": "LDO, FIXED, 1.8V, 0.15A, -40 TO 85DEG C",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": false,
+        "footprint": true
+    },
+    "blendfileId": "sot-23-3",
+    "symbolId": "ap2120n-1-8trg1",
+    "footprintId": "sot-23-3",
+    "manufacturerId": "diodes-incorporated",
+    "tagIds": [
+        "smt",
+        "pmic",
+        "ic",
+        "voltage",
+        "ldo"
+    ]
+}

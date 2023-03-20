@@ -1,0 +1,1 @@
+Logic IC, Inverter, Dual, 1 Inputs, 6 Pins, TSOP, 74LVC2G14

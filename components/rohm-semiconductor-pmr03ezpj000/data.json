@@ -1,0 +1,23 @@
+{
+    "id": "rohm-semiconductor-pmr03ezpj000",
+    "reference": "R",
+    "mpn": "PMR03EZPJ000",
+    "category": "Passive",
+    "type": "SMT Resistor",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "r-0603-1608metric",
+    "symbolId": "r-0r-22-4a-0603",
+    "footprintId": "r-0603-1608metric",
+    "manufacturerId": "rohm-semiconductor",
+    "tagIds": [
+        "0603",
+        "smt",
+        "resistor",
+        "passive"
+    ]
+}

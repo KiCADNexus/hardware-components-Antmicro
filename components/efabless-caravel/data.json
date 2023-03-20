@@ -1,0 +1,22 @@
+{
+    "id": "efabless-caravel",
+    "reference": "U",
+    "mpn": "Caravel",
+    "category": "IC",
+    "type": "Module",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": false,
+        "symbol": false,
+        "footprint": false
+    },
+    "blendfileId": "caravel-wcsp",
+    "symbolId": "caravel-wcsp",
+    "footprintId": "caravel-wcsp",
+    "manufacturerId": "efabless",
+    "tagIds": [
+        "smt",
+        "soc",
+        "ic"
+    ]
+}

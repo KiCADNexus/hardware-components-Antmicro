@@ -1,0 +1,12 @@
+{
+    "id": "microchip-qfn-32-1ep-5x5mm",
+    "blendfile": "Microchip_QFN-32-1EP_5x5mm.blend",
+    "previews": [
+        {
+            "id": "iso-front",
+            "description": "Render in iso-front view",
+            "fileName": "isoF.webp",
+            "animations": {}
+        }
+    ]
+}

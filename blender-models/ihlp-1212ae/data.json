@@ -1,0 +1,12 @@
+{
+    "id": "ihlp-1212ae",
+    "blendfile": "IHLP-1212AE.blend",
+    "previews": [
+        {
+            "id": "iso-front",
+            "description": "Render in iso-front view",
+            "fileName": "isoF.webp",
+            "animations": {}
+        }
+    ]
+}

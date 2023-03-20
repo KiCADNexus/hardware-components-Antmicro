@@ -1,0 +1,1 @@
+Ferrite Bead, 0402 [1005 Metric], 600 ohm, 300 mA, BLM15AG_SN, 0.6 ohm, ± 25%

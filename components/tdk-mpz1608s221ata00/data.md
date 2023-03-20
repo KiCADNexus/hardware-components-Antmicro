@@ -1,0 +1,1 @@
+Ferrite Bead, 0603 [1608 Metric], 220 ohm, 2.2 A, MPZ, 0.05 ohm, ± 25%

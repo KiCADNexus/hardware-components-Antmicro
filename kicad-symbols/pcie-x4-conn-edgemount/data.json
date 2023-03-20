@@ -1,0 +1,5 @@
+{
+ "id": "pcie-x4-conn-edgemount",
+ "name": "PCIe_x4_Conn_EdgeMount.kicad_sym",
+ "libraryName": "PciConnectors"
+}

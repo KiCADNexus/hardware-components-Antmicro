@@ -1,0 +1,23 @@
+{
+    "id": "maxim-integrated-products-max3421eetj",
+    "reference": "U",
+    "mpn": "MAX3421EETJ+",
+    "category": "IC",
+    "type": "USB Interface, ESD-Protected USB Peripheral/Host Controller, USB 2.0, 3 V, 3.6 V, TQFN, 32 Pins",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "qfn-32-1ep-5x5mm",
+    "symbolId": "max3421eetj",
+    "footprintId": "qfn-32-1ep-5x5mm",
+    "manufacturerId": "maxim-integrated-products",
+    "tagIds": [
+        "smt",
+        "interface",
+        "ic",
+        "transceiver"
+    ]
+}

@@ -1,0 +1,1 @@
+DC/DC Synchronous Regulator, Adjustable, 4.5V to 55VIn, 0.8V to 50.6V/6AOut, 2MHz, PowerPAK MLP55-27

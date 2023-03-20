@@ -1,0 +1,24 @@
+{
+    "id": "on-semiconductor-mm3z3v3c",
+    "reference": "D",
+    "mpn": "MM3Z3V3C",
+    "category": "Semiconductor",
+    "type": "Zener diode",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "d-sod-323f",
+    "symbolId": "mm3z3v3c",
+    "footprintId": "d-sod-323f",
+    "manufacturerId": "on-semiconductor",
+    "tagIds": [
+        "smt",
+        "rectifier",
+        "semiconductor",
+        "diode",
+        "zener"
+    ]
+}

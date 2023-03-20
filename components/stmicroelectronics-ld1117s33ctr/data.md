@@ -1,0 +1,1 @@
+Fixed LDO Voltage Regulator, 4.75V to 15V, 1.1V Dropout, 3.3Vout, 950mAout, SOT-223-4

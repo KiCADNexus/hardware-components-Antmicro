@@ -1,0 +1,1 @@
+Dual MOSFET, N Channel, 25 V, 500 mA, 0.34 ohm

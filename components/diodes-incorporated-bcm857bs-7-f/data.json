@@ -1,0 +1,23 @@
+{
+    "id": "diodes-incorporated-bcm857bs-7-f",
+    "reference": "Q",
+    "mpn": "BCM857BS-7-F",
+    "category": "Semiconductor",
+    "type": "Bipolar transistor array",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "sot-363",
+    "symbolId": "bcm857bs-7-f",
+    "footprintId": "sot-363",
+    "manufacturerId": "diodes-incorporated",
+    "tagIds": [
+        "smt",
+        "transistor",
+        "semiconductor",
+        "bipolar"
+    ]
+}

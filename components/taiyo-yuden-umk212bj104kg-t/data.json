@@ -1,0 +1,25 @@
+{
+    "id": "taiyo-yuden-umk212bj104kg-t",
+    "reference": "C",
+    "mpn": "UMK212BJ104KG-T",
+    "category": "Passive",
+    "type": "SMT capacitor",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "c-0805-2012metric",
+    "symbolId": "c-100n-0805-50v",
+    "footprintId": "c-0805-2012metric",
+    "manufacturerId": "taiyo-yuden",
+    "tagIds": [
+        "0805",
+        "smt",
+        "capacitor",
+        "passive",
+        "ceramic",
+        "mlcc"
+    ]
+}

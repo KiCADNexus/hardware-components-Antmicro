@@ -1,0 +1,12 @@
+{
+    "id": "bat-bat-hld-012-smt-tr",
+    "blendfile": "BAT_BAT-HLD-012-SMT-TR.blend",
+    "previews": [
+        {
+            "id": "iso-front",
+            "description": "Render in iso-front view",
+            "fileName": "isoF.webp",
+            "animations": {}
+        }
+    ]
+}

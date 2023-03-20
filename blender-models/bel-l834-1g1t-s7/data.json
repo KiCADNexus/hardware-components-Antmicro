@@ -1,0 +1,12 @@
+{
+    "id": "bel-l834-1g1t-s7",
+    "blendfile": "BEL_L834-1G1T-S7.blend",
+    "previews": [
+        {
+            "id": "iso-front",
+            "description": "Render in iso-front view",
+            "fileName": "isoF.webp",
+            "animations": {}
+        }
+    ]
+}

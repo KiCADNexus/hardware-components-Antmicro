@@ -1,0 +1,1 @@
+Power Inductor (SMT), 1 µH, 2.1 A, Shielded, 3.1 A, WE-PMCI

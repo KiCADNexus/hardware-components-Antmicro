@@ -1,0 +1,23 @@
+{
+    "id": "murata-blm15px221sn1d",
+    "reference": "FB",
+    "mpn": "BLM15PX221SN1D",
+    "category": "Passive",
+    "type": "Ferrite Bead, 0402 [1005 Metric], 220 ohm, 1.4 A, BLM15PX, 0.1 ohm, \u00b1 25%",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": false,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "fb-0402-1005metric",
+    "symbolId": "blm15px221sn1d",
+    "footprintId": "fb-0402-1005metric",
+    "manufacturerId": "murata",
+    "tagIds": [
+        "0402",
+        "smt",
+        "ferrite-bead",
+        "passive"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "id": "texas-instruments-tps65296rjer",
+    "reference": "U",
+    "mpn": "TPS65296RJER",
+    "category": "IC",
+    "type": "DC/DC switching voltage regulator",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": false,
+        "symbol": false,
+        "footprint": false
+    },
+    "blendfileId": "vqfn-hr",
+    "symbolId": "tps65296",
+    "footprintId": "vqfn-hr",
+    "manufacturerId": "texas-instruments",
+    "tagIds": [
+        "smt",
+        "pmic",
+        "ic",
+        "switching",
+        "voltage",
+        "regulator",
+        "dc-dc"
+    ]
+}

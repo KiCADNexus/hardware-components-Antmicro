@@ -1,0 +1,1 @@
+Mezzanine Connector, Header, 0.4 mm, 2 Rows, 100 Contacts, Surface Mount, Phosphor Bronze

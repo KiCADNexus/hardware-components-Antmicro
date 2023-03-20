@@ -1,0 +1,12 @@
+{
+    "id": "pcie-x16-10025026-10103tlf",
+    "blendfile": "PCIe_x16_10025026-10103TLF.blend",
+    "previews": [
+        {
+            "id": "iso-front",
+            "description": "Render in iso-front view",
+            "fileName": "isoF.webp",
+            "animations": {}
+        }
+    ]
+}

@@ -1,0 +1,1 @@
+Power Load Switch with Level Shift, High Side, Active High, 1 Output, 8V, SSOT-6

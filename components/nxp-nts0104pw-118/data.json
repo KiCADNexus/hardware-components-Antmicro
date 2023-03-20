@@ -1,0 +1,23 @@
+{
+    "id": "nxp-nts0104pw-118",
+    "reference": "U",
+    "mpn": "NTS0104PW,118",
+    "category": "IC",
+    "type": "Transceiver, 1.65 V to 3.6 V, TSSOP-14",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": false,
+        "footprint": false
+    },
+    "blendfileId": "tssop-14-w4-4mm",
+    "symbolId": "nts0104pw-118",
+    "footprintId": "tssop-14-w4-4mm",
+    "manufacturerId": "nxp",
+    "tagIds": [
+        "smt",
+        "level-shifter",
+        "ic",
+        "logic"
+    ]
+}

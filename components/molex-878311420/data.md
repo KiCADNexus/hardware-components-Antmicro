@@ -1,0 +1,1 @@
+Pin Header, Square Pin, Wire-to-Board, 2 mm, 2 Rows, 14 Contacts, Through Hole Straight

@@ -1,0 +1,1 @@
+SMT Chip Resistor, 82 kohm, ± 1%, 125 mW, 1206 [3216 Metric], Thick Film, General Purpose

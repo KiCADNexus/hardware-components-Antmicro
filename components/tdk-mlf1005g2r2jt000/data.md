@@ -1,0 +1,1 @@
+Multilayer Inductor, 2.2 µH, 1.3 ohm, 80 MHz, 30 mA, 0402 [1005 Metric], MLF

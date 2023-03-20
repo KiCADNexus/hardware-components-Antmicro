@@ -1,0 +1,23 @@
+{
+    "id": "nexperia-74lvc1g175gv-125",
+    "reference": "U",
+    "mpn": "74LVC1G175GV,125",
+    "category": "IC",
+    "type": "Flip-Flop, Non Inverted, Positive Edge, 74LVC1G175, D, 300 MHz, 50 mA, SC-74",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "sot-23-6",
+    "symbolId": "74lvc1g175-sot457",
+    "footprintId": "sot-23-6",
+    "manufacturerId": "nexperia",
+    "tagIds": [
+        "smt",
+        "logic",
+        "ic",
+        "gate"
+    ]
+}

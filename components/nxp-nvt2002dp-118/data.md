@@ -1,0 +1,1 @@
+Voltage Level Translator, Bidirectional, 4 Input, 1.5 ns, 0 V to 5.4 V, TSSOP-8

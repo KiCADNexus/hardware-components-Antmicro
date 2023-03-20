@@ -1,0 +1,12 @@
+{
+    "id": "kusbxsl2cs1n24btr",
+    "blendfile": "KUSBXSL2CS1N24BTR.blend",
+    "previews": [
+        {
+            "id": "iso-front",
+            "description": "Render in iso-front view",
+            "fileName": "isoF.webp",
+            "animations": {}
+        }
+    ]
+}

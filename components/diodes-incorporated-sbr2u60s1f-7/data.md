@@ -1,0 +1,1 @@
+Schottky Rectifier, 60 V, 2 A, Single, SOD-123F, 2 Pins, 510 mV

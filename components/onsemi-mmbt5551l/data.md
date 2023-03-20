@@ -1,0 +1,1 @@
+Bipolar (BJT) Single Transistor, General Purpose, NPN, 160 V, 600 mA, 225 mW, SOT-23, Surface Mount

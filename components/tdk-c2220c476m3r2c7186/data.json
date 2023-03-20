@@ -1,0 +1,23 @@
+{
+    "id": "tdk-c2220c476m3r2c7186",
+    "reference": "C",
+    "mpn": "C2220C476M3R2C7186",
+    "category": "Passive",
+    "type": "SMT capacitor",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "c-1210-3225metric",
+    "symbolId": "c-4u7-1210",
+    "footprintId": "c-1210-3225metric",
+    "manufacturerId": "tdk",
+    "tagIds": [
+        "1210",
+        "smt",
+        "capacitor",
+        "passive"
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "id": "xc7k410t-2ffg900i",
+    "blendfile": "xc7k410t-2ffg900I.blend",
+    "previews": [
+        {
+            "id": "iso-front",
+            "description": "Render in iso-front view",
+            "fileName": "isoF.webp",
+            "animations": {}
+        }
+    ]
+}

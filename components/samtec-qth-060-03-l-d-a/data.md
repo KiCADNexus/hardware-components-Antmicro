@@ -1,0 +1,1 @@
+Mezzanine Connector, Ground Plane, Header, 0.5 mm, 2 Rows, 120 Contacts, Surface Mount

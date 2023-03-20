@@ -1,0 +1,23 @@
+{
+    "id": "micro-commercial-components-bzx84c5v1-tp",
+    "reference": "D",
+    "mpn": "BZX84C5V1-TP",
+    "category": "Semiconductor",
+    "type": "Zener diode",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "sot-23-3",
+    "symbolId": "bzx84c5v1-tp",
+    "footprintId": "sot-23-3",
+    "manufacturerId": "micro-commercial-components",
+    "tagIds": [
+        "smt",
+        "diode",
+        "semiconductor",
+        "zener"
+    ]
+}

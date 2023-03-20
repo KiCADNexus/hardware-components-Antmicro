@@ -1,0 +1,24 @@
+{
+    "id": "diodes-incorporated-sbr2u60s1f-7",
+    "reference": "D",
+    "mpn": "SBR2U60S1F-7",
+    "category": "Semiconductor",
+    "type": "Schottky Rectifier, 60 V, 2 A, Single, SOD-123F, 2 Pins, 510 mV",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": false,
+        "symbol": false,
+        "footprint": true
+    },
+    "blendfileId": "sod-123f",
+    "symbolId": "sbr2u60s1f-7",
+    "footprintId": "sod-123f",
+    "manufacturerId": "diodes-incorporated",
+    "tagIds": [
+        "smt",
+        "rectifier",
+        "semiconductor",
+        "diode",
+        "schottky"
+    ]
+}

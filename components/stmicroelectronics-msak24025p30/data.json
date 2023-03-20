@@ -1,0 +1,21 @@
+{
+    "id": "stmicroelectronics-msak24025p30",
+    "reference": "J",
+    "mpn": "MSAK24025P30",
+    "category": "Connector",
+    "type": "FFC connector",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": false,
+        "symbol": false,
+        "footprint": false
+    },
+    "blendfileId": "msak24025p30",
+    "symbolId": "msak24025p30",
+    "footprintId": "msak24025p30",
+    "manufacturerId": "stmicroelectronics",
+    "tagIds": [
+        "ffc",
+        "connector"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "id": "kycon-klpx-0848a-2-y",
+    "reference": "J",
+    "mpn": "KLPX-0848A-2-Y",
+    "category": "Connector",
+    "type": "Barrel audio connector",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": false,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "rca-phono-jack-klpx-0848a-2-y",
+    "symbolId": "rca-phono-jack-klpx-0848a-2-y",
+    "footprintId": "rca-phono-jack-klpx-0848a-2-y",
+    "manufacturerId": "kycon",
+    "tagIds": [
+        "horizontal",
+        "smt",
+        "jack",
+        "connector",
+        "audio"
+    ]
+}

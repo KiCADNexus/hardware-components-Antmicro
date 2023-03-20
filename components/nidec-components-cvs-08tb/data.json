@@ -1,0 +1,23 @@
+{
+    "id": "nidec-components-cvs-08tb",
+    "reference": "SW",
+    "mpn": "CVS-08TB",
+    "category": "Switch",
+    "type": "Slide switch",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": false,
+        "symbol": false,
+        "footprint": true
+    },
+    "blendfileId": "sw-dip-spstx08-slide-copal-cvs-08xb-w5-9mm-p1mm",
+    "symbolId": "cvs-08tb",
+    "footprintId": "sw-dip-spstx08-slide-copal-cvs-08xb-w5-9mm-p1mm",
+    "manufacturerId": "nidec-components",
+    "tagIds": [
+        "horizontal",
+        "smt",
+        "switch",
+        "mechanical"
+    ]
+}

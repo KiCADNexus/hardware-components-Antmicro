@@ -1,0 +1,20 @@
+{
+    "id": "texas-instruments-tps2066tdgnrq1",
+    "reference": "U",
+    "mpn": "TPS2066TDGNRQ1",
+    "category": "IC",
+    "type": "Power switch",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": false,
+        "symbol": true,
+        "footprint": false
+    },
+    "blendfileId": "sop65p490x110-9n",
+    "symbolId": "tps2066tdgnrq1",
+    "footprintId": "sop65p490x110-9n",
+    "manufacturerId": "texas-instruments",
+    "tagIds": [
+        "ic"
+    ]
+}

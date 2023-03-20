@@ -1,0 +1,20 @@
+{
+    "id": "monolithic-power-systems-mp2386gg-p",
+    "reference": "U",
+    "mpn": "MP2386GG-P",
+    "category": "IC",
+    "type": "DC/DC converter",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "qfn-11-2x2mm-p0-5mm",
+    "symbolId": "mp2386gg",
+    "footprintId": "qfn-11-2x2mm-p0-5mm",
+    "manufacturerId": "monolithic-power-systems",
+    "tagIds": [
+        "ic"
+    ]
+}

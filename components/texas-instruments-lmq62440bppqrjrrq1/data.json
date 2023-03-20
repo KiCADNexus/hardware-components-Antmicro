@@ -1,0 +1,26 @@
+{
+    "id": "texas-instruments-lmq62440bppqrjrrq1",
+    "reference": "U",
+    "mpn": "LMQ62440BPPQRJRRQ1",
+    "category": "IC",
+    "type": "DC/DC converter",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": false,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "vqfn-14-hr",
+    "symbolId": "lm62440-q1",
+    "footprintId": "vqfn-14-hr",
+    "manufacturerId": "texas-instruments",
+    "tagIds": [
+        "smt",
+        "pmic",
+        "ic",
+        "switching",
+        "buck",
+        "voltage",
+        "regulator"
+    ]
+}

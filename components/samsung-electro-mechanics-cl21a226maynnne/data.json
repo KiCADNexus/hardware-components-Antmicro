@@ -1,0 +1,23 @@
+{
+    "id": "samsung-electro-mechanics-cl21a226maynnne",
+    "reference": "C",
+    "mpn": "CL21A226MAYNNNE",
+    "category": "Passive",
+    "type": "Capacitor",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "c-0805-2012metric",
+    "symbolId": "c-22u-25v-0805",
+    "footprintId": "c-0805-2012metric",
+    "manufacturerId": "samsung-electro-mechanics",
+    "tagIds": [
+        "0805",
+        "smt",
+        "capacitor",
+        "passive"
+    ]
+}

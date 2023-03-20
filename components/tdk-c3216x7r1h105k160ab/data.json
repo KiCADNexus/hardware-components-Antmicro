@@ -1,0 +1,25 @@
+{
+    "id": "tdk-c3216x7r1h105k160ab",
+    "reference": "C",
+    "mpn": "C3216X7R1H105K160AB",
+    "category": "Passive",
+    "type": "SMT capacitor",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "c-1206-3216metric",
+    "symbolId": "c-1u-1206",
+    "footprintId": "c-1206-3216metric",
+    "manufacturerId": "tdk",
+    "tagIds": [
+        "1206",
+        "smt",
+        "capacitor",
+        "passive",
+        "ceramic",
+        "mlcc"
+    ]
+}

@@ -1,0 +1,1 @@
+Mezzanine Connector, Receptacle, 0.8 mm, 2 Rows, 80 Contacts, Surface Mount, Beryllium Copper

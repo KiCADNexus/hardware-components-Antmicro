@@ -1,0 +1,12 @@
+{
+    "id": "ts5a3359",
+    "blendfile": "TS5A3359.blend",
+    "previews": [
+        {
+            "id": "iso-front",
+            "description": "Render in iso-front view",
+            "fileName": "isoF.webp",
+            "animations": {}
+        }
+    ]
+}

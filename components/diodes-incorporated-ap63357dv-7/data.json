@@ -1,0 +1,23 @@
+{
+    "id": "diodes-incorporated-ap63357dv-7",
+    "reference": "U",
+    "mpn": "AP63357DV-7",
+    "category": "IC",
+    "type": "DC/DC CONV, SYNC BUCK, 450KHZ, 85DEG C",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": false,
+        "symbol": false,
+        "footprint": false
+    },
+    "blendfileId": "v-dfn3020-13",
+    "symbolId": "ap63357dv-7",
+    "footprintId": "v-dfn3020-13",
+    "manufacturerId": "diodes-incorporated",
+    "tagIds": [
+        "smt",
+        "pmic",
+        "ic",
+        "voltage"
+    ]
+}

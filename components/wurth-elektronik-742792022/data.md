@@ -1,0 +1,1 @@
+Ferrite Bead, 0805 [2012 Metric], 220 ohm, 2 A, WE-CBF, 0.05 ohm, ± 25%

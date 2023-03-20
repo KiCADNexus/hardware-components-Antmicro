@@ -1,0 +1,1 @@
+SMT Multilayer Ceramic Capacitor, 0.1 µF, 100 V, 0805 [2012 Metric], ± 10%, X7R, CL

@@ -1,0 +1,1 @@
+DC-DC Switching Boost (Step Up) Regulator, Adjustable, 1.8V-6Vin, 1.8V-28Vout, 400mAout, SOT-23-5

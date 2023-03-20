@@ -1,0 +1,1 @@
+High Frequency Inductor, Multilayer, LQG18PZ Series, 2.2 µH, ± 20 %, 1608 mm, 0.47 Ohm

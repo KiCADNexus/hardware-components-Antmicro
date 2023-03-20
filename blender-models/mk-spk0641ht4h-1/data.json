@@ -1,0 +1,12 @@
+{
+    "id": "mk-spk0641ht4h-1",
+    "blendfile": "MK_SPK0641HT4H-1.blend",
+    "previews": [
+        {
+            "id": "iso-front",
+            "description": "Render in iso-front view",
+            "fileName": "isoF.webp",
+            "animations": {}
+        }
+    ]
+}

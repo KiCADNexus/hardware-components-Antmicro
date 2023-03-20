@@ -1,0 +1,1 @@
+SRAM, Asynchronous SRAM, 8 Mbit, TFBGA, 48 Pins, 2.7 V

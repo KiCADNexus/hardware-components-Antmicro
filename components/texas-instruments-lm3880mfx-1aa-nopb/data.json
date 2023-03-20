@@ -1,0 +1,24 @@
+{
+    "id": "texas-instruments-lm3880mfx-1aa-nopb",
+    "reference": "U",
+    "mpn": "LM3880MFX-1AA/NOPB",
+    "category": "IC",
+    "type": "Power sequencer",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "sot-23-6",
+    "symbolId": "lm3880",
+    "footprintId": "sot-23-6",
+    "manufacturerId": "texas-instruments",
+    "tagIds": [
+        "smt",
+        "pmic",
+        "ic",
+        "power",
+        "sequencer"
+    ]
+}

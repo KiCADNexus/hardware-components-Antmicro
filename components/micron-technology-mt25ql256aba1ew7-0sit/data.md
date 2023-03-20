@@ -1,0 +1,1 @@
+Flash Memory, Serial NOR, 256 Mbit, 32M x 8bit, SPI, MLP, 8 Pins

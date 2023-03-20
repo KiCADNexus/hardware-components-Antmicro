@@ -1,0 +1,1 @@
+Fast / Ultrafast Diode, 200 V, 1 A, Single, 875 mV, 35 ns, 40 A

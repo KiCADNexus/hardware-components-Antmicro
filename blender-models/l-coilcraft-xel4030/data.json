@@ -1,0 +1,12 @@
+{
+    "id": "l-coilcraft-xel4030",
+    "blendfile": "L_Coilcraft_XEL4030.blend",
+    "previews": [
+        {
+            "id": "iso-front",
+            "description": "Render in iso-front view",
+            "fileName": "isoF.webp",
+            "animations": {}
+        }
+    ]
+}

@@ -1,0 +1,1 @@
+Logic IC, AND Gate, Single, 3 Inputs, 6 Pins, SOT-23, 74LVC1G11

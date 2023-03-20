@@ -1,0 +1,12 @@
+{
+    "id": "0805-cap",
+    "blendfile": "0805-cap.blend",
+    "previews": [
+        {
+            "id": "iso-front",
+            "description": "Render in iso-front view",
+            "fileName": "isoF.webp",
+            "animations": {}
+        }
+    ]
+}

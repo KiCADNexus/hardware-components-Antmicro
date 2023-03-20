@@ -1,0 +1,1 @@
+DisplayPort Connector, Mini, 20 Contacts, Receptacle, PCB Mount, Through Hole Right Angle

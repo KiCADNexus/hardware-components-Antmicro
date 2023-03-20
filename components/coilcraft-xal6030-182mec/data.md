@@ -1,0 +1,1 @@
+Power Inductor (SMT), 1.8 µH, 14 A, Shielded, 18.2 A, XAL6030

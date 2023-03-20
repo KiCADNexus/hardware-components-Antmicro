@@ -1,0 +1,12 @@
+{
+    "id": "rj45-7499111121a-horizontal",
+    "blendfile": "RJ45_7499111121A_Horizontal.blend",
+    "previews": [
+        {
+            "id": "iso-front",
+            "description": "Render in iso-front view",
+            "fileName": "isoF.webp",
+            "animations": {}
+        }
+    ]
+}

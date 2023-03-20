@@ -1,0 +1,20 @@
+{
+    "id": "bourns-srp3212a-1r0m",
+    "reference": "L",
+    "mpn": "SRP3212A-1R0M",
+    "category": "Passive",
+    "type": "Fixed inductor",
+    "datasheetUrl": "https://www.mouser.pl/datasheet/2/54/SRP3212A-3011944.pdf",
+    "assets": {
+        "blendfile": false,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "srp3212",
+    "symbolId": "l-1u-5-5a-srp3212",
+    "footprintId": "srp3212",
+    "manufacturerId": "bourns",
+    "tagIds": [
+        "passive"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "id": "nexperia-74ahc1g4212gw-q10h",
+    "reference": "U",
+    "mpn": "74AHC1G4212GW-Q10H",
+    "category": "IC",
+    "type": "IC, QUAD BUFFER",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": false,
+        "footprint": true
+    },
+    "blendfileId": "sot-23-5",
+    "symbolId": "74ahc1g4212",
+    "footprintId": "sot-23-5",
+    "manufacturerId": "nexperia",
+    "tagIds": [
+        "smt",
+        "logic",
+        "ic",
+        "gate"
+    ]
+}

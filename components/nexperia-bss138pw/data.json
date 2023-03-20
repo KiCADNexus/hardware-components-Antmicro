@@ -1,0 +1,24 @@
+{
+    "id": "nexperia-bss138pw",
+    "reference": "Q",
+    "mpn": "BSS138PW",
+    "category": "Semiconductor",
+    "type": "Power MOSFET, N Channel, 60 V, 320 mA, 0.9 ohm, SOT-323, Surface Mount",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": false,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "sc70-3",
+    "symbolId": "bss138pw",
+    "footprintId": "sc70-3",
+    "manufacturerId": "nexperia",
+    "tagIds": [
+        "smt",
+        "transistor",
+        "semiconductor",
+        "mosfet",
+        "nmos"
+    ]
+}

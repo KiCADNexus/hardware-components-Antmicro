@@ -1,0 +1,1 @@
+Memory Card Connector, SD, Push-Push, 11 Contacts, Copper Alloy, Gold Plated Contacts

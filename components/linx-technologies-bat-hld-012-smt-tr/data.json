@@ -1,0 +1,23 @@
+{
+    "id": "linx-technologies-bat-hld-012-smt-tr",
+    "reference": "BAT",
+    "mpn": "BAT-HLD-012-SMT-TR",
+    "category": "Battery",
+    "type": "BATTERY HOLDER, CR1216/1225, SMT",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": false,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "bat-bat-hld-012-smt-tr",
+    "symbolId": "bat-hld-012-smt-tr",
+    "footprintId": "bat-bat-hld-012-smt-tr",
+    "manufacturerId": "linx-technologies",
+    "tagIds": [
+        "horizontal",
+        "smt",
+        "battery",
+        "holder"
+    ]
+}

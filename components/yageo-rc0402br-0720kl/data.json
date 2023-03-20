@@ -1,0 +1,23 @@
+{
+    "id": "yageo-rc0402br-0720kl",
+    "reference": "R",
+    "mpn": "RC0402BR-0720KL",
+    "category": "Passive",
+    "type": "SMT resistor",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": false,
+        "footprint": true
+    },
+    "blendfileId": "r-0402-1005metric",
+    "symbolId": "r-20k-0-1-0402",
+    "footprintId": "r-0402-1005metric",
+    "manufacturerId": "yageo",
+    "tagIds": [
+        "0402",
+        "smt",
+        "resistor",
+        "passive"
+    ]
+}

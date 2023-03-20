@@ -1,0 +1,1 @@
+Video Decoder, SDTV, 8 Channel, 10 Bit, 1.71 to 1.89 V, 172 MSPS, -40 to 85 °C, LFCSP-EP-32

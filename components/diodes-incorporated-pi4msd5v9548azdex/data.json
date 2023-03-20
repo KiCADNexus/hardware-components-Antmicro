@@ -1,0 +1,23 @@
+{
+    "id": "diodes-incorporated-pi4msd5v9548azdex",
+    "reference": "U",
+    "mpn": "PI4MSD5V9548AZDEX",
+    "category": "IC",
+    "type": "Logic signal switch/multiplexer/decoder",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": false,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "vqfn-24-1ep-3-8x3-8x1-0mm-p0-5mm",
+    "symbolId": "pi4msd5v9548azdex",
+    "footprintId": "vqfn-24-1ep-3-8x3-8x1-0mm-p0-5mm",
+    "manufacturerId": "diodes-incorporated",
+    "tagIds": [
+        "smt",
+        "mux",
+        "ic",
+        "i2c"
+    ]
+}

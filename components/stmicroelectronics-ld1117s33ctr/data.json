@@ -1,0 +1,26 @@
+{
+    "id": "stmicroelectronics-ld1117s33ctr",
+    "reference": "U",
+    "mpn": "LD1117S33CTR",
+    "category": "IC",
+    "type": "Fixed LDO Voltage Regulator, 4.75V to 15V, 1.1V Dropout, 3.3Vout, 950mAout, SOT-223-4",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": false,
+        "footprint": false
+    },
+    "blendfileId": "sot-223",
+    "symbolId": "ld1117s33ctr",
+    "footprintId": "sot-223",
+    "manufacturerId": "stmicroelectronics",
+    "tagIds": [
+        "smt",
+        "pmic",
+        "ic",
+        "ldo",
+        "regulator",
+        "linear",
+        "voltage"
+    ]
+}

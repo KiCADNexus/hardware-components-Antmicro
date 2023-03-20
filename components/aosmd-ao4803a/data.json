@@ -1,0 +1,22 @@
+{
+    "id": "aosmd-ao4803a",
+    "reference": "Q",
+    "mpn": "AO4803A",
+    "category": "Semiconductor",
+    "type": "FET/MOSFET transistor array",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": false,
+        "footprint": true
+    },
+    "blendfileId": "soic-8-1ep-5-3x5-3x2mm-p1-27mm",
+    "symbolId": "ao4803a",
+    "footprintId": "soic-8-1ep-5-3x5-3x2mm-p1-27mm",
+    "manufacturerId": "aosmd",
+    "tagIds": [
+        "smt",
+        "transistor",
+        "semiconductor"
+    ]
+}

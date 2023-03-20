@@ -1,0 +1,1 @@
+Analogue Switch, 4 Channels, SPST, 1.5 ohm, 1.6V to 3.6V, QFN, 14 Pins

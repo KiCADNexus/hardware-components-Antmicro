@@ -1,0 +1,1 @@
+Card Edge Connector, Dual Side, 1.57 mm, 80 Contacts, Surface Mount, Right Angle, Solder

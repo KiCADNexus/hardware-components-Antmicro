@@ -1,0 +1,23 @@
+{
+    "id": "texas-instruments-tca9534pwr",
+    "reference": "U",
+    "mpn": "TCA9534PWR",
+    "category": "IC",
+    "type": "Interface I/O expander",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": false,
+        "footprint": true
+    },
+    "blendfileId": "tssop-16-4-4x5mm-p0-65mm",
+    "symbolId": "tca9534pwr",
+    "footprintId": "tssop-16-4-4x5mm-p0-65mm",
+    "manufacturerId": "texas-instruments",
+    "tagIds": [
+        "smt",
+        "interface",
+        "ic",
+        "i2c"
+    ]
+}

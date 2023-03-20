@@ -1,0 +1,1 @@
+Power Management IC, Automotive Camera, 6 V Supply, VQFN-24

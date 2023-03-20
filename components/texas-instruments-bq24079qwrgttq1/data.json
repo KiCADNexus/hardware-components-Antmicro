@@ -1,0 +1,24 @@
+{
+    "id": "texas-instruments-bq24079qwrgttq1",
+    "reference": "U",
+    "mpn": "BQ24079QWRGTTQ1",
+    "category": "IC",
+    "type": "Battery charger",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": false,
+        "footprint": true
+    },
+    "blendfileId": "vqfn-16-1ep-3x3mm-p0-5mm",
+    "symbolId": "bq24079qw-q1",
+    "footprintId": "vqfn-16-1ep-3x3mm-p0-5mm",
+    "manufacturerId": "texas-instruments",
+    "tagIds": [
+        "smt",
+        "pmic",
+        "ic",
+        "management",
+        "battery"
+    ]
+}

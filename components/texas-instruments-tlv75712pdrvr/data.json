@@ -1,0 +1,26 @@
+{
+    "id": "texas-instruments-tlv75712pdrvr",
+    "reference": "U",
+    "mpn": "TLV75712PDRVR",
+    "category": "IC",
+    "type": "Linear voltage regulator",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": false,
+        "footprint": true
+    },
+    "blendfileId": "wson-6-1ep-2x2mm-p0-65mm",
+    "symbolId": "tlv75712pdr",
+    "footprintId": "wson-6-1ep-2x2mm-p0-65mm",
+    "manufacturerId": "texas-instruments",
+    "tagIds": [
+        "smt",
+        "pmic",
+        "ic",
+        "ldo",
+        "linear",
+        "voltage",
+        "regulator"
+    ]
+}

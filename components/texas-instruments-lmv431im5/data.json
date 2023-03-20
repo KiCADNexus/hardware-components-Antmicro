@@ -1,0 +1,24 @@
+{
+    "id": "texas-instruments-lmv431im5",
+    "reference": "U",
+    "mpn": "LMV431IM5",
+    "category": "IC",
+    "type": "VOLTAGE REF, SHUNT, 1.24V-30V, SOT-23-5",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": false,
+        "footprint": true
+    },
+    "blendfileId": "sot-23-5",
+    "symbolId": "lmv431im5",
+    "footprintId": "sot-23-5",
+    "manufacturerId": "texas-instruments",
+    "tagIds": [
+        "smt",
+        "pmic",
+        "ic",
+        "voltage",
+        "controller"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "id": "nordic-semiconductor-nrf8001-r2q32-t",
+    "reference": "U",
+    "mpn": "NRF8001-R2Q32-T",
+    "category": "IC",
+    "type": "RF transceiver IC",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": false,
+        "footprint": true
+    },
+    "blendfileId": "qfn-32-1ep-5x5mm",
+    "symbolId": "nrf8001-r2q32-t",
+    "footprintId": "qfn-32-1ep-5x5mm",
+    "manufacturerId": "nordic-semiconductor",
+    "tagIds": [
+        "smt",
+        "soc",
+        "ic",
+        "bluetooth",
+        "rf"
+    ]
+}

@@ -1,0 +1,1 @@
+Sensor Connector, M12, Male, 4 Positions, PCB Socket, Right Angle Panel Mount

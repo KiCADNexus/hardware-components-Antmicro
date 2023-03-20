@@ -1,0 +1,1 @@
+Memory Card Connector, DDR4, SODIMM, Cam-In Locking, 260 Contacts, Copper Alloy

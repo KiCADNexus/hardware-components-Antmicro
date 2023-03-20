@@ -1,0 +1,1 @@
+DC-DC Switching Buck Step Down Regulator, Adjustable, 2.95V-5.5Vin, 600mV-5.5Vout, 12Aout, HTSSOP-20

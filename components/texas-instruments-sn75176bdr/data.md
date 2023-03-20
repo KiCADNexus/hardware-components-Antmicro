@@ -1,0 +1,1 @@
+RS422 / RS485 Transceiver, 4.75V-5.25V Supply, SOIC-8

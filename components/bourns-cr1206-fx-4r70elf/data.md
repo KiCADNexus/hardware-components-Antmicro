@@ -1,0 +1,1 @@
+SMT Chip Resistor, 4.7 ohm, ± 1%, 125 mW, 1206 [3216 Metric], Thick Film, General Purpose

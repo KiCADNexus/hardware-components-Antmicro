@@ -1,0 +1,24 @@
+{
+    "id": "diodes-incorporated-pds760-13",
+    "reference": "D",
+    "mpn": "PDS760-13",
+    "category": "Semiconductor",
+    "type": "Schottky Rectifier, POWERDI\u00ae, 60 V, 7 A, Single, PowerDI 5, 2 Pins, 620 mV",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": false,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "powerdi5",
+    "symbolId": "pds760",
+    "footprintId": "powerdi5",
+    "manufacturerId": "diodes-incorporated",
+    "tagIds": [
+        "smt",
+        "rectifier",
+        "semiconductor",
+        "diode",
+        "schottky"
+    ]
+}

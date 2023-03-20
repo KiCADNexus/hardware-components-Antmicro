@@ -1,0 +1,23 @@
+{
+    "id": "te-connectivity-2199155-1",
+    "reference": "U",
+    "mpn": "2199155-1",
+    "category": "IC",
+    "type": "Memory Card Connector, DDR4 DIMM, Cam-In Locking, 288 Contacts, Copper Alloy",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": false,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "bus-ddr4-socket-dimm-2199155-1",
+    "symbolId": "bus-ddr4-2199155-1",
+    "footprintId": "bus-ddr4-socket-dimm-2199155-1",
+    "manufacturerId": "te-connectivity",
+    "tagIds": [
+        "smt",
+        "memory",
+        "ic",
+        "ddr"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "id": "kemet-c1210c102kgractu",
+    "reference": "C",
+    "mpn": "C1210C102KGRACTU",
+    "category": "Passive",
+    "type": "SMT capacitor",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "c-1210-3225metric",
+    "symbolId": "c-1n-1210-2kv",
+    "footprintId": "c-1210-3225metric",
+    "manufacturerId": "kemet",
+    "tagIds": [
+        "1210",
+        "smt",
+        "capacitor",
+        "passive",
+        "ceramic",
+        "mlcc"
+    ]
+}

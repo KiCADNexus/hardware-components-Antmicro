@@ -1,0 +1,1 @@
+ESD Protection Device, TVS, 13 V, SOT-553, 5 Pins, 900 mV, SP100

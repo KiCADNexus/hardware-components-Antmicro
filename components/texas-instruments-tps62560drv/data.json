@@ -1,0 +1,26 @@
+{
+    "id": "texas-instruments-tps62560drv",
+    "reference": "U",
+    "mpn": "TPS62560DRV",
+    "category": "IC",
+    "type": "DC/DC converter",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": false,
+        "symbol": false,
+        "footprint": true
+    },
+    "blendfileId": "wson-6-1ep-2x2mm-p0-65mm",
+    "symbolId": "tps62560drv",
+    "footprintId": "wson-6-1ep-2x2mm-p0-65mm",
+    "manufacturerId": "texas-instruments",
+    "tagIds": [
+        "smt",
+        "pmic",
+        "ic",
+        "switching",
+        "voltage",
+        "regulator",
+        "dc-dc"
+    ]
+}

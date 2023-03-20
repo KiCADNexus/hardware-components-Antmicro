@@ -1,0 +1,23 @@
+{
+    "id": "murata-grm21br60j107me15l",
+    "reference": "C",
+    "mpn": "GRM21BR60J107ME15L",
+    "category": "Passive",
+    "type": "SMT capacitor",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "c-0805-2012metric",
+    "symbolId": "c-100u-0805",
+    "footprintId": "c-0805-2012metric",
+    "manufacturerId": "murata",
+    "tagIds": [
+        "0805",
+        "smt",
+        "capacitor",
+        "passive"
+    ]
+}

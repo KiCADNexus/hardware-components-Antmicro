@@ -1,0 +1,24 @@
+{
+    "id": "bel-fuse-0895-2c1r-gvh",
+    "reference": "J",
+    "mpn": "0895-2C1R-GVH",
+    "category": "Connector",
+    "type": "Modular connector with magnetics",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": false,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "0895-2c1r-gvh",
+    "symbolId": "0895-2c1r-gvh",
+    "footprintId": "0895-2c1r-gvh",
+    "manufacturerId": "bel-fuse",
+    "tagIds": [
+        "rj45",
+        "horizontal",
+        "tht",
+        "ethernet",
+        "connector"
+    ]
+}

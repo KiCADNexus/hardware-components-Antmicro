@@ -1,0 +1,1 @@
+LDO Voltage Regulator, Adjustable, 1.7 V to 6 V in, 350 mV Drop, 1.188-1.212 V/2 A out, USP-6C-6

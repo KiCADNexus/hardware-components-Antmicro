@@ -1,0 +1,24 @@
+{
+    "id": "te-connectivity-1-1825027-1",
+    "reference": "SW",
+    "mpn": "1-1825027-1",
+    "category": "Switch",
+    "type": "Tactile switch",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": false,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "sw-tactile-spst-angled-te-1825027",
+    "symbolId": "sw-1-1825027-1",
+    "footprintId": "sw-tactile-spst-angled-te-1825027",
+    "manufacturerId": "te-connectivity",
+    "tagIds": [
+        "horizontal",
+        "smt",
+        "switch",
+        "mechanical",
+        "tactile"
+    ]
+}

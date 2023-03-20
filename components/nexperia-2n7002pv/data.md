@@ -1,0 +1,1 @@
+Power MOSFET, N Channel, 60 V, 350 mA, 1 ohm, SOT-666, Surface Mount

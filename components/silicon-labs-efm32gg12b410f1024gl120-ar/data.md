@@ -1,0 +1,1 @@
+ARM MCU, EFM32 Family EFM32GG Series Microcontrollers, ARM Cortex-M4, 32 bit, 72 MHz, 1 MB

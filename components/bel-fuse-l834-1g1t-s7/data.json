@@ -1,0 +1,24 @@
+{
+    "id": "bel-fuse-l834-1g1t-s7",
+    "reference": "J",
+    "mpn": "L834-1G1T-S7",
+    "category": "Connector",
+    "type": "Modular connector with magnetics",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": false,
+        "symbol": true,
+        "footprint": false
+    },
+    "blendfileId": "bel-l834-1g1t-s7",
+    "symbolId": "l834-1g1t-s7",
+    "footprintId": "bel-l834-1g1t-s7",
+    "manufacturerId": "bel-fuse",
+    "tagIds": [
+        "horizontal",
+        "tht",
+        "filtered",
+        "connector",
+        "ethernet"
+    ]
+}

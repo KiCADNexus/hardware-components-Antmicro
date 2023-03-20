@@ -1,0 +1,23 @@
+{
+    "id": "molex-47151-1001",
+    "reference": "J",
+    "mpn": "47151-1001",
+    "category": "Connector",
+    "type": "HDMI connector, socket, male, 19 pin, gold-plated, horizontal, SMT",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": false,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "47151-1001",
+    "symbolId": "47151-1001",
+    "footprintId": "47151-1001",
+    "manufacturerId": "molex",
+    "tagIds": [
+        "horizontal",
+        "smt",
+        "hdmi",
+        "connector"
+    ]
+}

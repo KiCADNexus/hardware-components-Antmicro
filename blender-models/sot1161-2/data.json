@@ -1,0 +1,12 @@
+{
+    "id": "sot1161-2",
+    "blendfile": "SOT1161-2.blend",
+    "previews": [
+        {
+            "id": "iso-front",
+            "description": "Render in iso-front view",
+            "fileName": "isoF.webp",
+            "animations": {}
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "id": "pot-r0141-2",
+    "blendfile": "POT_R0141-2.blend",
+    "previews": [
+        {
+            "id": "iso-front",
+            "description": "Render in iso-front view",
+            "fileName": "isoF.webp",
+            "animations": {}
+        }
+    ]
+}

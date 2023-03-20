@@ -1,0 +1,1 @@
+Dual MOSFET, N Channel, 50 V, 200 mA, 3.5 ohm

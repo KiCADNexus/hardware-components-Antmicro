@@ -1,0 +1,1 @@
+Power MOSFET, P Channel, 80 V, 2.2 A, 0.216 ohm, TO-236, Surface Mount

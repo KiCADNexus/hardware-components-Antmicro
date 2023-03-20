@@ -1,0 +1,1 @@
+Transceiver, Translating, 74LVC1T45, 74LVC Family, 1.2V to 5.5V Supply, XSON-6

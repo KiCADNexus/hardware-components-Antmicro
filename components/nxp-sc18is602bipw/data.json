@@ -1,0 +1,24 @@
+{
+    "id": "nxp-sc18is602bipw",
+    "reference": "U",
+    "mpn": "SC18IS602BIPW",
+    "category": "IC",
+    "type": "SPI bridge",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "tssop-16-4-4x5mm-p0-65mm",
+    "symbolId": "sc18is602bipw",
+    "footprintId": "tssop-16-4-4x5mm-p0-65mm",
+    "manufacturerId": "nxp",
+    "tagIds": [
+        "smt",
+        "interface",
+        "ic",
+        "i2c",
+        "spi"
+    ]
+}

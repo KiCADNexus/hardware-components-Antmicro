@@ -1,0 +1,26 @@
+{
+    "id": "texas-instruments-lm3674mf-adj-nopbtr-nd",
+    "reference": "U",
+    "mpn": "LM3674MF-ADJ/NOPBTR-ND",
+    "category": "IC",
+    "type": "DC/DC converter",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": false,
+        "symbol": false,
+        "footprint": true
+    },
+    "blendfileId": "sot-23-5",
+    "symbolId": "lm3674mf-adj-nopbtr-nd",
+    "footprintId": "sot-23-5",
+    "manufacturerId": "texas-instruments",
+    "tagIds": [
+        "smt",
+        "pmic",
+        "ic",
+        "switching",
+        "buck",
+        "voltage",
+        "regulator"
+    ]
+}

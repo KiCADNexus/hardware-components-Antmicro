@@ -1,0 +1,12 @@
+{
+    "id": "bga100cp100-17x10-1800x1400x140b46n",
+    "blendfile": "BGA100CP100_17X10_1800X1400X140B46N.blend",
+    "previews": [
+        {
+            "id": "iso-front",
+            "description": "Render in iso-front view",
+            "fileName": "isoF.webp",
+            "animations": {}
+        }
+    ]
+}

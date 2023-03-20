@@ -1,0 +1,24 @@
+{
+    "id": "texas-instruments-lmv431aimf-nopb",
+    "reference": "U",
+    "mpn": "LMV431AIMF_NOPB",
+    "category": "IC",
+    "type": "Voltage Reference, Precision, Shunt",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": false,
+        "symbol": false,
+        "footprint": true
+    },
+    "blendfileId": "sot-23-3",
+    "symbolId": "lmv431aimf-nopb",
+    "footprintId": "sot-23-3",
+    "manufacturerId": "texas-instruments",
+    "tagIds": [
+        "smt",
+        "pmic",
+        "ic",
+        "voltage",
+        "controller"
+    ]
+}

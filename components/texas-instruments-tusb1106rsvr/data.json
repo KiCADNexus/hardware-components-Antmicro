@@ -1,0 +1,20 @@
+{
+    "id": "texas-instruments-tusb1106rsvr",
+    "reference": "U",
+    "mpn": "TUSB1106RSVR",
+    "category": "IC",
+    "type": "Interface controller",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": false,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "uqfn-16-1-8x2-6mm-p0-4mm-texas-rsv0016a",
+    "symbolId": "tusb1106rsvr",
+    "footprintId": "uqfn-16-1-8x2-6mm-p0-4mm-texas-rsv0016a",
+    "manufacturerId": "texas-instruments",
+    "tagIds": [
+        "ic"
+    ]
+}

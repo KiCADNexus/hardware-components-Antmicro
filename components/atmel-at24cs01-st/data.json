@@ -1,0 +1,20 @@
+{
+    "id": "atmel-at24cs01-st",
+    "reference": "U",
+    "mpn": "AT24CS01-ST",
+    "category": "IC",
+    "type": "Memory",
+    "datasheetUrl": "http://ww1.microchip.com/downloads/en/devicedoc/Atmel-8815-SEEPROM-AT24CS01-02-Datasheet.pdf",
+    "assets": {
+        "blendfile": true,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "sot-23-5",
+    "symbolId": "at24cs01-sot23",
+    "footprintId": "sot-23-5",
+    "manufacturerId": "atmel",
+    "tagIds": [
+        "ic"
+    ]
+}

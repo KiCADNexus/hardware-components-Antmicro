@@ -1,0 +1,23 @@
+{
+    "id": "dioo-microcircuits-dio7553st6",
+    "reference": "U",
+    "mpn": "DIO7553ST6",
+    "category": "IC",
+    "type": "Power switch",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": true,
+        "footprint": false
+    },
+    "blendfileId": "sot23-6",
+    "symbolId": "dio7553st6",
+    "footprintId": "sot23-6",
+    "manufacturerId": "dioo-microcircuits",
+    "tagIds": [
+        "smt",
+        "pmic",
+        "ic",
+        "power"
+    ]
+}

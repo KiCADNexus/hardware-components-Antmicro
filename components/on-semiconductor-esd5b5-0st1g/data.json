@@ -1,0 +1,22 @@
+{
+    "id": "on-semiconductor-esd5b5-0st1g",
+    "reference": "D",
+    "mpn": "ESD5B5.0ST1G",
+    "category": "Semiconductor",
+    "type": "TVS diode",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "sod-523",
+    "symbolId": "esd5b5-0st1g",
+    "footprintId": "sod-523",
+    "manufacturerId": "on-semiconductor",
+    "tagIds": [
+        "smt",
+        "diode",
+        "semiconductor"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "id": "lite-on-ltst-c19he1wt",
+    "reference": "D",
+    "mpn": "LTST-C19HE1WT",
+    "category": "Semiconductor",
+    "type": "LED indicator",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": false,
+        "symbol": false,
+        "footprint": false
+    },
+    "blendfileId": "led-dual0603",
+    "symbolId": "ltst-c19he1wt",
+    "footprintId": "led-dual0603",
+    "manufacturerId": "lite-on",
+    "tagIds": [
+        "0603",
+        "smt",
+        "diode",
+        "semiconductor",
+        "led"
+    ]
+}

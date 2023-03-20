@@ -1,0 +1,1 @@
+DC-DC Switching Step Down Regulator, Adjustable, 2.5V-5.5Vin, 1.5 MHz, 0.6V-5.5V/2Aout, SOT-23-5

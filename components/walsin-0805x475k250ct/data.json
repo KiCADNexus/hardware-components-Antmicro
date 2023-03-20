@@ -1,0 +1,23 @@
+{
+    "id": "walsin-0805x475k250ct",
+    "reference": "C",
+    "mpn": "0805X475K250CT",
+    "category": "Passive",
+    "type": "SMT capacitor",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "c-0805-2012metric",
+    "symbolId": "c-4u7-0805",
+    "footprintId": "c-0805-2012metric",
+    "manufacturerId": "walsin",
+    "tagIds": [
+        "0805",
+        "smt",
+        "capacitor",
+        "passive"
+    ]
+}

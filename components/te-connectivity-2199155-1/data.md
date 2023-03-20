@@ -1,0 +1,1 @@
+Memory Card Connector, DDR4 DIMM, Cam-In Locking, 288 Contacts, Copper Alloy

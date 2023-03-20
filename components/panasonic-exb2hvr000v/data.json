@@ -1,0 +1,23 @@
+{
+    "id": "panasonic-exb2hvr000v",
+    "reference": "R",
+    "mpn": "EXB2HVR000V",
+    "category": "Passive",
+    "type": "Zero Ohm Network Resistor, Jumper, 0402 [1005 Metric], Thick Film, Isolated, Convex, 8 Resistors",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": false,
+        "symbol": true,
+        "footprint": false
+    },
+    "blendfileId": "r-array-convex-8x0602",
+    "symbolId": "8x0r-0602-array",
+    "footprintId": "r-array-convex-8x0602",
+    "manufacturerId": "panasonic",
+    "tagIds": [
+        "smt",
+        "resistor",
+        "passive",
+        "array"
+    ]
+}

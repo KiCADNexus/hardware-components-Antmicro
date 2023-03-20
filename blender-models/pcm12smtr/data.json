@@ -1,0 +1,12 @@
+{
+    "id": "pcm12smtr",
+    "blendfile": "PCM12SMTR.blend",
+    "previews": [
+        {
+            "id": "iso-front",
+            "description": "Render in iso-front view",
+            "fileName": "isoF.webp",
+            "animations": {}
+        }
+    ]
+}

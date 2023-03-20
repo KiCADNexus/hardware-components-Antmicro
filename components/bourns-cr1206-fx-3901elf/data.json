@@ -1,0 +1,23 @@
+{
+    "id": "bourns-cr1206-fx-3901elf",
+    "reference": "R",
+    "mpn": "CR1206-FX-3901ELF",
+    "category": "Passive",
+    "type": "SMT Chip Resistor, 3.9 kohm, \u00b1 1%, 250 mW, 1206 [3216 Metric], Thick Film, Precision",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "r-1206-3216metric",
+    "symbolId": "r-3k9-1206",
+    "footprintId": "r-1206-3216metric",
+    "manufacturerId": "bourns",
+    "tagIds": [
+        "1206",
+        "smt",
+        "resistor",
+        "passive"
+    ]
+}

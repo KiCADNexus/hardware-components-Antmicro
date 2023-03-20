@@ -1,0 +1,23 @@
+{
+    "id": "texas-instruments-ne555dr",
+    "reference": "U",
+    "mpn": "NE555DR",
+    "category": "IC",
+    "type": "Precision Timer IC, Timing Microseconds to Hours, TTL, Astable, Monostable, 4.5 V to 16 V, SOIC-8",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": false,
+        "footprint": true
+    },
+    "blendfileId": "soic-8-1ep-3-9x4-9x1-75mm-p1-27mm",
+    "symbolId": "ne555dr",
+    "footprintId": "soic-8-1ep-3-9x4-9x1-75mm-p1-27mm",
+    "manufacturerId": "texas-instruments",
+    "tagIds": [
+        "smt",
+        "oscillator",
+        "ic",
+        "clock"
+    ]
+}

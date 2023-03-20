@@ -1,0 +1,1 @@
+Display Interface, DVI, HDMI, 150 MHz Pixel Rate, 1.8 V to 1.9 V Supply, HVQFN-64

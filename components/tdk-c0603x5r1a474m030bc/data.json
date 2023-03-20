@@ -1,0 +1,23 @@
+{
+    "id": "tdk-c0603x5r1a474m030bc",
+    "reference": "C",
+    "mpn": "C0603X5R1A474M030BC",
+    "category": "Passive",
+    "type": "SMT capacitor",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "c-0201",
+    "symbolId": "c-470n-0201",
+    "footprintId": "c-0201",
+    "manufacturerId": "tdk",
+    "tagIds": [
+        "0201",
+        "smt",
+        "capacitor",
+        "passive"
+    ]
+}

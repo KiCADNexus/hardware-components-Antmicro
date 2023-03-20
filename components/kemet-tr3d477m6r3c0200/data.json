@@ -1,0 +1,23 @@
+{
+    "id": "kemet-tr3d477m6r3c0200",
+    "reference": "C",
+    "mpn": "TR3D477M6R3C0200",
+    "category": "Passive",
+    "type": "Polarized capacitor",
+    "datasheetUrl": "https://www.vishay.com/docs/40080/tr3.pdf",
+    "assets": {
+        "blendfile": true,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "kemet-d",
+    "symbolId": "c-470u-kemet-d",
+    "footprintId": "kemet-d",
+    "manufacturerId": "kemet",
+    "tagIds": [
+        "smt",
+        "capacitor",
+        "passive",
+        "tantalum"
+    ]
+}

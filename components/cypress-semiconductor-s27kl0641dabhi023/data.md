@@ -1,0 +1,1 @@
+DRAM, HyperRAM, 64 Mbit, 8M x 8bit, 100 MHz, FBGA, 24 Pins

@@ -1,0 +1,1 @@
+Ferrite Bead, 0402 [1005 Metric], 600 ohm, 300 mA, MMZ, 0.52 ohm, ± 25%

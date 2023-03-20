@@ -1,0 +1,20 @@
+{
+    "id": "hirose-electric-dm3at-sf-pejm5",
+    "reference": "J",
+    "mpn": "DM3AT-SF-PEJM5",
+    "category": "Connector",
+    "type": "Memory Card Connector, MicroSD, Push-Push, 8 Contacts, Copper Alloy, Gold Plated Contacts, DM3",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": false,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "microsd-dm3at-sf-pejm5",
+    "symbolId": "dm3at-sf-pejm5",
+    "footprintId": "microsd-dm3at-sf-pejm5",
+    "manufacturerId": "hirose-electric",
+    "tagIds": [
+        "smt"
+    ]
+}

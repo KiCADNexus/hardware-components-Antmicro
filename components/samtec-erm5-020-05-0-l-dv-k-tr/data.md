@@ -1,0 +1,1 @@
+Mezzanine Connector, High-Speed, Header, 0.5 mm, 2 Rows, 40 Contacts, Surface Mount

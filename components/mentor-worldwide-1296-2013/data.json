@@ -1,0 +1,23 @@
+{
+    "id": "mentor-worldwide-1296-2013",
+    "reference": "M",
+    "mpn": "1296.2013",
+    "category": "Mechanical",
+    "type": "Light Pipe, Miniature Triple Line, 14.45 mm, 3 Pipes, Circular, PC Board, Transparent",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": false,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "mech-lightpipe-mentor-1296-2013",
+    "symbolId": "mech-lightpipe-mentor-1296-2013",
+    "footprintId": "mech-lightpipe-mentor-1296-2013",
+    "manufacturerId": "mentor-worldwide",
+    "tagIds": [
+        "horizontal",
+        "tht",
+        "mechanical",
+        "module"
+    ]
+}

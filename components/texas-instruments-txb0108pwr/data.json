@@ -1,0 +1,23 @@
+{
+    "id": "texas-instruments-txb0108pwr",
+    "reference": "U",
+    "mpn": "TXB0108PWR",
+    "category": "IC",
+    "type": "Voltage Level Translator, 8 Input, 0.02 mA, 4 ns, 1.2 V to 5.5 V, TSSOP-20",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": false,
+        "footprint": true
+    },
+    "blendfileId": "tssop-20-w4-4mm",
+    "symbolId": "txb0108pwr",
+    "footprintId": "tssop-20-w4-4mm",
+    "manufacturerId": "texas-instruments",
+    "tagIds": [
+        "smt",
+        "logic",
+        "ic",
+        "level-shifter"
+    ]
+}

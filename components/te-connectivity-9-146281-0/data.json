@@ -1,0 +1,24 @@
+{
+    "id": "te-connectivity-9-146281-0",
+    "reference": "A",
+    "mpn": "9-146281-0",
+    "category": "Module",
+    "type": "9-146281-0",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": false,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "arty-a7-shield",
+    "symbolId": "arty-chipkit-connector",
+    "footprintId": "arty-a7-shield",
+    "manufacturerId": "te-connectivity",
+    "tagIds": [
+        "vertical",
+        "tht",
+        "header",
+        "connector",
+        "male"
+    ]
+}

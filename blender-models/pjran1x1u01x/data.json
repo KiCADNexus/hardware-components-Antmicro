@@ -1,0 +1,12 @@
+{
+    "id": "pjran1x1u01x",
+    "blendfile": "PJRAN1X1U01X.blend",
+    "previews": [
+        {
+            "id": "iso-front",
+            "description": "Render in iso-front view",
+            "fileName": "isoF.webp",
+            "animations": {}
+        }
+    ]
+}

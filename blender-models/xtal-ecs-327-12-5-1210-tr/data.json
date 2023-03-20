@@ -1,0 +1,12 @@
+{
+    "id": "xtal-ecs-327-12-5-1210-tr",
+    "blendfile": "XTAL_ECS-.327-12.5-1210-TR.blend",
+    "previews": [
+        {
+            "id": "iso-front",
+            "description": "Render in iso-front view",
+            "fileName": "isoF.webp",
+            "animations": {}
+        }
+    ]
+}

@@ -1,0 +1,1 @@
+Wirewound Inductor, 1 µH, 0.072 ohm, 2.1 A, SRP2010

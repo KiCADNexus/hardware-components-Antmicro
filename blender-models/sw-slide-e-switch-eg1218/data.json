@@ -1,0 +1,12 @@
+{
+    "id": "sw-slide-e-switch-eg1218",
+    "blendfile": "SW_Slide_E-Switch_EG1218.blend",
+    "previews": [
+        {
+            "id": "iso-front",
+            "description": "Render in iso-front view",
+            "fileName": "isoF.webp",
+            "animations": {}
+        }
+    ]
+}

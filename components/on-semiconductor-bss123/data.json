@@ -1,0 +1,23 @@
+{
+    "id": "on-semiconductor-bss123",
+    "reference": "Q",
+    "mpn": "BSS123",
+    "category": "Semiconductor",
+    "type": "Power MOSFET, N Channel, 100 V, 170 mA, 6 ohm, SOT-23, Surface Mount",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "sot-23-3",
+    "symbolId": "bss123",
+    "footprintId": "sot-23-3",
+    "manufacturerId": "on-semiconductor",
+    "tagIds": [
+        "smt",
+        "transistor",
+        "semiconductor",
+        "nmos"
+    ]
+}

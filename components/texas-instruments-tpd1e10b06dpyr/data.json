@@ -1,0 +1,24 @@
+{
+    "id": "texas-instruments-tpd1e10b06dpyr",
+    "reference": "D",
+    "mpn": "TPD1E10B06DPYR",
+    "category": "Semiconductor",
+    "type": "TVS diode",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": false,
+        "footprint": true
+    },
+    "blendfileId": "xdfn-2-1x0-60mm",
+    "symbolId": "tpd1e10b06dpyr",
+    "footprintId": "xdfn-2-1x0-60mm",
+    "manufacturerId": "texas-instruments",
+    "tagIds": [
+        "smt",
+        "diode",
+        "semiconductor",
+        "tvs",
+        "esd"
+    ]
+}

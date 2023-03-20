@@ -1,0 +1,1 @@
+Schottky Rectifier, 20 V, 500 mA, Single, SOD-123, 2 Pins, 385 mV

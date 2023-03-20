@@ -1,0 +1,1 @@
+Power MOSFET, N Channel, 60 V, 380 mA, 1.8 ohm, DFN1006, Surface Mount

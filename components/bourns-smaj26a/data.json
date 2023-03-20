@@ -1,0 +1,24 @@
+{
+    "id": "bourns-smaj26a",
+    "reference": "D",
+    "mpn": "SMAJ26A",
+    "category": "Semiconductor",
+    "type": "TVS diode",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": false,
+        "footprint": true
+    },
+    "blendfileId": "do-214ac",
+    "symbolId": "smaj26a",
+    "footprintId": "do-214ac",
+    "manufacturerId": "bourns",
+    "tagIds": [
+        "smt",
+        "diode",
+        "semiconductor",
+        "tvs",
+        "esd"
+    ]
+}

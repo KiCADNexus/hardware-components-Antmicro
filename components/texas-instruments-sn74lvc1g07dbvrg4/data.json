@@ -1,0 +1,24 @@
+{
+    "id": "texas-instruments-sn74lvc1g07dbvrg4",
+    "reference": "U",
+    "mpn": "SN74LVC1G07DBVRG4",
+    "category": "IC",
+    "type": "Buffer / Driver, 74LVC1G07, 1.65 V to 5.5 V, SOT-23-5",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": false,
+        "footprint": true
+    },
+    "blendfileId": "sot-753",
+    "symbolId": "sn74lvc1g07dbvrg4",
+    "footprintId": "sot-753",
+    "manufacturerId": "texas-instruments",
+    "tagIds": [
+        "smt",
+        "logic",
+        "ic",
+        "buffer",
+        "transceiver"
+    ]
+}

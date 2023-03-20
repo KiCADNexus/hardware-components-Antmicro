@@ -1,0 +1,20 @@
+{
+    "id": "semtech-gs2988-ine3",
+    "reference": "U",
+    "mpn": "GS2988-INE3",
+    "category": "IC",
+    "type": "SDI driver",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "qfn-16-1ep-4x4mm-p0-65mm",
+    "symbolId": "gs2988",
+    "footprintId": "qfn-16-1ep-4x4mm-p0-65mm",
+    "manufacturerId": "semtech",
+    "tagIds": [
+        "ic"
+    ]
+}

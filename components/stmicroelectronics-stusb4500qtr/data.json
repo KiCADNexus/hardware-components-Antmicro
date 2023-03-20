@@ -1,0 +1,23 @@
+{
+    "id": "stmicroelectronics-stusb4500qtr",
+    "reference": "U",
+    "mpn": "STUSB4500QTR",
+    "category": "IC",
+    "type": "USB TYPE-C PD CTRL, -40 TO 105DEG C",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": false,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "qfn50p400x400x90-25n",
+    "symbolId": "stusb4500qtr",
+    "footprintId": "qfn50p400x400x90-25n",
+    "manufacturerId": "stmicroelectronics",
+    "tagIds": [
+        "smt",
+        "interface",
+        "ic",
+        "usb"
+    ]
+}

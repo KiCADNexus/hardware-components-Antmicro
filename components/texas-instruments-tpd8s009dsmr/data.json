@@ -1,0 +1,24 @@
+{
+    "id": "texas-instruments-tpd8s009dsmr",
+    "reference": "U",
+    "mpn": "TPD8S009DSMR",
+    "category": "IC",
+    "type": "ESD Protection Device, SON, 15 Pins, 5.5 V, TPD8S",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": false,
+        "symbol": true,
+        "footprint": false
+    },
+    "blendfileId": "r-pdso-n15-ti",
+    "symbolId": "tpd8s009dsmr",
+    "footprintId": "r-pdso-n15-ti",
+    "manufacturerId": "texas-instruments",
+    "tagIds": [
+        "smt",
+        "diode",
+        "ic",
+        "tvs",
+        "esd"
+    ]
+}

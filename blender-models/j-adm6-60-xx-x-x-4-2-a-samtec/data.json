@@ -1,0 +1,12 @@
+{
+    "id": "j-adm6-60-xx-x-x-4-2-a-samtec",
+    "blendfile": "J_ADM6-60-xx.x-x-4-2-A_SAMTEC.blend",
+    "previews": [
+        {
+            "id": "iso-front",
+            "description": "Render in iso-front view",
+            "fileName": "isoF.webp",
+            "animations": {}
+        }
+    ]
+}

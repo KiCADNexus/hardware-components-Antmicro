@@ -1,0 +1,1 @@
+Power Inductor (SMT), 4.7 µH, 2.8 A, Shielded, 5 A, IHLP-2020BZ-01, 2020 [5050 Metric]

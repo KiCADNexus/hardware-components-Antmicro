@@ -1,0 +1,24 @@
+{
+    "id": "texas-instruments-iso1641bdr",
+    "reference": "U",
+    "mpn": "ISO1641BDR",
+    "category": "IC",
+    "type": "Optoisolator",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": false,
+        "footprint": true
+    },
+    "blendfileId": "soic-8-1ep-3-9x4-9x1-75mm-p1-27mm",
+    "symbolId": "iso1641",
+    "footprintId": "soic-8-1ep-3-9x4-9x1-75mm-p1-27mm",
+    "manufacturerId": "texas-instruments",
+    "tagIds": [
+        "smt",
+        "optocoupler",
+        "ic",
+        "interface",
+        "i2c"
+    ]
+}

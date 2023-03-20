@@ -1,0 +1,20 @@
+{
+    "id": "molex-22-23-2021",
+    "reference": "J",
+    "mpn": "22-23-2021",
+    "category": "Connector",
+    "type": "Rectangular connector (header, female pins)",
+    "datasheetUrl": "https://media.digikey.com/pdf/Data%20Sheets/Molex%20PDFs/A-6373-N_Series_Dwg_2010-12-03.pdf",
+    "assets": {
+        "blendfile": false,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "pinheader-1x2-p2-54mm-drill1-02mm-latch",
+    "symbolId": "pinheader-1x2-p2-54mm-drill1-02mm-latch",
+    "footprintId": "pinheader-1x2-p2-54mm-drill1-02mm-latch",
+    "manufacturerId": "molex",
+    "tagIds": [
+        "connector"
+    ]
+}

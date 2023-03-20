@@ -1,0 +1,23 @@
+{
+    "id": "panasonic-exb-28v331jx",
+    "reference": "R",
+    "mpn": "EXB-28V331JX",
+    "category": "Passive",
+    "type": "Fixed Network Resistor, 330 ohm, Isolated, 4 Resistors, 0804 [2010 Metric], Convex, \u00b1 5%",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": false,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "r-array-4x0402",
+    "symbolId": "r-4x330r-0402-array",
+    "footprintId": "r-array-4x0402",
+    "manufacturerId": "panasonic",
+    "tagIds": [
+        "0402",
+        "smt",
+        "resistor",
+        "passive"
+    ]
+}

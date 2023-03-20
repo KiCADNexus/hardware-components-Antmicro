@@ -1,0 +1,21 @@
+{
+    "id": "murata-lqg15hs47nj02d",
+    "reference": "L",
+    "mpn": "LQG15HS47NJ02D",
+    "category": "Passive",
+    "type": "Inductor",
+    "datasheetUrl": "https://www.mouser.pl/datasheet/2/281/1/JELF243B_0010-1699614.pdf",
+    "assets": {
+        "blendfile": false,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "l-0402-1005metric",
+    "symbolId": "l-47n-0402-lqg15hs47nj02d",
+    "footprintId": "l-0402-1005metric",
+    "manufacturerId": "murata",
+    "tagIds": [
+        "inductor",
+        "passive"
+    ]
+}

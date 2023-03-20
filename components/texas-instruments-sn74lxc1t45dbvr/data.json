@@ -1,0 +1,24 @@
+{
+    "id": "texas-instruments-sn74lxc1t45dbvr",
+    "reference": "U",
+    "mpn": "SN74LXC1T45DBVR",
+    "category": "IC",
+    "type": "Logic translator/level shifter",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "sot-23-6",
+    "symbolId": "sn74lxc1t45dbvr",
+    "footprintId": "sot-23-6",
+    "manufacturerId": "texas-instruments",
+    "tagIds": [
+        "smt",
+        "logic",
+        "ic",
+        "level-shifter",
+        "voltage"
+    ]
+}

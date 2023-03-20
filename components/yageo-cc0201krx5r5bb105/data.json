@@ -1,0 +1,25 @@
+{
+    "id": "yageo-cc0201krx5r5bb105",
+    "reference": "C",
+    "mpn": "CC0201KRX5R5BB105",
+    "category": "Passive",
+    "type": "SMT capacitor",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": true,
+        "symbol": true,
+        "footprint": true
+    },
+    "blendfileId": "c-0201",
+    "symbolId": "c-1u-0201",
+    "footprintId": "c-0201",
+    "manufacturerId": "yageo",
+    "tagIds": [
+        "0201",
+        "smt",
+        "capacitor",
+        "passive",
+        "mlcc",
+        "ceramic"
+    ]
+}

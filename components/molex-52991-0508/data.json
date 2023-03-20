@@ -1,0 +1,23 @@
+{
+    "id": "molex-52991-0508",
+    "reference": "J",
+    "mpn": "52991-0508",
+    "category": "Connector",
+    "type": "Mezzanine Connector, Receptacle, 0.5mm, 2Rows, 50Contacts, Surface Mount, Phosphor Bronze",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": false,
+        "symbol": false,
+        "footprint": false
+    },
+    "blendfileId": "529910508",
+    "symbolId": "52991-0508",
+    "footprintId": "529910508",
+    "manufacturerId": "molex",
+    "tagIds": [
+        "vertical",
+        "smt",
+        "header",
+        "connector"
+    ]
+}

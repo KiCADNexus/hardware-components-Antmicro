@@ -1,0 +1,24 @@
+{
+    "id": "toshiba-ssm3k15act-l3f",
+    "reference": "Q",
+    "mpn": "SSM3K15ACT,L3F",
+    "category": "Semiconductor",
+    "type": "FET/MOSFET transistor",
+    "datasheetUrl": null,
+    "assets": {
+        "blendfile": false,
+        "symbol": true,
+        "footprint": false
+    },
+    "blendfileId": "ssm3k15act",
+    "symbolId": "ssm3k15act",
+    "footprintId": "ssm3k15act",
+    "manufacturerId": "toshiba",
+    "tagIds": [
+        "smt",
+        "transistor",
+        "semiconductor",
+        "mosfet",
+        "nmos"
+    ]
+}
