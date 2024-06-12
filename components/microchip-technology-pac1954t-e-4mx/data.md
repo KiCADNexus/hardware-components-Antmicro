@@ -1,1 +1,0 @@
-Power Monitor, Accumulator, 2.7 V to 5.5 V, -40 °C to 125 °C, VQFN-16

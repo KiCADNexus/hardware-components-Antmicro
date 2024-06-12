@@ -1,1 +1,0 @@
-FFC / FPC Board Connector, Right Angle, 0.5 mm, 50 Contacts, Receptacle, Surface Mount, Top

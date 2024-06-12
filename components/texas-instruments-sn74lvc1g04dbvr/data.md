@@ -1,1 +1,0 @@
-Logic IC, Inverter, Single, 1 Inputs, 5 Pins, SOT-23, 74LVC1G04

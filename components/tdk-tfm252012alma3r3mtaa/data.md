@@ -1,1 +1,0 @@
-Thin Film Inductor, AEC-Q200, 3.3 µH, 0.14 ohm, 2.2 A, 1008 [2520 Metric], TFM-ALMA

@@ -1,1 +1,0 @@
-Voltage Level Translator, 4 Input, 4 ns, 1.2 V to 5.5 V, UQFN-12

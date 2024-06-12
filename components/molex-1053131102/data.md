@@ -1,1 +1,0 @@
-Pin Header, Power, 2.5 mm, 1 Rows, 2 Contacts, Through Hole Right Angle, Nano-Fit 105313

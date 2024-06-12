@@ -1,1 +1,0 @@
-RF / Coaxial Connector, U.FL Coaxial, Straight Jack, Surface Mount Vertical, 50 ohm, Brass
