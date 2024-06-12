@@ -1,0 +1,11 @@
+{
+    "blendfile": "C_Pol_Vishay-1821-D8.8mm-H9.6mm.blend",
+    "previews": [
+        {
+            "id": "iso-front",
+            "description": "Render in iso-front view",
+            "fileName": "isoF.webp",
+            "animations": {}
+        }
+    ]
+}

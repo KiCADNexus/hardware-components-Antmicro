@@ -1,0 +1,11 @@
+{
+    "blendfile": "4x0R_0402_array_EXB28V.blend",
+    "previews": [
+        {
+            "id": "iso-front",
+            "description": "Render in iso-front view",
+            "fileName": "isoF.webp",
+            "animations": {}
+        }
+    ]
+}
