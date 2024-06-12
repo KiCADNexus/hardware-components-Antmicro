@@ -1,0 +1,13 @@
+{
+    "reference": "Q",
+    "symbol": "FZT605TA",
+    "footprint": "SOT-223",
+    "datasheet": "https://www.diodes.com/assets/Datasheets/FZT605.pdf",
+    "manufacturer": "Diodes Incorporated",
+    "mpn": "FZT605TA",
+    "description": "Darlington ransistor NPN",
+    "keywords": "SMT, TRANSISTOR, SEMICONDUCTOR, BIPOLAR",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "SOT-223"
+}

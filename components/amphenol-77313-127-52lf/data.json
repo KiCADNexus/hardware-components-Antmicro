@@ -1,0 +1,13 @@
+{
+    "reference": "J",
+    "symbol": "PinHeader_2x26_P2.54mm_Drill1.1mm",
+    "footprint": "PinHeader_2x26_P2.54mm_Drill1.1mm",
+    "datasheet": "https://cdn.amphenol-cs.com/media/wysiwyg/files/documentation/datasheet/boardwiretoboard/bwb_bergstik.pdf",
+    "manufacturer": "Amphenol",
+    "mpn": "77313-127-52LF",
+    "description": "Pin Header, Vertical, Board-to-Board, 2.54 mm, 2 Rows, 52 Contacts, Through Hole Straight",
+    "keywords": "HEADER, CONNECTOR, THT, MALE",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "PinHeader_2x26_P2.54mm_Drill1.1mm"
+}

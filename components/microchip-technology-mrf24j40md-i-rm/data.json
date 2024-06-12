@@ -1,0 +1,13 @@
+{
+    "reference": "A",
+    "symbol": "ZigBee_MRF24J40MD",
+    "footprint": "Zigbee_Module_MRF24J40MD",
+    "datasheet": "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en568918",
+    "manufacturer": "Microchip Technology",
+    "mpn": "MRF24J40MD-I/RM",
+    "description": "RF Transceiver Module, 19Dbm, 2.475 GHz",
+    "keywords": "MODULE",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": null
+}

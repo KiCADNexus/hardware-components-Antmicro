@@ -1,0 +1,13 @@
+{
+    "reference": "A",
+    "symbol": "Bluetooth_BC118_1103394",
+    "footprint": "Bluetooth_Module_BC118_1103394",
+    "datasheet": "https://media.digikey.com/pdf/Data%20Sheets/BlueCreation%20PDFs/BC118_DS.pdf",
+    "manufacturer": "Sierra Wireless",
+    "mpn": "BC118_1103394",
+    "description": "RF transceiver module",
+    "keywords": "MODULE",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": null
+}

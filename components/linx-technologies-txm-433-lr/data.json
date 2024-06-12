@@ -1,0 +1,13 @@
+{
+    "reference": "U",
+    "symbol": "RF_TXM-433-LR",
+    "footprint": "RF_Module_TXM-433-LR",
+    "datasheet": "https://eu.mouser.com/datasheet/2/418/9/LNNC_S_A0004847264_1-3237809.pdf",
+    "manufacturer": "Linx Technologies",
+    "mpn": "TXM-433-LR",
+    "description": "RF transmitter",
+    "keywords": "IC, MODULE",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": null
+}

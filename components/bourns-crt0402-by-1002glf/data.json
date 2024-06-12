@@ -1,0 +1,13 @@
+{
+    "reference": "R",
+    "symbol": "R_10k_0.1%_0402",
+    "footprint": "R_0402_1005Metric",
+    "datasheet": "https://www.mouser.com/datasheet/2/54/CRT-1649066.pdf",
+    "manufacturer": "Bourns",
+    "mpn": "CRT0402-BY-1002GLF ",
+    "description": "SMD Chip Resistor, 10 kohm, \u00b1 0.1%, 62.5 mW, 0402 [1005 Metric], Thin Film, Precision Resistors \t",
+    "keywords": "0402, SMT, RESISTOR, PASSIVE",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "R_0402_1005Metric"
+}

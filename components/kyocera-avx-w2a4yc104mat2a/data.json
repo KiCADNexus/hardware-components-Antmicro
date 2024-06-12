@@ -1,0 +1,13 @@
+{
+    "reference": "C",
+    "symbol": "C_4x100nF_0508_1220Metric_array",
+    "footprint": "C_Array_0508_1220Metric",
+    "datasheet": "https://spicat.kyocera-avx.com/product/mlcc/chartview/W2A4YC104MAT2A/",
+    "manufacturer": "KYOCERA AVX",
+    "mpn": "W2A4YC104MAT2A",
+    "description": "4x0.1\u00b5F isolated capacitor array 16 V X7R 0508 (1220 Metric)",
+    "keywords": "SMT, CAPACITOR, PASSIVE, ARRAY",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "C_Array_0508_1220Metric"
+}

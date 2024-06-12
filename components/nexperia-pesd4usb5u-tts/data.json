@@ -1,0 +1,13 @@
+{
+    "reference": "D",
+    "symbol": "PESD4USB5U-TTS",
+    "footprint": "DFN-10_2.5x1mm",
+    "datasheet": "https://assets.nexperia.com/documents/data-sheet/PESD4USB5U-TTS.pdf",
+    "manufacturer": "Nexperia",
+    "mpn": "PESD4USB5U-TTS",
+    "description": "TVS diode array, 15kV, DFN-10, 5 V, 0.5 pF",
+    "keywords": "SMT, DIODE, SEMICONDUCTOR, TVS, ESD",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "DFN-10_2.5x1mm"
+}

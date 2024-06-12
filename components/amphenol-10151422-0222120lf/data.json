@@ -1,0 +1,13 @@
+{
+    "reference": "J",
+    "symbol": "PCIe_x16_10151422-0222120LF",
+    "footprint": "PCIe_x16_10151422-0222120LF",
+    "datasheet": "https://cdn.amphenol-cs.com/media/wysiwyg/files/drawing/10151422.pdf",
+    "manufacturer": "Amphenol",
+    "mpn": "10151422-0222120LF",
+    "description": "164 Position Horizontal Female Connector PCI Express Gold 0.039\" (1.00mm) Black",
+    "keywords": "CONNECTOR",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "PCIe_x16_10151422-0222120LF"
+}

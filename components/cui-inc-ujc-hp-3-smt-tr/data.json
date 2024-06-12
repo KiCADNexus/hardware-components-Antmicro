@@ -1,0 +1,13 @@
+{
+    "reference": "J",
+    "symbol": "USB-C_CUI_UJC-HP-3-SMT-TR",
+    "footprint": "USB-C_Receptacle_CUI_UJC-HP-3-SMT-TR",
+    "datasheet": "https://www.cuidevices.com/product/resource/ujc-hp-3-smt-tr.pdf",
+    "manufacturer": "CUI Inc",
+    "mpn": "UJC-HP-3-SMT-TR",
+    "description": "USB-C (USB TYPE-C) Receptacle Connector 24 (6+18 Dummy) Position Surface Mount, Right Angle",
+    "keywords": "USB, CONNECTOR, SMT, HORIZONTAL",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "USB-C_Receptacle_CUI_UJC-HP-3-SMT-TR"
+}

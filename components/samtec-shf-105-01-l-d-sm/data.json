@@ -1,0 +1,13 @@
+{
+    "reference": "J",
+    "symbol": "PinHeader_2x5_P1.27mm_SMD_Shrouded",
+    "footprint": "PinHeader_2x5_P1.27mm_SMD_Shrouded",
+    "datasheet": "https://eu.mouser.com/datasheet/2/527/shf-1370134.pdf",
+    "manufacturer": "Samtec",
+    "mpn": "SHF-105-01-L-D-SM",
+    "description": "Headers & Wire Housings Shrouded Terminal Strip, 0.050\" pitch",
+    "keywords": "SMT, HEADER, CONNECTOR",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "PinHeader_2x5_P1.27mm_SMD_Shrouded"
+}

@@ -1,0 +1,13 @@
+{
+    "reference": "U",
+    "symbol": "SC606T",
+    "footprint": "Quectel_SC606T",
+    "datasheet": "https://www.quectel.com/product/lte-sc606t-smart-module-series",
+    "manufacturer": "Quectel",
+    "mpn": "SC606T-WF",
+    "description": "Qualcomm\u00ae octa-core ARM Cortex-A53 64-bit CPU + AdrenoTM 506 GPU",
+    "keywords": "MODULE",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "Quectel_SC606T"
+}

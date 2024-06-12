@@ -1,0 +1,13 @@
+{
+    "reference": "A",
+    "symbol": "Mech_SolidRun_LX2160A-CEX7",
+    "footprint": "Mech_SolidRun_LX2160A-CEX7",
+    "datasheet": "https://www.solid-run.com/embedded-networking/nxp-lx2160a-family/cex7-lx2160/#documentation",
+    "manufacturer": "SolidRun",
+    "mpn": "SRX2160S01D00GE064V21C0",
+    "description": "Single Board Computer 2GHz 16 Core 0GB/0GB RAM ARM Cortex-A72",
+    "keywords": "MODULE",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "Mech_SolidRun_LX2160A-CEX7"
+}

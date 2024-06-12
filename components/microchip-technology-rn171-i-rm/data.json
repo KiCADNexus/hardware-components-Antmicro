@@ -1,0 +1,13 @@
+{
+    "reference": "A",
+    "symbol": "WiFi_RN171-I_RM",
+    "footprint": "WiFi_Module_RN171",
+    "datasheet": "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en558063",
+    "manufacturer": "Microchip Technology",
+    "mpn": "RN171-I/RM",
+    "description": "Wireless LAN Module, 802.11 b/g, 2.4 GHz, Drop-in Wi-Fi Solution, On-board TCP/IP stack",
+    "keywords": "MODULE",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": null
+}

@@ -1,0 +1,13 @@
+{
+    "reference": "U",
+    "symbol": "IP4856CX25_CZ",
+    "footprint": "WLCSP-25_2.05x2.05mm_Layout5x5_P0.4x0.4mm_NSMD",
+    "datasheet": "https://assets.nexperia.com/documents/data-sheet/IP4856CX25_C.pdf",
+    "manufacturer": "Nexperia",
+    "mpn": "IP4856CX25/CZ",
+    "description": "Level shifter",
+    "keywords": "IC",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "WLCSP-25_2.05x2.05mm_Layout5x5_P0.4x0.4mm_NSMD"
+}

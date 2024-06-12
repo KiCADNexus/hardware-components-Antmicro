@@ -1,0 +1,13 @@
+{
+    "reference": "J",
+    "symbol": "Amphenol_RJE361882415",
+    "footprint": "RJ45_RJE361882415",
+    "datasheet": "https://cdn.amphenol-cs.com/media/wysiwyg/files/drawing/p-rje36-188-2xx5.pdf",
+    "manufacturer": "Amphenol",
+    "mpn": "RJE361882415",
+    "description": "Modular Connectors / Ethernet Connectors MODULAR JACK",
+    "keywords": "THT, CONNECTOR",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "RJ45_RJE361882415"
+}

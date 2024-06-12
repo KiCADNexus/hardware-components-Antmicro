@@ -1,0 +1,13 @@
+{
+    "reference": "J",
+    "symbol": "BarrelJack_Pin2.5mm_PJ-063BH",
+    "footprint": "BarrelJack_Pin2.5mm_PJ-063BH",
+    "datasheet": "https://www.mouser.com/datasheet/2/670/pj_063bh-1778662.pdf",
+    "manufacturer": "CUI Inc",
+    "mpn": "PJ-063BH",
+    "description": "Power Barrel Connector Jack 2.10mm ID (0.083\"), 5.50mm OD (0.217\") Through Hole, Right Angle",
+    "keywords": "CONNECTOR, POWER",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "BarrelJack_Pin2.5mm_PJ-063BH"
+}

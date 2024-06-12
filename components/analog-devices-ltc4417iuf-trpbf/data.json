@@ -1,0 +1,13 @@
+{
+    "reference": "U",
+    "symbol": "LTC4417_QFN",
+    "footprint": "QFN-24-1EP_4x4mm_P0.5_EP2.1x2.1mm",
+    "datasheet": "https://www.mouser.com/datasheet/2/609/4417f-1271526.pdf",
+    "manufacturer": "Analog Devices",
+    "mpn": "LTC4417IUF#TRPBF",
+    "description": "OR Controller Source Selector Switch P-Channel 3:1 24-QFN (4x4)",
+    "keywords": "CONTROLLER",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "QFN-24-1EP_4x4mm_P0.5_EP2.1x2.1mm"
+}

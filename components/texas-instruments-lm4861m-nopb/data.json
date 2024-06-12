@@ -1,0 +1,13 @@
+{
+    "reference": "U",
+    "symbol": "LM4861M",
+    "footprint": "SOIC-8-1EP_3.9x4.9x1.75mm_P1.27mm",
+    "datasheet": "https://www.ti.com/lit/ds/symlink/lm4861.pdf?ts=1717756748393&ref_url=https%253A%252F%252Feu.mouser.com%252F",
+    "manufacturer": "Texas Instruments",
+    "mpn": "LM4861M/NOPB",
+    "description": "Audio Amplifiers 1.1W AUDIO POWER AMP",
+    "keywords": "SMT, INTERFACE, IC, POWER, AMP, AUDIO",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "SOIC-8-1EP_3.9x4.9x1.75mm_P1.27mm-texas-instruments-lm4861m-nopb"
+}

@@ -1,0 +1,13 @@
+{
+    "reference": "U",
+    "symbol": "ADC101C027CIMK",
+    "footprint": "SOT-23-6",
+    "datasheet": "https://www.ti.com/lit/ds/symlink/adc101c027.pdf",
+    "manufacturer": "Texas Instruments",
+    "mpn": "ADC101C027CIMK/NOPB",
+    "description": "Analog to Digital Converter, 10 bit, 188.9 kSPS, Single Ended, 2 Wire, I2C, Serial, Single",
+    "keywords": "ADC, I2C",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "SOT-23-6"
+}

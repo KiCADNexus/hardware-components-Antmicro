@@ -1,0 +1,13 @@
+{
+    "reference": "U",
+    "symbol": "TLV73310PDBVT",
+    "footprint": "SOT-23-5",
+    "datasheet": "https://www.ti.com/lit/ds/symlink/tlv733p.pdf",
+    "manufacturer": "Texas Instruments",
+    "mpn": "TLV73310PDBVT",
+    "description": "Fixed LDO Voltage Regulator, 1.4V to 5.5V, 122mV Dropout, 1Vout, 300mAout, SOT-23-5",
+    "keywords": "SMT, PMIC, IC, LDO, LINEAR, VOLTAGE, REGULATOR",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "SOT-23-5"
+}

@@ -1,0 +1,13 @@
+{
+    "reference": "J",
+    "symbol": "PinHeader_2x7_P2mm_SMD_Shrouded_no-locator",
+    "footprint": "PinHeader_2x7_P2mm_SMD_Shrouded_no-locator",
+    "datasheet": "https://www.molex.com/pdm_docs/ps/PS-87831-027-001.pdf",
+    "manufacturer": "Molex",
+    "mpn": "878321412",
+    "description": "Pin Header, Signal, Wire-to-Board, 2 mm, 2 Rows, 14 Contacts, Surface Mount Straight",
+    "keywords": "PINSTRIP, HEADER ",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "PinHeader_2x7_P2mm_SMD_Shrouded_no-locator"
+}

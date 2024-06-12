@@ -1,0 +1,13 @@
+{
+    "reference": "Q",
+    "symbol": "Si7223DN",
+    "footprint": "Vishay_PowerPAK_1212-8_Dual",
+    "datasheet": "https://www.farnell.com/datasheets/2606257.pdf",
+    "manufacturer": "Vishay",
+    "mpn": "SI7223DN-T1-GE3",
+    "description": "Dual MOSFET, P Channel, 30 V, 30 V, 6 A, 6 A, 0.022 ohm",
+    "keywords": "SEMICONDUCTOR",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "Vishay_PowerPAK_1212-8_Dual"
+}

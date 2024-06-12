@@ -1,0 +1,13 @@
+{
+    "reference": "U",
+    "symbol": "AP7366_SOT",
+    "footprint": "SOT-23-5",
+    "datasheet": "https://eu.mouser.com/datasheet/2/115/DIOD_S_A0008990195_1-2543120.pdf",
+    "manufacturer": "Diodes Incorporated",
+    "mpn": "AP7366-W5-7",
+    "description": "LDO Voltage Regulators LDO CMOS HiCurr SOT25 T&R 3K",
+    "keywords": "IC, SMT, REGULATOR, LINEAR",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "SOT-23-5"
+}

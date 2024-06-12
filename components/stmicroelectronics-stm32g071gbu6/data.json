@@ -1,0 +1,13 @@
+{
+    "reference": "U",
+    "symbol": "STM32G071GBU6",
+    "footprint": "UFQFPN-28_4x4mm_P0.5mm",
+    "datasheet": "https://www.st.com/resource/en/datasheet/stm32g071gb.pdf",
+    "manufacturer": "STMicroelectronics",
+    "mpn": "STM32G071GBU6",
+    "description": "ARM MCU, STM32 Family STM32G0 Series Microcontrollers, ARM Cortex-M0+, 32 bit, 64 MHz, 128 KB",
+    "keywords": "SMT, MICROCONTROLLER, IC, ARM",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "UFQFPN-28_4x4mm_P0.5mm"
+}

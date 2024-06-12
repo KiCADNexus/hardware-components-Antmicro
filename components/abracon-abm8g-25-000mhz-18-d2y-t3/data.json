@@ -1,0 +1,13 @@
+{
+    "reference": "Y",
+    "symbol": "Resonator_25MHz_ABM8G",
+    "footprint": "Resonator_SMD_Abracon_ABM8G_3.2x2.5mm",
+    "datasheet": "https://abracon.com/Resonators/ABM8G.pdf",
+    "manufacturer": "Abracon",
+    "mpn": "ABM8G-25.000MHZ-18-D2Y-T3",
+    "description": "Crystal, 25 MHz, SMD, 3.2mm x 2.5mm, 30 ppm, 18 pF, 20 ppm, ABM8G",
+    "keywords": "SMT, CERAMIC, OSCILLATOR",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "Resonator_SMD_Abracon_ABM8G_3.2x2.5mm"
+}

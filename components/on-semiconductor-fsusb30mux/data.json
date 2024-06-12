@@ -1,0 +1,13 @@
+{
+    "reference": "U",
+    "symbol": "FSUSB30MUX",
+    "footprint": "MSOP-10_W3mm",
+    "datasheet": "https://www.onsemi.com/download/data-sheet/pdf/fsusb30-d.pdf",
+    "manufacturer": "ON Semiconductor",
+    "mpn": "FSUSB30MUX",
+    "description": "Special purpose interface switch",
+    "keywords": "IC",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "MSOP-10_W3mm"
+}

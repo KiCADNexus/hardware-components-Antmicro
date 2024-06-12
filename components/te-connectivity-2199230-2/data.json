@@ -1,0 +1,13 @@
+{
+    "reference": "J",
+    "symbol": "Bus_M.2_2199230-2",
+    "footprint": "Bus_M.2_Socket_Key_E_TE_2199230-6",
+    "datasheet": "https://eu.mouser.com/datasheet/2/418/9/ENG_DS_1_1773702_1NGFFQRG_EN_0214_1_1773702_1NGFF_-3328593.pdf",
+    "manufacturer": "TE Connectivity",
+    "mpn": "2199230-2",
+    "description": "Key E, PCI connector",
+    "keywords": "HORIZONTAL, SMT, PCIE, CONNECTOR",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "Bus_M.2_Socket_Key_E_TE_2199230-6"
+}

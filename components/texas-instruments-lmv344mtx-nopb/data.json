@@ -1,0 +1,13 @@
+{
+    "reference": "U",
+    "symbol": "LMV344_TSSOP",
+    "footprint": "TSSOP-14_4.4x5mm_P0.65mm",
+    "datasheet": "https://www.ti.com/lit/ds/symlink/lmv344-n.pdf?ts=1717719828558",
+    "manufacturer": "Texas Instruments",
+    "mpn": "LMV344MTX/NOPB",
+    "description": "Analogue Comparator, Differential, 4 Comparator, 2V to 36V",
+    "keywords": "SMT, AMP, IC",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "TSSOP-14_4.4x5mm_P0.65mm"
+}

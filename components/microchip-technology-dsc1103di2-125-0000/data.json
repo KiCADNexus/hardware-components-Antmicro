@@ -1,0 +1,13 @@
+{
+    "reference": "Y",
+    "symbol": "Oscillator_125MHz_DSC1103DI2",
+    "footprint": "Oscillator_SMD_Microchip_DSC1103DI2_2.5x2x0.85mm",
+    "datasheet": "https://ww1.microchip.com/downloads/aemDocuments/documents/TCG/ProductDocuments/DataSheets/DSC1103-23-Low-Jitter-Precision-LVDS-Oscillator-DS20005745C.pdf",
+    "manufacturer": "Microchip Technology",
+    "mpn": "DSC1103DI2-125.0000",
+    "description": "125 MHz XO (Standard) LVDS Oscillator 3.3V Enable/Disable 6-SMD, No Lead",
+    "keywords": "OSCILLATOR, LVDS",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "Oscillator_SMD_Microchip_DSC1103DI2_2.5x2x0.85mm-microchip-technology-dsc1103di2-125-0000"
+}

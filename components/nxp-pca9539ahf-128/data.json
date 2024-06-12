@@ -1,0 +1,13 @@
+{
+    "reference": "U",
+    "symbol": "PCA9539AHF",
+    "footprint": "QFN-24-1EP_4x4mm_P0.5_EP2.1x2.1mm",
+    "datasheet": "https://www.nxp.com/docs/en/data-sheet/PCA9539A.pdf",
+    "manufacturer": "NXP",
+    "mpn": "PCA9539AHF,128",
+    "description": "I/O Expanders 16bit I2C IO Port",
+    "keywords": "SMT, INTERFACE, IC, I2C",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "QFN-24-1EP_4x4mm_P0.5_EP2.1x2.1mm"
+}

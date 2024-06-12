@@ -1,0 +1,13 @@
+{
+    "reference": "D",
+    "symbol": "LED_W_0402_VLMW1500-GS08",
+    "footprint": "LED_0402_1005Metric_W",
+    "datasheet": "https://www.vishay.com/docs/82522/vlmw1500.pdf",
+    "manufacturer": "Vishay",
+    "mpn": "VLMW1500-GS08",
+    "description": "LED, White, SMD, 0402, 20 mA, 2.9 V",
+    "keywords": "SMT, DIODE, SEMICONDUCTOR, LED",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "LED_0402_1005Metric_W"
+}

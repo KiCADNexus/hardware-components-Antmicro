@@ -1,0 +1,13 @@
+{
+    "reference": "D",
+    "symbol": "LED_RGB_PLCC4_ASMB_MTB1_0A3A2",
+    "footprint": "PLCC4_3.2x2.8mm",
+    "datasheet": "https://docs.broadcom.com/doc/AV02-4194EN",
+    "manufacturer": "Avago Technologies",
+    "mpn": "ASMB-MTB1-0A3A2",
+    "description": "LED, RGB, SMD, PLCC-4, R 20 mA, G 20 mA, B 20 mA, R 2.1 V, G 3.1 V, B 3.1 V, Common Anode",
+    "keywords": "SMT, DIODE, SEMICONDUCTOR, LED",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "PLCC4_3.2x2.8mm"
+}

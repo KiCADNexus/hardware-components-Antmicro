@@ -1,0 +1,13 @@
+{
+    "reference": "U",
+    "symbol": "9DBL0651CKILF",
+    "footprint": "VFQFPN-40-1EP_5x5mm_P0.4mm_EP3.5x3.5mm",
+    "datasheet": "https://eu.mouser.com/datasheet/2/698/REN_9DBL02x2_9DBL04x2_9DBL06x1_9DBL08x1C_DST_20221-3075841.pdf",
+    "manufacturer": "Renesas",
+    "mpn": "9DBL0651CKILF",
+    "description": "Clock Buffer 9DBL0651C 6 O/P 3.3V PCIE ZDB, ZO=85",
+    "keywords": "SMT, PLL, IC, CLOCK",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "VFQFPN-40-1EP_5x5mm_P0.4mm_EP3.5x3.5mm"
+}

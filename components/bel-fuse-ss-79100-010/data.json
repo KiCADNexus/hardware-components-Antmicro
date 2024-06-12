@@ -1,0 +1,13 @@
+{
+    "reference": "J",
+    "symbol": "Bel-Fuse_SFP+_2x20_SS-79100-010",
+    "footprint": "Conn_Bel-Fuse_SFP+_2x20_SS-79100-010",
+    "datasheet": "https://www.belfuse.com/resources/datasheets/stewartconnector/ds-STW-SFP-cages.pdf",
+    "manufacturer": "Bel Fuse",
+    "mpn": "SS-79100-010",
+    "description": "40 Position SFP+ Receptacle with Cage, Ganged (2x1) Connector Press-Fit Through Hole, Right Angle",
+    "keywords": "THT, CONNECTOR",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "Conn_Bel-Fuse_SFP+_2x20_SS-79100-010"
+}

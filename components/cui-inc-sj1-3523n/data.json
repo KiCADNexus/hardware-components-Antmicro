@@ -1,0 +1,13 @@
+{
+    "reference": "J",
+    "symbol": "Phone_TRS_MiniJack_SJ1-3523N",
+    "footprint": "Phone_TRS_MiniJack_SJ1-3523N",
+    "datasheet": "https://eu.mouser.com/datasheet/2/670/sj1_352xn-1779157.pdf",
+    "manufacturer": "CUI Inc",
+    "mpn": "SJ1-3523N",
+    "description": "Barrel audio connector",
+    "keywords": "CONNECTOR",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "Phone_TRS_MiniJack_SJ1-3523N"
+}

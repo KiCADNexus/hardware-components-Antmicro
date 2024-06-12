@@ -1,0 +1,13 @@
+{
+    "reference": "Q",
+    "symbol": "FZT705TA",
+    "footprint": "SOT-223",
+    "datasheet": "https://www.diodes.com/assets/Datasheets/FZT705.pdf",
+    "manufacturer": "Diodes Incorporated",
+    "mpn": "FZT705TA",
+    "description": "Darlington transistor PNP",
+    "keywords": "SMT, TRANSISTOR, SEMICONDUCTOR, BIPOLAR",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "SOT-223"
+}

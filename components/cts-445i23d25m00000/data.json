@@ -1,0 +1,13 @@
+{
+    "reference": "Y",
+    "symbol": "Resonator_25MHz_445",
+    "footprint": "Resonator_SMD_CTS_445_5x3.2mm",
+    "datasheet": "https://www.ctscorp.com/wp-content/uploads/445.pdf",
+    "manufacturer": "CTS",
+    "mpn": "445I23D25M00000",
+    "description": "25 MHz \u00b120ppm Crystal 18pF 40 Ohms 2-SMD, No Lead",
+    "keywords": "SMT, OSCILLATOR",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "Resonator_SMD_CTS_445_5x3.2mm"
+}

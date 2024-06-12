@@ -1,0 +1,13 @@
+{
+    "reference": "SW",
+    "symbol": "SW_SPDT_CL-SB-12A-12T",
+    "footprint": "SW_SPDT_CL-SB-12A-12T",
+    "datasheet": "https://www.nidec-components.com/e/catalog/switch/cl-sb.pdf",
+    "manufacturer": "Nidec Components",
+    "mpn": "CL-SB-12A-12T",
+    "description": "Slide Switch SPDT Surface Mount, Right Angle",
+    "keywords": "VERTICAL, SMT, SWITCH, SLIDE",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "SW_SPDT_CL-SB-12A-12T"
+}

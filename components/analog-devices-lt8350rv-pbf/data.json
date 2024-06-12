@@ -1,0 +1,13 @@
+{
+    "reference": "U",
+    "symbol": "LT8350RV",
+    "footprint": "QFN-32-4EP_4x6mm_P0.5mm",
+    "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/lt8350.pdf",
+    "manufacturer": "Analog Devices",
+    "mpn": "LT8350RV#PBF",
+    "description": "DC/DC converter",
+    "keywords": "SMT, PMIC, IC, POWER, MANAGEMENT, VOLTAGE, REGULATOR",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "QFN-32-4EP_4x6mm_P0.5mm"
+}

@@ -1,0 +1,13 @@
+{
+    "reference": "J",
+    "symbol": "Socket_Panasonic_A4S_2x15_AXE530127",
+    "footprint": "Conn_Socket_Panasonic_A4S_2x15_AXE530127",
+    "datasheet": "https://api.pim.na.industrial.panasonic.com/file_stream/main/fileversion/2813",
+    "manufacturer": "Panasonic",
+    "mpn": "AXE530127",
+    "description": "Mezzanine Connector, Receptacle, 0.4 mm, 2 Rows, 30 Contacts, Surface Mount, Copper Alloy",
+    "keywords": "CONNECTOR, B2B, SOCKET",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "Conn_Socket_Panasonic_A4S_2x15_AXE530127"
+}

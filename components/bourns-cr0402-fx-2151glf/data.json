@@ -1,0 +1,13 @@
+{
+    "reference": "R",
+    "symbol": "R_2k15_0402",
+    "footprint": "R_0402_1005Metric",
+    "datasheet": "https://www.mouser.com/datasheet/2/54/cr-1858361.pdf",
+    "manufacturer": "Bourns",
+    "mpn": "CR0402-FX-2151GLF",
+    "description": "SMD Chip Resistor, 2.15 kohm, \u00b1 1%, 63 mW, 0402 [1005 Metric], Thick Film, General Purpose",
+    "keywords": "0402, SMT, RESISTOR, PASSIVE",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "R_0402_1005Metric"
+}

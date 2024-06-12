@@ -1,0 +1,13 @@
+{
+    "reference": "C",
+    "symbol": "C_1u_10V_X7R_0603",
+    "footprint": "C_0603_1608Metric",
+    "datasheet": "https://www.kemet.com/en/us/capacitors/product/C0603C105K8RAC7411.html",
+    "manufacturer": "KEMET",
+    "mpn": "C0603C105K8RAC7411",
+    "description": "SMD Multilayer Ceramic Capacitor,  1\u00b5F, 10V, 0603, \u00b110%, X7R",
+    "keywords": "SMT, CAPACITOR, PASSIVE",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "C_0603_1608Metric"
+}

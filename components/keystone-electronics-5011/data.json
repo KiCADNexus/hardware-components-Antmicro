@@ -1,0 +1,13 @@
+{
+    "reference": "TP",
+    "symbol": "TP_2.54mm_THT_5011",
+    "footprint": "TP_3.17mm_THT_5011",
+    "datasheet": "http://www.keyelco.com/product-pdf.cfm?p=1320",
+    "manufacturer": "Keystone Electronics",
+    "mpn": "5011",
+    "description": "Multi-purpose tht test point",
+    "keywords": "TESTPOINT, THT",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": null
+}

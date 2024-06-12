@@ -1,0 +1,13 @@
+{
+    "reference": "C",
+    "symbol": "C_22u_25V_X7R_1210",
+    "footprint": "C_1210_3225Metric",
+    "datasheet": "https://www.kemet.com/en/us/capacitors/product/C1210C226K3RAC7210.html",
+    "manufacturer": "KEMET",
+    "mpn": "C1210C226K3RAC7210",
+    "description": "SMD Multilayer Ceramic Capacitor, 22\u00b5F, 25V, 1210, \u00b110%, X7R",
+    "keywords": "SMT, CAPACITOR, PASSIVE",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "C_1210_3225Metric"
+}

@@ -1,0 +1,13 @@
+{
+    "reference": "U",
+    "symbol": "DW1000-I-TR13",
+    "footprint": "QFN-48-1EP_6x6mm",
+    "datasheet": "https://www.decawave.com/sites/default/files/resources/DW1000-Datasheet-V2.12.pdf",
+    "manufacturer": "DecaWave",
+    "mpn": "DW1000-I-TR13",
+    "description": "RF transceiver IC",
+    "keywords": "IC",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "QFN-48-1EP_6x6mm"
+}

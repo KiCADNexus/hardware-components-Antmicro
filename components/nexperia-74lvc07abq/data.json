@@ -1,0 +1,13 @@
+{
+    "reference": "U",
+    "symbol": "74LVC07ABQ",
+    "footprint": "DHVQFN-14-1EP_2.5x3mm",
+    "datasheet": "https://assets.nexperia.com/documents/data-sheet/74LVC07A.pdf",
+    "manufacturer": "Nexperia",
+    "mpn": "74LVC07ABQ",
+    "description": "Hex buffer with open-drain outputs",
+    "keywords": "SMT, LOGIC, IC, BUFFER, TRANSCEIVER, DRIVER",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "DHVQFN-14-1EP_2.5x3mm"
+}

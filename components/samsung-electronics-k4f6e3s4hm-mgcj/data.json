@@ -1,0 +1,13 @@
+{
+    "reference": "U",
+    "symbol": "K4F6E3S4HM-MGCJ",
+    "footprint": "BGA-200_10.0x14.5mm_Layout12x22_P0.80x0.65mm",
+    "datasheet": "https://semiconductor.samsung.com/dram/lpddr/lpddr4/k4f6e3s4hm-mgcj/",
+    "manufacturer": "Samsung Electronics",
+    "mpn": "K4F6E3S4HM-MGCJ",
+    "description": "LPDDR4 DRAM, 1GX32",
+    "keywords": "IC, MEMORY, DDR",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "BGA-200_10.0x14.5mm_Layout12x22_P0.80x0.65mm-samsung-electronics-k4f6e3s4hm-mgcj"
+}

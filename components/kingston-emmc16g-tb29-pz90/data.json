@@ -1,0 +1,13 @@
+{
+    "reference": "U",
+    "symbol": "EMMC16G-TB29-PZ90",
+    "footprint": "BGA-196-153_10x11mm_Layout14x14_P0.5x0.5mm",
+    "datasheet": "https://www1.futureelectronics.com/doc/Kingston/EMMCnnn-IB29-PZ90-v1.0.pdf",
+    "manufacturer": "Kingston",
+    "mpn": "EMMC16G-TB29-PZ90",
+    "description": "eMMC 4GB 15nm",
+    "keywords": "MEMORY, BGA",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "BGA-196-153_10x11mm_Layout14x14_P0.5x0.5mm"
+}

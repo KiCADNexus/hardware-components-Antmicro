@@ -1,0 +1,13 @@
+{
+    "reference": "U",
+    "symbol": "LTC4418",
+    "footprint": "QFN-20-1EP_4x4mm_P0.5mm_EP2.45x2.45mm",
+    "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/ltc4418.pdf",
+    "manufacturer": "Analog Devices",
+    "mpn": "LTC4418IUF#PBF",
+    "description": "OR Controller Source Selector Switch P-Channel 2:1 20-QFN (4x4)",
+    "keywords": "PMIC, SWITCH, DIODE",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "QFN-20-1EP_4x4mm_P0.5mm_EP2.45x2.45mm"
+}

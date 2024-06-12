@@ -1,0 +1,13 @@
+{
+    "reference": "U",
+    "symbol": "USB2412",
+    "footprint": "QFN-28-1EP_5x5mm_P0.5mm_EP3.1x3.1mm",
+    "datasheet": "https://ww1.microchip.com/downloads/aemDocuments/documents/OTH/ProductDocuments/DataSheets/00001726B.pdf",
+    "manufacturer": "Microchip Technology",
+    "mpn": "USB2412-DZK",
+    "description": "USB Interface, USB Hub Controller, USB 2.0, 3 V, 3.6 V, QFN, 28 Pins",
+    "keywords": "IC",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "QFN-28-1EP_5x5mm_P0.5mm_EP3.1x3.1mm"
+}

@@ -1,0 +1,13 @@
+{
+    "reference": "D",
+    "symbol": "LED_B_0802_APA2107VBC_D_Right-Angle",
+    "footprint": "LED_0802_2106Metric_B",
+    "datasheet": "https://www.kingbrightusa.com/images/catalog/SPEC/APA2107VBC-D.pdf",
+    "manufacturer": "Kingbright",
+    "mpn": "APA2107VBC/D",
+    "description": "LED, Blue, SMD, 0802, 20 mA, 3.3V, 470nm, Right Angle",
+    "keywords": "SMT, DIODE, SEMICONDUCTOR, LED",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "LED_0802_2106Metric_B"
+}

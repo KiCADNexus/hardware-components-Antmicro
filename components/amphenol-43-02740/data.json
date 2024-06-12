@@ -1,0 +1,13 @@
+{
+    "reference": "J",
+    "symbol": "Conn_M12_43-02740",
+    "footprint": "Conn_M12_43-02740",
+    "datasheet": "https://eu.mouser.com/datasheet/2/81/43-02740_e-1520754.pdf",
+    "manufacturer": "Amphenol",
+    "mpn": "43-02740",
+    "description": "M12 connector, 8 pins, Female",
+    "keywords": "HORIZONTAL, THT, CONNECTOR, FEMALE",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "Conn_M12_43-02740"
+}

@@ -1,0 +1,13 @@
+{
+    "reference": "U",
+    "symbol": "SI52112-B6-GT",
+    "footprint": "TSSOP-8_3x4.4mm_P0.65mm",
+    "datasheet": "https://www.skyworksinc.com/-/media/Skyworks/SL/documents/public/data-sheets/Si52112-B5-B6.pdf",
+    "manufacturer": "Skyworks Solutions",
+    "mpn": "SI52112-B6-GT",
+    "description": "Clock Generator, 100MHz, 2.97V to 3.63V, 2 Outputs, TSSOP-8",
+    "keywords": "IC",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "TSSOP-8_3x4.4mm_P0.65mm"
+}

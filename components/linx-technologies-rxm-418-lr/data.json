@@ -1,0 +1,13 @@
+{
+    "reference": "U",
+    "symbol": "RF_RXM-418-LR",
+    "footprint": "RF_Module_RXM",
+    "datasheet": "https://linxtechnologies.com/wp/wp-content/uploads/rxm-fff-lr.pdf",
+    "manufacturer": "Linx Technologies",
+    "mpn": "RXM-418-LR",
+    "description": "RF receiver",
+    "keywords": "IC",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": null
+}

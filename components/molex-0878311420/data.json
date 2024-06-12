@@ -1,0 +1,13 @@
+{
+    "reference": "J",
+    "symbol": "PinHeader_2x7_P2mm_Drill1mm_Shrouded",
+    "footprint": "PinHeader_2x7_P2mm_Drill1mm_Shrouded",
+    "datasheet": "https://www.molex.com/pdm_docs/sd/878322620_sd.pdf",
+    "manufacturer": "Molex",
+    "mpn": "0878311420",
+    "description": "Pin Header, Wire-to-Board, 2 mm, 2 Rows, 14 Contacts, Surface Mount Straight, Milli-Grid 87832",
+    "keywords": "PINSTRIP, HEADER ",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "PinHeader_2x7_P2mm_Drill1mm_Shrouded"
+}

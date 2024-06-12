@@ -1,0 +1,13 @@
+{
+    "reference": "C",
+    "symbol": "C_10u_1206_25V_X7R",
+    "footprint": "C_1206_3216Metric",
+    "datasheet": "https://www.kemet.com/en/us/capacitors/product/C1206C106K3RACTU.html",
+    "manufacturer": "KEMET",
+    "mpn": "C1206C106K3RACTU",
+    "description": "SMD Multilayer Ceramic Capacitor, 10\u00b5F, 25V, 1206, \u00b110%, X7R",
+    "keywords": "SMT, CAPACITOR, PASSIVE",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "C_1206_3216Metric"
+}

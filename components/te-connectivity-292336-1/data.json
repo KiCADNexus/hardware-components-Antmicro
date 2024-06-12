@@ -1,0 +1,13 @@
+{
+    "reference": "J",
+    "symbol": "USB-A_TE_292336-1_Vertical",
+    "footprint": "USB-A_Receptacle_TE_292336-1",
+    "datasheet": "https://www.te.com/usa-en/product-292336-1.datasheet.pdf",
+    "manufacturer": "TE Connectivity",
+    "mpn": "292336-1",
+    "description": "USB-A (USB TYPE-A) USB 2.0 Receptacle Connector 4 Position Through Hole, Right Angle",
+    "keywords": "USB, CONNECTOR, THT, VERTICAL",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "USB-A_Receptacle_TE_292336-1"
+}

@@ -1,0 +1,13 @@
+{
+    "reference": "U",
+    "symbol": "LT1616",
+    "footprint": "SOT-23-6",
+    "datasheet": "https://eu.mouser.com/datasheet/2/609/lt1616fs-3123441.pdf",
+    "manufacturer": "Analog Devices",
+    "mpn": "LT1616ES6#TRMPBF",
+    "description": "Switching Voltage Regulators 600mA, 1.4MHz Buck in SOT-23",
+    "keywords": "SMT, PMIC, IC, VOLTAGE, DC-DC",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "SOT-23-6"
+}

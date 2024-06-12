@@ -1,0 +1,13 @@
+{
+    "reference": "J",
+    "symbol": "USB-C_WE_632712000112",
+    "footprint": "USB-C_Plug_WE_632712000112",
+    "datasheet": "https://www.we-online.com/catalog/datasheet/632712000112.pdf",
+    "manufacturer": "W\u00fcrth Elektronik",
+    "mpn": "632712000112",
+    "description": "USB-C Plug Connector 24 Position, Surface Mount, Right Angle",
+    "keywords": "USB, CONNECTOR, SMT, VERTICAL",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "USB-C_Plug_WE_632712000112"
+}

@@ -1,0 +1,13 @@
+{
+    "reference": "J",
+    "symbol": "HDMI-A_Adam_Tech_HDMI-PLUG-OM3",
+    "footprint": "HDMI-A_Plug_Adam_Tech_HDMI-PLUG-OM3",
+    "datasheet": "https://app.adam-tech.com/products/download/data_sheet/203676/hdmi-plug-om3-data-sheet.pdf",
+    "manufacturer": "Adam Tech",
+    "mpn": "HDMI-PLUG-OM3",
+    "description": "HDMI Male Connector 19 Position Straight Edge Mount",
+    "keywords": "HDMI, CONNECTOR, EDGE",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "HDMI-A_Plug_Adam_Tech_HDMI-PLUG-OM3"
+}

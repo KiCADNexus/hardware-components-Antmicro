@@ -1,0 +1,13 @@
+{
+    "reference": "U",
+    "symbol": "TLK10232CTR",
+    "footprint": "BGA-144_12x12_13.05x13.05mm_P1.0mm",
+    "datasheet": "https://www.ti.com/lit/ds/symlink/tlk10232.pdf?ts=1712150848075&ref_url=https%253A%252F%252Fwww.mouser.pl%252F",
+    "manufacturer": "Texas Instruments",
+    "mpn": "TLK10232CTR",
+    "description": "Dual channel XAUI-to-10GBASE-KR backplane transceiver with crosspoint switch",
+    "keywords": "SMT, TRANSCEIVER, IC, ETHERNET, PHY",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "BGA-144_12x12_13.05x13.05mm_P1.0mm"
+}

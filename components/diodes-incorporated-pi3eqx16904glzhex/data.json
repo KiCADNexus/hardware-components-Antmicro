@@ -1,0 +1,13 @@
+{
+    "reference": "U",
+    "symbol": "PI3EQX16904GL",
+    "footprint": "WQFN-42-1EP_3.5x9mm_P0.5mm",
+    "datasheet": "https://www.diodes.com/part/view/PI3EQX16904GL",
+    "manufacturer": "Diodes Incorporated",
+    "mpn": "PI3EQX16904GLZHEX",
+    "description": "16Gbps 4-Channel ReDriver with Linear Equalization",
+    "keywords": "SMT, IC",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "WQFN-42-1EP_3.5x9mm_P0.5mm"
+}

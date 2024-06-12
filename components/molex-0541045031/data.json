@@ -1,0 +1,13 @@
+{
+    "reference": "J",
+    "symbol": "Molex_54104_1x50_0541045031",
+    "footprint": "Conn_Molex_54104_1x50_0541045031",
+    "datasheet": "https://tools.molex.com/pdm_docs/sd/541045031_sd.pdf",
+    "manufacturer": "Molex",
+    "mpn": "0541045031",
+    "description": "50 Position FFC, FPC Connector Contacts, Top 0.020\" (0.50mm) Surface Mount, Right Angle",
+    "keywords": "CONNECTOR, FFC, SMT",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "Conn_Molex_54104_1x50_0541045031"
+}

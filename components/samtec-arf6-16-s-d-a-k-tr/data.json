@@ -1,0 +1,13 @@
+{
+    "reference": "J",
+    "symbol": "Samtec_ARF6-16-S-D-A-K-TR",
+    "footprint": "Conn_Samtec_ARF6-16-S-D-A-K-TR",
+    "datasheet": "https://eu.mouser.com/datasheet/2/527/arf6-2854039.pdf",
+    "manufacturer": "Samtec",
+    "mpn": "ARF6-16-S-D-A-K-TR",
+    "description": "I/O Connectors AcceleRate Slim Socket for ARC6 Series, 0.635 mm Pitch",
+    "keywords": "CONNECTOR, SMT, WIRE-BOARD",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "Conn_Samtec_ARF6-16-S-D-A-K-TR"
+}

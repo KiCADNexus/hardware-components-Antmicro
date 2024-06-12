@@ -1,0 +1,13 @@
+{
+    "reference": "J",
+    "symbol": "OCuLink_x4_Amphenol_G14A421211112HR",
+    "footprint": "Amphenol_G14A421211112HR",
+    "datasheet": "https://cdn.amphenol-cs.com/media/wysiwyg/files/drawing/g14a421x1bxxxhr.pdf",
+    "manufacturer": "Amphenol",
+    "mpn": "G14A421211112HR",
+    "description": "I/O Connectors OCulink, Receptacle, 0.5mm pitch, 4X, R/A SMT with shell leg SMT type, 30U\" gold plating, LCP, black, T&R packing",
+    "keywords": "SMT, CONNECTOR, PCIE",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "Amphenol_G14A421211112HR"
+}

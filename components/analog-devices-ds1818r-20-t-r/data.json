@@ -1,0 +1,13 @@
+{
+    "reference": "U",
+    "symbol": "DS1818",
+    "footprint": "SOT-23-3",
+    "datasheet": "https://eu.mouser.com/datasheet/2/609/DS1818-3122611.pdf",
+    "manufacturer": "Analog Devices",
+    "mpn": "DS1818R-20+T&R",
+    "description": "Supervisory Circuit 3.3V EconoReset with Pushbutton",
+    "keywords": "IC, SMT, VOLTAGE, MONITOR",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "SOT-23-3"
+}

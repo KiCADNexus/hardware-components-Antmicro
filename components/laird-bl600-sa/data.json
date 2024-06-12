@@ -1,0 +1,13 @@
+{
+    "reference": "A",
+    "symbol": "Bluetooth_BL600-SA",
+    "footprint": "Bluetooth_Module_BL600-SA",
+    "datasheet": "https://assets.lairdtech.com/home/brandworld/files/Product%20Brief%20-%20Bx600%20Breakout%20Boards%20and%20DVK-BL600.pdf",
+    "manufacturer": "Laird",
+    "mpn": "BL600-SA",
+    "description": "smartBASIC Single Mode BLE Module with Internal Antenna",
+    "keywords": "MODULE",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": null
+}

@@ -1,0 +1,13 @@
+{
+    "reference": "U",
+    "symbol": "ADT7476AARQZ",
+    "footprint": "QSOP-24_8.65x6mm_P0.635mm",
+    "datasheet": "https://www.onsemi.com/pdf/datasheet/adt7476a-d.pdf",
+    "manufacturer": "Onsemi",
+    "mpn": "ADT7476AARQZ",
+    "description": "Remote Thermal Monitor, Fan Controller and Voltage Monitor",
+    "keywords": "IC, PMIC, SMT, MONITOR, CONTROLLER",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "QSOP-24_8.65x6mm_P0.635mm"
+}

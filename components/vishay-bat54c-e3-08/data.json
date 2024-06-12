@@ -1,0 +1,13 @@
+{
+    "reference": "D",
+    "symbol": "BAT54C-E3-08",
+    "footprint": "SOT-23-3",
+    "datasheet": "https://www.vishay.com/docs/86410/bat54_bat54a_bat54c_bat54s.pdf",
+    "manufacturer": "Vishay",
+    "mpn": "BAT54C-E3-08",
+    "description": "Small Signal Schottky Diode, Dual Common Cathode, 30 V, 200 mA, 800 mV, 600 mA, 125 \u00b0C",
+    "keywords": "SMT, SEMICONDUCTOR, DIODE, SCHOTTKY",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "SOT-23-3"
+}

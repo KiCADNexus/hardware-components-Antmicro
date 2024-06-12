@@ -1,0 +1,13 @@
+{
+    "reference": "C",
+    "symbol": "C_Pol_1m_16V_KEMET-A770-MS-D10mm-H12.2mm",
+    "footprint": "C_Pol_KEMET-MS-D10mm-H12.2mm",
+    "datasheet": "https://www.kemet.com/en/us/capacitors/product/A770MS108M1CLAS015.html",
+    "manufacturer": "KEMET",
+    "mpn": "A770MS108M1CLAS015",
+    "description": "Polymer Aluminium Electrolytic Capacitor, 1000 \u00b5F, 16 V, Radial Can - SMD, 0.015 ohm",
+    "keywords": "SMT, CAPACITOR, PASSIVE, POLARIZED",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": null
+}

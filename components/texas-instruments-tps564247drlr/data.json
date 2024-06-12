@@ -1,0 +1,13 @@
+{
+    "reference": "U",
+    "symbol": "TPS564247DRLR",
+    "footprint": "SOT-563",
+    "datasheet": "https://www.ti.com/lit/ds/symlink/tps564247.pdf?ts=1713526387938&ref_url=https%253A%252F%252Fwww.mouser.pl%252F",
+    "manufacturer": "Texas Instruments",
+    "mpn": "TPS564247DRLR",
+    "description": "Switching Voltage Regulators 3-V to 16-V input voltage, 4-A FCCM mode, synchronous buck converter in SOT-563 package 6-SOT-5X3 -40 to 125",
+    "keywords": "SMT, PMIC, IC, VOLTAGE",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "SOT-563"
+}

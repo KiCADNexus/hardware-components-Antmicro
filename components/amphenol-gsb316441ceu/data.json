@@ -1,0 +1,13 @@
+{
+    "reference": "J",
+    "symbol": "USB-A_Plug_Amphenol_GSB316441CEU_Vertical",
+    "footprint": "USB-A_Plug_Amphenol_GSB316441CEU_Vertical",
+    "datasheet": "https://www.tme.eu/Document/2364eac009853909846f3925a1a25f87/GSB316441CEU.PDF",
+    "manufacturer": "Amphenol",
+    "mpn": "GSB316441CEU",
+    "description": "USB 3.2, Type A, Plug, Right Angle SMT, 9 Pins, Offset 0.95mm, 3.2mm Height, Shell Dip with Nickel Plating, 30\u03bcin Gold, Blue High Temperature Housing, Tape and Reel Packaging",
+    "keywords": "USB, CONNECTOR, SMT",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "USB-A_Plug_Amphenol_GSB316441CEU_Vertical"
+}

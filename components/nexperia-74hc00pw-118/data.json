@@ -1,0 +1,13 @@
+{
+    "reference": "U",
+    "symbol": "74HC00_TSSOP",
+    "footprint": "TSSOP-14_4.4x5mm_P0.65mm",
+    "datasheet": "https://assets.nexperia.com/documents/data-sheet/74HC_HCT00.pdf",
+    "manufacturer": "Nexperia",
+    "mpn": "74HC00PW,118",
+    "description": "NAND Gate IC 4 Channel 14-TSSOP",
+    "keywords": "GATE",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "TSSOP-14_4.4x5mm_P0.65mm"
+}

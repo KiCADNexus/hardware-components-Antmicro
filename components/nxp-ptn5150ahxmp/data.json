@@ -1,0 +1,13 @@
+{
+    "reference": "U",
+    "symbol": "PTN5150AHXMP",
+    "footprint": "Texas_X2QFN-12_1.6x1.6mm_P0.4mm",
+    "datasheet": "https://www.nxp.com/docs/en/data-sheet/PTN5150A.pdf",
+    "manufacturer": "NXP",
+    "mpn": "PTN5150AHXMP",
+    "description": "USB Interface, USB Type-C Configuration Channel Logic and Port Control, 2.7 V, 5.5 V, X2QFN",
+    "keywords": "SMT, IC, CONTROLLER, USB",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "Texas_X2QFN-12_1.6x1.6mm_P0.4mm"
+}

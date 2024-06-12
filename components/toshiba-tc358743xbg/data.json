@@ -1,0 +1,13 @@
+{
+    "reference": "U",
+    "symbol": "TC358743XBG",
+    "footprint": "BGA-64_8x8_6.0x6.0mm",
+    "datasheet": "https://toshiba.semicon-storage.com/info/TC358743XBG_datasheet_en_20171026.pdf?did=35655&prodName=TC358743XBG",
+    "manufacturer": "Toshiba",
+    "mpn": "TC358743XBG",
+    "description": "HDMI to MIPI CSI-2 bridge. Supports HDMI 1.4. MIPI CSI-2 compliant. 80-Pin VFBGA",
+    "keywords": "SMT, INTERFACE, IC, CONTROLLER",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "BGA-64_8x8_6.0x6.0mm"
+}

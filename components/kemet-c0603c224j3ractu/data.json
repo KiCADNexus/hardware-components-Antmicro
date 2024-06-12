@@ -1,0 +1,13 @@
+{
+    "reference": "C",
+    "symbol": "C_220n_25V_X7R_0603",
+    "footprint": "C_0603_1608Metric",
+    "datasheet": "https://www.kemet.com/en/us/capacitors/product/C0603C224J3RACTU.html",
+    "manufacturer": "KEMET",
+    "mpn": "C0603C224J3RACTU",
+    "description": "SMD Multilayer Ceramic Capacitor, 220nF, 25V, 0603, \u00b15%, X7R",
+    "keywords": "SMT, CAPACITOR, PASSIVE",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "C_0603_1608Metric"
+}

@@ -1,0 +1,13 @@
+{
+    "reference": "J",
+    "symbol": "SS-74800-144",
+    "footprint": "Ethernet_Jack_SS-74800-144",
+    "datasheet": "https://www.belfuse.com/resources/drawings/stewartconnector/dr-STW-SS-74800-144.pdf",
+    "manufacturer": "Bel",
+    "mpn": "SS-74800-144",
+    "description": "Jack Modular Connector 8p8c (RJ45, Ethernet) 90\u00b0 Angle (Right) Shielded, EMI Finger Cat5e",
+    "keywords": "CONNECTOR",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "Ethernet_Jack_SS-74800-144"
+}

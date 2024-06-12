@@ -1,0 +1,13 @@
+{
+    "reference": "U",
+    "symbol": "74AUP2G132",
+    "footprint": "VSSOP-8_2.3x2mm_P0.5mm",
+    "datasheet": "https://assets.nexperia.com/documents/data-sheet/74AUP2G132.pdf",
+    "manufacturer": "Nexperia",
+    "mpn": "74AUP2G132",
+    "description": "Low-power dual 2-input NAND Schmitt trigger",
+    "keywords": "SMT, LOGIC, IC, GATE",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "VSSOP-8_2.3x2mm_P0.5mm"
+}

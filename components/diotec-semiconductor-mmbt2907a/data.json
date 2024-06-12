@@ -1,0 +1,13 @@
+{
+    "reference": "Q",
+    "symbol": "MMBT2907A",
+    "footprint": "SOT-23-3",
+    "datasheet": "https://diotec.com/request/datasheet/mmbt2907.pdf",
+    "manufacturer": "Diotec Semiconductor",
+    "mpn": "MMBT2907A",
+    "description": "Transistor: 600mA 300mW PNP general-purpose amplifier, SOT-23, 7IN",
+    "keywords": "SMT, TRANSISTOR, SEMICONDUCTOR, BIPOLAR",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "SOT-23-3"
+}

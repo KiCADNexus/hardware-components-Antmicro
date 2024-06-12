@@ -1,0 +1,13 @@
+{
+    "reference": "J",
+    "symbol": "USB-A_Samtec_USB-A-S-F-B-VT_Vertical",
+    "footprint": "USB-A_Receptacle_Samtec_USB-A-S-F-B-VT",
+    "datasheet": "https://suddendocs.samtec.com/catalog_english/usb_a.pdf",
+    "manufacturer": "Samtec",
+    "mpn": "USB-A-S-F-B-VT",
+    "description": "USB-A (USB TYPE-A) USB 2.0 Receptacle Connector 4 Position Through Hole",
+    "keywords": "USB, CONNECTOR, THT, VERTICAL",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "USB-A_Receptacle_Samtec_USB-A-S-F-B-VT"
+}

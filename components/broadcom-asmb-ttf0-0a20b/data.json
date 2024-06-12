@@ -1,0 +1,13 @@
+{
+    "reference": "D",
+    "symbol": "LED_RGB_PLCC6_ASMB-TTF0-0A20B",
+    "footprint": "PLCC6_3.5x3.7mm",
+    "datasheet": "https://docs.broadcom.com/doc/ASMB-TTF0-0A20B-DS101",
+    "manufacturer": "Broadcom",
+    "mpn": "ASMB-TTF0-0A20B",
+    "description": "LED, RGB, SMD, PLCC-6, R 50 mA, G 30 mA, B 30 mA, R 2.1 V, G 2.9 V, B 2.9 V",
+    "keywords": "SMT, DIODE, SEMICONDUCTOR, LED",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "PLCC6_3.5x3.7mm"
+}

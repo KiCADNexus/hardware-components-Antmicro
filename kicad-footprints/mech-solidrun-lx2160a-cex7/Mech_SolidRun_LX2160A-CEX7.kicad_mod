@@ -1,0 +1,33 @@
+(footprint "Mech_SolidRun_LX2160A-CEX7" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (attr through_hole)
+  (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
+      (effects (font (size 0.7 0.7) (thickness 0.15)) (justify left bottom))
+    (tstamp 8b93fc00-9546-47bc-a67e-cf7ea67a6c99)
+  )
+  (fp_text value "Mech_SolidRun_LX2160A-CEX7" (at 0 1 unlocked) (layer "F.Fab")
+      (effects (font (size 0.7 0.7) (thickness 0.15)) (justify left bottom))
+    (tstamp 74174b88-eb8a-478b-82ab-adf6628aabb8)
+  )
+  (fp_text user "License: Apache-2.0" (at 0 129.4) (layer "F.Fab") hide
+      (effects (font (size 0.7 0.7) (thickness 0.15)) (justify left bottom))
+    (tstamp 5c911786-1b9e-4573-bb8e-e9557dd7596e)
+  )
+  (fp_text user "${REFERENCE}" (at 0 127 unlocked) (layer "F.Fab") hide
+      (effects (font (size 0.7 0.7) (thickness 0.15)) (justify left bottom))
+    (tstamp 722dd647-5d07-4aa6-a4ab-d195b89c326f)
+  )
+  (fp_text user "Author: Antmicro" (at 0 128.2) (layer "F.Fab") hide
+      (effects (font (size 0.7 0.7) (thickness 0.15)) (justify left bottom))
+    (tstamp 88427f9d-b10c-4451-ad24-670b8c73b1a7)
+  )
+  (fp_rect (start 0 0) (end 95 125)
+    (stroke (width 0.15) (type solid)) (fill none) (layer "F.SilkS") (tstamp d0069ce7-0cd4-46b5-8dbc-b67ddd6c95d7))
+  (fp_rect (start 0 0) (end 95 125)
+    (stroke (width 0.05) (type solid)) (fill none) (layer "F.CrtYd") (tstamp 962c1cfb-2cb8-417e-a32c-baba28f7fdc3))
+  (model ""
+    (offset (xyz -0 -0 8))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 90))
+  )
+)

@@ -1,0 +1,13 @@
+{
+    "reference": "U",
+    "symbol": "PN7160A1_VFQFN",
+    "footprint": "VFQFN-40-1EP_6x6mm",
+    "datasheet": "https://www.nxp.com/docs/en/data-sheet/PN7160_PN7161.pdf",
+    "manufacturer": "NXP",
+    "mpn": "PN7160A1HN/C100E",
+    "description": "Near Field Communication (NFC) controller",
+    "keywords": "NFC, IC, RF, I2C",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "VFQFN-40-1EP_6x6mm-nxp-pn7160a1hn-c100e"
+}

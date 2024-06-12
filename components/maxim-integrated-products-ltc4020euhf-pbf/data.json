@@ -1,0 +1,13 @@
+{
+    "reference": "U",
+    "symbol": "LTC4020EUHF",
+    "footprint": "WFQFN-38-1EP_5x7mm",
+    "datasheet": "http://www.linear.com/docs/44025",
+    "manufacturer": "Maxim Integrated Products",
+    "mpn": "LTC4020EUHF#PBF",
+    "description": "55V Buck-Boost Multi-Chemistry Battery Charger",
+    "keywords": "SMT, PMIC, IC, MANAGEMENT",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "WFQFN-38-1EP_5x7mm"
+}

@@ -1,0 +1,13 @@
+{
+    "reference": "Y",
+    "symbol": "Oscillator_50MHz_ECS_1612MV",
+    "footprint": "Oscillator_SMD_ECS_1612MV_1.6x1.2x0.6mm",
+    "datasheet": "https://ecsxtal.com/store/pdf/ECS-1612MV.pdf",
+    "manufacturer": "ECS Inc. International",
+    "mpn": "ECS-1612MV-500-CN-TR",
+    "description": "50 MHz XO (Standard) CMOS Oscillator 1.6V ~ 3.63V Standby 4-SMD, No Lead",
+    "keywords": "OSCILLATOR",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "Oscillator_SMD_ECS_1612MV_1.6x1.2x0.6mm"
+}

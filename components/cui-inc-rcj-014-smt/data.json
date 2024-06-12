@@ -1,0 +1,13 @@
+{
+    "reference": "J",
+    "symbol": "RCA_Jack_RCJ-014-SMT",
+    "footprint": "RCA_Jack_RCJ-014-SMT",
+    "datasheet": "https://www.cuidevices.com/product/resource/rcj-01x-smt.pdf",
+    "manufacturer": "CUI Inc",
+    "mpn": "RCJ-014-SMT",
+    "description": "Barrel audio connector",
+    "keywords": "CONNECTOR",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "RCA_Jack_RCJ-014-SMT"
+}

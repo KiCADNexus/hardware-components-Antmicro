@@ -1,0 +1,13 @@
+{
+    "reference": "C",
+    "symbol": "C_Pol_100u_16V_Panasonic-SVPC-C6-D6.3mm-H5.9mm",
+    "footprint": "C_Pol_Panasonic-C6-D6.3mm-H5.9mm",
+    "datasheet": "https://industrial.panasonic.com/sa/products/pt/aluminum-cap-smd/models/16SVPC100M",
+    "manufacturer": "Panasonic",
+    "mpn": "16SVPC100M",
+    "description": "Polymer Aluminium Electrolytic Capacitor, 100 \u00b5F, 16 V, Radial Can - SMD, 0.024 ohm",
+    "keywords": "POLARIZED, ALUMINUM, CAPACITOR, SMT",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "C_Pol_Panasonic-C6-D6.3mm-H5.9mm"
+}

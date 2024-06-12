@@ -1,0 +1,13 @@
+{
+    "reference": "U",
+    "symbol": "VMM5320BJG",
+    "footprint": "BGA-168_14x12_10x8.5mm_P0.65mm",
+    "datasheet": "https://uploadcdn.oneyac.com/upload/document/1641525833084_8966.pdf",
+    "manufacturer": "Synaptic",
+    "mpn": "VMM5320BJG",
+    "description": "1 In to 2 Out HDMI2.0 Repeater with Audio Extraction/Insertion",
+    "keywords": "SMT, VIDEO, HDMI, DISPLAYPORT",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "BGA-168_14x12_10x8.5mm_P0.65mm-synaptic-vmm5320bjg"
+}

@@ -1,0 +1,13 @@
+{
+    "reference": "J",
+    "symbol": "USB-C_Mtconn_UBF31-0171",
+    "footprint": "USB-C_Receptacle_Mtconn_UBF31-0171",
+    "datasheet": "https://www.mtconntech.com/wp-content/plugins/down-as-pdf/generate.php?id=2987",
+    "manufacturer": "Mtconn Electronics",
+    "mpn": "UBF31-0171",
+    "description": "USB-CUSB 2.0 Receptacle Connector 24 (16+8 Dummy) Position Surface Mount, Right Angle",
+    "keywords": "USB, CONNECTOR, SMT, HORIZONTAL",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "USB-C_Receptacle_Mtconn_UBF31-0171"
+}

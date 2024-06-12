@@ -1,0 +1,13 @@
+{
+    "reference": "J",
+    "symbol": "PinHeader_2x10_P1.27mm_SMD_Latch",
+    "footprint": "PinHeader_2x10_P1.27mm_SMD_Latch",
+    "datasheet": "https://eu.mouser.com/datasheet/2/527/ftsh_th-2854322.pdf",
+    "manufacturer": "Samtec",
+    "mpn": "FTSH-110-01-L-DV-K-P-TR",
+    "description": "Rectangular header connector ",
+    "keywords": "CONNECTOR, HEADER, SMT",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "PinHeader_2x10_P1.27mm_SMD_Latch"
+}

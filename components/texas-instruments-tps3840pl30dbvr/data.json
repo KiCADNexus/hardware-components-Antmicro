@@ -1,0 +1,13 @@
+{
+    "reference": "U",
+    "symbol": "TPS3840PL30DBVR",
+    "footprint": "SOT-23-5",
+    "datasheet": "https://www.ti.com/lit/ds/symlink/tps3840.pdf?HQS=dis-mous-null-mousermode-dsf-pf-null-wwe&DCM=yes&ref_url=https%3A%2F%2Fwww.mouser.com%2F&distId=26",
+    "manufacturer": "Texas Instruments",
+    "mpn": "TPS3840PL30DBVR",
+    "description": "Voltage supervisor",
+    "keywords": "SMT, PMIC, IC, CONTROLLER",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "SOT-23-5"
+}

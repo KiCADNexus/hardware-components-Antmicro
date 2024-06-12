@@ -1,0 +1,13 @@
+{
+    "reference": "T",
+    "symbol": "Choke_DLW21SH900HQ2L",
+    "footprint": "Choke_Murata-DLW21",
+    "datasheet": "https://www.murata.com/products/productdata/8815447900190/QFLC9126.pdf?1674703820000",
+    "manufacturer": "Murata",
+    "mpn": "DLW21SH900HQ2L ",
+    "description": "Choke, Common Mode, DLW21S Series, 90 ohm, 280 mA, 0805, 2mm x 1.2mm x 1.2mm",
+    "keywords": "CHOKE, PASSIVE",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "Choke_Murata-DLW21"
+}

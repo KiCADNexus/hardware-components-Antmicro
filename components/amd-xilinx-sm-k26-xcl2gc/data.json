@@ -1,0 +1,13 @@
+{
+    "reference": "A",
+    "symbol": "Kria-K26",
+    "footprint": "XILINX-KRIA-K26",
+    "datasheet": "https://eu.mouser.com/datasheet/2/903/ds987_k26_som-2329045.pdf",
+    "manufacturer": "AMD-Xilinx",
+    "mpn": "SM-K26-XCL2GC",
+    "description": "Plug-In Module, XCK26-SFVC784-2LV-C, Kria SOM Carrier Card",
+    "keywords": "SOM, MODULE, MECHANICAL",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "XILINX-KRIA-K26"
+}

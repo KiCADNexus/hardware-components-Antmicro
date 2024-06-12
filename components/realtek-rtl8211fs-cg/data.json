@@ -1,0 +1,13 @@
+{
+    "reference": "U",
+    "symbol": "RTL8211FS-CG",
+    "footprint": "QFN-48-1EP_6x6mm",
+    "datasheet": "https://www.lcsc.com/datasheet/lcsc_datasheet_2207051600_Realtek-Semicon-RTL8211FS-CG_C2844012.pdf",
+    "manufacturer": "Realtek",
+    "mpn": "RTL8211FS-CG",
+    "description": "INTEGRATED 10/100/1000M ETHERNET PRECISION TRANSCEIVER",
+    "keywords": "IC, ETHERNET, PCIE, SMT, TRANSCEIVER, PHY",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "QFN-48-1EP_6x6mm-realtek-rtl8211fs-cg"
+}

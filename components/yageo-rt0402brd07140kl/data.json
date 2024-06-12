@@ -1,0 +1,13 @@
+{
+    "reference": "R",
+    "symbol": "R_140k_0.1%_0402",
+    "footprint": "R_0402_1005Metric",
+    "datasheet": "https://www.vishay.com/docs/28758/tnpw_e3.pdf",
+    "manufacturer": "YAGEO",
+    "mpn": "RT0402BRD07140KL",
+    "description": "SMD Chip Resistor, Ceramic, 140 kohm, \u00b1 0.1%, 62.5 mW, 0402 [1005 Metric], Thin Film, Precision resistors",
+    "keywords": "0402, SMT, RESISTOR, PASSIVE",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "R_0402_1005Metric"
+}

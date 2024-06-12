@@ -1,0 +1,13 @@
+{
+    "reference": "J",
+    "symbol": "Conn_FFC_WE_68712614522_ONE-SIDE",
+    "footprint": "Conn_FFC_WE_68712614x22",
+    "datasheet": "https://www.we-online.com/components/products/datasheet/68712614522.pdf",
+    "manufacturer": "W\u00fcrth Elektronik",
+    "mpn": "68712614522",
+    "description": "FFC / FPC Board Connector, ZIF, Horizontal, 0.5 mm, 26 Contacts, Receptacle, Surface Mount, Bottom",
+    "keywords": "CONNECTOR",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": null
+}

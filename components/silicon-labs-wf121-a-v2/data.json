@@ -1,0 +1,13 @@
+{
+    "reference": "A",
+    "symbol": "WiFi_WF121-A-V2",
+    "footprint": "WiFi_Module_WF121-A-V2",
+    "datasheet": "https://media.digikey.com/pdf/Data%20Sheets/BlueGiga%20PDFs/WF121_Datasheet.pdf",
+    "manufacturer": "Silicon Labs",
+    "mpn": "WF121-A-V2",
+    "description": "Wireless LAN Module, 2.4GHz, I2C, SPI, UART, USB, Navigation Devices, PoS Terminals, RFID, Cameras",
+    "keywords": "MODULE",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": null
+}

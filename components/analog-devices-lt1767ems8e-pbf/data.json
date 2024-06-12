@@ -1,0 +1,13 @@
+{
+    "reference": "U",
+    "symbol": "LT1767",
+    "footprint": "MSOP-8-1EP_3x3x1.1mm_P0.65mm",
+    "datasheet": "https://eu.mouser.com/datasheet/2/609/1767fb-3123520.pdf",
+    "manufacturer": "Analog Devices",
+    "mpn": "LT1767EMS8E#PBF",
+    "description": "Switching Voltage Regulator Mono 1.5A, 1.25MHz Buck",
+    "keywords": "SMT, PMIC, IC, VOLTAGE, DC-DC",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "MSOP-8-1EP_3x3x1.1mm_P0.65mm-analog-devices-lt1767ems8e-pbf"
+}
