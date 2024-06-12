@@ -1,20 +1,13 @@
 {
-    "id": "nexperia-74lvch244abq-115",
     "reference": "U",
+    "symbol": "74LVCH244ABQ,115",
+    "footprint": "DHVQFN-20-1EP_2.5x4.5_P0.5mm",
+    "datasheet": "https://www.mouser.com/datasheet/2/916/74LVC_LVCH244A-1539896.pdf",
+    "manufacturer": "Nexperia",
     "mpn": "74LVCH244ABQ,115",
-    "category": "IC",
-    "type": "Logic buffer/driver/receiver/transceiver",
-    "datasheetUrl": "https://www.mouser.pl/datasheet/2/916/74LVC_LVCH244A-1539896.pdf",
-    "assets": {
-        "blendfile": false,
-        "symbol": true,
-        "footprint": false
-    },
-    "blendfileId": "dhvqfn20",
-    "symbolId": "74lvch244abq-115",
-    "footprintId": "dhvqfn20",
-    "manufacturerId": "nexperia",
-    "tagIds": [
-        "ic"
-    ]
+    "description": "Logic buffer/driver/receiver/transceiver",
+    "keywords": "IC",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "DHVQFN-20-1EP_2.5x4.5_P0.5mm"
 }

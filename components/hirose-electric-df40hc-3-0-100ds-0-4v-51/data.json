@@ -1,20 +1,13 @@
 {
-    "id": "hirose-electric-df40hc-3-0-100ds-0-4v-51",
     "reference": "J",
+    "symbol": "Socket_Hirose_DF40_2x50_DF40HC-3.0-100DS-0.4V",
+    "footprint": "Conn_Socket_Hirose_DF40_2x50_DF40HC-3.0-100DS-0.4V",
+    "datasheet": "https://www.hirose.com/en/product/document?clcode=CL0684-4151-0-51&productname=DF40HC(3.0)-100DS-0.4V(51&series=DF40&documenttype=Catalog&lang=en&documentid=en_DF40_CAT",
+    "manufacturer": "Hirose Electric",
     "mpn": "DF40HC(3.0)-100DS-0.4V(51)",
-    "category": "Connector",
-    "type": "SoM connector",
-    "datasheetUrl": "https://www.hirose.com/en/product/document?clcode=CL0684-4180-9-51&productname=DF40HC(3.0)-100DS-0.4V(51)&series=DF40&documenttype=2DDrawing&lang=en&documentid=0001143082",
-    "assets": {
-        "blendfile": true,
-        "symbol": false,
-        "footprint": false
-    },
-    "blendfileId": "df40hc-3-0-100ds-0-4v-mirrored",
-    "symbolId": "oak-som-max-c",
-    "footprintId": "df40hc-3-0-100ds-0-4v-mirrored",
-    "manufacturerId": "hirose-electric",
-    "tagIds": [
-        "connector"
-    ]
+    "description": "100 Position Connector Receptacle, Center Strip Contacts Surface Mount Gold",
+    "keywords": "CONNECTOR, B2B, SOCKET",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "Conn_Socket_Hirose_DF40_2x50_DF40HC-3.0-100DS-0.4V"
 }

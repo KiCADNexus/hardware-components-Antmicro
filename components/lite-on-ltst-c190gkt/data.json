@@ -1,23 +1,13 @@
 {
-    "id": "lite-on-ltst-c190gkt",
     "reference": "D",
+    "symbol": "LED_G_0603_LTST-C190GKT",
+    "footprint": "LED_0603_1608Metric_G",
+    "datasheet": "https://media.digikey.com/pdf/Data%20Sheets/Lite-On%20PDFs/LTST-C190GKT.pdf",
+    "manufacturer": "Lite-On",
     "mpn": "LTST-C190GKT",
-    "category": "Semiconductor",
-    "type": "LED, GREEN, 0.8MM X 1.1MM, 20MCD, 570NM, FULL REEL",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": true,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "led-0603-1608metric-g",
-    "symbolId": "led-g-0603-ltst-c190gkt",
-    "footprintId": "led-0603-1608metric-g",
-    "manufacturerId": "lite-on",
-    "tagIds": [
-        "0603",
-        "smt",
-        "led",
-        "semiconductor"
-    ]
+    "description": "LED, Green, SMD, 0603, 20 mA, 2.1 V, 569 nm",
+    "keywords": "SMT, DIODE, SEMICONDUCTOR, LED",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "LED_0603_1608Metric_G"
 }

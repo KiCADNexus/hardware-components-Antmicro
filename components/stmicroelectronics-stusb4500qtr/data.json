@@ -1,23 +1,13 @@
 {
-    "id": "stmicroelectronics-stusb4500qtr",
     "reference": "U",
+    "symbol": "STUSB4500_QFN",
+    "footprint": "QFN-24-1EP_4x4mm_P0.5_EP2.1x2.1mm",
+    "datasheet": "https://www.mouser.com/datasheet/2/389/dm00489312-1799262.pdf",
+    "manufacturer": "STMicroelectronics",
     "mpn": "STUSB4500QTR",
-    "category": "IC",
-    "type": "USB TYPE-C PD CTRL, -40 TO 105DEG C",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": false,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "qfn50p400x400x90-25n",
-    "symbolId": "stusb4500qtr",
-    "footprintId": "qfn50p400x400x90-25n",
-    "manufacturerId": "stmicroelectronics",
-    "tagIds": [
-        "smt",
-        "interface",
-        "ic",
-        "usb"
-    ]
+    "description": "USB Controller USB 2.0 I2C Interface 24-QFN (4x4)",
+    "keywords": "CONTROLLER",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "QFN-24-1EP_4x4mm_P0.5_EP2.1x2.1mm"
 }

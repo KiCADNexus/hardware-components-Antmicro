@@ -1,23 +1,13 @@
 {
-    "id": "diodes-incorporated-ap62600sj-7",
     "reference": "U",
+    "symbol": "AP62600SJ-7",
+    "footprint": "V-QFN2030-12",
+    "datasheet": "https://www.diodes.com/assets/Datasheets/AP62600.pdf",
+    "manufacturer": "Diodes Incorporated",
     "mpn": "AP62600SJ-7",
-    "category": "IC",
-    "type": "DC-DC Switching Synchronous Buck Regulator, Adjustable, 4.5V-18V in, 0.6 to 7 V/6 A out, VQFN2030-12",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": false,
-        "symbol": false,
-        "footprint": false
-    },
-    "blendfileId": "v-qfn2030-12",
-    "symbolId": "ap62600sj-7",
-    "footprintId": "v-qfn2030-12",
-    "manufacturerId": "diodes-incorporated",
-    "tagIds": [
-        "smt",
-        "pmic",
-        "ic",
-        "voltage"
-    ]
+    "description": "DC-DC Switching Synchronous Buck Regulator, Adjustable, 4.5V-18V in, 0.6 to 7 V/6 A out, VQFN2030-12",
+    "keywords": "SMT, PMIC, IC, VOLTAGE",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "V-QFN2030-12"
 }

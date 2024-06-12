@@ -1,22 +1,13 @@
 {
-    "id": "diodes-incorporated-bss138-7-f",
     "reference": "Q",
+    "symbol": "BSS138-7-F",
+    "footprint": "SOT-23-3",
+    "datasheet": "https://www.diodes.com/assets/Datasheets/ds30144.pdf",
+    "manufacturer": "Diodes Incorporated",
     "mpn": "BSS138-7-F",
-    "category": "Semiconductor",
-    "type": "Power MOSFET, N Channel, 50 V, 200 mA, 1.4 ohm, SOT-23, Surface Mount",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": true,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "sot-23-3",
-    "symbolId": "bss138-7-f",
-    "footprintId": "sot-23-3",
-    "manufacturerId": "diodes-incorporated",
-    "tagIds": [
-        "smt",
-        "mosfet",
-        "semiconductor"
-    ]
+    "description": "Power MOSFET, N Channel, 50 V, 200 mA, 1.4 ohm, SOT-23, Surface Mount",
+    "keywords": "SMT, MOSFET, SEMICONDUCTOR",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "SOT-23-3"
 }

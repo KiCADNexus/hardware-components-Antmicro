@@ -1,23 +1,13 @@
 {
-    "id": "microchip-technology-pac1954t-e-4mx",
     "reference": "U",
+    "symbol": "PAC1954T-E_VQFN",
+    "footprint": "VQFN-16-1EP_3x3mm_P0.5mm_EP1.1x1.1mm",
+    "datasheet": "https://ww1.microchip.com/downloads/aemDocuments/documents/MSLD/ProductDocuments/DataSheets/PAC195X-Family-Data-Sheet-DS20006539.pdf",
+    "manufacturer": "Microchip Technology",
     "mpn": "PAC1954T-E/4MX",
-    "category": "IC",
-    "type": "Power Monitor, Accumulator, 2.7 V to 5.5 V, -40 \u00b0C to 125 \u00b0C, VQFN-16",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": false,
-        "symbol": false,
-        "footprint": true
-    },
-    "blendfileId": "vqfn-16-1ep-3x3mm-p0-5mm-ep1-1x1-1mm",
-    "symbolId": "pac1954t-e-4mx",
-    "footprintId": "vqfn-16-1ep-3x3mm-p0-5mm-ep1-1x1-1mm",
-    "manufacturerId": "microchip-technology",
-    "tagIds": [
-        "smt",
-        "ic",
-        "i2c",
-        "regulator"
-    ]
+    "description": "Current/Voltage Monitor Regulator High-Side 16-VQFN (3x3)",
+    "keywords": "MONITOR, VOLTAGE, IC, SMT",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "VQFN-16-1EP_3x3mm_P0.5mm_EP1.1x1.1mm"
 }

@@ -1,23 +1,13 @@
 {
-    "id": "kycon-kusbx-sl2-cs1n24-b-tr",
     "reference": "J",
+    "symbol": "USB-C_Kycon_KUSBX-SL2-CS1N24-B-TR",
+    "footprint": "USB-C_Receptacle_Kycon_KUSBX-SL2-CS1N24-B-TR",
+    "datasheet": "https://www.kycon.com/Pub_Eng_Draw/KUSBX-SL2-CS1N24-B-TR.pdf",
+    "manufacturer": "Kycon",
     "mpn": "KUSBX-SL2-CS1N24-B-TR",
-    "category": "Connector",
-    "type": "USB-C (USB TYPE-C) USB 3.2 Gen 2 (USB 3.1 Gen 2, Superspeed + USB 3.1) Receptacle Connector 24 Position Through Hole, Right Angle",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": false,
-        "symbol": false,
-        "footprint": false
-    },
-    "blendfileId": "kusbxsl2cs1n24btr",
-    "symbolId": "kusbx-sl2-cs1n24-b-tr",
-    "footprintId": "kusbxsl2cs1n24btr",
-    "manufacturerId": "kycon",
-    "tagIds": [
-        "vertical",
-        "smt",
-        "usb",
-        "connector"
-    ]
+    "description": "USB-C (USB TYPE-C) USB 3.2 Gen 2 (USB 3.1 Gen 2, Superspeed + (USB 3.1)) USB PD Receptacle Connector 24 Position Surface Mount",
+    "keywords": "USB, CONNECTOR, SMT, HORIZONTAL",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "USB-C_Receptacle_Kycon_KUSBX-SL2-CS1N24-B-TR"
 }

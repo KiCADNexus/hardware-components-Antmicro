@@ -1,24 +1,13 @@
 {
-    "id": "bourns-cd-mmbl110s",
     "reference": "D",
+    "symbol": "CD-MMBL110S",
+    "footprint": "DFN3538",
+    "datasheet": "https://www.bourns.com/docs/product-datasheets/CD-MMBL110S.pdf",
+    "manufacturer": "Bourns",
     "mpn": "CD-MMBL110S",
-    "category": "Semiconductor",
-    "type": "TVS diode",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": false,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "dfn3538",
-    "symbolId": "cd-mmbl110s",
-    "footprintId": "dfn3538",
-    "manufacturerId": "bourns",
-    "tagIds": [
-        "smt",
-        "rectifier",
-        "semiconductor",
-        "diode",
-        "bridge"
-    ]
+    "description": "Bridge Rectifier, 1000 V, 1 A, Single Phase , 4 Pins, 900mV",
+    "keywords": "SMT, RECTIFIER, SEMICONDUCTOR, DIODE, BRIDGE",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "DFN3538"
 }

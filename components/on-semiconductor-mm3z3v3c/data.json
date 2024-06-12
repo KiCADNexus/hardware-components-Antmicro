@@ -1,24 +1,13 @@
 {
-    "id": "on-semiconductor-mm3z3v3c",
     "reference": "D",
+    "symbol": "MM3Z3V3C",
+    "footprint": "D_SOD-323F",
+    "datasheet": "https://www.onsemi.com/download/data-sheet/pdf/mm3z9v1c-d.pdf",
+    "manufacturer": "ON Semiconductor",
     "mpn": "MM3Z3V3C",
-    "category": "Semiconductor",
-    "type": "Zener diode",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": true,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "d-sod-323f",
-    "symbolId": "mm3z3v3c",
-    "footprintId": "d-sod-323f",
-    "manufacturerId": "on-semiconductor",
-    "tagIds": [
-        "smt",
-        "rectifier",
-        "semiconductor",
-        "diode",
-        "zener"
-    ]
+    "description": "Zener Single Diode, 3.3 V, 200 mW, SOD-323F, 2 Pins, 150 \u00b0C, Surface Mount",
+    "keywords": "SMT, DIODE, SEMICONDUCTOR, ZENER",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "D_SOD-323F"
 }

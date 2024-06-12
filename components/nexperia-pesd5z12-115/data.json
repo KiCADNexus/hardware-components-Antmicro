@@ -1,20 +1,13 @@
 {
-    "id": "nexperia-pesd5z12-115",
     "reference": "D",
+    "symbol": "PESD5Z12",
+    "footprint": "SOD-523",
+    "datasheet": "https://assets.nexperia.com/documents/data-sheet/PESD5Z12.pdf",
+    "manufacturer": "Nexperia",
     "mpn": "PESD5Z12,115",
-    "category": "Semiconductor",
-    "type": "TVS diode",
-    "datasheetUrl": "https://www.mouser.pl/datasheet/2/916/PESD5Z12-2938721.pdf",
-    "assets": {
-        "blendfile": true,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "sod-523",
-    "symbolId": "pesd5z12",
-    "footprintId": "sod-523",
-    "manufacturerId": "nexperia",
-    "tagIds": [
-        "semiconductor"
-    ]
+    "description": "Unidirectional TVS, 30 kV,  SOD-523, 12 V, 35 pF",
+    "keywords": "DIODE, SEMICONDUCTOR, TVS, ESD",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "SOD-523"
 }

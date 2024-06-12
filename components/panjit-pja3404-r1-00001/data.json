@@ -1,23 +1,13 @@
 {
-    "id": "panjit-pja3404-r1-00001",
     "reference": "Q",
+    "symbol": "PJA3404",
+    "footprint": "SOT-23-3",
+    "datasheet": "https://www.mouser.com/datasheet/2/1057/PJA3404-1867365.pdf",
+    "manufacturer": "PANJIT",
     "mpn": "PJA3404_R1_00001",
-    "category": "Semiconductor",
-    "type": "FET/MOSFET transistor",
-    "datasheetUrl": "https://www.mouser.pl/datasheet/2/1057/PJA3404-1867365.pdf",
-    "assets": {
-        "blendfile": true,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "sot-23-3",
-    "symbolId": "pja3404",
-    "footprintId": "sot-23-3",
-    "manufacturerId": "panjit",
-    "tagIds": [
-        "smt",
-        "transistor",
-        "semiconductor",
-        "mosfet"
-    ]
+    "description": "FET/MOSFET transistor",
+    "keywords": "SMT, TRANSISTOR, SEMICONDUCTOR, MOSFET",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "SOT-23-3"
 }

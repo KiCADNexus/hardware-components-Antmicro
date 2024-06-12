@@ -1,23 +1,13 @@
 {
-    "id": "diodes-incorporated-ap22653fdz-7",
     "reference": "U",
+    "symbol": "AP22653_DFN",
+    "footprint": "DFN-6-1EP_2x2mm_P0.65mm_EP1x1.6mm",
+    "datasheet": "https://www.mouser.com/datasheet/2/115/DIOD_S_A0010880137_1-2543666.pdf",
+    "manufacturer": "Diodes Incorporated",
     "mpn": "AP22653FDZ-7",
-    "category": "IC",
-    "type": "Power Load Distribution Switch, High Side, Active High, 1 Output, 5.5 V, 2.665 A, W-DFN2020-EP-6",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": false,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "dfn-6-1ep-2x2mm-p0-65mm-ep1x1-6mm",
-    "symbolId": "ap22653-dfn",
-    "footprintId": "dfn-6-1ep-2x2mm-p0-65mm-ep1x1-6mm",
-    "manufacturerId": "diodes-incorporated",
-    "tagIds": [
-        "smt",
-        "pmic",
-        "ic",
-        "voltage"
-    ]
+    "description": "Power Load Distribution Switch, High Side, Active High, 1 Output, 5.5 V, 2.665 A, W-DFN2020-EP-6",
+    "keywords": "SMT, PMIC, IC, VOLTAGE",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "DFN-6-1EP_2x2mm_P0.65mm_EP1x1.6mm"
 }

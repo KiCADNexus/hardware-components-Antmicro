@@ -1,25 +1,13 @@
 {
-    "id": "avx-0805zd226mat2a",
     "reference": "C",
+    "symbol": "C_22u_0805_10V",
+    "footprint": "C_0805_2012Metric",
+    "datasheet": "https://spicat.kyocera-avx.com/product/mlcc/chartview/0805ZD226MAT2A/",
+    "manufacturer": "AVX",
     "mpn": "0805ZD226MAT2A",
-    "category": "Passive",
-    "type": "SMT capacitor",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": true,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "c-0805-2012metric",
-    "symbolId": "c-22u-0805-10v",
-    "footprintId": "c-0805-2012metric",
-    "manufacturerId": "avx",
-    "tagIds": [
-        "0402",
-        "smt",
-        "capacitor",
-        "passive",
-        "ceramic",
-        "mlcc"
-    ]
+    "description": "SMD Multilayer Ceramic Capacitor, 22 \u00b5F, 10 V, 0805 [2012 Metric], \u00b1 20%, X5R",
+    "keywords": "0402, SMT, CAPACITOR, PASSIVE, CERAMIC, MLCC",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "C_0805_2012Metric"
 }

@@ -1,23 +1,13 @@
 {
-    "id": "kyocera-avx-tcje337m016r0070e",
     "reference": "C",
+    "symbol": "C_Pol_330u_16V_KYOCERA-AVX-TCJ-E",
+    "footprint": "C_Pol_EIA-E",
+    "datasheet": "https://spicat.kyocera-avx.com/product/tan/chartview/TCJE337M016R0070E/",
+    "manufacturer": "KYOCERA AVX",
     "mpn": "TCJE337M016R0070E",
-    "category": "Passive",
-    "type": "Polarized capacitor",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": false,
-        "symbol": true,
-        "footprint": false
-    },
-    "blendfileId": "capc7343x400n",
-    "symbolId": "c-330u-16v-case-e",
-    "footprintId": "capc7343x400n",
-    "manufacturerId": "kyocera-avx",
-    "tagIds": [
-        "tht",
-        "capacitor",
-        "passive",
-        "polarized"
-    ]
+    "description": "Tantalum Capacitors - Polymer 16V 330uF 2917 20% ESR=70mOhms",
+    "keywords": "SMT, CAPACITOR, PASSIVE, POLARIZED",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "C_Pol_EIA-E"
 }

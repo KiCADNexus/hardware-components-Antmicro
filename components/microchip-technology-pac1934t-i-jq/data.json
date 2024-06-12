@@ -1,22 +1,13 @@
 {
-    "id": "microchip-technology-pac1934t-i-jq",
     "reference": "U",
+    "symbol": "PAC1934_QFN",
+    "footprint": "QFN-16_1EP_4x4mm_P0.65mm",
+    "datasheet": "https://www.mouser.com/datasheet/2/268/PAC1931_Family_Data_Sheet_DS20005850E-1519053.pdf",
+    "manufacturer": "Microchip Technology",
     "mpn": "PAC1934T-I/JQ",
-    "category": "IC",
-    "type": "DC Power/Energy Monitor With Accumulator, Quad High-side current Sensor, 2.7V to 5.5V, UQFN-16",
-    "datasheetUrl": "https://www.mouser.pl/datasheet/2/268/PAC1931_Family_Data_Sheet_DS20005850E-1519053.pdf",
-    "assets": {
-        "blendfile": true,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "qfn-16-1ep-4x4mm-p0-65mm",
-    "symbolId": "pac1934-qfn",
-    "footprintId": "qfn-16-1ep-4x4mm-p0-65mm",
-    "manufacturerId": "microchip-technology",
-    "tagIds": [
-        "ic",
-        "pmic",
-        "smt"
-    ]
+    "description": "DC Power/Energy Monitor With Accumulator, Quad High-side current Sensor, 2.7V to 5.5V, UQFN-16",
+    "keywords": "IC, PMIC, SMT, MONITOR",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "QFN-16_1EP_4x4mm_P0.65mm"
 }

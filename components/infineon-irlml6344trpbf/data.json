@@ -1,24 +1,13 @@
 {
-    "id": "infineon-irlml6344trpbf",
     "reference": "Q",
+    "symbol": "IRLML6344TRPBF",
+    "footprint": "SOT-23-3",
+    "datasheet": "https://www.infineon.com/dgdl/irlml6344pbf.pdf?fileId=5546d462533600a4015356689c44262c",
+    "manufacturer": "Infineon",
     "mpn": "IRLML6344TRPBF",
-    "category": "Semiconductor",
-    "type": "Power MOSFET, N Channel, 30 V, 5 A, 0.022 ohm, SOT-23, Surface Mount",
-    "datasheetUrl": "https://www.infineon.com/dgdl/irlml6344pbf.pdf?fileId=5546d462533600a4015356689c44262c",
-    "assets": {
-        "blendfile": true,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "sot-23-3",
-    "symbolId": "irlml6344trpbf",
-    "footprintId": "sot-23-3",
-    "manufacturerId": "infineon",
-    "tagIds": [
-        "smt",
-        "transistor",
-        "semiconductor",
-        "nmos",
-        "mosfet"
-    ]
+    "description": "Power MOSFET, N Channel, 30 V, 5 A, 0.022 ohm, SOT-23, Surface Mount",
+    "keywords": "SMT, TRANSISTOR, SEMICONDUCTOR, NMOS, MOSFET",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "SOT-23-3"
 }

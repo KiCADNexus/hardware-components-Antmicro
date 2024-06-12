@@ -1,24 +1,13 @@
 {
-    "id": "microchip-technology-mic61300yml-tr",
     "reference": "U",
+    "symbol": "MIC61300YML",
+    "footprint": "DFN-10-1EP_3x3mm",
+    "datasheet": "https://ww1.microchip.com/downloads/en/DeviceDoc/mic61300.pdf",
+    "manufacturer": "Microchip Technology",
     "mpn": "MIC61300YML-TR",
-    "category": "IC",
-    "type": "Linear voltage regulator",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": true,
-        "symbol": false,
-        "footprint": true
-    },
-    "blendfileId": "dfn-10-1ep-3x3mm",
-    "symbolId": "mic61300yml",
-    "footprintId": "dfn-10-1ep-3x3mm",
-    "manufacturerId": "microchip-technology",
-    "tagIds": [
-        "smt",
-        "ldo",
-        "ic",
-        "linear",
-        "regulator"
-    ]
+    "description": "Linear voltage regulator",
+    "keywords": "SMT, LDO, IC, LINEAR, REGULATOR",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "DFN-10-1EP_3x3mm"
 }

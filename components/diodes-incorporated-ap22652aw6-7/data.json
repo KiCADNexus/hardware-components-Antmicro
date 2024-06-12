@@ -1,23 +1,13 @@
 {
-    "id": "diodes-incorporated-ap22652aw6-7",
     "reference": "U",
+    "symbol": "AP22652AW6",
+    "footprint": "SOT-23-6",
+    "datasheet": "https://www.diodes.com/assets/Datasheets/AP22652_53_52A_53A.pdf",
+    "manufacturer": "Diodes Incorporated",
     "mpn": "AP22652AW6-7",
-    "category": "IC",
-    "type": "Power Load Distribution Switch, High Side, Active Low, 1 Output, 5.5V, 2.665A, 0.065 ohm, SOT26-6",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": true,
-        "symbol": false,
-        "footprint": true
-    },
-    "blendfileId": "sot-23-6",
-    "symbolId": "ap22652aw6-7",
-    "footprintId": "sot-23-6",
-    "manufacturerId": "diodes-incorporated",
-    "tagIds": [
-        "smt",
-        "pmic",
-        "ic",
-        "voltage"
-    ]
+    "description": "Power Switch/Driver 1:1 N-Channel 2.1A SOT-26",
+    "keywords": "POWER, SWITCH, DRIVER",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "SOT-23-6"
 }

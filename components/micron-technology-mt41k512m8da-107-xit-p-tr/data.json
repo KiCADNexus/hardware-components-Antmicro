@@ -1,22 +1,13 @@
 {
-    "id": "micron-technology-mt41k512m8da-107-xit-p-tr",
     "reference": "U",
+    "symbol": "MT41K512M8DA",
+    "footprint": "Micron_FBGA-78",
+    "datasheet": "https://media-www.micron.com/-/media/client/global/documents/products/data-sheet/dram/ddr3/4gb_1_35v_ddr3l_xit_addendum.pdf?rev=7a72ef4abde14a46b61107e1a0bb1af6",
+    "manufacturer": "Micron Technology",
     "mpn": "MT41K512M8DA-107 XIT:P TR",
-    "category": "IC",
-    "type": "Memory",
-    "datasheetUrl": "https://media-www.micron.com/-/media/client/global/documents/products/data-sheet/dram/ddr3/4gb_1_35v_ddr3l_xit_addendum.pdf?rev=993cd23ec9f2450c8cae38fcb35343bd",
-    "assets": {
-        "blendfile": false,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "micron-fbga-78",
-    "symbolId": "mt41k512m8da",
-    "footprintId": "micron-fbga-78",
-    "manufacturerId": "micron-technology",
-    "tagIds": [
-        "smt",
-        "dram",
-        "ic"
-    ]
+    "description": "SDRAM - DDR3L Memory IC 4Gbit Parallel 933 MHz 20 ns 78-FBGA (8x10.5)",
+    "keywords": "SMT, DRAM, IC",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "Micron_FBGA-78-micron-technology-mt41k512m8da-107-xit-p-tr"
 }

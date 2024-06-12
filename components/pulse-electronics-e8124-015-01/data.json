@@ -1,23 +1,13 @@
 {
-    "id": "pulse-electronics-e8124-015-01",
     "reference": "J",
+    "symbol": "USB-C_PulseElectronics_E8124-015-01",
+    "footprint": "USB-C_Receptacle_PulseElectronics_E8124-015-01",
+    "datasheet": "https://productfinder.pulseeng.com/doc_type/WEB301/doc_num/E8124-015-01/doc_part/E8124-015-01.pdf",
+    "manufacturer": "Pulse Electronics",
     "mpn": "E8124-015-01",
-    "category": "Connector",
-    "type": "USB Connectors USB 3.1 type C 10G Top Mount",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": false,
-        "symbol": false,
-        "footprint": false
-    },
-    "blendfileId": "usb-c-female-e8124-015-01",
-    "symbolId": "e8124-015-01",
-    "footprintId": "usb-c-female-e8124-015-01",
-    "manufacturerId": "pulse-electronics",
-    "tagIds": [
-        "horizontal",
-        "tht",
-        "usb",
-        "connector"
-    ]
+    "description": "USB-C (USB TYPE-C) USB 3.2 Gen 2 (USB 3.1 Gen 2, Superspeed + (USB 3.1)) Receptacle Connector 24 Position Surface Mount, Right Angle; Through Hole",
+    "keywords": "USB, CONNECTOR, SMT, HORIZONTAL",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "USB-C_Receptacle_PulseElectronics_E8124-015-01"
 }

@@ -1,20 +1,13 @@
 {
-    "id": "texas-instruments-tps22950cddcr",
     "reference": "U",
+    "symbol": "TPS22950CDDCR",
+    "footprint": "SOT-23-6",
+    "datasheet": "https://www.ti.com/lit/ds/symlink/tps22950.pdf?HQS=dis-mous-null-mousermode-dsf-pf-null-wwe&ts=1685091335915&ref_url=https%253A%252F%252Fwww.mouser.de%252F",
+    "manufacturer": "Texas Instruments",
     "mpn": "TPS22950CDDCR",
-    "category": "IC",
-    "type": "Power distribution switch/load driver",
-    "datasheetUrl": "https://www.ti.com/lit/ds/symlink/tps22950.pdf?HQS=dis-mous-null-mousermode-dsf-pf-null-wwe&ts=1685091335915&ref_url=https%253A%252F%252Fwww.mouser.de%252F",
-    "assets": {
-        "blendfile": true,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "sot-23-6",
-    "symbolId": "tps22950cddcr",
-    "footprintId": "sot-23-6",
-    "manufacturerId": "texas-instruments",
-    "tagIds": [
-        "ic"
-    ]
+    "description": "Power distribution switch/load driver",
+    "keywords": "IC",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "SOT-23-6"
 }

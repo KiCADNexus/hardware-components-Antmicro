@@ -1,24 +1,13 @@
 {
-    "id": "osram-lg-l29k-g2j1-24-z",
     "reference": "D",
+    "symbol": "LED_G_0603_LG_L29K-G2J1-24-Z",
+    "footprint": "LED_0603_1608Metric_G",
+    "datasheet": "https://look.ams-osram.com/m/19ee86b3ae0ee95b/original/LG-L29K.pdf",
+    "manufacturer": "OSRAM",
     "mpn": "LG L29K-G2J1-24-Z",
-    "category": "Semiconductor",
-    "type": "LED, Green, SMT, 0603, 20 mA, 2.1 V, 570 nm",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": true,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "led-0603-1608metric-g",
-    "symbolId": "led-g-0603-lg-l29k-g2j1-24-z",
-    "footprintId": "led-0603-1608metric-g",
-    "manufacturerId": "osram",
-    "tagIds": [
-        "0603",
-        "smt",
-        "diode",
-        "semiconductor",
-        "unicolor"
-    ]
+    "description": "LED, Green, SMD, 0603, 20 mA, 1.7 V, 570 nm",
+    "keywords": "SMT, DIODE, SEMICONDUCTOR, LED",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "LED_0603_1608Metric_G"
 }

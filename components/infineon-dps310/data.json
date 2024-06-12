@@ -1,22 +1,13 @@
 {
-    "id": "infineon-dps310",
     "reference": "U",
+    "symbol": "DPS310",
+    "footprint": "LGA-8_2x2.5mm",
+    "datasheet": "https://www.infineon.com/dgdl/Infineon-DPS310-DataSheet-v01_01-EN.pdf?fileId=5546d462576f34750157750826c42242",
+    "manufacturer": "Infineon",
     "mpn": "DPS310",
-    "category": "IC",
-    "type": "Sensor/transducer",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": false,
-        "symbol": false,
-        "footprint": false
-    },
-    "blendfileId": "pg-vlga-8-2",
-    "symbolId": "dps310",
-    "footprintId": "pg-vlga-8-2",
-    "manufacturerId": "infineon",
-    "tagIds": [
-        "smt",
-        "sensor",
-        "ic"
-    ]
+    "description": "300-1200hPa I2C/SPI sensor",
+    "keywords": "SENSOR, I2C",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "LGA-8_2x2.5mm-infineon-dps310"
 }

@@ -1,23 +1,13 @@
 {
-    "id": "kemet-c1206c225m4vactu",
     "reference": "C",
+    "symbol": "C_2u2_1206",
+    "footprint": "C_1206_3216Metric",
+    "datasheet": "https://www.kemet.com/en/us/capacitors/product/C1206C225M4VACTU.html",
+    "manufacturer": "KEMET",
     "mpn": "C1206C225M4VACTU",
-    "category": "Passive",
-    "type": "SMT capacitor",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": true,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "c-1206-3216metric",
-    "symbolId": "c-2u2-1206",
-    "footprintId": "c-1206-3216metric",
-    "manufacturerId": "kemet",
-    "tagIds": [
-        "1206",
-        "smt",
-        "capacitor",
-        "passive"
-    ]
+    "description": "SMD Multilayer Ceramic Capacitor, 2.2 \u00b5F, 16 V, 1206 [3216 Metric], \u00b1 20%, Y5V, C Series KEMET",
+    "keywords": "1206, SMT, CAPACITOR, PASSIVE",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "C_1206_3216Metric"
 }

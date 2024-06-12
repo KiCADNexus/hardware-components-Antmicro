@@ -1,24 +1,13 @@
 {
-    "id": "microchip-technology-lan8720a-cp-tr-abc",
     "reference": "U",
+    "symbol": "LAN8720A-CP-TR-ABC",
+    "footprint": "QFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm",
+    "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/8720a.pdf",
+    "manufacturer": "Microchip Technology",
     "mpn": "LAN8720A-CP-TR-ABC",
-    "category": "IC",
-    "type": "Ethernet Controller, 100 Mbps, IEEE 802.3, IEEE 802.3u, 3 V, 3.6 V, SQFN, 24 Pins",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": false,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "qfn-24-1ep-4x4mm-p0-5mm-ep2-6x2-6mm",
-    "symbolId": "lan8720a-cp-tr-abc",
-    "footprintId": "qfn-24-1ep-4x4mm-p0-5mm-ep2-6x2-6mm",
-    "manufacturerId": "microchip-technology",
-    "tagIds": [
-        "smt",
-        "transceiver",
-        "ic",
-        "ethernet",
-        "phy"
-    ]
+    "description": "Ethernet Controller, 100 Mbps, IEEE 802.3, IEEE 802.3u, 3 V, 3.6 V, SQFN, 24 Pins",
+    "keywords": "SMT, TRANSCEIVER, IC, ETHERNET, PHY",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "QFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm"
 }

@@ -1,26 +1,13 @@
 {
-    "id": "texas-instruments-tps7a20185pdqnr",
     "reference": "U",
+    "symbol": "TPS7A20185PDQNR",
+    "footprint": "XDFN4",
+    "datasheet": "https://www.ti.com/general/docs/suppproductinfo.tsp?distId=26&gotoUrl=https://www.ti.com/lit/gpn/tps7a20",
+    "manufacturer": "Texas Instruments",
     "mpn": "TPS7A20185PDQNR",
-    "category": "IC",
-    "type": "Linear voltage regulator",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": true,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "xdfn4",
-    "symbolId": "tps7a20185pdqnr",
-    "footprintId": "xdfn4",
-    "manufacturerId": "texas-instruments",
-    "tagIds": [
-        "smt",
-        "pmic",
-        "ic",
-        "ldo",
-        "linear",
-        "voltage",
-        "regulator"
-    ]
+    "description": "Linear voltage regulator",
+    "keywords": "SMT, PMIC, IC, LDO, LINEAR, VOLTAGE, REGULATOR",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "XDFN4"
 }

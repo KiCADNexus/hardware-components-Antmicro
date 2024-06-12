@@ -1,23 +1,13 @@
 {
-    "id": "johanson-technology-160r15x106kv4e",
     "reference": "C",
+    "symbol": "C_10u_0805",
+    "footprint": "C_0805_2012Metric",
+    "datasheet": "https://www.johansontechnology.com/index.php?option=com_jtiproducts&name=160R15X106KV4E",
+    "manufacturer": "Johanson Technology",
     "mpn": "160R15X106KV4E",
-    "category": "Passive",
-    "type": "SMT capacitor",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": true,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "c-0805-2012metric",
-    "symbolId": "c-10u-0805",
-    "footprintId": "c-0805-2012metric",
-    "manufacturerId": "johanson-technology",
-    "tagIds": [
-        "0805",
-        "smt",
-        "capacitor",
-        "passive"
-    ]
+    "description": "SMD Multilayer Ceramic Capacitor, TANCERAM\u00ae, 10 \u00b5F, 16 V, 0805 [2012 Metric], \u00b1 10%, X5R",
+    "keywords": "0805, SMT, CAPACITOR, PASSIVE",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "C_0805_2012Metric"
 }

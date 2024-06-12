@@ -1,23 +1,13 @@
 {
-    "id": "nxp-pca9500pw",
     "reference": "U",
+    "symbol": "PCA9500PW_TSSOP",
+    "footprint": "TSSOP-16_4.4x5mm_P0.65mm",
+    "datasheet": "https://www.nxp.com/docs/en/data-sheet/PCA9500.pdf",
+    "manufacturer": "NXP",
     "mpn": "PCA9500PW",
-    "category": "IC",
-    "type": "I/O Expander, 8 bit, I2C, SMBus, 2.5 V, 3.6 V, TSSOP, 16 Pins",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": true,
-        "symbol": false,
-        "footprint": true
-    },
-    "blendfileId": "tssop-16-4-4x5mm-p0-65mm",
-    "symbolId": "pca9500pw",
-    "footprintId": "tssop-16-4-4x5mm-p0-65mm",
-    "manufacturerId": "nxp",
-    "tagIds": [
-        "smt",
-        "interface",
-        "ic",
-        "i2c"
-    ]
+    "description": "I/O Expander, 8 bit, I2C, SMBus, 2.5-3.6 V, TSSOP, 16 Pins",
+    "keywords": "SMT, INTERFACE, IC, I2C",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "TSSOP-16_4.4x5mm_P0.65mm"
 }

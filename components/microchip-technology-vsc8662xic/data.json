@@ -1,24 +1,13 @@
 {
-    "id": "microchip-technology-vsc8662xic",
     "reference": "U",
+    "symbol": "VSC8662XIC",
+    "footprint": "BGA-256_17x17mm_Layout16x16_P1mm_VSC8862XIC",
+    "datasheet": "https://www.mouser.com/datasheet/2/268/MCHP_S_A0008366719_1-2513824.pdf",
+    "manufacturer": "Microchip Technology",
     "mpn": "VSC8662XIC",
-    "category": "IC",
-    "type": "VSC8662 Series 1.25 Gbps Dual Port 10/100/1000 BASE-T & 100/1000BX PHY - BGA-256",
-    "datasheetUrl": "https://www.mouser.pl/datasheet/2/268/MCHP_S_A0008366719_1-2513824.pdf",
-    "assets": {
-        "blendfile": false,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "bga-256-17x17mm-layout16x16-p1mm-vsc8862xic",
-    "symbolId": "vsc8662xic",
-    "footprintId": "bga-256-17x17mm-layout16x16-p1mm-vsc8862xic",
-    "manufacturerId": "microchip-technology",
-    "tagIds": [
-        "smt",
-        "transceiver",
-        "ic",
-        "phy",
-        "ethernet"
-    ]
+    "description": "VSC8662 Series 1.25 Gbps Dual Port 10/100/1000 BASE-T & 100/1000BX PHY - BGA-256",
+    "keywords": "SMT, TRANSCEIVER, IC, PHY, ETHERNET",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "BGA-256_17x17mm_Layout16x16_P1mm_VSC8862XIC"
 }

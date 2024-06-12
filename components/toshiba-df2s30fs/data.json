@@ -1,24 +1,13 @@
 {
-    "id": "toshiba-df2s30fs",
     "reference": "D",
+    "symbol": "DF2S30FS_SOD",
+    "footprint": "SOD-923",
+    "datasheet": "https://toshiba.semicon-storage.com/info/DF2S30FS_datasheet_en_20211216.pdf?did=11156&prodName=DF2S30FS",
+    "manufacturer": "Toshiba",
     "mpn": "DF2S30FS",
-    "category": "Semiconductor",
-    "type": "TVS diode",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": true,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "sod-923",
-    "symbolId": "df2s30fs-sod",
-    "footprintId": "sod-923",
-    "manufacturerId": "toshiba",
-    "tagIds": [
-        "smt",
-        "diode",
-        "semiconductor",
-        "tvs",
-        "esd"
-    ]
+    "description": "Unidirectional TVS, 8 kV,  SOD-923, 23 V, 7 pF",
+    "keywords": "DIODE, SEMICONDUCTOR, TVS, ESD",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "SOD-923"
 }

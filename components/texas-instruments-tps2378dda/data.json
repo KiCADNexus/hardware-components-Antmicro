@@ -1,23 +1,13 @@
 {
-    "id": "texas-instruments-tps2378dda",
     "reference": "U",
+    "symbol": "TPS2378DDA",
+    "footprint": "SOIC-8-1EP_3.9x4.9x1.75mm_P1.27mm",
+    "datasheet": "http://www.ti.com/lit/ds/symlink/tps2378.pdf",
+    "manufacturer": "Texas Instruments",
     "mpn": "TPS2378DDA",
-    "category": "IC",
-    "type": "Power Over Ethernet (POE) Controller, 57 V/ 500 \u00b5A, 40 V UVLO Threshold, SOIC-8",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": false,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "vqfn-20-5x5x1mm-p0-65mm",
-    "symbolId": "tps2378dda",
-    "footprintId": "vqfn-20-5x5x1mm-p0-65mm",
-    "manufacturerId": "texas-instruments",
-    "tagIds": [
-        "smt",
-        "poe",
-        "ic",
-        "interface"
-    ]
+    "description": "Power Over Ethernet (POE) Controller, 57 V/ 500 \u00b5A, 40 V UVLO Threshold, SOIC-8",
+    "keywords": "SMT, POE, IC, INTERFACE",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "SOIC-8-1EP_3.9x4.9x1.75mm_P1.27mm"
 }

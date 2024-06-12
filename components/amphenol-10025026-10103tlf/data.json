@@ -1,23 +1,13 @@
 {
-    "id": "amphenol-10025026-10103tlf",
     "reference": "J",
+    "symbol": "PCIe_x16_10025026-10103TLF",
+    "footprint": "PCIe_x16_10025026-10103TLF",
+    "datasheet": "https://cdn.amphenol-cs.com/media/wysiwyg/files/drawing/10025026.pdf",
+    "manufacturer": "Amphenol",
     "mpn": "10025026-10103TLF",
-    "category": "Connector",
-    "type": "PCI Express Card Edge SKT 164 POS 1mm Solder ST Edge Mount Tray",
-    "datasheetUrl": "https://cdn.amphenol-cs.com/media/wysiwyg/files/drawing/10025026.pdf",
-    "assets": {
-        "blendfile": false,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "pcie-x16-10025026-10103tlf",
-    "symbolId": "pcie-x16-10025026-10103tlf",
-    "footprintId": "pcie-x16-10025026-10103tlf",
-    "manufacturerId": "amphenol",
-    "tagIds": [
-        "connector",
-        "pcie",
-        "edge",
-        "female"
-    ]
+    "description": "PCI Express Card Edge SKT 164 POS 1mm Solder ST Edge Mount Tray",
+    "keywords": "CONNECTOR, PCIE, EDGE, FEMALE",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "PCIe_x16_10025026-10103TLF"
 }

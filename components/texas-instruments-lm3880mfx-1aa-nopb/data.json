@@ -1,24 +1,13 @@
 {
-    "id": "texas-instruments-lm3880mfx-1aa-nopb",
     "reference": "U",
+    "symbol": "LM3880",
+    "footprint": "SOT-23-6",
+    "datasheet": "http://www.ti.com/lit/ds/symlink/lm3880.pdf",
+    "manufacturer": "Texas Instruments",
     "mpn": "LM3880MFX-1AA/NOPB",
-    "category": "IC",
-    "type": "Power sequencer",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": true,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "sot-23-6",
-    "symbolId": "lm3880",
-    "footprintId": "sot-23-6",
-    "manufacturerId": "texas-instruments",
-    "tagIds": [
-        "smt",
-        "pmic",
-        "ic",
-        "power",
-        "sequencer"
-    ]
+    "description": "Power sequencer",
+    "keywords": "SMT, PMIC, IC, POWER, SEQUENCER",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "SOT-23-6"
 }

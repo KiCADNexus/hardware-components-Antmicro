@@ -1,20 +1,13 @@
 {
-    "id": "abracon-abm8g-12-000mhz-18-d2y-t",
     "reference": "Y",
+    "symbol": "Resonator_12MHz_ABM8G",
+    "footprint": "Resonator_SMD_Abracon_ABM8G_3.2x2.5mm",
+    "datasheet": "https://abracon.com/Resonators/ABM8G.pdf",
+    "manufacturer": "Abracon",
     "mpn": "ABM8G-12.000MHZ-18-D2Y-T",
-    "category": "Oscillator",
-    "type": "Crystal, 12 MHz, SMD, 3.2mm x 2.5mm, 30 ppm, 18 pF, 20 ppm, ABM8G",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": false,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "oscillator-smd-geyer-kx-7-4pin-3-2x2-5mm",
-    "symbolId": "oscillator-smd-12mhz-kx-7",
-    "footprintId": "oscillator-smd-geyer-kx-7-4pin-3-2x2-5mm",
-    "manufacturerId": "abracon",
-    "tagIds": [
-        "oscillator"
-    ]
+    "description": "Crystal, 12 MHz, SMT, 3.2mm x 2.5mm, 30 ppm, 18 pF, 20 ppm, ABM8G",
+    "keywords": "SMT, CERAMIC, OSCILLATOR",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "Resonator_SMD_Abracon_ABM8G_3.2x2.5mm"
 }

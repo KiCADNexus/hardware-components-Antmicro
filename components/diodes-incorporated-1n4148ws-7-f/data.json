@@ -1,23 +1,13 @@
 {
-    "id": "diodes-incorporated-1n4148ws-7-f",
     "reference": "D",
+    "symbol": "1N4148WS-7-F",
+    "footprint": "D_SOD-323",
+    "datasheet": "https://www.diodes.com/assets/Datasheets/ds30097.pdf",
+    "manufacturer": "Diodes Incorporated",
     "mpn": "1N4148WS-7-F",
-    "category": "Semiconductor",
-    "type": "Small Signal Diode, Single, 75 V, 150 mA, 1.25 V, 4 ns, 2 A",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": false,
-        "symbol": false,
-        "footprint": false
-    },
-    "blendfileId": "sod-323",
-    "symbolId": "1n4148ws-7-f",
-    "footprintId": "sod-323",
-    "manufacturerId": "diodes-incorporated",
-    "tagIds": [
-        "smt",
-        "diode",
-        "semiconductor",
-        "switching"
-    ]
+    "description": "Fast Switching Diode, Single, 75 V, 300 mA, 1.25 V, 4 ns, 2 A",
+    "keywords": "SMT, DIODE, SEMICONDUCTOR, SWITCHING",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "D_SOD-323"
 }

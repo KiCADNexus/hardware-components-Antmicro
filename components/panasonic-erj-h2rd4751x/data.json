@@ -1,23 +1,13 @@
 {
-    "id": "panasonic-erj-h2rd4751x",
     "reference": "R",
+    "symbol": "R_4k75_0.5%_0402",
+    "footprint": "R_0402_1005Metric",
+    "datasheet": "https://industrial.panasonic.com/cdbs/www-data/pdf/RDQ0000/ast-ind-151033.pdf",
+    "manufacturer": "Panasonic",
     "mpn": "ERJ-H2RD4751X",
-    "category": "Passive",
-    "type": "SMT resistor",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": true,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "r-0402-1005metric",
-    "symbolId": "r-4k75-0-5-0402",
-    "footprintId": "r-0402-1005metric",
-    "manufacturerId": "panasonic",
-    "tagIds": [
-        "0402",
-        "smt",
-        "resistor",
-        "passive"
-    ]
+    "description": "SMD Chip Resistor, 4.75 kohm, \u00b1 0.5%, 100 mW, 0402 [1005 Metric], Thick Film, High Temperature",
+    "keywords": "0402, SMT, RESISTOR, PASSIVE",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "R_0402_1005Metric"
 }

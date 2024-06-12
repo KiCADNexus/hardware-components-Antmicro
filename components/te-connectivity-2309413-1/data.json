@@ -1,23 +1,13 @@
 {
-    "id": "te-connectivity-2309413-1",
-    "reference": "A",
+    "reference": "J",
+    "symbol": "Bus_DDR4_SODIMM",
+    "footprint": "TE_2309413",
+    "datasheet": "https://www.mouser.com/datasheet/2/418/7/ENG_CD_2309413_6-2032635.pdf",
+    "manufacturer": "TE Connectivity",
     "mpn": "2309413-1",
-    "category": "Module",
-    "type": "SoM connector",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": true,
-        "symbol": true,
-        "footprint": false
-    },
-    "blendfileId": "jetson-nano-connector",
-    "symbolId": "jetson-nano-new-release",
-    "footprintId": "jetson-nano-connector",
-    "manufacturerId": "te-connectivity",
-    "tagIds": [
-        "smt",
-        "memory",
-        "module",
-        "ddr"
-    ]
+    "description": "DIMM connector DDR4 SODIMM 260P 9.2H STD",
+    "keywords": "HORIZONTAL, SMT, MEMORY, CONNECTOR, DDR",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "TE_2309413"
 }

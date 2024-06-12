@@ -1,23 +1,13 @@
 {
-    "id": "texas-instruments-cc1200rhbt",
     "reference": "U",
+    "symbol": "CC1200RHBT",
+    "footprint": "QFN-32-1EP_5x5mm",
+    "datasheet": "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fcc1200",
+    "manufacturer": "Texas Instruments",
     "mpn": "CC1200RHBT",
-    "category": "IC",
-    "type": "RF transceiver IC",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": true,
-        "symbol": false,
-        "footprint": true
-    },
-    "blendfileId": "qfn-32-1ep-5x5mm",
-    "symbolId": "cc1200rhbt",
-    "footprintId": "qfn-32-1ep-5x5mm",
-    "manufacturerId": "texas-instruments",
-    "tagIds": [
-        "smt",
-        "transceiver",
-        "ic",
-        "rf"
-    ]
+    "description": "RF transceiver IC, low-cost sub-1 GHz transceiver",
+    "keywords": "SMT, TRANSCEIVER, IC, RF",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "QFN-32-1EP_5x5mm"
 }

@@ -1,25 +1,13 @@
 {
-    "id": "nexperia-74lvc1g157-q100h",
     "reference": "U",
+    "symbol": "74LVC1G157-Q100H_SOT457",
+    "footprint": "SC-74-6_1.5x2.9mm_P0.95mm",
+    "datasheet": "https://www.mouser.com/datasheet/2/916/74LVC1G157_Q100-1578792.pdf",
+    "manufacturer": "Nexperia",
     "mpn": "74LVC1G157-Q100H",
-    "category": "IC",
-    "type": "Interface analog switch/multiplexer/demultiplexer",
-    "datasheetUrl": "https://www.mouser.pl/datasheet/2/916/74LVC1G157_Q100-1578792.pdf",
-    "assets": {
-        "blendfile": true,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "sc-74-6-1-5x2-9mm-p0-95mm",
-    "symbolId": "74lvc1g157-q100h-sot457",
-    "footprintId": "sc-74-6-1-5x2-9mm-p0-95mm",
-    "manufacturerId": "nexperia",
-    "tagIds": [
-        "smt",
-        "logic",
-        "ic",
-        "decoder",
-        "encoder",
-        "mux"
-    ]
+    "description": "Single 2-input multiplexer",
+    "keywords": "SMT, LOGIC, IC, DECODER, ENCODER, MUX",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "SC-74-6_1.5x2.9mm_P0.95mm"
 }

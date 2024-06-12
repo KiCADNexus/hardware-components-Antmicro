@@ -1,22 +1,13 @@
 {
-    "id": "mpd-bk-912",
-    "reference": "BAT",
+    "reference": "BT",
+    "symbol": "Battery_Holder_BK-912",
+    "footprint": "Battery_Holder_BK-912",
+    "datasheet": "https://www.memoryprotectiondevices.com/documents/catalogs/MPD-Battery-Holders.pdf",
+    "manufacturer": "MPD",
     "mpn": "BK-912",
-    "category": "Battery",
-    "type": "Bench Power Supply, Programmable, 3 Output, 0 V, 30 V, 0 A, 3 A",
-    "datasheetUrl": "https://www.memoryprotectiondevices.com/documents/catalogs/MPD-Battery-Holders.pdf",
-    "assets": {
-        "blendfile": false,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "battery-holder-bk-912",
-    "symbolId": "battery-holder-bk-912",
-    "footprintId": "battery-holder-bk-912",
-    "manufacturerId": "mpd",
-    "tagIds": [
-        "mechanical",
-        "battery",
-        "holder"
-    ]
+    "description": "Bench Power Supply, Programmable, 3 Output, 0 V, 30 V, 0 A, 3 A",
+    "keywords": "MECHANICAL, BATTERY, HOLDER",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "Battery_Holder_BK-912"
 }

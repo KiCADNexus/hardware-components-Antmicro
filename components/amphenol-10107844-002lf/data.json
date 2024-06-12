@@ -1,22 +1,13 @@
 {
-    "id": "amphenol-10107844-002lf",
     "reference": "J",
+    "symbol": "Socket_Amphenol_HPCE_2x17_10107844-002LF",
+    "footprint": "Socket_Amphenol_HPCE_2x17_10107844-002LF",
+    "datasheet": "https://www.farnell.com/cad/2569863.pdf",
+    "manufacturer": "Amphenol",
     "mpn": "10107844-002LF",
-    "category": "Connector",
-    "type": "CARD EDGE CONN, DUAL SIDE, 36PWR+24SIG",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": false,
-        "symbol": false,
-        "footprint": false
-    },
-    "blendfileId": "10107844-002lf",
-    "symbolId": "10107844-002lf",
-    "footprintId": "10107844-002lf",
-    "manufacturerId": "amphenol",
-    "tagIds": [
-        "horizontal",
-        "edge",
-        "connector"
-    ]
+    "description": "60 (24 + 36 Power) Position Edge Card Connector",
+    "keywords": "HORIZONTAL, EDGE, CONNECTOR, SOCKET",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "Socket_Amphenol_HPCE_2x17_10107844-002LF"
 }

@@ -1,20 +1,13 @@
 {
-    "id": "wurth-elektronik-150066m153000",
     "reference": "D",
+    "symbol": "LED_RGB_0606_150066M153000",
+    "footprint": "LED_Dual0603",
+    "datasheet": "https://www.we-online.com/components/products/datasheet/150066M153000.pdf",
+    "manufacturer": "W\u00fcrth Elektronik",
     "mpn": "150066M153000",
-    "category": "Semiconductor",
-    "type": "LED indicator",
-    "datasheetUrl": "https://www.mouser.pl/datasheet/2/445/150066M153000-3085526.pdf",
-    "assets": {
-        "blendfile": true,
-        "symbol": true,
-        "footprint": false
-    },
-    "blendfileId": "led-dual0603",
-    "symbolId": "led-rgb-0606-150066m153000",
-    "footprintId": "led-dual0603",
-    "manufacturerId": "wurth-elektronik",
-    "tagIds": [
-        "semiconductor"
-    ]
+    "description": "LED, RGB, SMD, 0606, R 20 mA, G 20 mA, B 20 mA, R 2 V, G 3.3 V, B 3.3 V, Common Anode",
+    "keywords": "SMT, DIODE, SEMICONDUCTOR, LED",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "LED_Dual0603"
 }

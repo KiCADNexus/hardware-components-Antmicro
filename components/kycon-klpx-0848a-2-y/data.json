@@ -1,24 +1,13 @@
 {
-    "id": "kycon-klpx-0848a-2-y",
     "reference": "J",
+    "symbol": "RCA_Jack_KLPX-0848A-2-Y",
+    "footprint": "RCA_Jack_KLPX-0848A-2-Y",
+    "datasheet": "https://www.kycon.com/2013Catalogpage/RCA/KLPX.pdf",
+    "manufacturer": "Kycon",
     "mpn": "KLPX-0848A-2-Y",
-    "category": "Connector",
-    "type": "Barrel audio connector",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": false,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "rca-phono-jack-klpx-0848a-2-y",
-    "symbolId": "rca-phono-jack-klpx-0848a-2-y",
-    "footprintId": "rca-phono-jack-klpx-0848a-2-y",
-    "manufacturerId": "kycon",
-    "tagIds": [
-        "horizontal",
-        "smt",
-        "jack",
-        "connector",
-        "audio"
-    ]
+    "description": "Barrel audio connector",
+    "keywords": "SMT, JACK, CONNECTOR, AUDIO",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "RCA_Jack_KLPX-0848A-2-Y"
 }

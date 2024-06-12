@@ -1,22 +1,13 @@
 {
-    "id": "micron-technology-mt25ql256aba1ew7-0sit",
     "reference": "U",
+    "symbol": "MT25QL256ABA1EW7-0SIT",
+    "footprint": "WDFN-8-1EP_6x5mm_P1.27mm_EP3.4x4mm",
+    "datasheet": "https://www.micron.com/products/nor-flash/serial-nor-flash/part-catalog/mt25ql256aba1ew7-0sit",
+    "manufacturer": "Micron Technology",
     "mpn": "MT25QL256ABA1EW7-0SIT",
-    "category": "IC",
-    "type": "Flash Memory, Serial NOR, 256 Mbit, 32M x 8bit, SPI, MLP, 8 Pins",
-    "datasheetUrl": "https://4donline.ihs.com/images/VipMasterIC/IC/MICT/MICT-S-A0003204259/MICT-S-A0003204259-1.pdf?hkey=6D3A4C79FDBF58556ACFDE234799DDF0",
-    "assets": {
-        "blendfile": false,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "wdfn-8-1ep-6x5mm-p1-27mm-ep3-4x4mm",
-    "symbolId": "mt25ql256aba1ew7-0sit",
-    "footprintId": "wdfn-8-1ep-6x5mm-p1-27mm-ep3-4x4mm",
-    "manufacturerId": "micron-technology",
-    "tagIds": [
-        "smt",
-        "flash",
-        "ic"
-    ]
+    "description": "Flash Memory, Serial NOR, 256 Mbit, 32M x 8bit, SPI, MLP, 8 Pins",
+    "keywords": "SMT, FLASH, IC",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "WDFN-8-1EP_6x5mm_P1.27mm_EP3.4x4mm"
 }

@@ -1,20 +1,13 @@
 {
-    "id": "microchip-technology-dsc2033fi2-f0044",
     "reference": "U",
+    "symbol": "DSC2033FI2-F0044",
+    "footprint": "VQFN-14-1EP_3.2x2.5mm_P0.5mm_Layout4x3",
+    "datasheet": "https://ww1.microchip.com/downloads/en/DeviceDoc/DSC2033%20Datasheet%20MKQBPD12042609-2.pdf",
+    "manufacturer": "Microchip Technology",
     "mpn": "DSC2033FI2-F0044",
-    "category": "IC",
-    "type": "Level shifter",
-    "datasheetUrl": "https://ww1.microchip.com/downloads/en/DeviceDoc/DSC2033%20Datasheet%20MKQBPD12042609-2.pdf",
-    "assets": {
-        "blendfile": true,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "vqfn-14-1ep-3-2x2-5mm-p0-5mm-layout4x3",
-    "symbolId": "dsc2033fi2-f0044",
-    "footprintId": "vqfn-14-1ep-3-2x2-5mm-p0-5mm-layout4x3",
-    "manufacturerId": "microchip-technology",
-    "tagIds": [
-        "ic"
-    ]
+    "description": "Level shifter",
+    "keywords": "IC",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "VQFN-14-1EP_3.2x2.5mm_P0.5mm_Layout4x3"
 }

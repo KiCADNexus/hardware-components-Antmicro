@@ -1,24 +1,13 @@
 {
-    "id": "on-semiconductor-mbr0520lt1g",
     "reference": "D",
+    "symbol": "MBR0520LT1G",
+    "footprint": "D_SOD-123",
+    "datasheet": "http://www.onsemi.com/pub/Collateral/MBR0520LT1-D.PDF",
+    "manufacturer": "ON Semiconductor",
     "mpn": "MBR0520LT1G",
-    "category": "Semiconductor",
-    "type": "Schottky Rectifier, 20 V, 500 mA, Single, SOD-123, 2 Pins, 385 mV",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": true,
-        "symbol": false,
-        "footprint": false
-    },
-    "blendfileId": "d-sod-123f",
-    "symbolId": "mbr0520lt1g",
-    "footprintId": "d-sod-123f",
-    "manufacturerId": "on-semiconductor",
-    "tagIds": [
-        "smt",
-        "rectifier",
-        "semiconductor",
-        "diode",
-        "schottky"
-    ]
+    "description": "Schottky Rectifier, 20 V, 500 mA, Single, SOD-123, 2 Pins, 385 mV",
+    "keywords": "SMT, RECTIFIER, SEMICONDUCTOR, DIODE, SCHOTTKY",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "D_SOD-123"
 }

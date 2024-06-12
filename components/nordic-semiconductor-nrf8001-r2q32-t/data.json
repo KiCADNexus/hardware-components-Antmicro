@@ -1,24 +1,13 @@
 {
-    "id": "nordic-semiconductor-nrf8001-r2q32-t",
     "reference": "U",
+    "symbol": "NRF8001-R2Q32-T",
+    "footprint": "QFN-32-1EP_5x5mm",
+    "datasheet": "https://eu.mouser.com/datasheet/2/297/NRSAS00035_1-2559952.pdf",
+    "manufacturer": "Nordic Semiconductor",
     "mpn": "NRF8001-R2Q32-T",
-    "category": "IC",
-    "type": "RF transceiver IC",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": true,
-        "symbol": false,
-        "footprint": true
-    },
-    "blendfileId": "qfn-32-1ep-5x5mm",
-    "symbolId": "nrf8001-r2q32-t",
-    "footprintId": "qfn-32-1ep-5x5mm",
-    "manufacturerId": "nordic-semiconductor",
-    "tagIds": [
-        "smt",
-        "soc",
-        "ic",
-        "bluetooth",
-        "rf"
-    ]
+    "description": "RF transceiver IC, Single-chip Bluetooth\u00ae low energy solution",
+    "keywords": "SMT, SOC, IC, BLUETOOTH, RF",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "QFN-32-1EP_5x5mm"
 }

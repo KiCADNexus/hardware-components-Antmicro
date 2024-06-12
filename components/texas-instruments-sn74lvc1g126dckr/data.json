@@ -1,23 +1,13 @@
 {
-    "id": "texas-instruments-sn74lvc1g126dckr",
     "reference": "U",
+    "symbol": "SN74LVC1G126_SC-70",
+    "footprint": "SC-70-5",
+    "datasheet": "https://www.ti.com/lit/ds/symlink/sn74lvc1g126.pdf?ts",
+    "manufacturer": "Texas Instruments",
     "mpn": "SN74LVC1G126DCKR",
-    "category": "IC",
-    "type": "Buffer, 74LVC1G126, 1.65 V to 5.5 V, SC-70-5",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": true,
-        "symbol": false,
-        "footprint": true
-    },
-    "blendfileId": "sc-70-5",
-    "symbolId": "sn74lvc1g126dckr",
-    "footprintId": "sc-70-5",
-    "manufacturerId": "texas-instruments",
-    "tagIds": [
-        "smt",
-        "logic",
-        "ic",
-        "gate"
-    ]
+    "description": "Buffer, Non-Inverting 2 Element 1 Bit per Element 3-State Output 8-VSSOP",
+    "keywords": "SWITCH",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "SC-70-5"
 }

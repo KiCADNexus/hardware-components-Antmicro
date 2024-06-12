@@ -1,24 +1,13 @@
 {
-    "id": "alliance-memory-as4c256m16d3",
     "reference": "U",
+    "symbol": "AS4C256M16D3",
+    "footprint": "BGA-96_9.0x13.0mm_Layout2x3x16_P0.8mm",
+    "datasheet": "https://www.alliancememory.com/wp-content/uploads/pdf/ddr3/4GB-AS4C256M16D3.pdf",
+    "manufacturer": "Alliance Memory",
     "mpn": "AS4C256M16D3",
-    "category": "IC",
-    "type": "Memory",
-    "datasheetUrl": "https://www.mouser.pl/datasheet/2/12/4GB-AS4C256M16D3-1511029.pdf",
-    "assets": {
-        "blendfile": false,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "bga-96-9-0x13-0mm-layout2x3x16-p0-8mm",
-    "symbolId": "as4c256m16d3",
-    "footprintId": "bga-96-9-0x13-0mm-layout2x3x16-p0-8mm",
-    "manufacturerId": "alliance-memory",
-    "tagIds": [
-        "smt",
-        "memory",
-        "ic",
-        "ddr",
-        "synchronous"
-    ]
+    "description": "SDRAM - DDR3 Memory IC 4Gbit Parallel 800 MHz 20 ns 96-FBGA (9x13)",
+    "keywords": "SMT, MEMORY, IC, DDR, SYNCHRONOUS",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "BGA-96_9.0x13.0mm_Layout2x3x16_P0.8mm-alliance-memory-as4c256m16d3"
 }

@@ -1,23 +1,13 @@
 {
-    "id": "panasonic-exb2hvr000v",
     "reference": "R",
+    "symbol": "8x0R_0602_array",
+    "footprint": "R_Array_8x0602_Panasonic_EXB2HV",
+    "datasheet": "http://industrial.panasonic.com/cdbs/www-data/pdf/AOC0000/AOC0000C14.pdf",
+    "manufacturer": "Panasonic",
     "mpn": "EXB2HVR000V",
-    "category": "Passive",
-    "type": "Zero Ohm Network Resistor, Jumper, 0402 [1005 Metric], Thick Film, Isolated, Convex, 8 Resistors",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": false,
-        "symbol": true,
-        "footprint": false
-    },
-    "blendfileId": "r-array-convex-8x0602",
-    "symbolId": "8x0r-0602-array",
-    "footprintId": "r-array-convex-8x0602",
-    "manufacturerId": "panasonic",
-    "tagIds": [
-        "smt",
-        "resistor",
-        "passive",
-        "array"
-    ]
+    "description": "Zero Ohm Network Resistor, Jumper, 0402 [1005 Metric], Thick Film, Isolated, Convex, 8 Resistors",
+    "keywords": "SMT, RESISTOR, PASSIVE, ARRAY",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "R_Array_8x0602_Panasonic_EXB2HV"
 }

@@ -1,20 +1,13 @@
 {
-    "id": "jae-electronics-dx07s024jj2",
     "reference": "J",
+    "symbol": "USB-C_JAE_DX07S024JJ2",
+    "footprint": "USB-C_Receptacle_JAE_DX07S024JJ2",
+    "datasheet": "https://www.jae.com/en/connectors/series/detail/product/id=66508",
+    "manufacturer": "JAE Electronics",
     "mpn": "DX07S024JJ2",
-    "category": "Connector",
-    "type": "USB connector",
-    "datasheetUrl": "https://www.jae.com/en/connectors/series/detail/product/id=66508",
-    "assets": {
-        "blendfile": false,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "usb-3-1-gen2-type-c-jae-dx07s024jj2-horizontal",
-    "symbolId": "usb-c-dx07s024jj2",
-    "footprintId": "usb-3-1-gen2-type-c-jae-dx07s024jj2-horizontal",
-    "manufacturerId": "jae-electronics",
-    "tagIds": [
-        "connector"
-    ]
+    "description": "USB-C (USB TYPE-C) USB 3.2 Gen 2 (USB 3.1 Gen 2, Superspeed + (USB 3.1)) Receptacle Connector 24 Position Surface Mount, Right Angle",
+    "keywords": "USB, CONNECTOR, SMT, HORIZONTAL",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "USB-C_Receptacle_JAE_DX07S024JJ2"
 }

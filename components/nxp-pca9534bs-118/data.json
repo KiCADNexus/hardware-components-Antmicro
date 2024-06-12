@@ -1,23 +1,13 @@
 {
-    "id": "nxp-pca9534bs-118",
     "reference": "U",
+    "symbol": "PCA9534BS_QFN",
+    "footprint": "QFN-16-1EP_4x4mm_P0.65mm",
+    "datasheet": "https://www.nxp.com/docs/en/data-sheet/PCA9534.pdf",
+    "manufacturer": "NXP",
     "mpn": "PCA9534BS,118",
-    "category": "IC",
-    "type": "I/O Expander, 8 bit, I2C, SMBus, 2.3 V, 5.5 V, HVQFN, 16 Pins",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": true,
-        "symbol": false,
-        "footprint": true
-    },
-    "blendfileId": "qfn-16-1ep-4x4mm-p0-65mm",
-    "symbolId": "pca9534bs-118",
-    "footprintId": "qfn-16-1ep-4x4mm-p0-65mm",
-    "manufacturerId": "nxp",
-    "tagIds": [
-        "smt",
-        "interface",
-        "ic",
-        "i2c"
-    ]
+    "description": "I/O Expander, 8 bit, I2C, SMBus, 2.3-5.5 V, HVQFN, 16 Pins",
+    "keywords": "SMT, INTERFACE, IC, I2C",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "QFN-16-1EP_4x4mm_P0.65mm"
 }

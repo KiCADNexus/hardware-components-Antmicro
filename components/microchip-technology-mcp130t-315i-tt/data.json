@@ -1,20 +1,13 @@
 {
-    "id": "microchip-technology-mcp130t-315i-tt",
     "reference": "U",
+    "symbol": "MCP130T-315_SOT-23",
+    "footprint": "SOT-23-3",
+    "datasheet": "https://www.mouser.com/datasheet/2/268/MCHPS05553_1-2520694.pdf",
+    "manufacturer": "Microchip Technology",
     "mpn": "MCP130T-315I/TT",
-    "category": "IC",
-    "type": "Power distribution switch/load driver",
-    "datasheetUrl": "https://www.mouser.pl/datasheet/2/268/MCHPS05553_1-2520694.pdf",
-    "assets": {
-        "blendfile": true,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "sot-23-3",
-    "symbolId": "mcp130t-315-sot-23",
-    "footprintId": "sot-23-3",
-    "manufacturerId": "microchip-technology",
-    "tagIds": [
-        "ic"
-    ]
+    "description": "Power distribution switch/load driver",
+    "keywords": "IC",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "SOT-23-3"
 }

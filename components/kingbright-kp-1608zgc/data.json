@@ -1,23 +1,13 @@
 {
-    "id": "kingbright-kp-1608zgc",
     "reference": "D",
+    "symbol": "LED_G_0603_KP-1608ZGC",
+    "footprint": "LED_0603_1608Metric_G",
+    "datasheet": "https://www.kingbright.com/attachments/file/psearch/000/00/00/KP-1608ZGC(Ver.19B).pdf",
+    "manufacturer": "Kingbright",
     "mpn": "KP-1608ZGC",
-    "category": "Semiconductor",
-    "type": "LED, Low Power, Green, SMT, 0603, 20 mA, 3.3 V, 525 nm",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": true,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "led-0603-1608metric-g",
-    "symbolId": "led-g-0603-kp-1608zgc",
-    "footprintId": "led-0603-1608metric-g",
-    "manufacturerId": "kingbright",
-    "tagIds": [
-        "0603",
-        "smt",
-        "led",
-        "semiconductor"
-    ]
+    "description": "LED, Green, SMD, 0603, 20 mA, 3.3 V, 525 nm",
+    "keywords": "SMT, DIODE, SEMICONDUCTOR, LED",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "LED_0603_1608Metric_G"
 }

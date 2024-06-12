@@ -1,22 +1,13 @@
 {
-    "id": "murata-1285as-h-2r2m-p2",
     "reference": "L",
+    "symbol": "L_2u2_1.5A_0806",
+    "footprint": "L_0806_2016Metric",
+    "datasheet": "https://search.murata.co.jp/Ceramy/image/img/P02/J(E)TE243A-0011.pdf",
+    "manufacturer": "Murata",
     "mpn": "1285AS-H-2R2M=P2",
-    "category": "Passive",
-    "type": "Inductor",
-    "datasheetUrl": "https://search.murata.co.jp/Ceramy/image/img/P02/J(E)TE243A-0011.pdf",
-    "assets": {
-        "blendfile": true,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "l-0806-2016metric",
-    "symbolId": "l-2u2-1-5a-1285as-h",
-    "footprintId": "l-0806-2016metric",
-    "manufacturerId": "murata",
-    "tagIds": [
-        "smt",
-        "inductor",
-        "passive"
-    ]
+    "description": "Power Inductor (SMD), 2.2 \u00b5H, 1.2 A, Shielded, 1.5 A, DFE201610C",
+    "keywords": "SMT, INDUCTOR, PASSIVE",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "L_0806_2016Metric"
 }

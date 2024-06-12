@@ -1,23 +1,13 @@
 {
-    "id": "texas-instruments-tpl5110ddct",
     "reference": "U",
+    "symbol": "TPL5110DDCT",
+    "footprint": "SOT-23-6",
+    "datasheet": "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftpl5110",
+    "manufacturer": "Texas Instruments",
     "mpn": "TPL5110DDCT",
-    "category": "IC",
-    "type": "Timer with Watchdog Function IC, 100 ms to 7200 s Intervals, 1.8 V to 5.5 V, SOT-23-6",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": true,
-        "symbol": false,
-        "footprint": true
-    },
-    "blendfileId": "sot-23-6",
-    "symbolId": "tpl5110ddct",
-    "footprintId": "sot-23-6",
-    "manufacturerId": "texas-instruments",
-    "tagIds": [
-        "smt",
-        "oscillator",
-        "ic",
-        "clock"
-    ]
+    "description": "Timer with watchdog functionality for power gating, 100 ms to 7200 s Intervals, 1.8 V to 5.5 V, SOT-23-6",
+    "keywords": "SMT, IC",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "SOT-23-6"
 }

@@ -1,21 +1,13 @@
 {
-    "id": "silicon-labs-si7021-a20-gm1r",
     "reference": "U",
+    "symbol": "Si7021",
+    "footprint": "DFN-6-1EP_3x3mm_P1mm_EP1.5x2.4mm",
+    "datasheet": "https://www.mouser.com/datasheet/2/368/Si7021_A20-1397917.pdf",
+    "manufacturer": "Silicon Labs",
     "mpn": "Si7021-A20-GM1R",
-    "category": "IC",
-    "type": "Humidity/Temperature Sensor, 0% to 100% RH/-40\u00b0C to 85\u00b0C Range, I2C, Digital, 1.9V to 3.6V, DFN-6",
-    "datasheetUrl": "https://www.mouser.pl/datasheet/2/368/Si7021_A20-1397917.pdf",
-    "assets": {
-        "blendfile": false,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "dfn-6-1ep-3x3mm-p1mm-ep1-5x2-4mm",
-    "symbolId": "si7021",
-    "footprintId": "dfn-6-1ep-3x3mm-p1mm-ep1-5x2-4mm",
-    "manufacturerId": "silicon-labs",
-    "tagIds": [
-        "sensor",
-        "i2c"
-    ]
+    "description": "Humidity/Temperature Sensor, 0% to 100% RH/-40\u00b0C to 85\u00b0C Range, I2C, Digital, 1.9V to 3.6V, DFN-6",
+    "keywords": "SENSOR, I2C",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "DFN-6-1EP_3x3mm_P1mm_EP1.5x2.4mm-silicon-labs-si7021-a20-gm1r"
 }

@@ -1,23 +1,13 @@
 {
-    "id": "texas-instruments-tlc555cdr",
     "reference": "U",
+    "symbol": "TLC555CDR",
+    "footprint": "SOIC-8_3.9x4.9x1.75mm_P1.27mm",
+    "datasheet": "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftlc555",
+    "manufacturer": "Texas Instruments",
     "mpn": "TLC555CDR",
-    "category": "IC",
-    "type": "Timer, Oscillator & Pulse Generator IC, LinCMOS, 2.1 MHz, Astable, 2 V to 15 V, SOIC-8",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": true,
-        "symbol": false,
-        "footprint": true
-    },
-    "blendfileId": "soic-8-1ep-3-9x4-9x1-75mm-p1-27mm",
-    "symbolId": "tlc555cdr",
-    "footprintId": "soic-8-1ep-3-9x4-9x1-75mm-p1-27mm",
-    "manufacturerId": "texas-instruments",
-    "tagIds": [
-        "smt",
-        "oscillator",
-        "ic",
-        "clock"
-    ]
+    "description": "Timer, 2-15 V",
+    "keywords": "SMT, IC",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "SOIC-8_3.9x4.9x1.75mm_P1.27mm"
 }

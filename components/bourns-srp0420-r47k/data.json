@@ -1,22 +1,13 @@
 {
-    "id": "bourns-srp0420-r47k",
     "reference": "L",
+    "symbol": "L_470n_3.1A_Bourns-SRP0420",
+    "footprint": "L_Bourns-SRP0420",
+    "datasheet": "https://www.bourns.com/docs/product-datasheets/srp0420.pdf",
+    "manufacturer": "Bourns",
     "mpn": "SRP0420-R47K",
-    "category": "Passive",
-    "type": "Power Inductor (SMT), 470 nH, 10.5 A, Shielded, 18 A, SRP0420",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": true,
-        "symbol": false,
-        "footprint": true
-    },
-    "blendfileId": "l-1716-4441metric",
-    "symbolId": "srp0420-r47k",
-    "footprintId": "l-1716-4441metric",
-    "manufacturerId": "bourns",
-    "tagIds": [
-        "smt",
-        "inductor",
-        "passive"
-    ]
+    "description": "Power Inductor (SMT), 470 nH, 3.1 A, Shielded, 4.6 A, SRP0420",
+    "keywords": "SMT, INDUCTOR, PASSIVE",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": null
 }

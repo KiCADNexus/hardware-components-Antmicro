@@ -1,24 +1,13 @@
 {
-    "id": "nexperia-pmeg3050ep-115",
     "reference": "D",
+    "symbol": "PMEG3050EP,115",
+    "footprint": "Nexperia_SOD128",
+    "datasheet": "https://assets.nexperia.com/documents/data-sheet/PMEG3050EP.pdf",
+    "manufacturer": "Nexperia",
     "mpn": "PMEG3050EP,115",
-    "category": "Semiconductor",
-    "type": "Schottky Rectifier, 30 V, 5 A, Single, SOD-128, 2 Pins, 360 mV",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": false,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "nexperia-sod128",
-    "symbolId": "pmeg3050ep-115",
-    "footprintId": "nexperia-sod128",
-    "manufacturerId": "nexperia",
-    "tagIds": [
-        "smt",
-        "diode",
-        "semiconductor",
-        "rectifier",
-        "schottky"
-    ]
+    "description": "Schottky Rectifier, 30 V, 5 A, Single, SOD-128, 2 Pins, 360 mV",
+    "keywords": "SMT, DIODE, SEMICONDUCTOR, RECTIFIER, SCHOTTKY",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "Nexperia_SOD128"
 }

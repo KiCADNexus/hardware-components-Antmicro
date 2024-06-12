@@ -1,20 +1,13 @@
 {
-    "id": "kingbright-kp-1608qbc-d",
     "reference": "D",
+    "symbol": "LED_B_0603_KP-1608QBC-D",
+    "footprint": "LED_0603_1608Metric_B",
+    "datasheet": "https://www.kingbright.com/attachments/file/psearch/000/00/00/KP-1608QBC-D(Ver.24B).pdf",
+    "manufacturer": "Kingbright",
     "mpn": "KP-1608QBC-D",
-    "category": "Semiconductor",
-    "type": "LED, Low Power, Blue, SMD, 0603, 20 mA, 3.3 V, 465 nm",
-    "datasheetUrl": "http://www.farnell.com/datasheets/2045956.pdf",
-    "assets": {
-        "blendfile": true,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "led-0603-1608metric-b",
-    "symbolId": "led-b-0603-kp-1608qbc-d",
-    "footprintId": "led-0603-1608metric-b",
-    "manufacturerId": "kingbright",
-    "tagIds": [
-        "led"
-    ]
+    "description": "LED, Blue, SMD, 0603, 20 mA, 3.3 V, 465 nm",
+    "keywords": "SMT, DIODE, SEMICONDUCTOR, LED",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "LED_0603_1608Metric_B"
 }

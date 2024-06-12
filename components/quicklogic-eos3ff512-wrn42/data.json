@@ -1,23 +1,13 @@
 {
-    "id": "quicklogic-eos3ff512-wrn42",
     "reference": "U",
+    "symbol": "EOS-S3",
+    "footprint": "WLCSP-42_2.65x2.42mm_Layout7x6_P0.35mm",
+    "datasheet": "https://dev.antmicro.com/attachments/download/9063/ql-eos-s3-datasheet.pdf",
+    "manufacturer": "QuickLogic",
     "mpn": "EOS3FF512-WRN42",
-    "category": "IC",
-    "type": "BGA chip",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": false,
-        "symbol": false,
-        "footprint": false
-    },
-    "blendfileId": "42-wlcsp",
-    "symbolId": "eos-s3",
-    "footprintId": "42-wlcsp",
-    "manufacturerId": "quicklogic",
-    "tagIds": [
-        "smt",
-        "soc",
-        "ic",
-        "fpga"
-    ]
+    "description": "SoC FPGA EOS S3 Ultra Low Power MCU + eFPGA",
+    "keywords": "SMT, SOC, IC, FPGA",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "WLCSP-42_2.65x2.42mm_Layout7x6_P0.35mm"
 }

@@ -1,22 +1,13 @@
 {
-    "id": "alliance-memory-as6c8008-55bin",
     "reference": "U",
+    "symbol": "AS6C8008-55BIN",
+    "footprint": "Alliance_TFBGA-48",
+    "datasheet": "https://www.alliancememory.com/wp-content/uploads/pdf/lp_sram/AllianceMemory_8M_LPSRAM_AS6C8008_v1.1_May%202021.pdf",
+    "manufacturer": "Alliance Memory",
     "mpn": "AS6C8008-55BIN",
-    "category": "IC",
-    "type": "SRAM, Asynchronous SRAM, 8 Mbit, TFBGA, 48 Pins, 2.7 V",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": false,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "alliance-tfbga-48",
-    "symbolId": "as6c8008-55bin",
-    "footprintId": "alliance-tfbga-48",
-    "manufacturerId": "alliance-memory",
-    "tagIds": [
-        "smt",
-        "ic",
-        "asynchronous"
-    ]
+    "description": "SRAM, Asynchronous SRAM, 8 Mbit, TFBGA, 48 Pins, 2.7 V",
+    "keywords": "SMT, IC, ASYNCHRONOUS",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "Alliance_TFBGA-48-alliance-memory-as6c8008-55bin"
 }

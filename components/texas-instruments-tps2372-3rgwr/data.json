@@ -1,23 +1,13 @@
 {
-    "id": "texas-instruments-tps2372-3rgwr",
     "reference": "U",
+    "symbol": "TPS2372-3RGWR",
+    "footprint": "VQFN-20_5x5x1mm_P0.65mm",
+    "datasheet": "https://www.ti.com/lit/ds/symlink/tps2372.pdf?ts=1679042478513&ref_url=https%253A%252F%252Fwww.google.com%252F",
+    "manufacturer": "Texas Instruments",
     "mpn": "TPS2372-3RGWR",
-    "category": "IC",
-    "type": "PoE interface",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": false,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "sot-583",
-    "symbolId": "tps2372-3rgwr",
-    "footprintId": "sot-583",
-    "manufacturerId": "texas-instruments",
-    "tagIds": [
-        "smt",
-        "poe",
-        "ic",
-        "interface"
-    ]
+    "description": "PoE interface",
+    "keywords": "SMT, POE, IC, INTERFACE",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "VQFN-20_5x5x1mm_P0.65mm-texas-instruments-tps2372-3rgwr"
 }

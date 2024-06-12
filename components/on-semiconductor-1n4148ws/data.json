@@ -1,23 +1,13 @@
 {
-    "id": "on-semiconductor-1n4148ws",
     "reference": "D",
+    "symbol": "1N4148WS",
+    "footprint": "D_SOD-323F",
+    "datasheet": "https://www.onsemi.com/download/data-sheet/pdf/1n4148ws-d.pdf",
+    "manufacturer": "ON Semiconductor",
     "mpn": "1N4148WS",
-    "category": "Semiconductor",
-    "type": "Small Signal Diode, Single, 100 V, 150 mA, 1.2 V, 4 ns, 350 mA",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": true,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "d-sod-323f",
-    "symbolId": "1n4148ws",
-    "footprintId": "d-sod-323f",
-    "manufacturerId": "on-semiconductor",
-    "tagIds": [
-        "smt",
-        "rectifier",
-        "semiconductor",
-        "diode"
-    ]
+    "description": "Fast Switching Diode, Single, 75 V, 150 mA, 1 V, 4 ns, 2 A ",
+    "keywords": "SMT, DIODE, SEMICONDUCTOR, SWITCHING",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "D_SOD-323F"
 }

@@ -1,20 +1,13 @@
 {
-    "id": "samtec-htst-105-01-l-dv-a",
     "reference": "J",
+    "symbol": "PinHeader_2x5_P2.54mm_SMD_Shrouded",
+    "footprint": "PinHeader_2x5_P2.54mm_SMD_Shrouded",
+    "datasheet": "https://www.mouser.com/datasheet/2/527/htst-2854338.pdf",
+    "manufacturer": "Samtec",
     "mpn": "HTST-105-01-L-DV-A",
-    "category": "Connector",
-    "type": "Pin Header, Wire-to-Board, 2.54 mm, 2 Rows, 10 Contacts, Surface Mount, HTST",
-    "datasheetUrl": "https://www.mouser.pl/datasheet/2/527/htst-2854338.pdf",
-    "assets": {
-        "blendfile": false,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "pinheader-2x5-p2-54mm-drill1-1mm-smd-shrouded",
-    "symbolId": "pinheader-2x5-p2-54mm-drill1-1mm-smd-shrouded",
-    "footprintId": "pinheader-2x5-p2-54mm-drill1-1mm-smd-shrouded",
-    "manufacturerId": "samtec",
-    "tagIds": [
-        "header"
-    ]
+    "description": "Pin Header, Wire-to-Board, 2.54 mm, 2 Rows, 10 Contacts, Surface Mount, HTST",
+    "keywords": "CONNECTOR, HEADER",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": null
 }

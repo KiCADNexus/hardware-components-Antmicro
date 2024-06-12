@@ -1,22 +1,13 @@
 {
-    "id": "vishay-crcw20100000z0ef",
     "reference": "R",
+    "symbol": "R_0R_2010",
+    "footprint": "R_2010_5025Metric",
+    "datasheet": "https://www.vishay.com/docs/20035/dcrcwe3.pdf",
+    "manufacturer": "Vishay",
     "mpn": "CRCW20100000Z0EF",
-    "category": "Passive",
-    "type": "SMT resistor",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": true,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "r-2010-5025metric",
-    "symbolId": "r-0r-2010",
-    "footprintId": "r-2010-5025metric",
-    "manufacturerId": "vishay",
-    "tagIds": [
-        "smt",
-        "resistor",
-        "passive"
-    ]
+    "description": "Zero Ohm Resistor, Jumper, 2010 [5025 Metric], Thick Film, 750 mW, 6 A, Surface Mount Device",
+    "keywords": "SMT, RESISTOR, PASSIVE",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "R_2010_5025Metric"
 }

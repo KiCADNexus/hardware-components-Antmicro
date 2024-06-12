@@ -1,20 +1,13 @@
 {
-    "id": "samtec-lshm-130-01-l-rh-a-s-k-tr",
     "reference": "J",
+    "symbol": "Hermaphroditic_Samtec_LSHM_2x30_LSHM-130-01-L-RH-A-S-K-TR",
+    "footprint": "Conn_Hermaphroditic_Samtec_LSHM_2x30_LSHM-130-01-XXX-RH-A-S-K-XX",
+    "datasheet": "https://suddendocs.samtec.com/catalog_english/lshm_dh.pdf",
+    "manufacturer": "Samtec",
     "mpn": "LSHM-130-01-L-RH-A-S-K-TR",
-    "category": "Connector",
-    "type": "MEZZANINE CONN, HERMAPHRODITIC, 60POS",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": false,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "samtec-lshm-130-01-xxx-rh-a-s-k-xx",
-    "symbolId": "lshm-130-01-l-rh-a-s-k-tr",
-    "footprintId": "samtec-lshm-130-01-xxx-rh-a-s-k-xx",
-    "manufacturerId": "samtec",
-    "tagIds": [
-        "connector"
-    ]
+    "description": "60 Position Connector Self Mating, Non-Gendered, Hermaphroditic Surface Mount, Right Angle, Reverse Gold",
+    "keywords": "CONNECTOR, B2B",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "Conn_Hermaphroditic_Samtec_LSHM_2x30_LSHM-130-01-XXX-RH-A-S-K-XX"
 }

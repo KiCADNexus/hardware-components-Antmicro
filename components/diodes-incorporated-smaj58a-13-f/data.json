@@ -1,25 +1,13 @@
 {
-    "id": "diodes-incorporated-smaj58a-13-f",
     "reference": "D",
+    "symbol": "SMAJ58A-13-F",
+    "footprint": "D_SMA",
+    "datasheet": "https://www.diodes.com/assets/Datasheets/SMAJ5.0CA-SMAJ200CA.pdf",
+    "manufacturer": "Diodes Incorporated",
     "mpn": "SMAJ58A-13-F",
-    "category": "Semiconductor",
-    "type": "TVS Diode, SMAJ, Unidirectional, 58 V, 93.6 V, DO-214AC (SMA), 2 Pins",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": true,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "do-214ac",
-    "symbolId": "smaj58a-13-f",
-    "footprintId": "do-214ac",
-    "manufacturerId": "diodes-incorporated",
-    "tagIds": [
-        "smt",
-        "rectifier",
-        "semiconductor",
-        "diode",
-        "esd",
-        "tvs"
-    ]
+    "description": "Unidirectional TVS, 30 kV, SMA, 58 V, 200 pF",
+    "keywords": "DIODE, SEMICONDUCTOR, TVS, ESD",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "D_SMA"
 }

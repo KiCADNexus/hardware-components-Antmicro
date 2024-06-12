@@ -1,23 +1,13 @@
 {
-    "id": "diodes-incorporated-bcm857bs-7-f",
     "reference": "Q",
+    "symbol": "BCM857BS-7-F",
+    "footprint": "SOT-363",
+    "datasheet": "https://www.diodes.com/assets/Datasheets/BCM857BS.pdf",
+    "manufacturer": "Diodes Incorporated",
     "mpn": "BCM857BS-7-F",
-    "category": "Semiconductor",
-    "type": "Bipolar transistor array",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": true,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "sot-363",
-    "symbolId": "bcm857bs-7-f",
-    "footprintId": "sot-363",
-    "manufacturerId": "diodes-incorporated",
-    "tagIds": [
-        "smt",
-        "transistor",
-        "semiconductor",
-        "bipolar"
-    ]
+    "description": "Bipolar transistor array",
+    "keywords": "SMT, TRANSISTOR, SEMICONDUCTOR, BIPOLAR",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "SOT-363"
 }

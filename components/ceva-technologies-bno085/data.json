@@ -1,23 +1,13 @@
 {
-    "id": "ceva-technologies-bno085",
     "reference": "U",
+    "symbol": "BNO085",
+    "footprint": "LGA-28_5.2x3.8mm_BNO0055",
+    "datasheet": "https://www.ceva-dsp.com/wp-content/uploads/2019/10/BNO080_085-Datasheet.pdf",
+    "manufacturer": "CEVA Technologies",
     "mpn": "BNO085",
-    "category": "IC",
-    "type": "Motion sensor (IMU)",
-    "datasheetUrl": "https://www.ceva-dsp.com/wp-content/uploads/2019/10/BNO080_085-Datasheet.pdf",
-    "assets": {
-        "blendfile": false,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "lga-28-5-2x3-8mm-bno0055",
-    "symbolId": "bno085",
-    "footprintId": "lga-28-5-2x3-8mm-bno0055",
-    "manufacturerId": "ceva-technologies",
-    "tagIds": [
-        "smt",
-        "sensor",
-        "ic",
-        "som"
-    ]
+    "description": "Motion sensor (IMU)",
+    "keywords": "SMT, SENSOR, IC, SOM",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "LGA-28_5.2x3.8mm_BNO0055"
 }

@@ -1,23 +1,13 @@
 {
-    "id": "bel-fuse-0zcm0002ff2g",
     "reference": "F",
+    "symbol": "F_20mA_0603",
+    "footprint": "F_0603_1608Metric",
+    "datasheet": "https://www.belfuse.com/resources/datasheets/circuitprotection/ds-cp-0zcm-series.pdf",
+    "manufacturer": "Bel Fuse",
     "mpn": "0ZCM0002FF2G",
-    "category": "Passive",
-    "type": "PTC RESETTABLE FUSE, AEC-Q200, 0.02A/60V",
-    "datasheetUrl": "https://www.mouser.pl/datasheet/2/643/ds_CP_0zcf_series-1633784.pdf",
-    "assets": {
-        "blendfile": false,
-        "symbol": false,
-        "footprint": true
-    },
-    "blendfileId": "f-0603-1608metric",
-    "symbolId": "0zcm0002ff2g",
-    "footprintId": "f-0603-1608metric",
-    "manufacturerId": "bel-fuse",
-    "tagIds": [
-        "0603",
-        "smt",
-        "fuse",
-        "passive"
-    ]
+    "description": "PTC RESETTABLE FUSE, AEC-Q200, 0.02A/60V",
+    "keywords": "FUSE, PASSIVE",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "F_0603_1608Metric"
 }

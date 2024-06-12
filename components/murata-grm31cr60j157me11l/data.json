@@ -1,25 +1,13 @@
 {
-    "id": "murata-grm31cr60j157me11l",
     "reference": "C",
+    "symbol": "C_150u_1206",
+    "footprint": "C_1206_3216Metric",
+    "datasheet": "https://www.murata.com/products/productdetail?partno=GRM31CR60J157ME11%23",
+    "manufacturer": "Murata",
     "mpn": "GRM31CR60J157ME11L",
-    "category": "Passive",
-    "type": "SMT capacitor",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": true,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "c-1206-3216metric",
-    "symbolId": "c-150u-1206",
-    "footprintId": "c-1206-3216metric",
-    "manufacturerId": "murata",
-    "tagIds": [
-        "1206",
-        "smt",
-        "capacitor",
-        "passive",
-        "ceramic",
-        "mlcc"
-    ]
+    "description": "SMD Multilayer Ceramic Capacitor, 150 \u00b5F, 6.3 V, 1206 [3216 Metric], \u00b1 20%, X5R, GRM Series",
+    "keywords": "1206, SMT, CAPACITOR, PASSIVE, CERAMIC, MLCC",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "C_1206_3216Metric"
 }

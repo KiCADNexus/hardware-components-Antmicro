@@ -1,23 +1,13 @@
 {
-    "id": "panasonic-erj2ge0r00x",
     "reference": "R",
+    "symbol": "R_0R_0402",
+    "footprint": "R_0402_1005Metric",
+    "datasheet": "https://industrial.panasonic.com/cdbs/www-data/pdf/RDA0000/AOA0000C301.pdf",
+    "manufacturer": "Panasonic",
     "mpn": "ERJ2GE0R00X",
-    "category": "Passive",
-    "type": "SMT resistor",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": true,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "r-0402-1005metric",
-    "symbolId": "r-0r-0402",
-    "footprintId": "r-0402-1005metric",
-    "manufacturerId": "panasonic",
-    "tagIds": [
-        "0402",
-        "smt",
-        "resistor",
-        "passive"
-    ]
+    "description": "SMD Chip Resistor, Jumper, 0 ohm, 100 mW, 0402 [1005 Metric], Thick Film, General Purpose",
+    "keywords": "0402, SMT, RESISTOR, PASSIVE",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "R_0402_1005Metric"
 }

@@ -1,22 +1,13 @@
 {
-    "id": "micron-technology-mt53e1g32d2np-046-wt-a",
     "reference": "U",
+    "symbol": "MT53E1G32D2NP-046",
+    "footprint": "BGA-200_10.0x14.5mm_Layout12x22_P0.80x0.65mm",
+    "datasheet": "https://www.micron.com/products/dram/lpdram/part-catalog/mt53e1g32d2np-046-wt",
+    "manufacturer": "Micron Technology",
     "mpn": "MT53E1G32D2NP-046 WT:A",
-    "category": "IC",
-    "type": "DRAM, Mobile LPDDR4, 32 Gbit, 1G x 32bit, 2.133 GHz, WFBGA, 200 Pins",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": true,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "bga-200-10-0x14-5mm-layout12x22-p0-80x0-65mm",
-    "symbolId": "mt53e1g32d2np-046",
-    "footprintId": "bga-200-10-0x14-5mm-layout12x22-p0-80x0-65mm",
-    "manufacturerId": "micron-technology",
-    "tagIds": [
-        "smt",
-        "dram",
-        "ic"
-    ]
+    "description": "DRAM, Mobile LPDDR4, 32 Gbit, 1G x 32bit, 2.133 GHz, WFBGA, 200 Pins",
+    "keywords": "SMT, DRAM, IC",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "BGA-200_10.0x14.5mm_Layout12x22_P0.80x0.65mm-micron-technology-mt53e1g32d2np-046-wt-a"
 }

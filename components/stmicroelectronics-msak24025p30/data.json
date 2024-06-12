@@ -1,21 +1,13 @@
 {
-    "id": "stmicroelectronics-msak24025p30",
     "reference": "J",
+    "symbol": "Conn_STM_MSAK24025P30",
+    "footprint": "Conn_STM_MSAK24025P30",
+    "datasheet": "http://www.stm.com.tw/EEPPulish/files/PE/PE-MSAK24025P30~MSAK24025P50_R.pdf",
+    "manufacturer": "STMicroelectronics",
     "mpn": "MSAK24025P30",
-    "category": "Connector",
-    "type": "FFC connector",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": false,
-        "symbol": false,
-        "footprint": false
-    },
-    "blendfileId": "msak24025p30",
-    "symbolId": "msak24025p30",
-    "footprintId": "msak24025p30",
-    "manufacturerId": "stmicroelectronics",
-    "tagIds": [
-        "ffc",
-        "connector"
-    ]
+    "description": "Wire to Board Connector pitch 0.5mm ",
+    "keywords": "CONNECTOR, HEADER, COAXIAL, WIRE-BOARD",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "Conn_STM_MSAK24025P30"
 }

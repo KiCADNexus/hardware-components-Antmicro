@@ -1,22 +1,13 @@
 {
-    "id": "maxim-integrated-products-max1617amee-t",
     "reference": "U",
+    "symbol": "MAX1617AMEE+T",
+    "footprint": "QSOP-16_3.9x4.9mm_P0.635mm",
+    "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/MAX1617.pdf",
+    "manufacturer": "Maxim Integrated Products",
     "mpn": "MAX1617AMEE+T",
-    "category": "IC",
-    "type": "Temperature sensor",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": true,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "qsop-16-3-9x4-9mm-p0-635mm",
-    "symbolId": "max1617amee-t",
-    "footprintId": "qsop-16-3-9x4-9mm-p0-635mm",
-    "manufacturerId": "maxim-integrated-products",
-    "tagIds": [
-        "smt",
-        "sensor",
-        "ic"
-    ]
+    "description": "Temperature sensor",
+    "keywords": "SMT, SENSOR, IC",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "QSOP-16_3.9x4.9mm_P0.635mm"
 }

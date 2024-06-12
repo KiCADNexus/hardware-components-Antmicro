@@ -1,24 +1,13 @@
 {
-    "id": "wurth-elektronik-615008137421",
     "reference": "J",
+    "symbol": "RJ45_Wurth_615008137421",
+    "footprint": "RJ45_Wurth_615008137421",
+    "datasheet": "https://www.we-online.com/components/products/datasheet/615008141321.pdf",
+    "manufacturer": "W\u00fcrth Elektronik",
     "mpn": "615008137421",
-    "category": "Connector",
-    "type": "Modular Jack, 1 x 1 (Port), 8P8C, Cat5, Through Hole Mount",
-    "datasheetUrl": "https://www.we-online.com/components/products/datasheet/615008141321.pdf",
-    "assets": {
-        "blendfile": false,
-        "symbol": true,
-        "footprint": false
-    },
-    "blendfileId": "rj45-wurth-615008137421",
-    "symbolId": "rj45-wurth-615008137421",
-    "footprintId": "rj45-wurth-6115008137421",
-    "manufacturerId": "wurth-elektronik",
-    "tagIds": [
-        "connector",
-        "rj45",
-        "tht",
-        "ethernet",
-        "horizontal"
-    ]
+    "description": "Modular Jack, 1 x 1 (Port), 8P8C, Cat5, Through Hole Mount",
+    "keywords": "CONNECTOR, RJ45, THT, ETHERNET, HORIZONTAL",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "RJ45_Wurth_615008137421"
 }

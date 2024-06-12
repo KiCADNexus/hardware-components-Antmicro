@@ -1,24 +1,13 @@
 {
-    "id": "diodes-incorporated-ap2114h-3-3trg1",
     "reference": "U",
+    "symbol": "AP2114H-3.3TRG1",
+    "footprint": "SOT-223",
+    "datasheet": "https://www.diodes.com/assets/Datasheets/AP2114.pdf",
+    "manufacturer": "Diodes Incorporated",
     "mpn": "AP2114H-3.3TRG1",
-    "category": "IC",
-    "type": "LDO, FIXED, 3.3V, 1A, -40 TO 85DEG C",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": false,
-        "symbol": false,
-        "footprint": false
-    },
-    "blendfileId": "sot-223",
-    "symbolId": "ap2114h-3-3trg1",
-    "footprintId": "sot-223",
-    "manufacturerId": "diodes-incorporated",
-    "tagIds": [
-        "smt",
-        "pmic",
-        "ic",
-        "voltage",
-        "ldo"
-    ]
+    "description": "Linear Voltage Regulator IC Positive Fixed 1 Output 1A SOT-223-3",
+    "keywords": "REGULATOR, LDO",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "SOT-223"
 }

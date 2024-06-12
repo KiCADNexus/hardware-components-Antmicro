@@ -1,23 +1,13 @@
 {
-    "id": "diodes-incorporated-bzt52c15-7-f",
-    "reference": "Z",
+    "reference": "D",
+    "symbol": "BZT52C15-7-F",
+    "footprint": "D_SOD-123F",
+    "datasheet": "https://www.diodes.com/assets/Datasheets/ds18004.pdf",
+    "manufacturer": "Diodes Incorporated",
     "mpn": "BZT52C15-7-F",
-    "category": "Passive",
-    "type": "Zener diode",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": true,
-        "symbol": false,
-        "footprint": false
-    },
-    "blendfileId": "d-sod-123f",
-    "symbolId": "bzt52c15-7-f",
-    "footprintId": "d-sod-123f",
-    "manufacturerId": "diodes-incorporated",
-    "tagIds": [
-        "smt",
-        "diode",
-        "semiconductor",
-        "zener"
-    ]
+    "description": "Zener Single Diode, AEC-Q101, 15 V, 500 mW, SOD-123, 2 Pins, 150 \u00b0C, Surface Mount",
+    "keywords": "SMT, DIODE, SEMICONDUCTOR, ZENER",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "D_SOD-123F"
 }

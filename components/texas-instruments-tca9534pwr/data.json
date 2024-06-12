@@ -1,23 +1,13 @@
 {
-    "id": "texas-instruments-tca9534pwr",
     "reference": "U",
+    "symbol": "TCA9534PWR_TSSOP",
+    "footprint": "TSSOP-16_4.4x5mm_P0.65mm",
+    "datasheet": "http://www.ti.com/lit/ds/symlink/tca9534.pdf",
+    "manufacturer": "Texas Instruments",
     "mpn": "TCA9534PWR",
-    "category": "IC",
-    "type": "Interface I/O expander",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": true,
-        "symbol": false,
-        "footprint": true
-    },
-    "blendfileId": "tssop-16-4-4x5mm-p0-65mm",
-    "symbolId": "tca9534pwr",
-    "footprintId": "tssop-16-4-4x5mm-p0-65mm",
-    "manufacturerId": "texas-instruments",
-    "tagIds": [
-        "smt",
-        "interface",
-        "ic",
-        "i2c"
-    ]
+    "description": "Low Voltage 8-Bit I2C and SMBUS Low-Power I/O Expander with Interrupt Output and Configuration Registers",
+    "keywords": "SMT, INTERFACE, IC, I2C",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "TSSOP-16_4.4x5mm_P0.65mm"
 }

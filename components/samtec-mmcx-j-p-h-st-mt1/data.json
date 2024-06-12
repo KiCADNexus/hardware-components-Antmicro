@@ -1,20 +1,13 @@
 {
-    "id": "samtec-mmcx-j-p-h-st-mt1",
     "reference": "J",
+    "symbol": "Conn_MMCX-J-P-H-ST-MT1",
+    "footprint": "Conn_MMCX-J-P-H-ST-MT1",
+    "datasheet": "https://suddendocs.samtec.com/catalog_english/mmcx.pdf",
+    "manufacturer": "Samtec",
     "mpn": "MMCX-J-P-H-ST-MT1",
-    "category": "Connector",
-    "type": "Coaxial RF connector",
-    "datasheetUrl": "https://suddendocs.samtec.com/catalog_english/mmcx.pdf",
-    "assets": {
-        "blendfile": false,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "conn-mmcx-j-p-h-st-mt1",
-    "symbolId": "conn-mmcx-j-p-h-st-mt1",
-    "footprintId": "conn-mmcx-j-p-h-st-mt1",
-    "manufacturerId": "samtec",
-    "tagIds": [
-        "connector"
-    ]
+    "description": "Coaxial RF connector",
+    "keywords": "CONNECTOR",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "Conn_MMCX-J-P-H-ST-MT1"
 }

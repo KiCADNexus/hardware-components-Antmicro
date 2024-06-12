@@ -1,20 +1,13 @@
 {
-    "id": "vishay-vlmb1500-gs08",
     "reference": "D",
+    "symbol": "LED_B_0402_VLMB1500-GS08",
+    "footprint": "LED_0402_1005Metric_B",
+    "datasheet": "https://www.vishay.com/docs/82554/vlmo1500.pdf",
+    "manufacturer": "Vishay",
     "mpn": "VLMB1500-GS08",
-    "category": "Semiconductor",
-    "type": "LED, Blue, SMD, 1005, 5 mA, 3.15 V",
-    "datasheetUrl": "https://www.vishay.com/docs/82554/vlmo1500.pdf",
-    "assets": {
-        "blendfile": false,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "led-0402-1005metric-y",
-    "symbolId": "led-b-0402-vlmb1500-gs08",
-    "footprintId": "led-0402-1005metric-y",
-    "manufacturerId": "vishay",
-    "tagIds": [
-        "led"
-    ]
+    "description": "LED, Blue, SMD, 0402, 5 mA, 3.15 V, 475 nm",
+    "keywords": "SMT, DIODE, SEMICONDUCTOR, LED",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "LED_0402_1005Metric_B"
 }

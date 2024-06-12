@@ -1,23 +1,13 @@
 {
-    "id": "coilcraft-pfl1609-102mew",
     "reference": "L",
+    "symbol": "L_1u_0.85A_0603",
+    "footprint": "L_0603_1608Metric",
+    "datasheet": "https://www.coilcraft.com/getmedia/2f4cd442-d64d-4413-a518-12fcfd03318d/pfl1609.pdf",
+    "manufacturer": "Coilcraft",
     "mpn": "PFL1609-102MEW",
-    "category": "Passive",
-    "type": "Power Inductor (SMT), 1 \u00b5H, 850 mA, Shielded, 480 mA, PFL1609, 0603 [1507 Metric]",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": false,
-        "symbol": false,
-        "footprint": true
-    },
-    "blendfileId": "r-0603-1608metric",
-    "symbolId": "pfl1609-102mew",
-    "footprintId": "r-0603-1608metric",
-    "manufacturerId": "coilcraft",
-    "tagIds": [
-        "0603",
-        "smt",
-        "inductor",
-        "passive"
-    ]
+    "description": "Power Inductor (SMD), 1 \u00b5H, 850 mA, Shielded, 480 mA, PFL1609, 0603 [1507 Metric]",
+    "keywords": "SMT, INDUCTOR, PASSIVE",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "L_0603_1608Metric"
 }

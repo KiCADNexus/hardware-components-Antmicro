@@ -1,24 +1,13 @@
 {
-    "id": "maxim-integrated-products-max811reus-t",
     "reference": "U",
+    "symbol": "MAX811REUS+T",
+    "footprint": "SOT-143-4",
+    "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/MAX811-MAX812.pdf",
+    "manufacturer": "Maxim Integrated Products",
     "mpn": "MAX811REUS+T",
-    "category": "IC",
-    "type": "Voltage monitor",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": false,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "sot-143-4",
-    "symbolId": "max811reus-t",
-    "footprintId": "sot-143-4",
-    "manufacturerId": "maxim-integrated-products",
-    "tagIds": [
-        "smt",
-        "pmic",
-        "ic",
-        "voltage",
-        "monitor"
-    ]
+    "description": "Voltage monitor",
+    "keywords": "SMT, PMIC, IC, VOLTAGE, MONITOR",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "SOT-143-4"
 }

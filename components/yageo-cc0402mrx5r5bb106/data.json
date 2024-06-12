@@ -1,25 +1,13 @@
 {
-    "id": "yageo-cc0402mrx5r5bb106",
     "reference": "C",
+    "symbol": "C_10u_0402",
+    "footprint": "C_0402_1005Metric",
+    "datasheet": "https://www.yageo.com/en/Chart/Download/pdf/CC0402MRX5R5BB106",
+    "manufacturer": "YAGEO",
     "mpn": "CC0402MRX5R5BB106",
-    "category": "Passive",
-    "type": "SMT capacitor",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": true,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "c-0402-1005metric",
-    "symbolId": "c-10u-0402",
-    "footprintId": "c-0402-1005metric",
-    "manufacturerId": "yageo",
-    "tagIds": [
-        "0402",
-        "smt",
-        "capacitor",
-        "passive",
-        "mlcc",
-        "ceramic"
-    ]
+    "description": "SMD Multilayer Ceramic Capacitor, 10 \u00b5F, 6.3 V, 0402 [1005 Metric], \u00b1 20%, X5R, CC Series",
+    "keywords": "0402, SMT, CAPACITOR, PASSIVE, MLCC, CERAMIC",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "C_0402_1005Metric"
 }

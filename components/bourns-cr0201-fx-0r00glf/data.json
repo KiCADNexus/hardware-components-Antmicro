@@ -1,23 +1,13 @@
 {
-    "id": "bourns-cr0201-fx-0r00glf",
     "reference": "R",
+    "symbol": "R_0R_0201",
+    "footprint": "R_0201",
+    "datasheet": "https://www.bourns.com/docs/product-datasheets/cr.pdf",
+    "manufacturer": "Bourns",
     "mpn": "CR0201-FX-0R00GLF",
-    "category": "Passive",
-    "type": "SMT resistor",
-    "datasheetUrl": "https://www.mouser.pl/datasheet/2/54/cr-1858361.pdf",
-    "assets": {
-        "blendfile": false,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "r-0201",
-    "symbolId": "r-0r-0201",
-    "footprintId": "r-0201",
-    "manufacturerId": "bourns",
-    "tagIds": [
-        "0603",
-        "smt",
-        "resistor",
-        "passive"
-    ]
+    "description": "SMD Chip Resistor",
+    "keywords": "0603, SMT, RESISTOR, PASSIVE",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "R_0201"
 }

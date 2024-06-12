@@ -1,24 +1,13 @@
 {
-    "id": "diodes-incorporated-dzdh0401dw",
     "reference": "Q",
+    "symbol": "DZDH0401DW",
+    "footprint": "SOT-363",
+    "datasheet": "https://www.mouser.com/datasheet/2/115/DIOD_S_A0011803041_1-2543705.pdf",
+    "manufacturer": "Diodes Incorporated",
     "mpn": "DZDH0401DW",
-    "category": "Semiconductor",
-    "type": "IDEAL DIODE CONTROLLER, 150DEGC",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": true,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "sot-363",
-    "symbolId": "dzdh0401dw",
-    "footprintId": "sot-363",
-    "manufacturerId": "diodes-incorporated",
-    "tagIds": [
-        "smt",
-        "controller",
-        "semiconductor",
-        "diode",
-        "pmos"
-    ]
+    "description": "OR Controller N+1 ORing Controller P-Channel 1:1 SOT-363",
+    "keywords": "SMT, CONTROLLER, SEMICONDUCTOR, DIODE, PMOS",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "SOT-363-diodes-incorporated-dzdh0401dw"
 }

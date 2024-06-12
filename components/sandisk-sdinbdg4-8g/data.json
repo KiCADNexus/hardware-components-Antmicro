@@ -1,23 +1,13 @@
 {
-    "id": "sandisk-sdinbdg4-8g",
     "reference": "U",
+    "symbol": "SDINBDG4-8G",
+    "footprint": "BGA-196-153_11.5x13mm_Layout14x14_P0.5x0.5mm",
+    "datasheet": "https://www.infineon.com/dgdl/Infineon-AN98491_Recommended_PCB_Routing_Guidelines_for_a_Infineon_e.MMC_Memory_Device-ApplicationNotes-v05_00-EN.pdf?fileId=8ac78c8c7d718a49017d71baea97084d",
+    "manufacturer": "SanDisk",
     "mpn": "SDINBDG4-8G",
-    "category": "IC",
-    "type": "NAND Flash Serial e-MMC 64G-bit SanDisk iNAND 7250 Industrial",
-    "datasheetUrl": "https://datasheet.lcsc.com/lcsc/2006081112_SANDISK-SDINBDG4-8G-XI1_C577445.pdf",
-    "assets": {
-        "blendfile": false,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "bga-196-153-11-5x13mm-layout14x14-p0-5x0-5mm",
-    "symbolId": "sdinbdg4-8g",
-    "footprintId": "bga-196-153-11-5x13mm-layout14x14-p0-5x0-5mm",
-    "manufacturerId": "sandisk",
-    "tagIds": [
-        "ic",
-        "memory",
-        "smt",
-        "flash"
-    ]
+    "description": "NAND Flash Serial e-MMC 64G-bit SanDisk iNAND 7250 Industrial",
+    "keywords": "IC, MEMORY, SMT, FLASH",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "BGA-196-153_11.5x13mm_Layout14x14_P0.5x0.5mm-sandisk-sdinbdg4-8g"
 }

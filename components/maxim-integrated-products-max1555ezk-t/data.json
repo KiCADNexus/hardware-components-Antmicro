@@ -1,24 +1,13 @@
 {
-    "id": "maxim-integrated-products-max1555ezk-t",
     "reference": "U",
+    "symbol": "MAX1555EZK",
+    "footprint": "SOT-753",
+    "datasheet": "https://datasheets.maximintegrated.com/en/ds/MAX1551-MAX1555.pdf",
+    "manufacturer": "Maxim Integrated Products",
     "mpn": "MAX1555EZK+T",
-    "category": "IC",
-    "type": "Battery Charger,  1 Cell Li-Ion Battery, 7 V input, 6 V / 280 mA charge, SOT-23-5",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": false,
-        "symbol": false,
-        "footprint": true
-    },
-    "blendfileId": "sot-753",
-    "symbolId": "max1555ezk-t",
-    "footprintId": "sot-753",
-    "manufacturerId": "maxim-integrated-products",
-    "tagIds": [
-        "smt",
-        "management",
-        "ic",
-        "battery",
-        "pmic"
-    ]
+    "description": "Battery Charger,  1 Cell Li-Ion Battery, 7 V input, SOT-23-5",
+    "keywords": "SMT, MANAGEMENT, IC, PMIC",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "SOT-753"
 }

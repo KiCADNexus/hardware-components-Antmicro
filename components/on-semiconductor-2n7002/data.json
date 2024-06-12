@@ -1,23 +1,13 @@
 {
-    "id": "on-semiconductor-2n7002",
     "reference": "Q",
+    "symbol": "2N7002_SOT-23-3",
+    "footprint": "SOT-23-3",
+    "datasheet": "https://www.onsemi.com/pub/Collateral/NDS7002A-D.PDF",
+    "manufacturer": "ON Semiconductor",
     "mpn": "2N7002",
-    "category": "Semiconductor",
-    "type": "Power MOSFET, N Channel, 60 V, 115 mA, 1.2 ohm, SOT-23, Surface Mount",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": true,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "sot-23-3",
-    "symbolId": "2n7002-sot-23-3",
-    "footprintId": "sot-23-3",
-    "manufacturerId": "on-semiconductor",
-    "tagIds": [
-        "smt",
-        "transistor",
-        "semiconductor",
-        "nmos"
-    ]
+    "description": "Power MOSFET, N Channel, 60 V, 115 mA, 1.2 ohm, SOT-23, Surface Mount",
+    "keywords": "SMT, TRANSISTOR, SEMICONDUCTOR, NMOS",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "SOT-23-3"
 }

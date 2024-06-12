@@ -1,23 +1,13 @@
 {
-    "id": "cui-inc-pj-102bh",
     "reference": "J",
+    "symbol": "BarrelJack_Pin2.5mm_PJ-102BH",
+    "footprint": "BarrelJack_Pin2.5mm_PJ-102BH",
+    "datasheet": "https://www.mouser.com/datasheet/2/670/pj_102bh-1779037.pdf",
+    "manufacturer": "CUI Inc",
     "mpn": "PJ-102BH",
-    "category": "Connector",
-    "type": "Barrel power jack",
-    "datasheetUrl": "https://www.mouser.pl/datasheet/2/670/pj_102bh-1779037.pdf",
-    "assets": {
-        "blendfile": false,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "barreljack-pj-102bh",
-    "symbolId": "barreljack-pj-102bh",
-    "footprintId": "barreljack-pj-102bh",
-    "manufacturerId": "cui-inc",
-    "tagIds": [
-        "horizontal",
-        "tht",
-        "power",
-        "connector"
-    ]
+    "description": "Barrel power jack",
+    "keywords": "HORIZONTAL, THT, POWER, CONNECTOR",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "BarrelJack_Pin2.5mm_PJ-102BH"
 }

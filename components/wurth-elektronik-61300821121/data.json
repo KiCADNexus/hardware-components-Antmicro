@@ -1,20 +1,13 @@
 {
-    "id": "wurth-elektronik-61300821121",
     "reference": "J",
+    "symbol": "PinHeader_2x8_P2.54mm_Drill1mm",
+    "footprint": "PinHeader_2x8_P2.54mm_Drill1mm",
+    "datasheet": "https://www.we-online.com/components/products/datasheet/61300821121.pdf",
+    "manufacturer": "W\u00fcrth Elektronik",
     "mpn": "61300821121",
-    "category": "Connector",
-    "type": "Rectangular connector (header, female pins)",
-    "datasheetUrl": "https://www.we-online.com/components/products/datasheet/61300821121.pdf",
-    "assets": {
-        "blendfile": false,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "pinheader-2x8-p2-54mm-drill1mm",
-    "symbolId": "pinheader-2x8-p2-54mm-drill1mm",
-    "footprintId": "pinheader-2x8-p2-54mm-drill1mm",
-    "manufacturerId": "wurth-elektronik",
-    "tagIds": [
-        "connector"
-    ]
+    "description": "Rectangular connector (header, female pins)",
+    "keywords": "CONNECTOR",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "PinHeader_2x8_P2.54mm_Drill1mm"
 }

@@ -1,25 +1,13 @@
 {
-    "id": "microchip-technology-usb2422-i-mj",
     "reference": "U",
+    "symbol": "USB2422-I_MJ",
+    "footprint": "QFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm",
+    "datasheet": "https://www.mouser.com/datasheet/2/268/2412-1064136.pdf",
+    "manufacturer": "Microchip Technology",
     "mpn": "USB2422-I/MJ",
-    "category": "IC",
-    "type": "Interface controller",
-    "datasheetUrl": "https://www.mouser.pl/datasheet/2/268/2412-1064136.pdf",
-    "assets": {
-        "blendfile": true,
-        "symbol": false,
-        "footprint": true
-    },
-    "blendfileId": "qfn-24-1ep-4x4mm-p0-5mm",
-    "symbolId": "usb2422-i-mj",
-    "footprintId": "qfn-24-1ep-4x4mm-p0-5mm",
-    "manufacturerId": "microchip-technology",
-    "tagIds": [
-        "smt",
-        "transceiver",
-        "ic",
-        "hub",
-        "controller",
-        "usb"
-    ]
+    "description": "USB Interface, USB Hub Controller, USB 2.0, 3 V, 3.6 V, SQFN, 24 Pins",
+    "keywords": "SMT, TRANSCEIVER, IC, HUB, CONTROLLER, USB",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "QFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm-microchip-technology-usb2422-i-mj"
 }

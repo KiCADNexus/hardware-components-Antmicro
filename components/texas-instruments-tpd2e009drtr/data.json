@@ -1,24 +1,13 @@
 {
-    "id": "texas-instruments-tpd2e009drtr",
     "reference": "D",
+    "symbol": "TPD2E009_SOT-9X3",
+    "footprint": "SOT-723",
+    "datasheet": "https://www.ti.com/lit/ds/symlink/tpd2e009.pdf?ts=1597910439511&ref_url=https%253A%252F%252Fwww.google.com%252F",
+    "manufacturer": "Texas Instruments",
     "mpn": "TPD2E009DRTR",
-    "category": "Semiconductor",
-    "type": "TVS diode",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": false,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "sot-723",
-    "symbolId": "tpd2e009-sot-9x3",
-    "footprintId": "sot-723",
-    "manufacturerId": "texas-instruments",
-    "tagIds": [
-        "smt",
-        "diode",
-        "semiconductor",
-        "tvs",
-        "esd"
-    ]
+    "description": "TVS diode array, 8 kV, SOT-723, 5.5 V, 0.9 pF",
+    "keywords": "SMT, DIODE, SEMICONDUCTOR, TVS, ESD",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "SOT-723"
 }

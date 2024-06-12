@@ -1,20 +1,13 @@
 {
-    "id": "molex-473460001",
     "reference": "J",
+    "symbol": "USB-Micro-B_Molex_473460001",
+    "footprint": "USB-Micro-B_Receptacle_Molex_473460001",
+    "datasheet": "https://www.molex.com/pdm_docs/sd/473460001_sd.pdf",
+    "manufacturer": "Molex",
     "mpn": "473460001",
-    "category": "Connector",
-    "type": "USB connector",
-    "datasheetUrl": "https://www.molex.com/pdm_docs/sd/473460001_sd.pdf",
-    "assets": {
-        "blendfile": true,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "usb-micro-b-female-0473460001",
-    "symbolId": "usb-micro-b-0473460001",
-    "footprintId": "usb-micro-b-female-0473460001",
-    "manufacturerId": "molex",
-    "tagIds": [
-        "connector"
-    ]
+    "description": "USB - micro B USB 2.0 Receptacle Connector 5 Position Surface Mount, Right Angle",
+    "keywords": "USB, MICRO, CONNECTOR, SMT, HORIZONTAL",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "USB-Micro-B_Receptacle_Molex_473460001"
 }

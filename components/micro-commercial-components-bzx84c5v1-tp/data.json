@@ -1,23 +1,13 @@
 {
-    "id": "micro-commercial-components-bzx84c5v1-tp",
     "reference": "D",
+    "symbol": "BZX84C5V1-TP",
+    "footprint": "SOT-23-3",
+    "datasheet": "https://www.mccsemi.com/pdf/Products/BZX84C(B)2V4~BZX84C(B)75(SOT-23).pdf",
+    "manufacturer": "Micro Commercial Components",
     "mpn": "BZX84C5V1-TP",
-    "category": "Semiconductor",
-    "type": "Zener diode",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": true,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "sot-23-3",
-    "symbolId": "bzx84c5v1-tp",
-    "footprintId": "sot-23-3",
-    "manufacturerId": "micro-commercial-components",
-    "tagIds": [
-        "smt",
-        "diode",
-        "semiconductor",
-        "zener"
-    ]
+    "description": "Zener Single Diode, 5.1 V, 350 mW, SOT-23, 3 Pins, 150 \u00b0C, Surface Mount",
+    "keywords": "SMT, DIODE, SEMICONDUCTOR, ZENER",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "SOT-23-3"
 }

@@ -1,23 +1,13 @@
 {
-    "id": "infineon-irf9317pbf",
     "reference": "Q",
+    "symbol": "IRF9317PBF",
+    "footprint": "SOIC-8_3.9x4.9x1.75mm_P1.27mm",
+    "datasheet": "https://www.infineon.com/dgdl/Infineon-IRF9317-DataSheet-v01_01-EN.pdf?fileId=5546d462533600a4015356111d801d99",
+    "manufacturer": "Infineon",
     "mpn": "IRF9317PbF",
-    "category": "Semiconductor",
-    "type": "FET/MOSFET transistor",
-    "datasheetUrl": "https://www.infineon.com/dgdl/Infineon-IRF9317-DataSheet-v01_01-EN.pdf?fileId=5546d462533600a4015356111d801d99",
-    "assets": {
-        "blendfile": true,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "soic-8-3-9x4-9x1-75mm-p1-27mm",
-    "symbolId": "irf9317pbf",
-    "footprintId": "soic-8-3-9x4-9x1-75mm-p1-27mm",
-    "manufacturerId": "infineon",
-    "tagIds": [
-        "smt",
-        "transistor",
-        "semiconductor",
-        "mosfet"
-    ]
+    "description": "FET/MOSFET transistor",
+    "keywords": "SMT, TRANSISTOR, SEMICONDUCTOR, MOSFET",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "SOIC-8_3.9x4.9x1.75mm_P1.27mm"
 }

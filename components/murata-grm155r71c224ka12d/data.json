@@ -1,24 +1,13 @@
 {
-    "id": "murata-grm155r71c224ka12d",
     "reference": "C",
+    "symbol": "C_220n_16V_0402",
+    "footprint": "C_0402_1005Metric",
+    "datasheet": "https://www.murata.com/products/productdetail?partno=GRM155R71C224KA12%23",
+    "manufacturer": "Murata",
     "mpn": "GRM155R71C224KA12D",
-    "category": "Passive",
-    "type": "SMT ceramic capacitor",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": true,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "c-0402-1005metric",
-    "symbolId": "c-220n-16v-0402",
-    "footprintId": "c-0402-1005metric",
-    "manufacturerId": "murata",
-    "tagIds": [
-        "0402",
-        "smt",
-        "capacitor",
-        "passive",
-        "ceramic"
-    ]
+    "description": "SMD Multilayer Ceramic Capacitor, 0.22 \u00b5F, 16 V, 0402 [1005 Metric], \u00b1 10%, X7R, GRM Series",
+    "keywords": "0402, SMT, CAPACITOR, PASSIVE, CERAMIC",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "C_0402_1005Metric"
 }

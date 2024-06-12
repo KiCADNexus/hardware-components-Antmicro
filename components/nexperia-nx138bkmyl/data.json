@@ -1,24 +1,13 @@
 {
-    "id": "nexperia-nx138bkmyl",
     "reference": "Q",
+    "symbol": "NX138BKMYL",
+    "footprint": "DFN1006-3",
+    "datasheet": "https://www.mouser.com/datasheet/2/916/NX138BKM-1919503.pdf",
+    "manufacturer": "Nexperia",
     "mpn": "NX138BKMYL",
-    "category": "Semiconductor",
-    "type": "Power MOSFET, N Channel, 60 V, 380 mA, 1.8 ohm, DFN1006, Surface Mount",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": false,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "dfn1006-3",
-    "symbolId": "nx138bkmyl",
-    "footprintId": "dfn1006-3",
-    "manufacturerId": "nexperia",
-    "tagIds": [
-        "smt",
-        "transistor",
-        "semiconductor",
-        "mosfet",
-        "nmos"
-    ]
+    "description": "Power MOSFET, N Channel, 60 V, 380 mA, 1.8 ohm, DFN1006, Surface Mount",
+    "keywords": "SMT, TRANSISTOR, SEMICONDUCTOR, MOSFET, NMOS",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "DFN1006-3"
 }

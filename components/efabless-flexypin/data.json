@@ -1,20 +1,13 @@
 {
-    "id": "efabless-flexypin",
-    "reference": "A",
+    "reference": "U",
+    "symbol": "Caravel_breakout_flexypin",
+    "footprint": "Flexypin_56_P1.27mm_Caravel_Breakout",
+    "datasheet": null,
+    "manufacturer": "Efabless",
     "mpn": "Flexypin",
-    "category": "Module",
-    "type": "Module",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": false,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "flexypin-56-p1-27mm-caravel-breakout",
-    "symbolId": "caravel-breakout-flexypin",
-    "footprintId": "flexypin-56-p1-27mm-caravel-breakout",
-    "manufacturerId": "efabless",
-    "tagIds": [
-        "ic"
-    ]
+    "description": "Module",
+    "keywords": "IC",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "Flexypin_56_P1.27mm_Caravel_Breakout"
 }

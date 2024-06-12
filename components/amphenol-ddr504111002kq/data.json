@@ -1,23 +1,13 @@
 {
-    "id": "amphenol-ddr504111002kq",
-    "reference": "U",
+    "reference": "J",
+    "symbol": "Bus_DDR5_DDR504111002KQ",
+    "footprint": "Bus_DDR5_Socket_Amphenol_DDR504111002KQ",
+    "datasheet": "https://www.amphenol-icc.com/ddr5-smt-ddr504111002kq.html",
+    "manufacturer": "Amphenol",
     "mpn": "DDR504111002KQ",
-    "category": "IC",
-    "type": "Memory Card Connector, DDR5 DIMM, Latched, 288 Contacts, Copper Alloy, Gold Plated Contacts",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": false,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "bus-ddr5-socket-amphenol-ddr504111002kq",
-    "symbolId": "bus-ddr5-ddr504111002kq",
-    "footprintId": "bus-ddr5-socket-amphenol-ddr504111002kq",
-    "manufacturerId": "amphenol",
-    "tagIds": [
-        "vertical",
-        "smt",
-        "connector",
-        "ddr"
-    ]
+    "description": "Memory Card Connector, DDR5 DIMM, Latched, 288 Contacts, Copper Alloy, Gold Plated Contacts",
+    "keywords": "VERTICAL, SMT, CONNECTOR, DDR",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "Bus_DDR5_Socket_Amphenol_DDR504111002KQ"
 }

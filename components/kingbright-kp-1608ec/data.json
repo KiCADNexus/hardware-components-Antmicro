@@ -1,20 +1,13 @@
 {
-    "id": "kingbright-kp-1608ec",
     "reference": "D",
+    "symbol": "LED_R_0603_KP-1608EC",
+    "footprint": "LED_0603_1608Metric_R",
+    "datasheet": "http://www.kingbright.com/attachments/file/psearch/000/00/20131112/KP-1608EC(Ver.14A).pdf",
+    "manufacturer": "Kingbright",
     "mpn": "KP-1608EC",
-    "category": "Semiconductor",
-    "type": "LED, Low Power, Red, SMD, 0603, 20 mA, 2 V, 617 nm",
-    "datasheetUrl": "https://www.farnell.com/datasheets/1854072.pdf",
-    "assets": {
-        "blendfile": true,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "led-0603-1608metric-r",
-    "symbolId": "led-r-0603-kp-1608ec",
-    "footprintId": "led-0603-1608metric-r",
-    "manufacturerId": "kingbright",
-    "tagIds": [
-        "led"
-    ]
+    "description": "LED, Red, SMD, 0603, 30 mA, 2 V, 617 nm",
+    "keywords": "SMT, DIODE, SEMICONDUCTOR, LED",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "LED_0603_1608Metric_R"
 }

@@ -1,22 +1,13 @@
 {
-    "id": "micron-technology-mtfc16gapalna-ait",
     "reference": "U",
+    "symbol": "MTFC16GAPALNA-AIT",
+    "footprint": "BGA-170-100_18x14mm_Layout17x10_P1mm",
+    "datasheet": "https://www.mouser.com/datasheet/2/671/micron_technology_mict-s-a0006806196-1-1759129.pdf",
+    "manufacturer": "Micron Technology",
     "mpn": "MTFC16GAPALNA-AIT",
-    "category": "IC",
-    "type": "Memory",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": false,
-        "symbol": true,
-        "footprint": false
-    },
-    "blendfileId": "bga100cp100-17x10-1800x1400x140b46n",
-    "symbolId": "mtfc16gapalna-ait",
-    "footprintId": "bga100cp100-17x10-1800x1400x140b46n",
-    "manufacturerId": "micron-technology",
-    "tagIds": [
-        "smt",
-        "flash",
-        "ic"
-    ]
+    "description": "Managed NAND Flash Serial e-MMC 3.3V 128G-bit 128G/32G/16G x 1/4-bit/8-bit Automotive AEC-Q100 100-Pin TBGA Tray",
+    "keywords": "SMT, FLASH, IC",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "BGA-170-100_18x14mm_Layout17x10_P1mm-micron-technology-mtfc16gapalna-ait"
 }

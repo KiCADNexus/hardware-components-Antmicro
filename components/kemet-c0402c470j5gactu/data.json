@@ -1,25 +1,13 @@
 {
-    "id": "kemet-c0402c470j5gactu",
     "reference": "C",
+    "symbol": "C_47p_0402",
+    "footprint": "C_0402_1005Metric",
+    "datasheet": "https://www.kemet.com/en/us/capacitors/product/C0402C470J5GACTU.html",
+    "manufacturer": "KEMET",
     "mpn": "C0402C470J5GACTU",
-    "category": "Passive",
-    "type": "SMT capacitor",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": true,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "c-0402-1005metric",
-    "symbolId": "c-47p-0402",
-    "footprintId": "c-0402-1005metric",
-    "manufacturerId": "kemet",
-    "tagIds": [
-        "0402",
-        "smt",
-        "capacitor",
-        "passive",
-        "ceramic",
-        "mlcc"
-    ]
+    "description": "SMD Multilayer Ceramic Capacitor, 47 pF, 50 V, 0402 [1005 Metric], \u00b1 5%, C0G / NP0, C Series KEMET",
+    "keywords": "0402, SMT, CAPACITOR, PASSIVE, CERAMIC, MLCC",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "C_0402_1005Metric"
 }

@@ -1,23 +1,13 @@
 {
-    "id": "panasonic-exb28v510jx",
     "reference": "R",
+    "symbol": "R_4x51R_0402_array",
+    "footprint": "R_Array_4x0402",
+    "datasheet": "http://industrial.panasonic.com/cdbs/www-data/pdf/AOC0000/AOC0000C14.pdf",
+    "manufacturer": "Panasonic",
     "mpn": "EXB28V510JX",
-    "category": "Passive",
-    "type": "Fixed Network Resistor, 51 ohm, Isolated, 4 Resistors, 0804 [2010 Metric], Convex, \u00b1 5%",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": true,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "r-array-4x0402",
-    "symbolId": "r-4x51r-0402-array",
-    "footprintId": "r-array-4x0402",
-    "manufacturerId": "panasonic",
-    "tagIds": [
-        "0402",
-        "smt",
-        "resistor",
-        "passive"
-    ]
+    "description": "Fixed Network Resistor, 51 ohm, Isolated, 4 Resistors, 0804 [2010 Metric], Convex, \u00b1 5%",
+    "keywords": "0402, SMT, RESISTOR, PASSIVE",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "R_Array_4x0402"
 }

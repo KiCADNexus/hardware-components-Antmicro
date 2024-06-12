@@ -1,25 +1,13 @@
 {
-    "id": "tdk-cga2b3x7s2a472k050bb",
     "reference": "C",
+    "symbol": "C_4n7_0402",
+    "footprint": "C_0402_1005Metric",
+    "datasheet": "https://product.tdk.com/en/search/capacitor/ceramic/mlcc/info?part_no=CGA2B3X7S2A472K050BB",
+    "manufacturer": "TDK",
     "mpn": "CGA2B3X7S2A472K050BB",
-    "category": "Passive",
-    "type": "SMT capacitor",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": true,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "c-0402-1005metric",
-    "symbolId": "c-4n7-0402",
-    "footprintId": "c-0402-1005metric",
-    "manufacturerId": "tdk",
-    "tagIds": [
-        "0402",
-        "smt",
-        "capacitor",
-        "passive",
-        "ceramic",
-        "mlcc"
-    ]
+    "description": "SMD Multilayer Ceramic Capacitor, 4700 pF, 100 V, 0402 [1005 Metric], \u00b1 10%, X7S, CGA",
+    "keywords": "0402, SMT, CAPACITOR, PASSIVE, CERAMIC, MLCC",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "C_0402_1005Metric"
 }

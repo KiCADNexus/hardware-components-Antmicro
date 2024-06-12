@@ -1,23 +1,13 @@
 {
-    "id": "bourns-cr0201afw-1000gas",
     "reference": "R",
+    "symbol": "R_100R_0201",
+    "footprint": "R_0201",
+    "datasheet": "https://www.bourns.com/docs/product-datasheets/cr-a-as.pdf",
+    "manufacturer": "Bourns",
     "mpn": "CR0201AFW-1000GAS",
-    "category": "Passive",
-    "type": "SMT resistor",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": true,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "r-0201",
-    "symbolId": "r-100r-0201",
-    "footprintId": "r-0201",
-    "manufacturerId": "bourns",
-    "tagIds": [
-        "0201",
-        "smt",
-        "resistor",
-        "passive"
-    ]
+    "description": "SMD Chip Resistor, 100 ohm, \u00b1 1%, 50 mW, 0201 [0603 Metric], Thick Film, Sulfur Resistant",
+    "keywords": "0201, SMT, RESISTOR, PASSIVE",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "R_0201"
 }

@@ -1,22 +1,13 @@
 {
-    "id": "microchip-technology-mcp2562fdt-e-sn",
     "reference": "U",
+    "symbol": "MCP2562FDT_SOIC",
+    "footprint": "SOIC-8_3.9x4.9x1.75mm_P1.27mm",
+    "datasheet": "https://www.mouser.com/datasheet/2/268/20005284A-708901.pdf",
+    "manufacturer": "Microchip Technology",
     "mpn": "MCP2562FDT-E/SN",
-    "category": "IC",
-    "type": "MCP2562 Series 5.5 V 70 mA High-Speed CAN Flexible Data Rate Transceiver- SOIC-8",
-    "datasheetUrl": "https://www.mouser.pl/datasheet/2/268/20005284A-708901.pdf",
-    "assets": {
-        "blendfile": false,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "soic-8-3-9x4-9x1-75mm-p1-27mm",
-    "symbolId": "mcp2562fdt-soic",
-    "footprintId": "soic-8-3-9x4-9x1-75mm-p1-27mm",
-    "manufacturerId": "microchip-technology",
-    "tagIds": [
-        "ic",
-        "smt",
-        "transceiver"
-    ]
+    "description": "MCP2562 Series 5.5 V 70 mA High-Speed CAN Flexible Data Rate Transceiver- SOIC-8",
+    "keywords": "IC, SMT, TRANSCEIVER",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "SOIC-8_3.9x4.9x1.75mm_P1.27mm"
 }

@@ -1,20 +1,13 @@
 {
-    "id": "te-connectivity-2199230-4",
-    "reference": "A",
-    "mpn": "2199230-4",
-    "category": "Module",
-    "type": "PC connector",
-    "datasheetUrl": "https://www.te.com/usa-en/product-2199230-4.html",
-    "assets": {
-        "blendfile": true,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "bus-m-2-socket-key-e-te-2199230-4",
-    "symbolId": "bus-m-2-2199230-4",
-    "footprintId": "bus-m-2-socket-key-e-te-2199230-4",
-    "manufacturerId": "te-connectivity",
-    "tagIds": [
-        "module"
-    ]
+    "reference": "J",
+    "symbol": "Bus_M.2_2199230-4",
+    "footprint": "Bus_M.2_Socket_Key_E_TE_2199230-4",
+    "datasheet": "https://www.te.com/usa-en/product-2199230-4.html",
+    "manufacturer": "TE Connectivity",
+    "mpn": "2199230-4 ",
+    "description": "Key E, Card Edge Connector, 0, Dual Side, Surface Mount, Right Angle, Solder",
+    "keywords": "CONNECTOR",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "Bus_M.2_Socket_Key_E_TE_2199230-4"
 }

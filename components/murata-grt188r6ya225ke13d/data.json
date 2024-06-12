@@ -1,23 +1,13 @@
 {
-    "id": "murata-grt188r6ya225ke13d",
     "reference": "C",
+    "symbol": "C_2u2_0603_35V",
+    "footprint": "C_0603_1608Metric",
+    "datasheet": "https://www.murata.com/products/productdetail?partno=GRT188R6YA225KE13%23",
+    "manufacturer": "Murata",
     "mpn": "GRT188R6YA225KE13D",
-    "category": "Passive",
-    "type": "SMT capacitor",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": true,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "c-0603-1608metric",
-    "symbolId": "c-2u2-0603-35v",
-    "footprintId": "c-0603-1608metric",
-    "manufacturerId": "murata",
-    "tagIds": [
-        "0603",
-        "smt",
-        "capacitor",
-        "passive"
-    ]
+    "description": "SMD Multilayer Ceramic Capacitor, 2.2 \u00b5F, 35 V, 0603 [1608 Metric], \u00b1 10%, X5R, GRT",
+    "keywords": "0603, SMT, CAPACITOR, PASSIVE",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "C_0603_1608Metric"
 }

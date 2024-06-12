@@ -1,22 +1,13 @@
 {
-    "id": "coilcraft-xfl4015-122mec",
     "reference": "L",
+    "symbol": "L_1u2_7.1A_Coilcraft-XFL4015",
+    "footprint": "L_Coilcraft-XFL4015",
+    "datasheet": "https://www.coilcraft.com/getmedia/84927b8b-f089-421b-a7f4-a0fa23afe908/xfl4015.pdf",
+    "manufacturer": "Coilcraft",
     "mpn": "XFL4015-122MEC",
-    "category": "Passive",
-    "type": "Power Inductor (SMT), 1.2 \u00b5H, 7.1 A, Shielded, 2.6 A, XFL4015",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": false,
-        "symbol": false,
-        "footprint": false
-    },
-    "blendfileId": "xfl4015-122mec",
-    "symbolId": "xfl4015-122mec",
-    "footprintId": "xfl4015-122mec",
-    "manufacturerId": "coilcraft",
-    "tagIds": [
-        "smt",
-        "inductor",
-        "passive"
-    ]
+    "description": "Power Inductor (SMD), 1.2 \u00b5H, 7.1 A, Shielded, 2.6 A, XFL4015",
+    "keywords": "INDUCTOR, PASSIVE, SMT",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "L_Coilcraft-XFL4015"
 }

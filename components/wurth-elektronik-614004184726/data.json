@@ -1,24 +1,13 @@
 {
-    "id": "wurth-elektronik-614004184726",
     "reference": "J",
+    "symbol": "USB-A_WE_614004184726",
+    "footprint": "USB-A_Receptacle_WE_614004184726",
+    "datasheet": "https://www.we-online.com/katalog/datasheet/614004184726.pdf",
+    "manufacturer": "W\u00fcrth Elektronik",
     "mpn": "614004184726",
-    "category": "Connector",
-    "type": "USB Connector, USB Type A, USB 2.0, Receptacle, 4 Ways, Through Hole Mount, Right Angle",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": false,
-        "symbol": false,
-        "footprint": true
-    },
-    "blendfileId": "614004184726",
-    "symbolId": "614004184726",
-    "footprintId": "614004184726",
-    "manufacturerId": "wurth-elektronik",
-    "tagIds": [
-        "tht",
-        "usb",
-        "connector",
-        "dvi",
-        "hdmi"
-    ]
+    "description": "USB-A (USB TYPE-A) USB 2.0 Receptacle Connector 4 Position Through Hole, Right Angle",
+    "keywords": "USB, CONNECTOR, THT, HORIZONTAL",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "USB-A_Receptacle_WE_614004184726"
 }

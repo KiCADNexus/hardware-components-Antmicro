@@ -1,20 +1,13 @@
 {
-    "id": "u-blox-zed-f9p-04b",
     "reference": "U",
+    "symbol": "GNSS_ZED-F9P-04B",
+    "footprint": "GNSS_Module_ZED-F9P-04B",
+    "datasheet": "https://www.mouser.com/datasheet/2/1025/ZED_F9P_DataSheet__UBX_17051259_-1915277.pdf",
+    "manufacturer": "u-blox",
     "mpn": "ZED-F9P-04B",
-    "category": "IC",
-    "type": null,
-    "datasheetUrl": "https://www.mouser.pl/datasheet/2/1025/ZED_F9P_DataSheet__UBX_17051259_-1915277.pdf",
-    "assets": {
-        "blendfile": false,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "lga-54-22-0x17-0mm-p1-1mm",
-    "symbolId": "zed-f9p-04b",
-    "footprintId": "lga-54-22-0x17-0mm-p1-1mm",
-    "manufacturerId": "u-blox",
-    "tagIds": [
-        "ic"
-    ]
+    "description": "MOD RF RX PRECISION GNSS, RTK",
+    "keywords": "IC",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "GNSS_Module_ZED-F9P-04B"
 }

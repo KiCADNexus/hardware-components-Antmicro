@@ -1,20 +1,13 @@
 {
-    "id": "microchip-technology-mic5166yml-tr",
     "reference": "U",
+    "symbol": "MIC5166YML-TR",
+    "footprint": "DFN-10-1EP_3x3mm",
+    "datasheet": "https://www.mouser.com/datasheet/2/268/MIC5166_3A_High_Speed_Low_VIN_DDR_Terminator_DS200-1891162.pdf",
+    "manufacturer": "Microchip Technology",
     "mpn": "MIC5166YML-TR",
-    "category": "IC",
-    "type": "Power distribution switch/load driver",
-    "datasheetUrl": "https://www.mouser.pl/datasheet/2/268/MIC5166_3A_High_Speed_Low_VIN_DDR_Terminator_DS200-1891162.pdf",
-    "assets": {
-        "blendfile": true,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "dfn-10-1ep-3x3mm",
-    "symbolId": "mic5166yml-tr",
-    "footprintId": "dfn-10-1ep-3x3mm",
-    "manufacturerId": "microchip-technology",
-    "tagIds": [
-        "ic"
-    ]
+    "description": "Power distribution switch/load driver",
+    "keywords": "IC",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "DFN-10-1EP_3x3mm"
 }

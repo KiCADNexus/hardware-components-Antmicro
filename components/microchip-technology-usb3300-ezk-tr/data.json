@@ -1,24 +1,13 @@
 {
-    "id": "microchip-technology-usb3300-ezk-tr",
     "reference": "U",
+    "symbol": "USB3300-EZK-TR",
+    "footprint": "QFN-32-1EP_5x5mm",
+    "datasheet": "https://ww1.microchip.com/downloads/en/DeviceDoc/00001783C.pdf",
+    "manufacturer": "Microchip Technology",
     "mpn": "USB3300-EZK-TR",
-    "category": "IC",
-    "type": "USB Interface, USB Host Controller, USB 2.0 OTG, 3 V, 3.6 V, VQFN, 32 Pins",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": false,
-        "symbol": true,
-        "footprint": false
-    },
-    "blendfileId": "qfn50p500x500x100-33n",
-    "symbolId": "usb3300-ezk-tr",
-    "footprintId": "qfn50p500x500x100-33n",
-    "manufacturerId": "microchip-technology",
-    "tagIds": [
-        "smt",
-        "interface",
-        "controller",
-        "ic",
-        "usb"
-    ]
+    "description": "USB Interface, USB Host Controller, USB 2.0 OTG, 3 V, 3.6 V, VQFN, 32 Pins",
+    "keywords": "SMT, INTERFACE, CONTROLLER, IC, USB",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "QFN-32-1EP_5x5mm-microchip-technology-usb3300-ezk-tr"
 }

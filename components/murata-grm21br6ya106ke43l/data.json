@@ -1,23 +1,13 @@
 {
-    "id": "murata-grm21br6ya106ke43l",
     "reference": "C",
+    "symbol": "C_10u_0805_35V",
+    "footprint": "C_0805_2012Metric",
+    "datasheet": "https://www.murata.com/products/productdetail?partno=GRM21BR6YA106KE43%23",
+    "manufacturer": "Murata",
     "mpn": "GRM21BR6YA106KE43L",
-    "category": "Passive",
-    "type": "SMT capacitor",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": true,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "c-0805-2012metric",
-    "symbolId": "c-10u-0805-35v",
-    "footprintId": "c-0805-2012metric",
-    "manufacturerId": "murata",
-    "tagIds": [
-        "0805",
-        "smt",
-        "capacitor",
-        "passive"
-    ]
+    "description": "SMD Multilayer Ceramic Capacitor, 10 \u00b5F, 35 V, 0805 [2012 Metric], \u00b1 10%, X5R, GRM Series",
+    "keywords": "0805, SMT, CAPACITOR, PASSIVE",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "C_0805_2012Metric"
 }

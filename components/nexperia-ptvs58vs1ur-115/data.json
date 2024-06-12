@@ -1,24 +1,13 @@
 {
-    "id": "nexperia-ptvs58vs1ur-115",
     "reference": "D",
+    "symbol": "PTVS58VS1UR,115",
+    "footprint": "D_SOD-123F",
+    "datasheet": "https://assets.nexperia.com/documents/data-sheet/PTVSXS1UR_SER.pdf",
+    "manufacturer": "Nexperia",
     "mpn": "PTVS58VS1UR,115",
-    "category": "Semiconductor",
-    "type": "TVS Diode, PTVS5, Unidirectional, 58 V, 93.6 V, SOD-123, 2 Pins",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": true,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "sod-123f",
-    "symbolId": "ptvs58vs1ur-115",
-    "footprintId": "sod-123f",
-    "manufacturerId": "nexperia",
-    "tagIds": [
-        "smt",
-        "diode",
-        "semiconductor",
-        "tvs",
-        "esd"
-    ]
+    "description": "Unidirectional TVS, 8 kV,  SOD-123F, 58 V",
+    "keywords": "DIODE, SEMICONDUCTOR, TVS, ESD",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "D_SOD-123F"
 }

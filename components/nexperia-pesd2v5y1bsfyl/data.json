@@ -1,24 +1,13 @@
 {
-    "id": "nexperia-pesd2v5y1bsfyl",
     "reference": "D",
+    "symbol": "PESD2V5Y1BSFYL",
+    "footprint": "D_0201_0603Metric",
+    "datasheet": "https://assets.nexperia.com/documents/data-sheet/PESD2V5Y1BSF.pdf",
+    "manufacturer": "Nexperia",
     "mpn": "PESD2V5Y1BSFYL",
-    "category": "Semiconductor",
-    "type": "TVS diode",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": true,
-        "symbol": false,
-        "footprint": false
-    },
-    "blendfileId": "resc0603x26n",
-    "symbolId": "pesd2v5y1bsfyl",
-    "footprintId": "resc0603x26n",
-    "manufacturerId": "nexperia",
-    "tagIds": [
-        "smt",
-        "diode",
-        "semiconductor",
-        "tvs",
-        "esd"
-    ]
+    "description": "Bidirectional TVS, 15 kV,  0201, 2.5 V, 0.25 pF",
+    "keywords": "DIODE, SEMICONDUCTOR, TVS, ESD",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "D_0201_0603Metric"
 }

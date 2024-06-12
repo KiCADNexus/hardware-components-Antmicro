@@ -1,26 +1,13 @@
 {
-    "id": "texas-instruments-tps54561qdprrq1",
     "reference": "U",
+    "symbol": "TPS54561QDPRRQ1",
+    "footprint": "WSON-10-1EP_4x4mm_P0.8mm_EP2.6x3mm",
+    "datasheet": "https://www.ti.com/lit/ds/symlink/tps54561-q1.pdf?ts=1678720110394&ref_url=https%253A%252F%252Fwww.google.com%252F",
+    "manufacturer": "Texas Instruments",
     "mpn": "TPS54561QDPRRQ1",
-    "category": "IC",
-    "type": "DC/DC converter",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": true,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "soic-8-1ep-3-9x4-9x1-75mm-p1-27mm",
-    "symbolId": "tps54561qdprrq1",
-    "footprintId": "soic-8-1ep-3-9x4-9x1-75mm-p1-27mm",
-    "manufacturerId": "texas-instruments",
-    "tagIds": [
-        "smt",
-        "pmic",
-        "ic",
-        "switching",
-        "voltage",
-        "regulator",
-        "dc-dc"
-    ]
+    "description": "DC/DC converter",
+    "keywords": "SMT, PMIC, IC, SWITCHING, VOLTAGE, REGULATOR, DC-DC",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "WSON-10-1EP_4x4mm_P0.8mm_EP2.6x3mm"
 }

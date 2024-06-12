@@ -1,20 +1,13 @@
 {
-    "id": "te-connectivity-1-2199230-0",
-    "reference": "A",
-    "mpn": "1-2199230-0",
-    "category": "Module",
-    "type": "PCI connector",
-    "datasheetUrl": "https://www.te.com/usa-en/product-1-2199230-0.html",
-    "assets": {
-        "blendfile": false,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "bus-m-2-socket-key-b-te-1-2199230-0",
-    "symbolId": "bus-m-2-1-2199230-0",
-    "footprintId": "bus-m-2-socket-key-b-te-1-2199230-0",
-    "manufacturerId": "te-connectivity",
-    "tagIds": [
-        "module"
-    ]
+    "reference": "J",
+    "symbol": "Bus_M.2_1-2199230-0",
+    "footprint": "Bus_M.2_Socket_Key_B_TE_1-2199230-0",
+    "datasheet": "https://www.te.com/usa-en/product-1-2199230-0.html",
+    "manufacturer": "TE Connectivity",
+    "mpn": "1-2199230-0 ",
+    "description": "PCI connector",
+    "keywords": "MODULE",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "Bus_M.2_Socket_Key_B_TE_1-2199230-0"
 }

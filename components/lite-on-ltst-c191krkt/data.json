@@ -1,24 +1,13 @@
 {
-    "id": "lite-on-ltst-c191krkt",
     "reference": "D",
+    "symbol": "LED_R_0603_LTST-C191KRKT",
+    "footprint": "LED_0603_1608Metric_R",
+    "datasheet": "https://optoelectronics.liteon.com/upload/download/DS22-2000-223/LTST-C191KRKT.PDF",
+    "manufacturer": "Lite-On",
     "mpn": "LTST-C191KRKT",
-    "category": "Semiconductor",
-    "type": "LED, Red, SMT, 0603 [1608 Metric], 30 mA, 2 V, 625 nm",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": true,
-        "symbol": false,
-        "footprint": true
-    },
-    "blendfileId": "led-0603-1608metric-r",
-    "symbolId": "ltst-c191krkt",
-    "footprintId": "led-0603-1608metric-r",
-    "manufacturerId": "lite-on",
-    "tagIds": [
-        "0603",
-        "smt",
-        "diode",
-        "semiconductor",
-        "led"
-    ]
+    "description": "LED, Red, SMD, 0603, 30 mA, 2 V, 631 nm",
+    "keywords": "SMT, DIODE, SEMICONDUCTOR, LED",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "LED_0603_1608Metric_R"
 }

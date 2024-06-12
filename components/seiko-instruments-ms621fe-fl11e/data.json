@@ -1,23 +1,13 @@
 {
-    "id": "seiko-instruments-ms621fe-fl11e",
-    "reference": "BAT",
+    "reference": "BT",
+    "symbol": "Battery_Holder_MS621FE-FL11E",
+    "footprint": "MS621FE-FL11E",
+    "datasheet": "https://www.sii.co.jp/en/me/datasheets/ms-rechargeable/ms621fe/",
+    "manufacturer": "Seiko Instruments",
     "mpn": "MS621FE-FL11E",
-    "category": "Battery",
-    "type": "Rechargeable Battery, Coin Cell, Single Cell, 3 V, Lithium Manganese Dioxide, 5.5 mAh, Button Cell",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": false,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "ms621fe-fl11e",
-    "symbolId": "battery-holder-ms621fe-fl11e",
-    "footprintId": "ms621fe-fl11e",
-    "manufacturerId": "seiko-instruments",
-    "tagIds": [
-        "horizontal",
-        "smt",
-        "holder",
-        "battery"
-    ]
+    "description": "Rechargeable Battery, Coin Cell, Single Cell, 3 V, Lithium Manganese Dioxide, 5.5 mAh, Button Cell",
+    "keywords": "HORIZONTAL, SMT, HOLDER, BATTERY",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "MS621FE-FL11E"
 }

@@ -1,23 +1,13 @@
 {
-    "id": "wurth-elektronik-742792022",
     "reference": "FB",
+    "symbol": "FB_220Z_1.5A_WE-CBF_0805",
+    "footprint": "FB_0805_2012Metric",
+    "datasheet": "https://www.we-online.com/katalog/datasheet/742792022.pdf",
+    "manufacturer": "W\u00fcrth Elektronik",
     "mpn": "742792022",
-    "category": "Passive",
-    "type": "Ferrite Bead, 0805 [2012 Metric], 220 ohm, 2 A, WE-CBF, 0.05 ohm, \u00b1 25%",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": true,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "fb-0805-2012metric",
-    "symbolId": "fb-220z-1-5a-0805",
-    "footprintId": "fb-0805-2012metric",
-    "manufacturerId": "wurth-elektronik",
-    "tagIds": [
-        "0805",
-        "smt",
-        "ferrite-bead",
-        "passive"
-    ]
+    "description": "Ferrite Bead, 0805 [2012 Metric], 220 ohm, 2 A, WE-CBF, 0.05 ohm, \u00b1 25%, High Current",
+    "keywords": "0805, SMT, FERRITE BEAD, PASSIVE",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "FB_0805_2012Metric"
 }

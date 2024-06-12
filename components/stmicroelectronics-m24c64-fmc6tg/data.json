@@ -1,24 +1,13 @@
 {
-    "id": "stmicroelectronics-m24c64-fmc6tg",
     "reference": "U",
+    "symbol": "M24C64-F_DFN8",
+    "footprint": "DFN-8-1EP_3x2mm_P0.5mm_EP1.36x1.46mm",
+    "datasheet": "https://eu.mouser.com/datasheet/2/389/cd00259166-1797197.pdf",
+    "manufacturer": "STMicroelectronics",
     "mpn": "M24C64-FMC6TG",
-    "category": "IC",
-    "type": "EEPROM, 8K x 8bit, Serial I2C (2-Wire), 1 MHz, UFDFPN, 8 Pins",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": true,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "dfn-8-1ep-3x2mm-p0-5mm-ep1-36x1-46mm",
-    "symbolId": "m24c64-f-dfn8",
-    "footprintId": "dfn-8-1ep-3x2mm-p0-5mm-ep1-36x1-46mm",
-    "manufacturerId": "stmicroelectronics",
-    "tagIds": [
-        "smt",
-        "memory",
-        "ic",
-        "storage",
-        "i2c"
-    ]
+    "description": "EEPROM, 8K x 8bit, Serial I2C (2-Wire), 1 MHz, UFDFPN, 8 Pins",
+    "keywords": "SMT, MEMORY, IC, STORAGE, I2C",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "DFN-8-1EP_3x2mm_P0.5mm_EP1.36x1.46mm"
 }

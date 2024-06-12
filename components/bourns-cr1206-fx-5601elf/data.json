@@ -1,23 +1,13 @@
 {
-    "id": "bourns-cr1206-fx-5601elf",
     "reference": "R",
+    "symbol": "R_5k6_1206",
+    "footprint": "R_1206_3216Metric",
+    "datasheet": "https://www.bourns.com/docs/product-datasheets/cr.pdf",
+    "manufacturer": "Bourns",
     "mpn": "CR1206-FX-5601ELF",
-    "category": "Passive",
-    "type": "SMT Chip Resistor, Thick Film, AEC-Q200 WCR Series, 5.6 kohm, 200 V, 1206 [3216 Metric], 250 mW",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": true,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "r-1206-3216metric",
-    "symbolId": "r-5k6-1206",
-    "footprintId": "r-1206-3216metric",
-    "manufacturerId": "bourns",
-    "tagIds": [
-        "1206",
-        "smt",
-        "resistor",
-        "passive"
-    ]
+    "description": "SMT Chip Resistor, Thick Film, AEC-Q200 WCR Series, 5.6 kohm, 200 V, 1206 [3216 Metric], 250 mW",
+    "keywords": "1206, SMT, RESISTOR, PASSIVE",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "R_1206_3216Metric"
 }

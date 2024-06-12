@@ -1,24 +1,13 @@
 {
-    "id": "toshiba-ssm3j332r-lf",
     "reference": "Q",
+    "symbol": "SSM3J332R",
+    "footprint": "SOT-23-3",
+    "datasheet": "https://www.mouser.com/datasheet/2/408/SSM3J332R_datasheet_en_20181015-1150575.pdf",
+    "manufacturer": "Toshiba",
     "mpn": "SSM3J332R,LF",
-    "category": "Semiconductor",
-    "type": "Power MOSFET, P Channel, 30 V, 6 A, 0.036 ohm, SOT-23F, Surface Mount",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": true,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "sot-23-3",
-    "symbolId": "ssm3j332r",
-    "footprintId": "sot-23-3",
-    "manufacturerId": "toshiba",
-    "tagIds": [
-        "smt",
-        "transistor",
-        "semiconductor",
-        "mosfet",
-        "pmos"
-    ]
+    "description": "Power MOSFET, P Channel, 30 V, 6 A, 0.036 ohm, SOT-23F, Surface Mount",
+    "keywords": "SMT, TRANSISTOR, SEMICONDUCTOR, MOSFET, PMOS",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "SOT-23-3"
 }

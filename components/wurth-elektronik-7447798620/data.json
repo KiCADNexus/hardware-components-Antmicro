@@ -1,22 +1,13 @@
 {
-    "id": "wurth-elektronik-7447798620",
     "reference": "L",
+    "symbol": "L_6u2_9.4A_WE-PDF-1064",
+    "footprint": "L_WE-PDF-1064",
+    "datasheet": "https://www.we-online.com/components/products/datasheet/7447798620.pdf",
+    "manufacturer": "W\u00fcrth Elektronik",
     "mpn": "7447798620",
-    "category": "Passive",
-    "type": "Power Inductor (SMT), 6.2 \u00b5H, 9.4 A, Shielded, 6.7 A, WE-PDF",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": false,
-        "symbol": true,
-        "footprint": false
-    },
-    "blendfileId": "l-4141-we-pdf",
-    "symbolId": "7447798620",
-    "footprintId": "l-4141-we-pdf",
-    "manufacturerId": "wurth-elektronik",
-    "tagIds": [
-        "smt",
-        "inductor",
-        "passive"
-    ]
+    "description": "Power Inductor (SMD), 6.2 \u00b5H, 9.4 A, Shielded, 6.7 A, WE-PDF",
+    "keywords": "SMT, INDUCTOR, PASSIVE",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "L_WE-PDF-1064"
 }

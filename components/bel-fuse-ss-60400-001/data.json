@@ -1,23 +1,13 @@
 {
-    "id": "bel-fuse-ss-60400-001",
     "reference": "U",
+    "symbol": "SS-60400-001",
+    "footprint": "RJ45_Bel_SS-60400-001",
+    "datasheet": "https://www.belfuse.com/resources/drawings/stewartconnector/dr-stw-ss-60400-001.pdf",
+    "manufacturer": "Bel Fuse",
     "mpn": "SS-60400-001",
-    "category": "IC",
-    "type": "Modular connector jack",
-    "datasheetUrl": "https://www.belfuse.com/resources/drawings/stewartconnector/dr-stw-ss-60400-001.pdf",
-    "assets": {
-        "blendfile": false,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "rj45-bel-ss-60400-001",
-    "symbolId": "ss-60400-001",
-    "footprintId": "rj45-bel-ss-60400-001",
-    "manufacturerId": "bel-fuse",
-    "tagIds": [
-        "rj45",
-        "smt",
-        "ethernet",
-        "ic"
-    ]
+    "description": "Modular connector jack",
+    "keywords": "RJ45, SMT, ETHERNET, IC",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "RJ45_Bel_SS-60400-001"
 }

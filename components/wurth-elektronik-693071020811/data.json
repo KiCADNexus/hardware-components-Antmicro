@@ -1,23 +1,13 @@
 {
-    "id": "wurth-elektronik-693071020811",
     "reference": "J",
+    "symbol": "MicroSD_693071020811",
+    "footprint": "MicroSD_Wurth_693071020811",
+    "datasheet": "https://www.we-online.com/catalog/datasheet/693071020811.pdf",
+    "manufacturer": "W\u00fcrth Elektronik",
     "mpn": "693071020811",
-    "category": "Connector",
-    "type": "Memory Card Connector, MicroSD, Push-Push, 8 Contacts, Copper Alloy, Gold Plated Contacts, WR-CRD",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": false,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "microsd-wurth-693071020811",
-    "symbolId": "microsd-693071020811",
-    "footprintId": "microsd-wurth-693071020811",
-    "manufacturerId": "wurth-elektronik",
-    "tagIds": [
-        "horizontal",
-        "smt",
-        "memory",
-        "connector"
-    ]
+    "description": "Memory Card Connector, MicroSD, Push-Push, 8 Contacts, Copper Alloy, Gold Plated Contacts, WR-CRD",
+    "keywords": "HORIZONTAL, SMT, MEMORY, CONNECTOR",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "MicroSD_Wurth_693071020811"
 }

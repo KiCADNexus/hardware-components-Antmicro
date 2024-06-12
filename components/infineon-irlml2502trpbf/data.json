@@ -1,24 +1,13 @@
 {
-    "id": "infineon-irlml2502trpbf",
     "reference": "Q",
+    "symbol": "IRLML2502TRPBF",
+    "footprint": "SOT-23-3",
+    "datasheet": "https://www.infineon.com/dgdl/Infineon-IRLML2502-DataSheet-v01_01-EN.pdf?fileId=5546d462533600a401535668048e2606",
+    "manufacturer": "Infineon",
     "mpn": "IRLML2502TRPBF",
-    "category": "Semiconductor",
-    "type": "Power MOSFET, N Channel, 20 V, 4.2 A, 0.045 ohm, SOT-23, Surface Mount",
-    "datasheetUrl": "https://www.infineon.com/dgdl/irlml2502pbf.pdf?fileId=5546d462533600a401535668048e2606",
-    "assets": {
-        "blendfile": true,
-        "symbol": false,
-        "footprint": true
-    },
-    "blendfileId": "sot-23-3",
-    "symbolId": "irlml2502trpbf",
-    "footprintId": "sot-23-3",
-    "manufacturerId": "infineon",
-    "tagIds": [
-        "smt",
-        "transistor",
-        "semiconductor",
-        "nmos",
-        "mosfet"
-    ]
+    "description": "Power MOSFET, N Channel, 30 V, 5 A, 0.022 ohm, SOT-23, Surface Mount",
+    "keywords": "SMT, TRANSISTOR, SEMICONDUCTOR, NMOS, MOSFET",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "SOT-23-3"
 }

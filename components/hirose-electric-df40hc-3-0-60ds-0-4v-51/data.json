@@ -1,23 +1,13 @@
 {
-    "id": "hirose-electric-df40hc-3-0-60ds-0-4v-51",
     "reference": "J",
+    "symbol": "Socket_Hirose_DF40_2x30_DF40HC-3.0-60DS-0.4V",
+    "footprint": "Conn_Socket_Hirose_DF40_2x30_DF40HC-3.0-60DS-0.4V",
+    "datasheet": "https://eu.mouser.com/datasheet/2/185/DF40_Catalog_D31649_en-2301840.pdf",
+    "manufacturer": "Hirose Electric",
     "mpn": "DF40HC(3.0)-60DS-0.4V(51)",
-    "category": "Connector",
-    "type": "SoM connector",
-    "datasheetUrl": "https://eu.mouser.com/datasheet/2/185/DF40_Catalog_D31649_en-2301840.pdf",
-    "assets": {
-        "blendfile": false,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "df40c-60dp-0-4v-51",
-    "symbolId": "df40c-60dp-0-4v-51",
-    "footprintId": "df40c-60dp-0-4v-51",
-    "manufacturerId": "hirose-electric",
-    "tagIds": [
-        "vertical",
-        "smt",
-        "b2b",
-        "connector"
-    ]
+    "description": "Board to Board & Mezzanine Connectors 60P RECPT 3.5 STK HT W/O METAL FITTING ",
+    "keywords": "CONNECTOR, B2B, SOCKET",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "Conn_Socket_Hirose_DF40_2x30_DF40HC-3.0-60DS-0.4V"
 }

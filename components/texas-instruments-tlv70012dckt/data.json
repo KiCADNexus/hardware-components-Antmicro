@@ -1,20 +1,13 @@
 {
-    "id": "texas-instruments-tlv70012dckt",
     "reference": "U",
+    "symbol": "TLV70012_SC70",
+    "footprint": "SC-70-5",
+    "datasheet": "https://www.ti.com/general/docs/suppproductinfo.tsp?distId=26&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftlv700",
+    "manufacturer": "Texas Instruments",
     "mpn": "TLV70012DCKT",
-    "category": "IC",
-    "type": "Linear voltage regulator",
-    "datasheetUrl": "https://www.ti.com/general/docs/suppproductinfo.tsp?distId=26&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftlv700",
-    "assets": {
-        "blendfile": true,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "sc-70-5",
-    "symbolId": "tlv70012-sc70",
-    "footprintId": "sc-70-5",
-    "manufacturerId": "texas-instruments",
-    "tagIds": [
-        "ic"
-    ]
+    "description": "Linear voltage regulator",
+    "keywords": "IC",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "SC-70-5"
 }

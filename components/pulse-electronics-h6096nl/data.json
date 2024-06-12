@@ -1,20 +1,13 @@
 {
-    "id": "pulse-electronics-h6096nl",
     "reference": "L",
+    "symbol": "H6096NL",
+    "footprint": "SOIC127P1594X685-24N",
+    "datasheet": "https://www.arrow.com/en/products/h6096nl/pulse-electronics-corporation",
+    "manufacturer": "Pulse Electronics",
     "mpn": "H6096NL",
-    "category": "Passive",
-    "type": "Interface driver/receiver/transceiver",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": false,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "soic127p1594x685-24n",
-    "symbolId": "h6096nl",
-    "footprintId": "soic127p1594x685-24n",
-    "manufacturerId": "pulse-electronics",
-    "tagIds": [
-        "passive"
-    ]
+    "description": "Audio Transformers / Signal Transformers 1000Base-T SMD PoE+ 350uH .3Ohms 1-Port",
+    "keywords": "PASSIVE",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "SOIC127P1594X685-24N"
 }

@@ -1,23 +1,13 @@
 {
-    "id": "murata-grm155r61a475meaad",
     "reference": "C",
+    "symbol": "C_4u7_0402",
+    "footprint": "C_0402_1005Metric",
+    "datasheet": "https://www.murata.com/products/productdetail?partno=GRM155R61A475MEAA%23",
+    "manufacturer": "Murata",
     "mpn": "GRM155R61A475MEAAD",
-    "category": "Passive",
-    "type": "SMT capacitor",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": true,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "c-0402-1005metric",
-    "symbolId": "c-4u7-0402",
-    "footprintId": "c-0402-1005metric",
-    "manufacturerId": "murata",
-    "tagIds": [
-        "0402",
-        "smt",
-        "capacitor",
-        "passive"
-    ]
+    "description": "SMD Multilayer Ceramic Capacitor, 4.7 \u00b5F, 10 V, 0402 [1005 Metric], \u00b1 20%, X5R, GRM Series",
+    "keywords": "0402, SMT, CAPACITOR, PASSIVE",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "C_0402_1005Metric"
 }

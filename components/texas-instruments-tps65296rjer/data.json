@@ -1,26 +1,13 @@
 {
-    "id": "texas-instruments-tps65296rjer",
     "reference": "U",
+    "symbol": "TPS65296",
+    "footprint": "VQFN-HR-18_3.5x3.5x1mm",
+    "datasheet": "https://www.ti.com/lit/ds/symlink/tps65296.pdf",
+    "manufacturer": "Texas Instruments",
     "mpn": "TPS65296RJER",
-    "category": "IC",
-    "type": "DC/DC switching voltage regulator",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": false,
-        "symbol": false,
-        "footprint": false
-    },
-    "blendfileId": "vqfn-hr",
-    "symbolId": "tps65296",
-    "footprintId": "vqfn-hr",
-    "manufacturerId": "texas-instruments",
-    "tagIds": [
-        "smt",
-        "pmic",
-        "ic",
-        "switching",
-        "voltage",
-        "regulator",
-        "dc-dc"
-    ]
+    "description": "DC/DC switching voltage regulator",
+    "keywords": "SMT, PMIC, IC, SWITCHING, VOLTAGE, REGULATOR, DC-DC",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "VQFN-HR-18_3.5x3.5x1mm"
 }

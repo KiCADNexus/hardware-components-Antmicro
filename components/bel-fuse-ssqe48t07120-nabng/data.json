@@ -1,24 +1,13 @@
 {
-    "id": "bel-fuse-ssqe48t07120-nabng",
     "reference": "U",
+    "symbol": "SSQE48T07120-NABNG",
+    "footprint": "SSQE48T07120-NABNG",
+    "datasheet": "https://www.belfuse.com/resources/datasheets/powersolutions/ds-bps-ssqe48t07120-series.pdf",
+    "manufacturer": "Bel Fuse",
     "mpn": "SSQE48T07120-NABNG",
-    "category": "IC",
-    "type": "DC/DC converter",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": false,
-        "symbol": true,
-        "footprint": false
-    },
-    "blendfileId": "ssqe48t07120-nabng",
-    "symbolId": "ssqe48t07120-nabng",
-    "footprintId": "ssqe48t07120-nabng",
-    "manufacturerId": "bel-fuse",
-    "tagIds": [
-        "tht",
-        "pmic",
-        "ic",
-        "dc-dc",
-        "converter"
-    ]
+    "description": "DC/DC converter",
+    "keywords": "THT, PMIC, IC, DC-DC, CONVERTER",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "SSQE48T07120-NABNG"
 }

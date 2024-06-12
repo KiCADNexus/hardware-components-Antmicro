@@ -1,23 +1,13 @@
 {
-    "id": "te-connectivity-t4145035081-002",
     "reference": "J",
+    "symbol": "Conn_M12_T4145035081-002",
+    "footprint": "Conn_M12_T4145035081-002",
+    "datasheet": "https://eu.mouser.com/datasheet/2/418/6/ENG_CD_T41450X5081XXX_A1-2059609.pdf",
+    "manufacturer": "TE Connectivity",
     "mpn": "T4145035081-002",
-    "category": "Connector",
-    "type": "SENSOR CONNECTOR, 8POS, FEMALE, PANEL",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": false,
-        "symbol": false,
-        "footprint": false
-    },
-    "blendfileId": "t4145035081-002",
-    "symbolId": "t4145035081-002",
-    "footprintId": "t4145035081-002",
-    "manufacturerId": "te-connectivity",
-    "tagIds": [
-        "horizontal",
-        "tht",
-        "connector",
-        "female"
-    ]
+    "description": "M12 connector, 8 pins, Female",
+    "keywords": "HORIZONTAL, THT, CONNECTOR, FEMALE",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "Conn_M12_T4145035081-002"
 }

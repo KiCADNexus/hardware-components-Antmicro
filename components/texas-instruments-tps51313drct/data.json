@@ -1,20 +1,13 @@
 {
-    "id": "texas-instruments-tps51313drct",
     "reference": "U",
+    "symbol": "TPS51313",
+    "footprint": "Texas_VSON-10-1EP_3x3mm_P0.5mm",
+    "datasheet": "https://www.ti.com/lit/ds/symlink/tps51313.pdf",
+    "manufacturer": "Texas Instruments",
     "mpn": "TPS51313DRCT",
-    "category": "IC",
-    "type": "DC/DC switching voltage regulator",
-    "datasheetUrl": "https://www.ti.com/lit/ds/symlink/tps51313.pdf",
-    "assets": {
-        "blendfile": false,
-        "symbol": true,
-        "footprint": false
-    },
-    "blendfileId": "texas-vson-10-1ep-3x3mm-p0-5mm",
-    "symbolId": "tps51313",
-    "footprintId": "texas-drc0010j",
-    "manufacturerId": "texas-instruments",
-    "tagIds": [
-        "ic"
-    ]
+    "description": "DC/DC switching voltage regulator",
+    "keywords": "IC",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "Texas_VSON-10-1EP_3x3mm_P0.5mm"
 }

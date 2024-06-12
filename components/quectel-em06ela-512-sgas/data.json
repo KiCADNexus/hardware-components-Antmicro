@@ -1,21 +1,13 @@
 {
-    "id": "quectel-em06ela-512-sgas",
     "reference": "A",
+    "symbol": "Mech_M2_QuectelEM06_H2.5mm",
+    "footprint": "Mech_M2_QuectelEM06_H2.5mm",
+    "datasheet": "https://www.mouser.com/datasheet/2/744/Quectel_EM06_LTE_A_Specification_V1_6-2488063.pdf",
+    "manufacturer": "Quectel",
     "mpn": "EM06ELA-512-SGAS",
-    "category": "Module",
-    "type": "Module",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": false,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "mech-m2-quectelem06-h2-5mm",
-    "symbolId": "mech-m2-quectelem06-h2-5mm",
-    "footprintId": "mech-m2-quectelem06-h2-5mm",
-    "manufacturerId": "quectel",
-    "tagIds": [
-        "rf",
-        "module"
-    ]
+    "description": "M.2 LTE-A Cat 6, GPS, GLONASS, BeiDou/Compass, Galileo and QZSS IoT module",
+    "keywords": "RF, MODULE",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "Mech_M2_QuectelEM06_H2.5mm"
 }

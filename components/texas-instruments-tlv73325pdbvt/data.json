@@ -1,26 +1,13 @@
 {
-    "id": "texas-instruments-tlv73325pdbvt",
     "reference": "U",
+    "symbol": "TLV73325PDBVT",
+    "footprint": "SOT-23-5",
+    "datasheet": "https://www.ti.com/lit/ds/symlink/tlv733p.pdf?HQS=dis-mous-null-mousermode-dsf-pf-null-wwe&ts=1676978230940&ref_url=https%253A%252F%252Fwww.mouser.com%252F",
+    "manufacturer": "Texas Instruments",
     "mpn": "TLV73325PDBVT",
-    "category": "IC",
-    "type": "Linear voltage regulator",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": true,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "sot-23-5",
-    "symbolId": "tlv73325pdbvt",
-    "footprintId": "sot-23-5",
-    "manufacturerId": "texas-instruments",
-    "tagIds": [
-        "smt",
-        "pmic",
-        "ic",
-        "ldo",
-        "linear",
-        "voltage",
-        "regulator"
-    ]
+    "description": "Linear voltage regulator",
+    "keywords": "SMT, PMIC, IC, LDO, LINEAR, VOLTAGE, REGULATOR",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "SOT-23-5"
 }

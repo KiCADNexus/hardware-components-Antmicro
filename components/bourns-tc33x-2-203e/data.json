@@ -1,23 +1,13 @@
 {
-    "id": "bourns-tc33x-2-203e",
     "reference": "POT",
+    "symbol": "TC33X-2-203E",
+    "footprint": "Trimpot_3.8mmx3.6mm_TC33X-2-103E",
+    "datasheet": "https://www.bourns.com/docs/Product-Datasheets/TC33.pdf",
+    "manufacturer": "Bourns",
     "mpn": "TC33X-2-203E",
-    "category": "Passive",
-    "type": "Trimmer potentiometer",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": true,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "trimpot-3-8mmx3-6mm-tc33x-2-103e",
-    "symbolId": "tc33x-2-203e",
-    "footprintId": "trimpot-3-8mmx3-6mm-tc33x-2-103e",
-    "manufacturerId": "bourns",
-    "tagIds": [
-        "smt",
-        "resistor",
-        "passive",
-        "potentiometer"
-    ]
+    "description": "Trimmer potentiometer",
+    "keywords": "SMT, RESISTOR, PASSIVE, POTENTIOMETER",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "Trimpot_3.8mmx3.6mm_TC33X-2-103E"
 }

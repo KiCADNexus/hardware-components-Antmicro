@@ -1,23 +1,13 @@
 {
-    "id": "vishay-sip32409dnp-t1-ge4",
     "reference": "U",
+    "symbol": "SIP32409DNP-T1-GE4",
+    "footprint": "UFDFN-4_1.2x1.6",
+    "datasheet": "https://www.vishay.com/docs/63717/sip32408.pdf",
+    "manufacturer": "Vishay",
     "mpn": "SIP32409DNP-T1-GE4",
-    "category": "IC",
-    "type": "Power distribution switch/load driver",
-    "datasheetUrl": "https://www.vishay.com/docs/63717/sip32408.pdf",
-    "assets": {
-        "blendfile": false,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "ufdfn-4-1-2x1-6",
-    "symbolId": "sip32409dnp-t1-ge4",
-    "footprintId": "ufdfn-4-1-2x1-6",
-    "manufacturerId": "vishay",
-    "tagIds": [
-        "smt",
-        "switch",
-        "ic",
-        "power"
-    ]
+    "description": "Power distribution switch/load driver",
+    "keywords": "SMT, SWITCH, IC, POWER",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "UFDFN-4_1.2x1.6"
 }

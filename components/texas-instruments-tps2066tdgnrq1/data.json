@@ -1,20 +1,13 @@
 {
-    "id": "texas-instruments-tps2066tdgnrq1",
     "reference": "U",
+    "symbol": "TPS2066TDGNRQ1",
+    "footprint": "VSSOP-8-1EP_3x3x1.1mm_P0.65mm",
+    "datasheet": "https://www.ti.com/lit/ds/symlink/tps2066-q1.pdf?ts=1679042803235&ref_url=https%253A%252F%252Fwww.google.com%252F",
+    "manufacturer": "Texas Instruments",
     "mpn": "TPS2066TDGNRQ1",
-    "category": "IC",
-    "type": "Power switch",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": false,
-        "symbol": true,
-        "footprint": false
-    },
-    "blendfileId": "sop65p490x110-9n",
-    "symbolId": "tps2066tdgnrq1",
-    "footprintId": "sop65p490x110-9n",
-    "manufacturerId": "texas-instruments",
-    "tagIds": [
-        "ic"
-    ]
+    "description": "Power switch",
+    "keywords": "IC",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "VSSOP-8-1EP_3x3x1.1mm_P0.65mm"
 }

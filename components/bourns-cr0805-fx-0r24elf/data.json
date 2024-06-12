@@ -1,23 +1,13 @@
 {
-    "id": "bourns-cr0805-fx-0r24elf",
     "reference": "R",
+    "symbol": "R_0R24_0805",
+    "footprint": "R_0805_2012Metric",
+    "datasheet": "https://www.bourns.com/docs/product-datasheets/cr.pdf",
+    "manufacturer": "Bourns",
     "mpn": "CR0805-FX-0R24ELF",
-    "category": "Passive",
-    "type": "SMT resistor",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": false,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "r-0805-2012metric",
-    "symbolId": "r-0r24-0805",
-    "footprintId": "r-0805-2012metric",
-    "manufacturerId": "bourns",
-    "tagIds": [
-        "0805",
-        "smt",
-        "resistor",
-        "passive"
-    ]
+    "description": "SMD Chip Resistor",
+    "keywords": "0805, SMT, RESISTOR, PASSIVE",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "R_0805_2012Metric"
 }

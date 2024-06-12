@@ -1,23 +1,13 @@
 {
-    "id": "winbond-w25q32fvssig",
     "reference": "U",
+    "symbol": "W25Q32FV_SOIC-8",
+    "footprint": "SOIC-8_5.3x5.3x2mm_P1.27mm",
+    "datasheet": "https://media.digikey.com/pdf/Data%20Sheets/Winbond%20PDFs/W25Q32FV.pdf",
+    "manufacturer": "Winbond",
     "mpn": "W25Q32FVSSIG",
-    "category": "IC",
-    "type": "Memory",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": false,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "soic127p790x216-8n",
-    "symbolId": "w25q32fv-soic-8",
-    "footprintId": "soic127p790x216-8n",
-    "manufacturerId": "winbond",
-    "tagIds": [
-        "smt",
-        "memory",
-        "ic",
-        "flash"
-    ]
+    "description": "FLASH - NOR Memory IC 32Mbit SPI - Quad I/O, QPI 104 MHz 8-SOIC",
+    "keywords": "SMT, MEMORY, IC, FLASH",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "SOIC-8_5.3x5.3x2mm_P1.27mm"
 }

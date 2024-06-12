@@ -1,22 +1,13 @@
 {
-    "id": "abracon-amjmefb-100-0000t",
-    "reference": "U",
+    "reference": "Y",
+    "symbol": "Oscillator_100MHz_AMJMEFB",
+    "footprint": "Oscillator_SMD_Abracon_AMJM_3.2x2.5mm",
+    "datasheet": "https://abracon.com/datasheets/AMJM.pdf",
+    "manufacturer": "Abracon",
     "mpn": "AMJMEFB-100.0000T",
-    "category": "IC",
-    "type": "MEMS Oscillator, 100 MHz, SMT, 3.2mm x 2.5mm, 25 ppm, 2.5 V, AMJM",
-    "datasheetUrl": "https://www.mouser.pl/datasheet/2/3/AMJM-1381355.pdf",
-    "assets": {
-        "blendfile": false,
-        "symbol": true,
-        "footprint": false
-    },
-    "blendfileId": "amjmefb",
-    "symbolId": "amjmefb-100-0000t",
-    "footprintId": "amjmefb",
-    "manufacturerId": "abracon",
-    "tagIds": [
-        "smt",
-        "mems",
-        "oscillator"
-    ]
+    "description": "MEMS Oscillator, 100 MHz, SMT, 3.2mm x 2.5mm, 25 ppm, 2.5 V, AMJM",
+    "keywords": "OSCILLATOR, MEMS",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "Oscillator_SMD_Abracon_AMJM_3.2x2.5mm"
 }

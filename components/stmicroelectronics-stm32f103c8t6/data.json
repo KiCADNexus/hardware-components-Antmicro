@@ -1,23 +1,13 @@
 {
-    "id": "stmicroelectronics-stm32f103c8t6",
     "reference": "U",
+    "symbol": "STM32F103C8T6",
+    "footprint": "LQFP-48_7x7mm_P0.5mm",
+    "datasheet": "https://www.st.com/resource/en/datasheet/stm32f103c8.pdf",
+    "manufacturer": "STMicroelectronics",
     "mpn": "STM32F103C8T6",
-    "category": "IC",
-    "type": "ARM MCU, Motor Control, STM32 Family STM32F1 Series Microcontrollers, ARM Cortex-M3, 32 bit, 72 MHz",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": false,
-        "symbol": false,
-        "footprint": false
-    },
-    "blendfileId": "qfp50p900x900x160-48n",
-    "symbolId": "stm32f103c8t6",
-    "footprintId": "qfp50p900x900x160-48n",
-    "manufacturerId": "stmicroelectronics",
-    "tagIds": [
-        "smt",
-        "microcontroller",
-        "ic",
-        "arm"
-    ]
+    "description": "ARM MCU, Motor Control, STM32 Family STM32F1 Series Microcontrollers, ARM Cortex-M3, 32 bit, 72 MHz",
+    "keywords": "SMT, MICROCONTROLLER, IC, ARM",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "LQFP-48_7x7mm_P0.5mm"
 }

@@ -1,24 +1,13 @@
 {
-    "id": "microchip-technology-ksz9131rnxc",
     "reference": "U",
+    "symbol": "KSZ9131RNXC",
+    "footprint": "QFN-48-1EP_7x7x0.9mm_P0.5mm_EP5x5mm",
+    "datasheet": "https://ww1.microchip.com/downloads/en/DeviceDoc/00002841B.pdf",
+    "manufacturer": "Microchip Technology",
     "mpn": "KSZ9131RNXC",
-    "category": "IC",
-    "type": "Interface controller",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": true,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "qfn-48-1ep-7x7x0-9mm-p0-5mm-ep5x5mm",
-    "symbolId": "ksz9131rnxc",
-    "footprintId": "qfn-48-1ep-7x7x0-9mm-p0-5mm-ep5x5mm",
-    "manufacturerId": "microchip-technology",
-    "tagIds": [
-        "smt",
-        "transceiver",
-        "ic",
-        "ethernet",
-        "phy"
-    ]
+    "description": "Ethernet ICs Gigabit Ethernet Transceiver with RGMII support",
+    "keywords": "SMT, TRANSCEIVER, IC, ETHERNET, PHY",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "QFN-48-1EP_7x7x0.9mm_P0.5mm_EP5x5mm"
 }

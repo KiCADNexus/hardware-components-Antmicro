@@ -1,25 +1,13 @@
 {
-    "id": "yageo-cc0603crnpo9bn1r0",
     "reference": "C",
+    "symbol": "C_1p_0603",
+    "footprint": "C_0603_1608Metric",
+    "datasheet": "https://www.yageo.com/en/Chart/Download/pdf/CC0603CRNPO9BN1R0",
+    "manufacturer": "YAGEO",
     "mpn": "CC0603CRNPO9BN1R0",
-    "category": "Passive",
-    "type": "SMT capacitor",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": true,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "c-0603-1608metric",
-    "symbolId": "c-1p-0603",
-    "footprintId": "c-0603-1608metric",
-    "manufacturerId": "yageo",
-    "tagIds": [
-        "0603",
-        "smt",
-        "capacitor",
-        "passive",
-        "mlcc",
-        "ceramic"
-    ]
+    "description": "SMD Multilayer Ceramic Capacitor, 1 pF, 50 V, 0603 [1608 Metric], \u00b1 0.25pF, C0G / NP0, CC Series",
+    "keywords": "0603, SMT, CAPACITOR, PASSIVE, MLCC, CERAMIC",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "C_0603_1608Metric"
 }

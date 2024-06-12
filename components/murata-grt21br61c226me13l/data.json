@@ -1,25 +1,13 @@
 {
-    "id": "murata-grt21br61c226me13l",
     "reference": "C",
+    "symbol": "C_22u_0805_16V",
+    "footprint": "C_0805_2012Metric",
+    "datasheet": "https://www.murata.com/products/productdetail?partno=GRT21BR61C226ME13%23",
+    "manufacturer": "Murata",
     "mpn": "GRT21BR61C226ME13L",
-    "category": "Passive",
-    "type": "SMT capacitor",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": true,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "c-0805-2012metric",
-    "symbolId": "c-22u-0805-16v",
-    "footprintId": "c-0805-2012metric",
-    "manufacturerId": "murata",
-    "tagIds": [
-        "0805",
-        "smt",
-        "capacitor",
-        "passive",
-        "ceramic",
-        "mlcc"
-    ]
+    "description": "SMD Multilayer Ceramic Capacitor, 22 \u00b5F, 16 V, 0805 [2012 Metric], \u00b1 20%, X5R, GRT",
+    "keywords": "0805, SMT, CAPACITOR, PASSIVE, CERAMIC, MLCC",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "C_0805_2012Metric"
 }

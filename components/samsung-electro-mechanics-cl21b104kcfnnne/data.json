@@ -1,24 +1,13 @@
 {
-    "id": "samsung-electro-mechanics-cl21b104kcfnnne",
     "reference": "C",
+    "symbol": "C_100n_100V_0805",
+    "footprint": "C_0805_2012Metric",
+    "datasheet": "https://product.samsungsem.com/mlcc/CL21B104KCFNNN.do",
+    "manufacturer": "Samsung Electro-Mechanics",
     "mpn": "CL21B104KCFNNNE",
-    "category": "Passive",
-    "type": "SMT capacitor",
-    "datasheetUrl": "MLCC",
-    "assets": {
-        "blendfile": false,
-        "symbol": true,
-        "footprint": false
-    },
-    "blendfileId": "0805-cap",
-    "symbolId": "c-100n-0805-100v",
-    "footprintId": "0805-cap",
-    "manufacturerId": "samsung-electro-mechanics",
-    "tagIds": [
-        "0805",
-        "smt",
-        "capacitor",
-        "passive",
-        "ceramic"
-    ]
+    "description": "SMT Multilayer Ceramic Capacitor, 0.1 \u00b5F, 100 V, 0805 [2012 Metric], \u00b1 10%, X7R, CL",
+    "keywords": "0805, SMT, CAPACITOR, PASSIVE",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "C_0805_2012Metric"
 }

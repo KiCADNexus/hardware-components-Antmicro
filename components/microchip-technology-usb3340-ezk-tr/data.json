@@ -1,24 +1,13 @@
 {
-    "id": "microchip-technology-usb3340-ezk-tr",
     "reference": "U",
+    "symbol": "USB3340-EZK-TR",
+    "footprint": "Microchip_QFN-32-1EP_5x5mm",
+    "datasheet": "https://www.mouser.com/datasheet/2/268/MCHP_S_A0010410418_1-2552239.pdf",
+    "manufacturer": "Microchip Technology",
     "mpn": "USB3340-EZK-TR",
-    "category": "IC",
-    "type": "Interface controller",
-    "datasheetUrl": "https://www.mouser.pl/datasheet/2/268/MCHP_S_A0010410418_1-2552239.pdf",
-    "assets": {
-        "blendfile": true,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "microchip-qfn-32-1ep-5x5mm",
-    "symbolId": "usb3340-ezk-tr",
-    "footprintId": "microchip-qfn-32-1ep-5x5mm",
-    "manufacturerId": "microchip-technology",
-    "tagIds": [
-        "smt",
-        "transceiver",
-        "ic",
-        "usb",
-        "interface"
-    ]
+    "description": "USB Interface, USB PHY Transceiver, USB 2.0, 3 V, 5.5 V, QFN, 32 Pins",
+    "keywords": "SMT, TRANSCEIVER, IC, USB, INTERFACE",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "Microchip_QFN-32-1EP_5x5mm-microchip-technology-usb3340-ezk-tr"
 }

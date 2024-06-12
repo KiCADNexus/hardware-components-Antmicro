@@ -1,23 +1,13 @@
 {
-    "id": "wakefield-vette-960-31-18-s-ab-0",
     "reference": "H",
+    "symbol": "Heatsink_960-31-18-S-AB-0",
+    "footprint": "Heatsink_960-31-18-S-AB-0",
+    "datasheet": "https://media.digikey.com/pdf/Data%20Sheets/Wakefield%20Thermal%20PDFs/960_Series.pdf",
+    "manufacturer": "Wakefield-Vette",
     "mpn": "960-31-18-S-AB-0",
-    "category": "Hardware",
-    "type": "Mechanical part",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": false,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "960-31-18-s-ab-0",
-    "symbolId": "960-31-18-s-ab-0",
-    "footprintId": "960-31-18-s-ab-0",
-    "manufacturerId": "wakefield-vette",
-    "tagIds": [
-        "bga",
-        "horizontal",
-        "heatsink",
-        "mechanical"
-    ]
+    "description": "Heat Sink BGA Aluminum Top Mount",
+    "keywords": "HEATSINK",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "Heatsink_960-31-18-S-AB-0"
 }

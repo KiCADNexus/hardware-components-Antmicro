@@ -1,25 +1,13 @@
 {
-    "id": "on-semiconductor-ncp730bmt330tbg",
     "reference": "U",
+    "symbol": "NCP730BMT330_WSON",
+    "footprint": "WSON-6-1EP_2x2mm_P0.65mm",
+    "datasheet": "https://www.onsemi.com/download/data-sheet/pdf/ncp730-d.pdf",
+    "manufacturer": "ON Semiconductor",
     "mpn": "NCP730BMT330TBG",
-    "category": "IC",
-    "type": "LDO, FIXED, 3.3V, 0.15A, -40 TO 125DEG C",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": true,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "wson-6-1ep-2x2mm-p0-65mm",
-    "symbolId": "ncp730bmt330-wson",
-    "footprintId": "wson-6-1ep-2x2mm-p0-65mm",
-    "manufacturerId": "on-semiconductor",
-    "tagIds": [
-        "smt",
-        "pmic",
-        "ic",
-        "ldo",
-        "voltage",
-        "regulator"
-    ]
+    "description": "Linear Voltage Regulator IC Positive Fixed 1 Output 150mA 6-WDFN (2x2)",
+    "keywords": "SMT, PMIC, IC, LDO, VOLTAGE, REGULATOR",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "WSON-6-1EP_2x2mm_P0.65mm"
 }

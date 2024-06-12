@@ -1,23 +1,13 @@
 {
-    "id": "mentor-worldwide-1296-2013",
-    "reference": "M",
+    "reference": "H",
+    "symbol": "Lightpipe_Mentor_1296.2013",
+    "footprint": "Mech_Lightpipe_Mentor_1296.2013",
+    "datasheet": "https://docs.rs-online.com/e47b/0900766b813f6efb.pdf",
+    "manufacturer": "Mentor Worldwide",
     "mpn": "1296.2013",
-    "category": "Mechanical",
-    "type": "Light Pipe, Miniature Triple Line, 14.45 mm, 3 Pipes, Circular, PC Board, Transparent",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": false,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "mech-lightpipe-mentor-1296-2013",
-    "symbolId": "mech-lightpipe-mentor-1296-2013",
-    "footprintId": "mech-lightpipe-mentor-1296-2013",
-    "manufacturerId": "mentor-worldwide",
-    "tagIds": [
-        "horizontal",
-        "tht",
-        "mechanical",
-        "module"
-    ]
+    "description": "Light Pipe, Miniature Triple Line, 14.45 mm, 3 Pipes, Circular, PC Board, Transparent",
+    "keywords": "HORIZONTAL, THT, MECHANICAL, MODULE",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "Mech_Lightpipe_Mentor_1296.2013"
 }

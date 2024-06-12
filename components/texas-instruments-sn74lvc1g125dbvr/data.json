@@ -1,25 +1,13 @@
 {
-    "id": "texas-instruments-sn74lvc1g125dbvr",
     "reference": "U",
+    "symbol": "SN74LVC1G125_SOT",
+    "footprint": "SOT-753",
+    "datasheet": "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74lvc1g125",
+    "manufacturer": "Texas Instruments",
     "mpn": "SN74LVC1G125DBVR",
-    "category": "IC",
-    "type": "Buffer, 74LVC1G125, 1.65 V to 5.5 V, SOT-23-5",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": true,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "sot-753",
-    "symbolId": "sn74lvc1g125-sot",
-    "footprintId": "sot-753",
-    "manufacturerId": "texas-instruments",
-    "tagIds": [
-        "smt",
-        "logic",
-        "ic",
-        "buffer",
-        "transceiver",
-        "driver"
-    ]
+    "description": "Buffer, 74LVC1G125, 1.65 V to 5.5 V, SOT-23-5",
+    "keywords": "SMT, LOGIC, IC, BUFFER, TRANSCEIVER, DRIVER",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "SOT-753"
 }

@@ -1,20 +1,13 @@
 {
-    "id": "multicomp-pro-mc-hvt1-s02-g",
     "reference": "J",
+    "symbol": "PinHeader_1x2_P1.27mm_Drill0.7mm",
+    "footprint": "PinHeader_1x2_P1.27mm_Drill0.7mm",
+    "datasheet": "http://www.farnell.com/datasheets/2605295.pdf",
+    "manufacturer": "Multicomp Pro",
     "mpn": "MC-HVT1-S02-G",
-    "category": "Connector",
-    "type": "Rectangular connector (header, female pins)",
-    "datasheetUrl": "http://www.farnell.com/datasheets/2605295.pdf",
-    "assets": {
-        "blendfile": false,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "pinheader-1x2-p1-27mm-drill0-7mm",
-    "symbolId": "pinheader-1x2-p1-27mm-drill0-7mm",
-    "footprintId": "pinheader-1x2-p1-27mm-drill0-7mm",
-    "manufacturerId": "multicomp-pro",
-    "tagIds": [
-        "connector"
-    ]
+    "description": "Rectangular connector (header, female pins)",
+    "keywords": "CONNECTOR",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "PinHeader_1x2_P1.27mm_Drill0.7mm"
 }

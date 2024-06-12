@@ -1,23 +1,13 @@
 {
-    "id": "amphenol-10067847-001rlf",
     "reference": "J",
-    "mpn": "10067847-001RLF",
-    "category": "Connector",
-    "type": "Memory Card Connector, SD, Push-Push, 11 Contacts, Copper Alloy, Gold Plated Contacts",
-    "datasheetUrl": "https://cdn.amphenol-cs.com/media/wysiwyg/files/documentation/datasheet/boardwiretoboard/bwb_sdmemorycard.pdf",
-    "assets": {
-        "blendfile": false,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "sd-10067847-001rlf",
-    "symbolId": "sd-10067847-001rlf",
-    "footprintId": "sd-10067847-001rlf",
-    "manufacturerId": "amphenol",
-    "tagIds": [
-        "horizontal",
-        "smt",
-        "memory",
-        "connector"
-    ]
+    "symbol": "SD_10067847-001RLF",
+    "footprint": "SD_10067847-001RLF",
+    "datasheet": "https://cdn.amphenol-cs.com/media/wysiwyg/files/documentation/datasheet/boardwiretoboard/bwb_sdmemorycard.pdf",
+    "manufacturer": "Amphenol",
+    "mpn": "10067847-001RLF ",
+    "description": "Memory Card Connector, SD, Push-Push, 11 Contacts, Copper Alloy, Gold Plated Contacts",
+    "keywords": "HORIZONTAL, SMT, MEMORY, CONNECTOR",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "SD_10067847-001RLF"
 }

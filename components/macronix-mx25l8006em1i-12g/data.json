@@ -1,23 +1,13 @@
 {
-    "id": "macronix-mx25l8006em1i-12g",
     "reference": "U",
+    "symbol": "MX25L8006EM1I-12G",
+    "footprint": "SOIC-8_3.9x4.9x1.75mm_P1.27mm",
+    "datasheet": "https://www.macronix.com/Lists/Datasheet/Attachments/8680/MX25L8006E,%203V,%208Mb,%20v1.6.pdf",
+    "manufacturer": "Macronix",
     "mpn": "MX25L8006EM1I-12G",
-    "category": "IC",
-    "type": "Memory",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": false,
-        "symbol": true,
-        "footprint": false
-    },
-    "blendfileId": "soic-8-w3-9mm",
-    "symbolId": "mx25l8006em1i-12g",
-    "footprintId": "soic-8-w3-9mm",
-    "manufacturerId": "macronix",
-    "tagIds": [
-        "smt",
-        "memory",
-        "ic",
-        "flash"
-    ]
+    "description": "FLASH - NOR Memory IC 8Mbit SPI 86 MHz 8-SOP",
+    "keywords": "SMT, MEMORY, IC, FLASH",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "SOIC-8_3.9x4.9x1.75mm_P1.27mm"
 }

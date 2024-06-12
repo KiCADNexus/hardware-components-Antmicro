@@ -1,26 +1,13 @@
 {
-    "id": "texas-instruments-lmq62440bppqrjrrq1",
     "reference": "U",
+    "symbol": "LM62440-Q1",
+    "footprint": "VQFN-HR-14_3.5x4mm",
+    "datasheet": "https://www.ti.com/lit/ds/symlink/lmq62440-q1.pdf?ts=1636528724430",
+    "manufacturer": "Texas Instruments",
     "mpn": "LMQ62440BPPQRJRRQ1",
-    "category": "IC",
-    "type": "DC/DC converter",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": false,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "vqfn-14-hr",
-    "symbolId": "lm62440-q1",
-    "footprintId": "vqfn-14-hr",
-    "manufacturerId": "texas-instruments",
-    "tagIds": [
-        "smt",
-        "pmic",
-        "ic",
-        "switching",
-        "buck",
-        "voltage",
-        "regulator"
-    ]
+    "description": "DC/DC converter",
+    "keywords": "SMT, PMIC, IC, SWITCHING, BUCK, VOLTAGE, REGULATOR",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "VQFN-HR-14_3.5x4mm"
 }

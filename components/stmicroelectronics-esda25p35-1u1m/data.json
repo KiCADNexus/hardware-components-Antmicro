@@ -1,25 +1,13 @@
 {
-    "id": "stmicroelectronics-esda25p35-1u1m",
     "reference": "D",
+    "symbol": "ESDA25P35-1U1M",
+    "footprint": "QFN-2L_1.6x1x0.55mm",
+    "datasheet": "https://www.st.com/resource/en/datasheet/esda25p35-1u1m.pdf",
+    "manufacturer": "STMicroelectronics",
     "mpn": "ESDA25P35-1U1M",
-    "category": "Semiconductor",
-    "type": "TVS diode",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": false,
-        "symbol": true,
-        "footprint": false
-    },
-    "blendfileId": "0603-diode",
-    "symbolId": "esda25p35-1u1m",
-    "footprintId": "0603-diode",
-    "manufacturerId": "stmicroelectronics",
-    "tagIds": [
-        "0603",
-        "smt",
-        "diode",
-        "semiconductor",
-        "tvs",
-        "esd"
-    ]
+    "description": "Unidirectional TVS, 30 kV, QFN-2L, 22 V, 195 pF",
+    "keywords": "DIODE, SEMICONDUCTOR, TVS, ESD",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "QFN-2L_1.6x1x0.55mm"
 }

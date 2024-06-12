@@ -1,23 +1,13 @@
 {
-    "id": "murata-blm18ag601sn1d",
     "reference": "FB",
+    "symbol": "FB_600Z_0.5A_Murata-BLM18AG_0603",
+    "footprint": "FB_0603_1608Metric",
+    "datasheet": "https://www.murata.com/en-us/products/productdata/8796738650142/ENFA0003.pdf",
+    "manufacturer": "Murata",
     "mpn": "BLM18AG601SN1D",
-    "category": "Passive",
-    "type": "Ferrite Bead, 0603 [1608 Metric], 600 ohm, 500 mA, BLM18A, 0.38 ohm, \u00b1 25%",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": true,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "fb-0603-1608metric",
-    "symbolId": "fb-600z-0-5a-0603",
-    "footprintId": "fb-0603-1608metric",
-    "manufacturerId": "murata",
-    "tagIds": [
-        "0603",
-        "smt",
-        "ferrite-bead",
-        "passive"
-    ]
+    "description": "Ferrite Bead, 0603 [1608 Metric], 600 ohm, 500 mA, BLM18A, 0.38 ohm, \u00b1 25%, General use",
+    "keywords": "0603, SMT, FERRITE BEAD, PASSIVE",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "FB_0603_1608Metric"
 }

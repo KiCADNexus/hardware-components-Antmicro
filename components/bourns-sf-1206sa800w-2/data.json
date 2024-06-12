@@ -1,23 +1,13 @@
 {
-    "id": "bourns-sf-1206sa800w-2",
     "reference": "F",
+    "symbol": "F_8A_1206",
+    "footprint": "F_1206_3216Metric",
+    "datasheet": "https://4donline.ihs.com/images/VipMasterIC/IC/BOUR/BOUR-S-A0013672723/BOUR-S-A0013672895-1.pdf?hkey=6D3A4C79FDBF58556ACFDE234799DDF0",
+    "manufacturer": "Bourns",
     "mpn": "SF-1206SA800W-2",
-    "category": "Passive",
-    "type": "Fuse, Surface Mount, 8 A, Slow Blow, 32 VDC, 1206 (3216 Metric), SF-1206SA-W",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": false,
-        "symbol": false,
-        "footprint": true
-    },
-    "blendfileId": "f-1206-3216metric",
-    "symbolId": "sf-1206sa800w-2",
-    "footprintId": "f-1206-3216metric",
-    "manufacturerId": "bourns",
-    "tagIds": [
-        "1206",
-        "smt",
-        "fuse",
-        "passive"
-    ]
+    "description": "Fuse, Surface Mount, 8 A, Slow Blow, 32 VDC, 1206 (3216 Metric), SF-1206SA-W",
+    "keywords": "FUSE, PASSIVE",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "F_1206_3216Metric"
 }

@@ -1,24 +1,13 @@
 {
-    "id": "te-connectivity-9-146281-0",
-    "reference": "A",
+    "reference": "J",
+    "symbol": "arty_chipKIT_connector",
+    "footprint": "ARTY_A7_SHIELD",
+    "datasheet": "https://digilent.com/reference/programmable-logic/arty-a7/reference-manual",
+    "manufacturer": "TE Connectivity",
     "mpn": "9-146281-0",
-    "category": "Module",
-    "type": "9-146281-0",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": false,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "arty-a7-shield",
-    "symbolId": "arty-chipkit-connector",
-    "footprintId": "arty-a7-shield",
-    "manufacturerId": "te-connectivity",
-    "tagIds": [
-        "vertical",
-        "tht",
-        "header",
-        "connector",
-        "male"
-    ]
+    "description": "Connector Header Through Hole 40 position 0.100\" (2.54mm)",
+    "keywords": "VERTICAL, THT, HEADER, CONNECTOR, MALE",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "ARTY_A7_SHIELD"
 }

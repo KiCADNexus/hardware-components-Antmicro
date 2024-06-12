@@ -1,25 +1,13 @@
 {
-    "id": "nexperia-74lvc2g07gv-125",
     "reference": "U",
+    "symbol": "74LVC2G07_SOT457",
+    "footprint": "SC-74-6_1.5x2.9mm_P0.95mm",
+    "datasheet": "https://www.tme.eu/Document/2ad9356043a4952b9021ef50162f8c34/74LVC2G07.pdf",
+    "manufacturer": "Nexperia",
     "mpn": "74LVC2G07GV,125",
-    "category": "IC",
-    "type": "BUFFER, NON INVERTING, -40 TO 125DEG C",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": true,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "sc-74-6-1-5x2-9mm-p0-95mm",
-    "symbolId": "74lvc2g07-sot457-split",
-    "footprintId": "sc-74-6-1-5x2-9mm-p0-95mm",
-    "manufacturerId": "nexperia",
-    "tagIds": [
-        "smt",
-        "logic",
-        "ic",
-        "buffer",
-        "transceiver",
-        "driver"
-    ]
+    "description": "Buffer, Non-Inverting 2 Element 1 Bit per Element Open Drain Output 6-TSOP",
+    "keywords": "SMT, LOGIC, IC, BUFFER, TRANSCEIVER, DRIVER",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "SC-74-6_1.5x2.9mm_P0.95mm"
 }

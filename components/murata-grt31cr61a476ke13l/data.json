@@ -1,23 +1,13 @@
 {
-    "id": "murata-grt31cr61a476ke13l",
     "reference": "C",
+    "symbol": "C_47u_10V_1206",
+    "footprint": "C_1206_3216Metric",
+    "datasheet": "https://www.murata.com/products/productdetail?partno=GRT31CR61A476KE13%23",
+    "manufacturer": "Murata",
     "mpn": "GRT31CR61A476KE13L",
-    "category": "Passive",
-    "type": "SMT capacitor",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": true,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "c-1206-3216metric",
-    "symbolId": "c-47u-10v-1206",
-    "footprintId": "c-1206-3216metric",
-    "manufacturerId": "murata",
-    "tagIds": [
-        "1206",
-        "smt",
-        "capacitor",
-        "passive"
-    ]
+    "description": "SMD Multilayer Ceramic Capacitor, 47 \u00b5F, 10 V, 1206 [3216 Metric], \u00b1 10%, X5R, GRT",
+    "keywords": "1206, SMT, CAPACITOR, PASSIVE",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "C_1206_3216Metric"
 }

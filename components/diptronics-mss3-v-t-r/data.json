@@ -1,24 +1,13 @@
 {
-    "id": "diptronics-mss3-v-t-r",
     "reference": "SW",
+    "symbol": "MSS3-V-T_R",
+    "footprint": "Switch_Slide_MSS3",
+    "datasheet": "https://mouser.com/datasheet/2/910/605_MSS34-1571494.pdf",
+    "manufacturer": "Diptronics",
     "mpn": "MSS3-V-T/R",
-    "category": "Switch",
-    "type": "Slide switch",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": false,
-        "symbol": false,
-        "footprint": false
-    },
-    "blendfileId": "switch-slide-mss3",
-    "symbolId": "mss3-v-t-r",
-    "footprintId": "switch-slide-mss3",
-    "manufacturerId": "diptronics",
-    "tagIds": [
-        "horizontal",
-        "smt",
-        "switch",
-        "mechanical",
-        "slide"
-    ]
+    "description": "Slide switch",
+    "keywords": "HORIZONTAL, SMT, SWITCH, MECHANICAL, SLIDE",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "Switch_Slide_MSS3"
 }

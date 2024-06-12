@@ -1,25 +1,13 @@
 {
-    "id": "murata-grm188r60j226mea0d",
     "reference": "C",
+    "symbol": "C_22u_0603",
+    "footprint": "C_0603_1608Metric",
+    "datasheet": "https://www.murata.com/products/productdetail?partno=GRM188R60J226MEA0%23",
+    "manufacturer": "Murata",
     "mpn": "GRM188R60J226MEA0D",
-    "category": "Passive",
-    "type": "SMT capacitor",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": true,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "c-0603-1608metric",
-    "symbolId": "c-22u-0603",
-    "footprintId": "c-0603-1608metric",
-    "manufacturerId": "murata",
-    "tagIds": [
-        "0603",
-        "smt",
-        "capacitor",
-        "passive",
-        "ceramic",
-        "mlcc"
-    ]
+    "description": "SMD Multilayer Ceramic Capacitor, 22 \u00b5F, 6.3 V, 0603 [1608 Metric], \u00b1 20%, X5R, GRM Series",
+    "keywords": "0603, SMT, CAPACITOR, PASSIVE, CERAMIC, MLCC",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "C_0603_1608Metric"
 }

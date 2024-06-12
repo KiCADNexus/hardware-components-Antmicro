@@ -1,23 +1,13 @@
 {
-    "id": "fujitsu-mb85rc1mtpnf-g-jnere1",
     "reference": "U",
+    "symbol": "MB85RC1MTPNF-G",
+    "footprint": "SOP-8_3.9x5.05mm_P1.27mm",
+    "datasheet": "https://www.fujitsu.com/jp/group/fsm/en/documents/products/feram/lineup/MB85RC1MT-DS501-00027-5v0-E.pdf",
+    "manufacturer": "Fujitsu",
     "mpn": "MB85RC1MTPNF-G-JNERE1",
-    "category": "IC",
-    "type": "FRAM",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": true,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "soic-8-1ep-3-9x4-9x1-75mm-p1-27mm",
-    "symbolId": "mb85rc1mtpnf-g",
-    "footprintId": "soic-8-1ep-3-9x4-9x1-75mm-p1-27mm",
-    "manufacturerId": "fujitsu",
-    "tagIds": [
-        "smt",
-        "memory",
-        "ic",
-        "i2c"
-    ]
+    "description": "FRAM (Ferroelectric RAM) Memory IC 1Mbit I\u00b2C 3.4 MHz 130 ns 8-SOP",
+    "keywords": "SMT, MEMORY, IC, I2C",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "SOP-8_3.9x5.05mm_P1.27mm-fujitsu-mb85rc1mtpnf-g-jnere1"
 }

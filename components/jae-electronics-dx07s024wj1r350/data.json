@@ -1,20 +1,13 @@
 {
-    "id": "jae-electronics-dx07s024wj1r350",
     "reference": "J",
+    "symbol": "USB-C_JAE_DX07S024WJ1R350_Vertical",
+    "footprint": "USB-C_Plug_JAE_DX07S024WJ1R350_Vertical",
+    "datasheet": "https://www.mouser.com/datasheet/2/206/JAE_12282016_DX07S024WJ1R350-1170821.pdf",
+    "manufacturer": "JAE Electronics",
     "mpn": "DX07S024WJ1R350",
-    "category": "Connector",
-    "type": "USB connector",
-    "datasheetUrl": "https://www.mouser.pl/datasheet/2/206/JAE_12282016_DX07S024WJ1R350-1170821.pdf",
-    "assets": {
-        "blendfile": false,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "usb-c-receptacle-vert-dx07s024wj1r350",
-    "symbolId": "usb-c-receptacle-vert-dx07s024wj1r350",
-    "footprintId": "usb-c-receptacle-vert-dx07s024wj1r350",
-    "manufacturerId": "jae-electronics",
-    "tagIds": [
-        "connector"
-    ]
+    "description": "USB-C (USB TYPE-C) USB 3.2 Gen 2 (USB 3.1 Gen 2, Superspeed + (USB 3.1)) Plug Connector 24 Position Surface Mount",
+    "keywords": "USB, CONNECTOR, SMT, VERTICAL",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "USB-C_Plug_JAE_DX07S024WJ1R350_Vertical"
 }

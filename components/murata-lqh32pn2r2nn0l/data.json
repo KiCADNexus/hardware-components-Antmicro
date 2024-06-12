@@ -1,23 +1,13 @@
 {
-    "id": "murata-lqh32pn2r2nn0l",
     "reference": "L",
+    "symbol": "L_2u2_1.6A_1210",
+    "footprint": "L_1210_3225Metric",
+    "datasheet": "https://search.murata.co.jp/Ceramy/image/img/P02/JELF243A-0061.pdf",
+    "manufacturer": "Murata",
     "mpn": "LQH32PN2R2NN0L",
-    "category": "Passive",
-    "type": "Wirewound Inductor, 2.2 \u00b5H, 0.076 ohm, 70 MHz, 1.55 A, 1210 [3225 Metric], LQH32PN",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": false,
-        "symbol": false,
-        "footprint": false
-    },
-    "blendfileId": "lqh32pn2r2nn0l",
-    "symbolId": "lqh32pn2r2nn0l",
-    "footprintId": "lqh32pn2r2nn0l",
-    "manufacturerId": "murata",
-    "tagIds": [
-        "1210",
-        "smt",
-        "inductor",
-        "passive"
-    ]
+    "description": "Wirewound Inductor, 2.2 \u00b5H, 0.076 ohm, 70 MHz, 1.55 A, 1210 [3225 Metric], LQH32PN",
+    "keywords": "SMT, INDUCTOR, PASSIVE",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "L_1210_3225Metric"
 }

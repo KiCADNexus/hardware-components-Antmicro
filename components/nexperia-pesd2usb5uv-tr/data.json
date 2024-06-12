@@ -1,24 +1,13 @@
 {
-    "id": "nexperia-pesd2usb5uv-tr",
     "reference": "D",
+    "symbol": "PESD2USB5UV-TR",
+    "footprint": "SOT-23-3",
+    "datasheet": "https://assets.nexperia.com/documents/data-sheet/PESD2USB5UV-T.pdf",
+    "manufacturer": "Nexperia",
     "mpn": "PESD2USB5UV-TR",
-    "category": "Semiconductor",
-    "type": "TVS diode",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": true,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "sot-23-3",
-    "symbolId": "pesd2usb5uv-tr",
-    "footprintId": "sot-23-3",
-    "manufacturerId": "nexperia",
-    "tagIds": [
-        "smt",
-        "diode",
-        "semiconductor",
-        "tvs",
-        "esd"
-    ]
+    "description": "TVS diode array, 22 kV, SOT-23, 5 V, 0.76 pF",
+    "keywords": "SMT, DIODE, SEMICONDUCTOR, TVS, ESD",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "SOT-23-3"
 }

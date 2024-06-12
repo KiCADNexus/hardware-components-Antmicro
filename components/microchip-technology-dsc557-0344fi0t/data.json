@@ -1,23 +1,13 @@
 {
-    "id": "microchip-technology-dsc557-0344fi0t",
     "reference": "U",
+    "symbol": "DSC557-0344FI0T",
+    "footprint": "VQFN-14-1EP_3.2x2.5mm_P0.5mm_Layout4x3",
+    "datasheet": "https://www.mouser.com/datasheet/2/268/DSC557_03_Two_Output_PCIe_Gen1_2_3_4_Clock_Generat-1917017.pdf",
+    "manufacturer": "Microchip Technology",
     "mpn": "DSC557-0344FI0T",
-    "category": "IC",
-    "type": "Real Time Clock",
-    "datasheetUrl": "https://www.mouser.pl/datasheet/2/268/DSC557_03_Two_Output_PCIe_Gen1_2_3_4_Clock_Generat-1917017.pdf",
-    "assets": {
-        "blendfile": false,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "vqfn-14-1ep-3-2x2-5mm-p0-5mm-layout4x3",
-    "symbolId": "dsc557-0344fi0t",
-    "footprintId": "vqfn-14-1ep-3-2x2-5mm-p0-5mm-layout4x3",
-    "manufacturerId": "microchip-technology",
-    "tagIds": [
-        "smt",
-        "ic",
-        "clock",
-        "pcie"
-    ]
+    "description": "Real Time Clock",
+    "keywords": "SMT, IC, CLOCK, PCIE",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "VQFN-14-1EP_3.2x2.5mm_P0.5mm_Layout4x3"
 }

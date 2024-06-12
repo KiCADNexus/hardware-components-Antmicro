@@ -1,22 +1,13 @@
 {
-    "id": "mcube-mc3635",
     "reference": "U",
+    "symbol": "MC3635",
+    "footprint": "LGA-10_1.6x1.6mm",
+    "datasheet": "https://eu.mouser.com/datasheet/2/821/MEMSIC_MC3635_Datasheet-1878925.pdf",
+    "manufacturer": "mCube",
     "mpn": "MC3635",
-    "category": "IC",
-    "type": "AXIAL FAN, 17MM, 5VDC, 0.7CFM, 16DBA",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": false,
-        "symbol": false,
-        "footprint": false
-    },
-    "blendfileId": "mc3635",
-    "symbolId": "mc3635",
-    "footprintId": "mc3635",
-    "manufacturerId": "mcube",
-    "tagIds": [
-        "smt",
-        "sensor",
-        "ic"
-    ]
+    "description": "AXIAL FAN, 17MM, 5VDC, 0.7CFM, 16DBA",
+    "keywords": "SMT, SENSOR, IC",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "LGA-10_1.6x1.6mm"
 }

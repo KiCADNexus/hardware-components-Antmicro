@@ -1,23 +1,13 @@
 {
-    "id": "schurter-3413-0329-22",
     "reference": "F",
+    "symbol": "F_12A_1206",
+    "footprint": "F_1206_3216Metric",
+    "datasheet": "https://us.schurter.com/pdf/english/typ_UST_1206.pdf",
+    "manufacturer": "Schurter",
     "mpn": "3413.0329.22",
-    "category": "Passive",
-    "type": "Fuse, Surface Mount, 12 A, Slow Blow, 32 VAC, 63 VDC, 1206, UST 1206",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": true,
-        "symbol": false,
-        "footprint": true
-    },
-    "blendfileId": "f-1206-3216metric",
-    "symbolId": "3413-0329-22",
-    "footprintId": "f-1206-3216metric",
-    "manufacturerId": "schurter",
-    "tagIds": [
-        "1206",
-        "smt",
-        "fuse",
-        "passive"
-    ]
+    "description": "Fuse, Surface Mount, 12 A, Slow Blow, 32 VAC, 63 VDC, 1206, UST 1206",
+    "keywords": "FUSE, PASSIVE",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "F_1206_3216Metric"
 }

@@ -1,26 +1,13 @@
 {
-    "id": "analog-devices-ltc4358cde-pbf",
     "reference": "U",
+    "symbol": "LTC4358CDE",
+    "footprint": "DFN-14-1EP_4x3mm_P0.5mm",
+    "datasheet": "https://www.mouser.com/datasheet/2/609/4358fa-1270155.pdf",
+    "manufacturer": "Analog Devices",
     "mpn": "LTC4358CDE#PBF",
-    "category": "IC",
-    "type": "Ideal diode",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": false,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "dfn-14-1ep-4x3mm-p0-5mm",
-    "symbolId": "ltc4358cde",
-    "footprintId": "dfn-14-1ep-4x3mm-p0-5mm",
-    "manufacturerId": "analog-devices",
-    "tagIds": [
-        "smt",
-        "pmic",
-        "ic",
-        "power",
-        "management",
-        "diode",
-        "controller"
-    ]
+    "description": "Ideal diode",
+    "keywords": "SMT, PMIC, IC, POWER, MANAGEMENT, DIODE, CONTROLLER",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "DFN-14-1EP_4x3mm_P0.5mm"
 }

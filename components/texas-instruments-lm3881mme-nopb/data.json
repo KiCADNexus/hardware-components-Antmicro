@@ -1,24 +1,13 @@
 {
-    "id": "texas-instruments-lm3881mme-nopb",
     "reference": "U",
+    "symbol": "LM3881",
+    "footprint": "VSSOP-8_3x3mm_P0.65mm",
+    "datasheet": "http://www.ti.com/lit/ds/symlink/lm3881.pdf",
+    "manufacturer": "Texas Instruments",
     "mpn": "LM3881MME/NOPB",
-    "category": "IC",
-    "type": "Power Sequencer, 3-Monitors, 2.7V-5.5Vin,VSSOP-8",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": true,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "vssop-8-3x3mm-p0-65mm",
-    "symbolId": "lm3881mme-nopb",
-    "footprintId": "vssop-8-3x3mm-p0-65mm",
-    "manufacturerId": "texas-instruments",
-    "tagIds": [
-        "smt",
-        "pmic",
-        "ic",
-        "power",
-        "sequencer"
-    ]
+    "description": "Power Sequencer, 3-Monitors, 2.7V-5.5Vin,VSSOP-8",
+    "keywords": "SMT, PMIC, IC, POWER, SEQUENCER",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "VSSOP-8_3x3mm_P0.65mm"
 }

@@ -1,23 +1,13 @@
 {
-    "id": "samsung-electro-mechanics-cl21a226maynnne",
     "reference": "C",
+    "symbol": "C_22u_25V_0805",
+    "footprint": "C_0805_2012Metric",
+    "datasheet": "https://product.samsungsem.com/mlcc/CL21A226MAYNNN.do",
+    "manufacturer": "Samsung Electro-Mechanics",
     "mpn": "CL21A226MAYNNNE",
-    "category": "Passive",
-    "type": "Capacitor",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": true,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "c-0805-2012metric",
-    "symbolId": "c-22u-25v-0805",
-    "footprintId": "c-0805-2012metric",
-    "manufacturerId": "samsung-electro-mechanics",
-    "tagIds": [
-        "0805",
-        "smt",
-        "capacitor",
-        "passive"
-    ]
+    "description": "SMT Multilayer Ceramic Capacitor, 22uF, +/-20%, 25V, X5R, 0805 [2012 Metric]",
+    "keywords": "0805, SMT, CAPACITOR, PASSIVE",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "C_0805_2012Metric"
 }

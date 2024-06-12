@@ -1,25 +1,13 @@
 {
-    "id": "yageo-cc402krx7r7bb683",
     "reference": "C",
+    "symbol": "C_68n_0402",
+    "footprint": "C_0402_1005Metric",
+    "datasheet": "https://www.yageo.com/en/Chart/Download/pdf/CC402KRX7R7BB683",
+    "manufacturer": "YAGEO",
     "mpn": "CC402KRX7R7BB683",
-    "category": "Passive",
-    "type": "SMT capacitor",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": true,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "c-0402-1005metric",
-    "symbolId": "c-68n-0402",
-    "footprintId": "c-0402-1005metric",
-    "manufacturerId": "yageo",
-    "tagIds": [
-        "0402",
-        "smt",
-        "capacitor",
-        "passive",
-        "mlcc",
-        "ceramic"
-    ]
+    "description": "SMD Multilayer Ceramic Capacitor",
+    "keywords": "0402, SMT, CAPACITOR, PASSIVE, MLCC, CERAMIC",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "C_0402_1005Metric"
 }

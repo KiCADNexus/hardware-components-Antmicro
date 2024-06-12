@@ -1,23 +1,13 @@
 {
-    "id": "analog-devices-adv7282wbcpz-m",
     "reference": "U",
+    "symbol": "ADV7282-M",
+    "footprint": "LFCSP-32-1EP-5x5mm",
+    "datasheet": "https://eu.mouser.com/datasheet/2/609/ADV7282-2955931.pdf",
+    "manufacturer": "Analog Devices",
     "mpn": "ADV7282WBCPZ-M",
-    "category": "IC",
-    "type": "Video decoder",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": true,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "lfcsp-32-1ep-5x5mm",
-    "symbolId": "adv7282-m",
-    "footprintId": "lfcsp-32-1ep-5x5mm",
-    "manufacturerId": "analog-devices",
-    "tagIds": [
-        "smt",
-        "video",
-        "ic",
-        "decoder"
-    ]
+    "description": "Video decoder",
+    "keywords": "SMT, VIDEO, IC, DECODER",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "LFCSP-32-1EP-5x5mm-analog-devices-adv7282wbcpz-m"
 }

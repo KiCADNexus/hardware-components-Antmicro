@@ -1,24 +1,13 @@
 {
-    "id": "omron-b3u-1000p",
     "reference": "SW",
+    "symbol": "SW_B3U-1000P_SMD",
+    "footprint": "SW_B3U-1000P_SMD",
+    "datasheet": "https://omronfs.omron.com/en_US/ecb/products/pdf/en-b3u.pdf",
+    "manufacturer": "Omron",
     "mpn": "B3U-1000P",
-    "category": "Switch",
-    "type": "Tactile switch",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": true,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "sw-b3u-3000p",
-    "symbolId": "sw-b3u-1000p",
-    "footprintId": "sw-b3u-3000p",
-    "manufacturerId": "omron",
-    "tagIds": [
-        "vertical",
-        "smt",
-        "switch",
-        "mechanical",
-        "tactile"
-    ]
+    "description": "Tactile Switch, B3U, Top Actuated, Surface Mount, Round Button, 153 gf, 50mA at 12VDC",
+    "keywords": "VERTICAL, SMT, SWITCH, MECHANICAL, TACTILE",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "SW_B3U-1000P_SMD"
 }

@@ -1,23 +1,13 @@
 {
-    "id": "murata-grm21br72a474ka73l",
     "reference": "C",
+    "symbol": "C_470n_0805_100V",
+    "footprint": "C_0805_2012Metric",
+    "datasheet": "https://www.murata.com/products/productdetail?partno=GRM21BR72A474KA73%23",
+    "manufacturer": "Murata",
     "mpn": "GRM21BR72A474KA73L",
-    "category": "Passive",
-    "type": "SMT capacitor",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": true,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "c-0805-2012metric",
-    "symbolId": "c-470n-0805-100v",
-    "footprintId": "c-0805-2012metric",
-    "manufacturerId": "murata",
-    "tagIds": [
-        "0805",
-        "smt",
-        "capacitor",
-        "passive"
-    ]
+    "description": "SMD Multilayer Ceramic Capacitor, 0.47 \u00b5F, 100 V, 0805 [2012 Metric], \u00b1 10%, X7R, GRM Series",
+    "keywords": "0805, SMT, CAPACITOR, PASSIVE",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "C_0805_2012Metric"
 }

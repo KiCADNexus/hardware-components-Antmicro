@@ -1,20 +1,13 @@
 {
-    "id": "dialight-598-8d80-107f",
     "reference": "D",
+    "symbol": "LED_G_0603_598-8D80-107F",
+    "footprint": "LED_0603_1608Metric_G",
+    "datasheet": "https://www.dialight.com/wp-content/uploads/2021/07/DIA_Selector_Guide_SMD_042321.pdf",
+    "manufacturer": "Dialight",
     "mpn": "598-8D80-107F",
-    "category": "Semiconductor",
-    "type": "LED indicator",
-    "datasheetUrl": "https://www.farnell.com/datasheets/3093797.pdf",
-    "assets": {
-        "blendfile": true,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "led-0603-1608metric-r",
-    "symbolId": "led-r-0603-598-8d80-107f",
-    "footprintId": "led-0603-1608metric-r",
-    "manufacturerId": "dialight",
-    "tagIds": [
-        "semiconductor"
-    ]
+    "description": "LED, Green, SMD, 0603, 20 mA, 2.8 V, 525 nm",
+    "keywords": "SMT, DIODE, SEMICONDUCTOR, LED",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "LED_0603_1608Metric_G"
 }

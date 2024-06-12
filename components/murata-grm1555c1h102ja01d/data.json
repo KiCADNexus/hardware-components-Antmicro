@@ -1,25 +1,13 @@
 {
-    "id": "murata-grm1555c1h102ja01d",
     "reference": "C",
+    "symbol": "C_1n_0402",
+    "footprint": "C_0402_1005Metric",
+    "datasheet": "https://www.murata.com/products/productdetail?partno=GRM1555C1H102JA01%23",
+    "manufacturer": "Murata",
     "mpn": "GRM1555C1H102JA01D",
-    "category": "Passive",
-    "type": "SMT capacitor",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": true,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "c-0402-1005metric",
-    "symbolId": "c-1n-0402",
-    "footprintId": "c-0402-1005metric",
-    "manufacturerId": "murata",
-    "tagIds": [
-        "0402",
-        "smt",
-        "capacitor",
-        "passive",
-        "ceramic",
-        "mlcc"
-    ]
+    "description": "SMD Multilayer Ceramic Capacitor, 1000 pF, 50 V, 0402 [1005 Metric], \u00b1 5%, C0G / NP0, GRM Series",
+    "keywords": "0402, SMT, CAPACITOR, PASSIVE, CERAMIC, MLCC",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "C_0402_1005Metric"
 }

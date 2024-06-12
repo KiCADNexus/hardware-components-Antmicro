@@ -1,24 +1,13 @@
 {
-    "id": "kemet-t491d106k050at",
     "reference": "C",
+    "symbol": "C_Pol_10u_50V_KEMET-T491-D",
+    "footprint": "C_Pol_EIA-D",
+    "datasheet": "https://www.kemet.com/en/us/capacitors/product/T491D106K050AT.html",
+    "manufacturer": "KEMET",
     "mpn": "T491D106K050AT",
-    "category": "Passive",
-    "type": "Surface Mount Tantalum Capacitor, 10 \u00b5F, 50 V, 2917 [7343 Metric], \u00b1 10%, 0.8 ohm, D",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": true,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "kemet-d",
-    "symbolId": "c-10u-kemet-d",
-    "footprintId": "kemet-d",
-    "manufacturerId": "kemet",
-    "tagIds": [
-        "smt",
-        "capacitor",
-        "passive",
-        "polarized",
-        "tantalum"
-    ]
+    "description": "Surface Mount Tantalum Capacitor, 10 \u00b5F, 50 V, 2917 [7343 Metric], \u00b1 10%, 0.8 ohm, D",
+    "keywords": "SMT, CAPACITOR, PASSIVE, POLARIZED, TANTALUM",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "C_Pol_EIA-D"
 }

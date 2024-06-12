@@ -1,23 +1,13 @@
 {
-    "id": "te-connectivity-2199230-6",
-    "reference": "A",
-    "mpn": "2199230-6",
-    "category": "Module",
-    "type": "PCI connector",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": false,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "bus-m-2-socket-key-e-te-2199230-4",
-    "symbolId": "bus-m-2-2199230-6",
-    "footprintId": "bus-m-2-socket-key-e-te-2199230-4",
-    "manufacturerId": "te-connectivity",
-    "tagIds": [
-        "horizontal",
-        "smt",
-        "pcie",
-        "connector"
-    ]
+    "reference": "J",
+    "symbol": "Bus_M.2_2199230-6",
+    "footprint": "Bus_M.2_Socket_Key_E_TE_2199230-6",
+    "datasheet": "https://www.te.com/usa-en/product-2199230-6.datasheet.pdf",
+    "manufacturer": "TE Connectivity",
+    "mpn": "2199230-6 ",
+    "description": "Key E, PCI connector",
+    "keywords": "HORIZONTAL, SMT, PCIE, CONNECTOR",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "Bus_M.2_Socket_Key_E_TE_2199230-6"
 }

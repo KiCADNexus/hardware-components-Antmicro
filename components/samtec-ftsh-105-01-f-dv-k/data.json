@@ -1,20 +1,13 @@
 {
-    "id": "samtec-ftsh-105-01-f-dv-k",
     "reference": "J",
+    "symbol": "PinHeader_2x5_P1.27mm_SMD_Latch",
+    "footprint": "PinHeader_2x5_P1.27mm_SMD_Latch",
+    "datasheet": "http://suddendocs.samtec.com/prints/ftsh-1xx-xx-xxx-dv-xxx-xxx-mkt.pdf",
+    "manufacturer": "Samtec",
     "mpn": "FTSH-105-01-F-DV-K",
-    "category": "Connector",
-    "type": "Pin Header, Board-to-Board, Wire-to-Board, 1.27 mm, 2 Rows, 10 Contacts, Surface Mount, FTSH",
-    "datasheetUrl": "http://suddendocs.samtec.com/prints/ftsh-1xx-xx-xxx-dv-xxx-xxx-mkt.pdf",
-    "assets": {
-        "blendfile": false,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "pinheader-2x5-p1-27mm-smd",
-    "symbolId": "pinheader-2x5-p1-27mm-smd",
-    "footprintId": "pinheader-2x5-p1-27mm-smd",
-    "manufacturerId": "samtec",
-    "tagIds": [
-        "header"
-    ]
+    "description": "Rectangular connector (header, male pins)",
+    "keywords": "CONNECTOR, HEADER",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "PinHeader_2x5_P1.27mm_SMD_Latch"
 }

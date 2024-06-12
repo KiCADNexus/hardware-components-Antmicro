@@ -1,24 +1,13 @@
 {
-    "id": "diodes-incorporated-ap7330-w5-7",
     "reference": "U",
+    "symbol": "AP7330-W5-7",
+    "footprint": "SOT-23-5",
+    "datasheet": "https://www.diodes.com/assets/Datasheets/AP7330.pdf",
+    "manufacturer": "Diodes Incorporated",
     "mpn": "AP7330-W5-7",
-    "category": "IC",
-    "type": "Voltage regulator",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": true,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "sot-23-5",
-    "symbolId": "ap7330-w5-7",
-    "footprintId": "sot-23-5",
-    "manufacturerId": "diodes-incorporated",
-    "tagIds": [
-        "smt",
-        "pmic",
-        "ic",
-        "voltage",
-        "ldo"
-    ]
+    "description": "Voltage regulator",
+    "keywords": "SMT, PMIC, IC, VOLTAGE, LDO",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "SOT-23-5"
 }

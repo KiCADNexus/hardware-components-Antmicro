@@ -1,23 +1,13 @@
 {
-    "id": "on-semiconductor-pca9517admr2g",
     "reference": "U",
+    "symbol": "PCA9517A_TSSOP",
+    "footprint": "TSSOP-8_3x3mm_P0.65mm",
+    "datasheet": "https://www.mouser.com/datasheet/2/308/1/ONSM_S_A0009688870_1-2560458.pdf",
+    "manufacturer": "ON Semiconductor",
     "mpn": "PCA9517ADMR2G",
-    "category": "IC",
-    "type": "LVL TRANSLATING I2C BUS REPEATER, MSOP-8",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": true,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "tssop-8-3x3mm-p0-65mm",
-    "symbolId": "pca9517a-tssop",
-    "footprintId": "tssop-8-3x3mm-p0-65mm",
-    "manufacturerId": "on-semiconductor",
-    "tagIds": [
-        "smt",
-        "logic",
-        "ic",
-        "level-shifter"
-    ]
+    "description": "Buffer, ReDriver 2 Channel 8-MSOP",
+    "keywords": "SMT, LOGIC, IC, LEVEL-SHIFTER",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "TSSOP-8_3x3mm_P0.65mm"
 }

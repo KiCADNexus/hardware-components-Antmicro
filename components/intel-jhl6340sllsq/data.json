@@ -1,20 +1,13 @@
 {
-    "id": "intel-jhl6340sllsq",
     "reference": "U",
+    "symbol": "JHL6340SLLSQ",
+    "footprint": "JHL6340SLLSQ",
+    "datasheet": "https://www.thunderbolttechnology.net/sites/default/files/18-241_ThunderboltController_Brief_HI.pdf",
+    "manufacturer": "Intel",
     "mpn": "JHL6340SLLSQ",
-    "category": "IC",
-    "type": "Interface controller",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": false,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "jhl6340sllsq",
-    "symbolId": "jhl6340sllsq",
-    "footprintId": "jhl6340sllsq",
-    "manufacturerId": "intel",
-    "tagIds": [
-        "ic"
-    ]
+    "description": "Thunderbolt\u2122 3 Controller, I/O",
+    "keywords": "IC",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "JHL6340SLLSQ"
 }

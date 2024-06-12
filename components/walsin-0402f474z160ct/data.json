@@ -1,24 +1,13 @@
 {
-    "id": "walsin-0402f474z160ct",
     "reference": "C",
+    "symbol": "C_470n_16V_0402",
+    "footprint": "C_0402_1005Metric",
+    "datasheet": "https://www.passivecomponent.com/wp-content/uploads/datasheet/WTC_MLCC_General_Purpose.pdf",
+    "manufacturer": "Walsin",
     "mpn": "0402F474Z160CT",
-    "category": "Passive",
-    "type": "SMT capacitor",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": true,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "c-0402-1005metric",
-    "symbolId": "c-470n-16v-0402",
-    "footprintId": "c-0402-1005metric",
-    "manufacturerId": "walsin",
-    "tagIds": [
-        "0402",
-        "smt",
-        "capacitor",
-        "passive",
-        "mlcc"
-    ]
+    "description": "SMD Multilayer Ceramic Capacitor, General Purpose, 0.47 \u00b5F, 16 V, 0402 [1005 Metric], -20%, +80%",
+    "keywords": "0402, SMT, CAPACITOR, PASSIVE, MLCC",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "C_0402_1005Metric"
 }

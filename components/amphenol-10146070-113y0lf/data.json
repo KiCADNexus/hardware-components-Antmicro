@@ -1,20 +1,13 @@
 {
-    "id": "amphenol-10146070-113y0lf",
     "reference": "J",
+    "symbol": "PCIe_x16_10146070-113Y0LF-vertical",
+    "footprint": "AMPHENOL_10146070-113Y0LF",
+    "datasheet": "https://www.farnell.com/datasheets/3212936.pdf",
+    "manufacturer": "Amphenol",
     "mpn": "10146070-113Y0LF",
-    "category": "Connector",
-    "type": "PCI connector",
-    "datasheetUrl": "https://www.farnell.com/datasheets/3212936.pdf",
-    "assets": {
-        "blendfile": false,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "amphenol-10146070-113y0lf",
-    "symbolId": "pcie-x16-10146070-113y0lf-vertical",
-    "footprintId": "amphenol-10146070-113y0lf",
-    "manufacturerId": "amphenol",
-    "tagIds": [
-        "connector"
-    ]
+    "description": "164 Position Female Connector PCI Express\u2122 Gold 0.039\" (1.00mm) Black",
+    "keywords": "CONNECTOR",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "AMPHENOL_10146070-113Y0LF"
 }

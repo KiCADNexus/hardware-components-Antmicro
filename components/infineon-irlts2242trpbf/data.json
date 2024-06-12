@@ -1,24 +1,13 @@
 {
-    "id": "infineon-irlts2242trpbf",
     "reference": "Q",
+    "symbol": "IRLTS2242TRPBF",
+    "footprint": "SOT-23-6",
+    "datasheet": "https://www.mouser.com/datasheet/2/196/Infineon_IRLTS2242_DataSheet_v01_01_EN-3166667.pdf",
+    "manufacturer": "Infineon",
     "mpn": "IRLTS2242TRPBF",
-    "category": "Semiconductor",
-    "type": null,
-    "datasheetUrl": "https://www.mouser.pl/datasheet/2/196/Infineon_IRLTS2242_DataSheet_v01_01_EN-3166667.pdf",
-    "assets": {
-        "blendfile": true,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "sot-23-6",
-    "symbolId": "irlts2242trpbf",
-    "footprintId": "sot-23-6",
-    "manufacturerId": "infineon",
-    "tagIds": [
-        "smt",
-        "transistor",
-        "semiconductor",
-        "mosfet",
-        "pmos"
-    ]
+    "description": "P-Channel 20 V 6.9A (Ta) 2W (Ta) Surface Mount 6-TSOP",
+    "keywords": "SMT, TRANSISTOR, SEMICONDUCTOR, MOSFET, PMOS",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "SOT-23-6"
 }

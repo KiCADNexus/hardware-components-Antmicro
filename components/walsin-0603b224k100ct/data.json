@@ -1,24 +1,13 @@
 {
-    "id": "walsin-0603b224k100ct",
     "reference": "C",
+    "symbol": "C_220n_0603",
+    "footprint": "C_0603_1608Metric",
+    "datasheet": "https://www.passivecomponent.com/wp-content/uploads/datasheet/WTC_MLCC_General_Purpose.pdf",
+    "manufacturer": "Walsin",
     "mpn": "0603B224K100CT",
-    "category": "Passive",
-    "type": "SMT capacitor",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": true,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "c-0603-1608metric",
-    "symbolId": "c-220n-0603",
-    "footprintId": "c-0603-1608metric",
-    "manufacturerId": "walsin",
-    "tagIds": [
-        "0603",
-        "smt",
-        "capacitor",
-        "passive",
-        "mlcc"
-    ]
+    "description": "SMD Multilayer Ceramic Capacitor, 0.22 \u00b5F, 10 V, 0603 [1608 Metric], \u00b1 10%, X7R",
+    "keywords": "0603, SMT, CAPACITOR, PASSIVE, MLCC",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "C_0603_1608Metric"
 }

@@ -1,25 +1,13 @@
 {
-    "id": "ftdi-chip-ft230xq-r",
     "reference": "U",
+    "symbol": "FT230X_QFN",
+    "footprint": "QFN-16-1EP_4x4mm_P0.65mm",
+    "datasheet": "https://ftdichip.com/wp-content/uploads/2021/10/DS_FT230X.pdf",
+    "manufacturer": "FTDI Chip",
     "mpn": "FT230XQ-R",
-    "category": "IC",
-    "type": "USB Interface, USB-UART Converter, USB 2.0, 2.97 V, 5.5 V, QFN, 16 Pins",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": true,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "qfn-16-1ep-4x4mm-p0-65mm",
-    "symbolId": "ft230x-qfn",
-    "footprintId": "qfn-16-1ep-4x4mm-p0-65mm",
-    "manufacturerId": "ftdi-chip",
-    "tagIds": [
-        "smt",
-        "interface",
-        "ic",
-        "controller",
-        "usb",
-        "uart"
-    ]
+    "description": "USB Interface, USB-UART Converter, USB 2.0, 2.97 V, 5.5 V, QFN, 16 Pins",
+    "keywords": "SMT, INTERFACE, IC, CONTROLLER, USB, UART",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "QFN-16-1EP_4x4mm_P0.65mm"
 }

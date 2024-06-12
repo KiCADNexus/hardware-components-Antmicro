@@ -1,20 +1,13 @@
 {
-    "id": "semtech-gs2988-ine3",
     "reference": "U",
+    "symbol": "GS2988",
+    "footprint": "QFN-16-1EP_4x4mm_P0.65mm",
+    "datasheet": "https://semtech.my.salesforce.com/sfc/p/#E0000000JelG/a/44000000MDIY/URmNPYk6YrvngFjCh2n.ZRVsjLb90QOH1YLezdH9vhM",
+    "manufacturer": "Semtech",
     "mpn": "GS2988-INE3",
-    "category": "IC",
-    "type": "SDI driver",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": true,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "qfn-16-1ep-4x4mm-p0-65mm",
-    "symbolId": "gs2988",
-    "footprintId": "qfn-16-1ep-4x4mm-p0-65mm",
-    "manufacturerId": "semtech",
-    "tagIds": [
-        "ic"
-    ]
+    "description": "SDI driver",
+    "keywords": "IC",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "QFN-16-1EP_4x4mm_P0.65mm"
 }

@@ -1,25 +1,13 @@
 {
-    "id": "texas-instruments-ref3012aidbzt",
     "reference": "U",
+    "symbol": "REF3012AIDBZT",
+    "footprint": "SOT-23-3",
+    "datasheet": "https://www.ti.com/lit/gpn/REF3012",
+    "manufacturer": "Texas Instruments",
     "mpn": "REF3012AIDBZT",
-    "category": "IC",
-    "type": "Voltage Reference, Low Power, Low Dropout, Series",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": true,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "sot-23-3",
-    "symbolId": "ref3012aidbzt",
-    "footprintId": "sot-23-3",
-    "manufacturerId": "texas-instruments",
-    "tagIds": [
-        "smt",
-        "pmic",
-        "ic",
-        "power",
-        "switch",
-        "driver"
-    ]
+    "description": "Voltage Reference, Low Power, Low Dropout, Series",
+    "keywords": "SMT, PMIC, IC, POWER, SWITCH, DRIVER",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "SOT-23-3"
 }

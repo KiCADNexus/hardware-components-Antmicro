@@ -1,24 +1,13 @@
 {
-    "id": "texas-instruments-sn74avc2t245rswr",
     "reference": "U",
+    "symbol": "SN74AVC2T245_UQFN",
+    "footprint": "UQFN-10_1.4x1.8x0.5mm_P0.4mm",
+    "datasheet": "https://www.ti.com/lit/ds/symlink/sn74avc2t245.pdf?ts=1678888074783&ref_url=https%253A%252F%252Fwww.google.com%252F",
+    "manufacturer": "Texas Instruments",
     "mpn": "SN74AVC2T245RSWR",
-    "category": "IC",
-    "type": "Transceiver Non Inverting, AVC Family, 2 Input, 12 mA, 2.4 ns, 1.2 V to 3.6 V, LFCSP-10",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": false,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "uqfn-10-1-4x1-8x0-5mm-p0-4mm",
-    "symbolId": "sn74avc2t245-uqfn",
-    "footprintId": "uqfn-10-1-4x1-8x0-5mm-p0-4mm",
-    "manufacturerId": "texas-instruments",
-    "tagIds": [
-        "smt",
-        "logic",
-        "ic",
-        "level-shifter",
-        "voltage"
-    ]
+    "description": "Transceiver Non Inverting, AVC Family, 2 Input, 12 mA, 2.4 ns, 1.2 V to 3.6 V, LFCSP-10",
+    "keywords": "SMT, LOGIC, IC, LEVEL-SHIFTER, VOLTAGE",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "UQFN-10_1.4x1.8x0.5mm_P0.4mm"
 }

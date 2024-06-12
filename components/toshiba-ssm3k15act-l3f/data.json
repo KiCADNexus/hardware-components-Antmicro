@@ -1,24 +1,13 @@
 {
-    "id": "toshiba-ssm3k15act-l3f",
     "reference": "Q",
+    "symbol": "SSM3K15ACT",
+    "footprint": "CST3-3",
+    "datasheet": "https://www.mouser.com/datasheet/2/408/SSM3K15ACT_datasheet_en_20140301-1144185.pdf",
+    "manufacturer": "Toshiba",
     "mpn": "SSM3K15ACT,L3F",
-    "category": "Semiconductor",
-    "type": "FET/MOSFET transistor",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": false,
-        "symbol": true,
-        "footprint": false
-    },
-    "blendfileId": "ssm3k15act",
-    "symbolId": "ssm3k15act",
-    "footprintId": "ssm3k15act",
-    "manufacturerId": "toshiba",
-    "tagIds": [
-        "smt",
-        "transistor",
-        "semiconductor",
-        "mosfet",
-        "nmos"
-    ]
+    "description": "FET/MOSFET transistor",
+    "keywords": "SMT, TRANSISTOR, SEMICONDUCTOR, MOSFET, NMOS",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "CST3-3"
 }

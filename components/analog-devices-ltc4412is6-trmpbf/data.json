@@ -1,23 +1,13 @@
 {
-    "id": "analog-devices-ltc4412is6-trmpbf",
     "reference": "U",
+    "symbol": "LTC4412IS6",
+    "footprint": "SOT-23-6",
+    "datasheet": "https://www.mouser.com/datasheet/2/308/NCV8187_D-1813214.pdf",
+    "manufacturer": "Analog Devices",
     "mpn": "LTC4412IS6#TRMPBF",
-    "category": "IC",
-    "type": "Ideal diode controller",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": true,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "sot-23-6",
-    "symbolId": "ltc4412is6",
-    "footprintId": "sot-23-6",
-    "manufacturerId": "analog-devices",
-    "tagIds": [
-        "smt",
-        "controller",
-        "ic",
-        "diode"
-    ]
+    "description": "Ideal diode controller",
+    "keywords": "SMT, CONTROLLER, IC, DIODE",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "SOT-23-6"
 }

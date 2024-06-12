@@ -1,24 +1,13 @@
 {
-    "id": "onsemi-mmpq2222a",
     "reference": "Q",
+    "symbol": "MMPQ2222A",
+    "footprint": "SOIC-16_3.9x10mm",
+    "datasheet": "https://www.mouser.com/datasheet/2/308/1/MMPQ2222A_D-2316466.pdf",
+    "manufacturer": "Onsemi",
     "mpn": "MMPQ2222A",
-    "category": "Semiconductor",
-    "type": "Bipolar transistor array",
-    "datasheetUrl": "https://www.mouser.pl/datasheet/2/308/1/MMPQ2222A_D-2316466.pdf",
-    "assets": {
-        "blendfile": false,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "soic-16-3-9x10mm",
-    "symbolId": "mmpq2222a",
-    "footprintId": "soic-16-3-9x10mm",
-    "manufacturerId": "onsemi",
-    "tagIds": [
-        "tht",
-        "transistor",
-        "semiconductor",
-        "bipolar",
-        "npn"
-    ]
+    "description": "Bipolar transistor array",
+    "keywords": "THT, TRANSISTOR, SEMICONDUCTOR, BIPOLAR, NPN",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "SOIC-16_3.9x10mm"
 }

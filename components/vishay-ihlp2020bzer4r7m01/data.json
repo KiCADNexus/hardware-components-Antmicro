@@ -1,22 +1,13 @@
 {
-    "id": "vishay-ihlp2020bzer4r7m01",
     "reference": "L",
+    "symbol": "L_4u7_2.8A_2020",
+    "footprint": "L_2020_5252Metric",
+    "datasheet": "https://www.vishay.com/docs/34253/ihlp-2020bz-01.pdf",
+    "manufacturer": "Vishay",
     "mpn": "IHLP2020BZER4R7M01",
-    "category": "Passive",
-    "type": "Power Inductor (SMT), 4.7 \u00b5H, 2.8 A, Shielded, 5 A, IHLP-2020BZ-01, 2020 [5050 Metric]",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": false,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "l-2020-5252metric",
-    "symbolId": "l-4u7-2-8a-2020",
-    "footprintId": "l-2020-5252metric",
-    "manufacturerId": "vishay",
-    "tagIds": [
-        "smt",
-        "inductor",
-        "passive"
-    ]
+    "description": "Power Inductor (SMT), 4.7 \u00b5H, 2.8 A, Shielded, 5 A, IHLP-2020BZ-01, 2020 [5050 Metric]",
+    "keywords": "SMT, INDUCTOR, PASSIVE",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "L_2020_5252Metric"
 }

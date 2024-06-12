@@ -1,24 +1,13 @@
 {
-    "id": "rohm-semiconductor-dtc014tebtl",
     "reference": "Q",
+    "symbol": "DTC014T_SOT-416",
+    "footprint": "SOT-416",
+    "datasheet": "https://www.rohm.com/datasheet?p=DTC014TEB&dist=Mouser&media=referral&source=mouser.com&campaign=Mouser",
+    "manufacturer": "ROHM Semiconductor",
     "mpn": "DTC014TEBTL",
-    "category": "Semiconductor",
-    "type": "Bipolar Pre-Biased / Digital Transistor, Single NPN, 50 V, 100 mA, 10 kohm",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": false,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "sot-416",
-    "symbolId": "dtc014t-sot-416",
-    "footprintId": "sot-416",
-    "manufacturerId": "rohm-semiconductor",
-    "tagIds": [
-        "smt",
-        "transistor",
-        "semiconductor",
-        "bipolar",
-        "npn"
-    ]
+    "description": "Bipolar Pre-Biased / Digital Transistor, Single NPN, 50 V, 100 mA, 10 kohm",
+    "keywords": "SMT, TRANSISTOR, SEMICONDUCTOR, BIPOLAR, NPN",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "SOT-416"
 }

@@ -1,23 +1,13 @@
 {
-    "id": "nxp-pcal6416ahf-128",
     "reference": "U",
+    "symbol": "PCAL6416AHF_QFN",
+    "footprint": "QFN-24-1EP_4x4mm_P0.5_EP2.1x2.1mm",
+    "datasheet": "https://www.nxp.com/docs/en/data-sheet/PCAL6416A.pdf",
+    "manufacturer": "NXP",
     "mpn": "PCAL6416AHF,128",
-    "category": "IC",
-    "type": "I/O Expander, 16 bit, I2C, 1.65 V, 5.5 V, HWQFN, 24 Pins",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": false,
-        "symbol": false,
-        "footprint": false
-    },
-    "blendfileId": "qfn-24-1ep-4x4mm",
-    "symbolId": "pcal6416ahf",
-    "footprintId": "qfn-24-1ep-4x4mm",
-    "manufacturerId": "nxp",
-    "tagIds": [
-        "smt",
-        "interface",
-        "ic",
-        "i2c"
-    ]
+    "description": "I/O Expander, 16 bit, I2C, 1.65 V, 5.5 V, HWQFN, 24 Pins",
+    "keywords": "I2C, INTERFACE",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "QFN-24-1EP_4x4mm_P0.5_EP2.1x2.1mm"
 }

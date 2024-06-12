@@ -1,22 +1,13 @@
 {
-    "id": "abracon-abm3b-8-000mhz-10-1-u-t",
     "reference": "Y",
+    "symbol": "Resonator_8MHz_ABM3B",
+    "footprint": "Resonator_SMD_Abracon_ABM3B_5x3.2mm",
+    "datasheet": "https://abracon.com/Resonators/abm3b.pdf",
+    "manufacturer": "Abracon",
     "mpn": "ABM3B-8.000MHZ-10-1-U-T",
-    "category": "Oscillator",
-    "type": "Crystal, 8 MHz, SMT, 5mm x 3.2mm, 10 ppm, 10 pF, 10 ppm",
-    "datasheetUrl": "https://abracon.com/Resonators/abm3b.pdf",
-    "assets": {
-        "blendfile": true,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "abm3b",
-    "symbolId": "abm3b-8-000mhz-10-1-u-t",
-    "footprintId": "abm3b",
-    "manufacturerId": "abracon",
-    "tagIds": [
-        "smt",
-        "ceramic",
-        "oscillator"
-    ]
+    "description": "Crystal, 8 MHz, SMT, 5mm x 3.2mm, 10 ppm, 10 pF, 10 ppm",
+    "keywords": "SMT, CERAMIC, OSCILLATOR",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "Resonator_SMD_Abracon_ABM3B_5x3.2mm"
 }

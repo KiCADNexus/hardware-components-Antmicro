@@ -1,23 +1,13 @@
 {
-    "id": "bourns-cr0603-fx-5100elf",
     "reference": "R",
+    "symbol": "R_510R_0603",
+    "footprint": "R_0603_1608Metric",
+    "datasheet": "https://www.bourns.com/docs/product-datasheets/cr.pdf",
+    "manufacturer": "Bourns",
     "mpn": "CR0603-FX-5100ELF",
-    "category": "Passive",
-    "type": "SMT resistor",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": true,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "r-0603-1608metric",
-    "symbolId": "r-510r-0603",
-    "footprintId": "r-0603-1608metric",
-    "manufacturerId": "bourns",
-    "tagIds": [
-        "0603",
-        "smt",
-        "resistor",
-        "passive"
-    ]
+    "description": "SMD Chip Resistor, 510 ohm, \u00b1 1%, 100 mW, 0603 [1608 Metric], Thick Film, General Purpose",
+    "keywords": "0603, SMT, RESISTOR, PASSIVE",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "R_0603_1608Metric"
 }

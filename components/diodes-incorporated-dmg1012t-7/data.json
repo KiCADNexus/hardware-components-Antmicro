@@ -1,22 +1,13 @@
 {
-    "id": "diodes-incorporated-dmg1012t-7",
     "reference": "Q",
+    "symbol": "DMG1012T-7",
+    "footprint": "SOT-523",
+    "datasheet": "https://www.diodes.com/assets/Datasheets/ds31783.pdf",
+    "manufacturer": "Diodes Incorporated",
     "mpn": "DMG1012T-7",
-    "category": "Semiconductor",
-    "type": "Power MOSFET, N Channel, 20 V, 630 mA, 0.3 ohm, SOT-523, Surface Mount",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": false,
-        "symbol": false,
-        "footprint": true
-    },
-    "blendfileId": "sot-523",
-    "symbolId": "dmg1012t-7",
-    "footprintId": "sot-523",
-    "manufacturerId": "diodes-incorporated",
-    "tagIds": [
-        "smt",
-        "mosfet",
-        "semiconductor"
-    ]
+    "description": "Power MOSFET, N Channel, 20 V, 630 mA, 0.3 ohm, SOT-523, Surface Mount",
+    "keywords": "SMT, MOSFET, SEMICONDUCTOR",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "SOT-523-diodes-incorporated-dmg1012t-7"
 }

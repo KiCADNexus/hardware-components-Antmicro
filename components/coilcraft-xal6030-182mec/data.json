@@ -1,22 +1,13 @@
 {
-    "id": "coilcraft-xal6030-182mec",
     "reference": "L",
+    "symbol": "L_1u8_14A_Coilcraft-XAL6030",
+    "footprint": "L_Coilcraft-XAL6030",
+    "datasheet": "https://www.mouser.com/datasheet/2/597/xal60xx-270658.pdf",
+    "manufacturer": "Coilcraft",
     "mpn": "XAL6030-182MEC",
-    "category": "Passive",
-    "type": "Power Inductor (SMT), 1.8 \u00b5H, 14 A, Shielded, 18.2 A, XAL6030",
-    "datasheetUrl": "https://www.mouser.pl/datasheet/2/597/xal60xx-270658.pdf",
-    "assets": {
-        "blendfile": false,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "l-coilcraft-xal6030",
-    "symbolId": "l-1u8-14a-xal6030",
-    "footprintId": "l-coilcraft-xal6030",
-    "manufacturerId": "coilcraft",
-    "tagIds": [
-        "smt",
-        "inductor",
-        "passive"
-    ]
+    "description": "Power Inductor (SMT), 1.8 \u00b5H, 14 A, Shielded, 18.2 A, XAL6030",
+    "keywords": "SMT, INDUCTOR, PASSIVE",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "L_Coilcraft-XAL6030"
 }

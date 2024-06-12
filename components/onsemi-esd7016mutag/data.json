@@ -1,20 +1,13 @@
 {
-    "id": "onsemi-esd7016mutag",
-    "reference": "U12",
+    "reference": "D",
+    "symbol": "ESD7016MUTAG",
+    "footprint": "UDFN-8-3.3x1.0mm-P0.4",
+    "datasheet": "https://www.onsemi.com/pdf/datasheet/esd7016-d.pdf",
+    "manufacturer": "Onsemi",
     "mpn": "ESD7016MUTAG",
-    "category": "U12",
-    "type": "TVS diode",
-    "datasheetUrl": "https://www.onsemi.com/pdf/datasheet/esd7016-d.pdf",
-    "assets": {
-        "blendfile": false,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "udfn-8-3-3x1-0mm-p0-4",
-    "symbolId": "esd7016mutag",
-    "footprintId": "udfn-8-3-3x1-0mm-p0-4",
-    "manufacturerId": "onsemi",
-    "tagIds": [
-        "ic"
-    ]
+    "description": "TVS diode array, 15 kV, UDFN-8, 5 V, 0.15 pF",
+    "keywords": "SMT, DIODE, SEMICONDUCTOR, TVS, ESD",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "UDFN-8-3.3x1.0mm-P0.4"
 }

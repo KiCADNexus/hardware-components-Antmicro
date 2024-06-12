@@ -1,20 +1,13 @@
 {
-    "id": "vishay-bat54-02v-g3-08",
     "reference": "D",
+    "symbol": "BAT54-02V-G3-08",
+    "footprint": "SOD-523",
+    "datasheet": "https://www.vishay.com/docs/85633/bat5402v.pdf",
+    "manufacturer": "Vishay",
     "mpn": "BAT54-02V-G3-08",
-    "category": "Semiconductor",
-    "type": "Rectifier diode",
-    "datasheetUrl": "https://www.mouser.pl/datasheet/2/427/bat5402v-2897987.pdf",
-    "assets": {
-        "blendfile": true,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "sod-523",
-    "symbolId": "bat54-02v-g3-08",
-    "footprintId": "sod-523",
-    "manufacturerId": "vishay",
-    "tagIds": [
-        "semiconductor"
-    ]
+    "description": "Small Signal Schottky Diode, Single, 30 V, 200 mA, 800 mV, 600 mA, 125 \u00b0C",
+    "keywords": "SMT, SEMICONDUCTOR, DIODE, SCHOTTKY",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "SOD-523"
 }

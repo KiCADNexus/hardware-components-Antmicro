@@ -1,24 +1,13 @@
 {
-    "id": "texas-instruments-tpd1e0b04dpyr",
     "reference": "D",
+    "symbol": "TPD1E0B04_XDFN-2",
+    "footprint": "XDFN-2_1x0.60mm",
+    "datasheet": "https://www.ti.com/general/docs/suppproductinfo.tsp?distId=26&gotoUrl=https://www.ti.com/lit/gpn/tpd1e0b04",
+    "manufacturer": "Texas Instruments",
     "mpn": "TPD1E0B04DPYR",
-    "category": "Semiconductor",
-    "type": "TVS diode",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": false,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "xdfn-2-1x0-60mm",
-    "symbolId": "tpd1e0b04-xdfn-2",
-    "footprintId": "xdfn-2-1x0-60mm",
-    "manufacturerId": "texas-instruments",
-    "tagIds": [
-        "smt",
-        "diode",
-        "semiconductor",
-        "tvs",
-        "esd"
-    ]
+    "description": "Bidirectional TVS, 8 kV,  XDFN-2, 3.6 V, 0.18 pF",
+    "keywords": "DIODE, SEMICONDUCTOR, TVS, ESD",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "XDFN-2_1x0.60mm"
 }

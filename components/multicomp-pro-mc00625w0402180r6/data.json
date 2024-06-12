@@ -1,23 +1,13 @@
 {
-    "id": "multicomp-pro-mc00625w0402180r6",
     "reference": "R",
+    "symbol": "R_80R6_0402_EIA",
+    "footprint": "R_0402_1005Metric_EIA",
+    "datasheet": "https://www.bourns.com/docs/product-datasheets/cr.pdf",
+    "manufacturer": "Multicomp Pro",
     "mpn": "MC00625W0402180R6",
-    "category": "Passive",
-    "type": "SMT resistor",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": false,
-        "symbol": true,
-        "footprint": false
-    },
-    "blendfileId": "0402-res-eia",
-    "symbolId": "r-80r6-0402-eia",
-    "footprintId": "0402-res-eia",
-    "manufacturerId": "multicomp-pro",
-    "tagIds": [
-        "0402",
-        "smt",
-        "resistor",
-        "passive"
-    ]
+    "description": "SMD Chip Resistor, 80.6 ohm, \u00b1 1%, 62.5 mW, 0402 [1005 Metric], Thick Film, General Purpose",
+    "keywords": "0402, SMT, RESISTOR, PASSIVE",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "R_0402_1005Metric_EIA"
 }

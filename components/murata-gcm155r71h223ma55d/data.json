@@ -1,25 +1,13 @@
 {
-    "id": "murata-gcm155r71h223ma55d",
     "reference": "C",
+    "symbol": "C_22n_0402",
+    "footprint": "C_0402_1005Metric",
+    "datasheet": "https://www.murata.com/products/productdetail?partno=GCM155R71H223MA55%23",
+    "manufacturer": "Murata",
     "mpn": "GCM155R71H223MA55D",
-    "category": "Passive",
-    "type": "SMT capacitor",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": true,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "c-0402-1005metric",
-    "symbolId": "c-22n-0402",
-    "footprintId": "c-0402-1005metric",
-    "manufacturerId": "murata",
-    "tagIds": [
-        "0402",
-        "smt",
-        "capacitor",
-        "passive",
-        "ceramic",
-        "mlcc"
-    ]
+    "description": "SMD Multilayer Ceramic Capacitors, 0.022 \u00b5F, 50 V, 20%, 0402 [1005 Metric], X7R",
+    "keywords": "0402, SMT, CAPACITOR, PASSIVE, CERAMIC, MLCC",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "C_0402_1005Metric"
 }

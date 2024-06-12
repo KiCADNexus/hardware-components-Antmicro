@@ -1,20 +1,13 @@
 {
-    "id": "metz-connect-ajp92a8813",
     "reference": "J",
+    "symbol": "AJP92A8813",
+    "footprint": "AJP92A8813",
+    "datasheet": "https://media.metz-connect.com/files/171/Data_sheet_AJP92A8813.PDF",
+    "manufacturer": "Metz Connect",
     "mpn": "AJP92A8813",
-    "category": "Connector",
-    "type": "Modular connector jack",
-    "datasheetUrl": "https://media.metz-connect.com/files/171/Data_sheet_AJP92A8813.PDF",
-    "assets": {
-        "blendfile": false,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "ajp92a8813",
-    "symbolId": "ajp92a8813",
-    "footprintId": "ajp92a8813",
-    "manufacturerId": "metz-connect",
-    "tagIds": [
-        "connector"
-    ]
+    "description": "Modular connector jack",
+    "keywords": "CONNECTOR",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "AJP92A8813"
 }

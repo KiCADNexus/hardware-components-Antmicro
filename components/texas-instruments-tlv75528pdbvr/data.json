@@ -1,20 +1,13 @@
 {
-    "id": "texas-instruments-tlv75528pdbvr",
     "reference": "U",
+    "symbol": "TLV75528PDBVR",
+    "footprint": "SOT-23-5",
+    "datasheet": "https://www.ti.com/lit/ds/symlink/tlv755p.pdf?HQS=dis-mous-null-mousermode-dsf-pf-null-wwe&ts=1685005679876&ref_url=https%253A%252F%252Fwww.mouser.cn%252F",
+    "manufacturer": "Texas Instruments",
     "mpn": "TLV75528PDBVR",
-    "category": "IC",
-    "type": "Linear voltage regulator",
-    "datasheetUrl": "https://www.ti.com/lit/ds/symlink/tlv755p.pdf?HQS=dis-mous-null-mousermode-dsf-pf-null-wwe&ts=1685005679876&ref_url=https%253A%252F%252Fwww.mouser.cn%252F",
-    "assets": {
-        "blendfile": true,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "sot-23-5",
-    "symbolId": "tlv75528pdbvr",
-    "footprintId": "sot-23-5",
-    "manufacturerId": "texas-instruments",
-    "tagIds": [
-        "ic"
-    ]
+    "description": "Linear voltage regulator",
+    "keywords": "IC",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "SOT-23-5"
 }

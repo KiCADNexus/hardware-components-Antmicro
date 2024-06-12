@@ -1,20 +1,13 @@
 {
-    "id": "texas-instruments-74lvc2t45gt",
     "reference": "U",
+    "symbol": "74LVC2T45_SOT833",
+    "footprint": "XSON-8_1x1.95mm_P0.5mm",
+    "datasheet": "http://www.farnell.com/datasheets/2787504.pdf",
+    "manufacturer": "Texas Instruments",
     "mpn": "74LVC2T45GT",
-    "category": "IC",
-    "type": "Level shifter",
-    "datasheetUrl": "http://www.farnell.com/datasheets/2787504.pdf",
-    "assets": {
-        "blendfile": true,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "xson-8-1x1-95mm-p0-5mm",
-    "symbolId": "74lvc2t45-sot833",
-    "footprintId": "xson-8-1x1-95mm-p0-5mm",
-    "manufacturerId": "texas-instruments",
-    "tagIds": [
-        "ic"
-    ]
+    "description": "Level shifter",
+    "keywords": "IC",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "XSON-8_1x1.95mm_P0.5mm"
 }

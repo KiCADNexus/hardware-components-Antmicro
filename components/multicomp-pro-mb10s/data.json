@@ -1,25 +1,13 @@
 {
-    "id": "multicomp-pro-mb10s",
     "reference": "D",
+    "symbol": "MB10S",
+    "footprint": "SOIC-4_W3.9mm",
+    "datasheet": "http://www.farnell.com/datasheets/2895435.pdf",
+    "manufacturer": "Multicomp Pro",
     "mpn": "MB10S",
-    "category": "Semiconductor",
-    "type": "TVS diode",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": true,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "soic-4-4-2x5-0mm-p5-7mm",
-    "symbolId": "mb10s",
-    "footprintId": "soic-4-4-2x5-0mm-p5-7mm",
-    "manufacturerId": "multicomp-pro",
-    "tagIds": [
-        "smt",
-        "diode",
-        "semiconductor",
-        "tvs",
-        "bridge",
-        "rectifier"
-    ]
+    "description": "Bridge Rectifier, 1000 V, 800 mA, Single Phase , 4 Pins, 1.1V",
+    "keywords": "SMT, RECTIFIER, SEMICONDUCTOR, DIODE, BRIDGE",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "SOIC-4_W3.9mm"
 }

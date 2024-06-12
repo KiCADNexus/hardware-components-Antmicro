@@ -1,22 +1,13 @@
 {
-    "id": "hirose-electric-u-fl-r-smt-1-10",
     "reference": "J",
+    "symbol": "U_FL-R-SMT-1",
+    "footprint": "Coax_Conn_U.FL",
+    "datasheet": "https://media.digikey.com/pdf/Data%20Sheets/Hirose%20PDFs/UFL%20Series.pdf",
+    "manufacturer": "Hirose Electric",
     "mpn": "U.FL-R-SMT-1(10)",
-    "category": "Connector",
-    "type": "RF / Coaxial Connector, U.FL Coaxial, Straight Jack, Surface Mount Vertical, 50 ohm, Brass",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": true,
-        "symbol": false,
-        "footprint": true
-    },
-    "blendfileId": "coax-conn-u-fl",
-    "symbolId": "u-fl-r-smt-1-10",
-    "footprintId": "coax-conn-u-fl",
-    "manufacturerId": "hirose-electric",
-    "tagIds": [
-        "horizontal",
-        "smt",
-        "connector"
-    ]
+    "description": "U.FL (UMCC) Connector Receptacle, Male Pin 50Ohm Surface Mount Solder",
+    "keywords": "UFL, COAXIAL, CONNECTOR",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "Coax_Conn_U.FL"
 }

@@ -1,22 +1,13 @@
 {
-    "id": "on-semiconductor-esd9x5-0st5g",
     "reference": "D",
+    "symbol": "ESD9X5.0ST5G",
+    "footprint": "SOD-923",
+    "datasheet": "https://www.onsemi.com/pdf/datasheet/esd9x3.3st5g-d.pdf",
+    "manufacturer": "ON Semiconductor",
     "mpn": "ESD9X5.0ST5G",
-    "category": "Semiconductor",
-    "type": "TVS diode",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": false,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "sod-923",
-    "symbolId": "esd9x5-0st5g",
-    "footprintId": "sod-923",
-    "manufacturerId": "on-semiconductor",
-    "tagIds": [
-        "smt",
-        "diode",
-        "semiconductor"
-    ]
+    "description": "Unidirectional TVS, 30 kV,  SOD-923, 5 V, 65 pF",
+    "keywords": "DIODE, SEMICONDUCTOR, TVS, ESD",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "SOD-923"
 }

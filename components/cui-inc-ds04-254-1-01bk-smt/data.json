@@ -1,24 +1,13 @@
 {
-    "id": "cui-inc-ds04-254-1-01bk-smt",
     "reference": "SW",
+    "symbol": "SW_DS04-254-1-01BK-SMT",
+    "footprint": "SW_DS04-254-1-01BK-SMT",
+    "datasheet": "https://www.mouser.com/datasheet/2/670/ds04_254_smt-1777718.pdf",
+    "manufacturer": "CUI Inc",
     "mpn": "DS04-254-1-01BK-SMT",
-    "category": "Switch",
-    "type": "Slide switch",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": false,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "sw-ds04-254-1-01bk-smt",
-    "symbolId": "sw-ds04-254-1-01bk-smt",
-    "footprintId": "sw-ds04-254-1-01bk-smt",
-    "manufacturerId": "cui-inc",
-    "tagIds": [
-        "horizontal",
-        "smt",
-        "switch",
-        "mechanical",
-        "slide"
-    ]
+    "description": "Slide switch",
+    "keywords": "HORIZONTAL, SMT, SWITCH, MECHANICAL, SLIDE",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "SW_DS04-254-1-01BK-SMT"
 }

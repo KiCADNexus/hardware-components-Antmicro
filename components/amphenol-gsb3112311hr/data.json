@@ -1,23 +1,13 @@
 {
-    "id": "amphenol-gsb3112311hr",
     "reference": "J",
+    "symbol": "USB-A_Amphenol_GSB3112311HR",
+    "footprint": "USB-A_Receptacle_Amphenol_GSB3112311HR",
+    "datasheet": "https://cdn.amphenol-cs.com/media/wysiwyg/files/drawing/gsb311231hr.pdf",
+    "manufacturer": "Amphenol",
     "mpn": "GSB3112311HR",
-    "category": "Connector",
-    "type": "USB-A (USB TYPE-A) USB 3.2 Gen 1 (USB 3.1 Gen 1, Superspeed USB 3.0) Receptacle Connector 5 Position Through Hole, Right Angle",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": false,
-        "symbol": false,
-        "footprint": false
-    },
-    "blendfileId": "usb-3-1-gen1-type-a-x2-amphenol-gsb3112311hr-horizontal",
-    "symbolId": "usb-a-gsb3112311hr",
-    "footprintId": "usb-3-1-gen1-type-a-x2-amphenol-gsb3112311hr-horizontal",
-    "manufacturerId": "amphenol",
-    "tagIds": [
-        "horizontal",
-        "tht",
-        "usb",
-        "connector"
-    ]
+    "description": "USB-A (USB TYPE-A) USB 3.2 Gen 1 (USB 3.1 Gen 1, Superspeed (USB 3.0)) Receptacle Connector 5 Position Through Hole, Right Angle",
+    "keywords": "USB, CONNECTOR, THT, HORIZONTAL",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "USB-A_Receptacle_Amphenol_GSB3112311HR"
 }

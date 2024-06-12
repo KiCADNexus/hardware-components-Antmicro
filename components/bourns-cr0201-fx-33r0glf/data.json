@@ -1,23 +1,13 @@
 {
-    "id": "bourns-cr0201-fx-33r0glf",
     "reference": "R",
+    "symbol": "R_33R_0201",
+    "footprint": "R_0201",
+    "datasheet": "https://www.bourns.com/docs/product-datasheets/cr.pdf",
+    "manufacturer": "Bourns",
     "mpn": "CR0201-FX-33R0GLF",
-    "category": "Passive",
-    "type": "SMT resistor",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": true,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "r-0201",
-    "symbolId": "r-33r-0201",
-    "footprintId": "r-0201",
-    "manufacturerId": "bourns",
-    "tagIds": [
-        "0201",
-        "smt",
-        "resistor",
-        "passive"
-    ]
+    "description": "SMD Chip Resistor",
+    "keywords": "0201, SMT, RESISTOR, PASSIVE",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "R_0201"
 }

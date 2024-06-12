@@ -1,23 +1,13 @@
 {
-    "id": "littelfuse-1206l450slwr",
     "reference": "F",
+    "symbol": "PTC_4.5A_1206",
+    "footprint": "F_1206_3216Metric",
+    "datasheet": "http://www.farnell.com/datasheets/2282556.pdf",
+    "manufacturer": "Littelfuse",
     "mpn": "1206L450SLWR",
-    "category": "Passive",
-    "type": "Resettable Fuse, PPTC, 1206 (3216 Metric), PolySwitch Low Rho Series, 6 VDC, 4.5 A, 9 A, 2 s",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": true,
-        "symbol": false,
-        "footprint": true
-    },
-    "blendfileId": "f-1206-3216metric",
-    "symbolId": "f-4-5a-1206",
-    "footprintId": "f-1206-3216metric",
-    "manufacturerId": "littelfuse",
-    "tagIds": [
-        "1206",
-        "smt",
-        "fuse",
-        "passive"
-    ]
+    "description": "Resettable Fuse, PPTC, 1206 (3216 Metric), PolySwitch Low Rho Series, 6 VDC, 4.5 A, 9 A, 2 s",
+    "keywords": "FUSE, PASSIVE",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "F_1206_3216Metric"
 }

@@ -1,22 +1,13 @@
 {
-    "id": "bosch-bme280",
     "reference": "U",
+    "symbol": "BME280",
+    "footprint": "LGA-8_2.5x2.5mm_BME280",
+    "datasheet": "https://www.bosch-sensortec.com/media/boschsensortec/downloads/datasheets/bst-bme280-ds002.pdf",
+    "manufacturer": "Bosch",
     "mpn": "BME280",
-    "category": "IC",
-    "type": "Sensor",
-    "datasheetUrl": "https://www.mouser.pl/datasheet/2/783/bst_bme280_ds002-2238172.pdf",
-    "assets": {
-        "blendfile": false,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "pressure-sensor-lga-8-2-5x2-5mm-bme280",
-    "symbolId": "bme280",
-    "footprintId": "pressure-sensor-lga-8-2-5x2-5mm-bme280",
-    "manufacturerId": "bosch",
-    "tagIds": [
-        "smt",
-        "sensor",
-        "ic"
-    ]
+    "description": "Sensor",
+    "keywords": "SMT, SENSOR, IC",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "LGA-8_2.5x2.5mm_BME280"
 }

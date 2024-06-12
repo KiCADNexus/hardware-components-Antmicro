@@ -1,24 +1,13 @@
 {
-    "id": "vishay-sqs401en-t1-be3",
     "reference": "Q",
+    "symbol": "SQS401EN-T1_BE3",
+    "footprint": "Vishay_PowerPAK_1212-8_Single",
+    "datasheet": "https://www.vishay.com/docs/65529/sqs401en.pdf",
+    "manufacturer": "Vishay",
     "mpn": "SQS401EN-T1_BE3",
-    "category": "Semiconductor",
-    "type": "MOSFET, P-CH, 40V, 16A, POWERPAK 1212",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": true,
-        "symbol": false,
-        "footprint": true
-    },
-    "blendfileId": "vishay-powerpak-1212-8-single",
-    "symbolId": "sqs401en-t1-be3",
-    "footprintId": "vishay-powerpak-1212-8-single",
-    "manufacturerId": "vishay",
-    "tagIds": [
-        "smt",
-        "transistor",
-        "semiconductor",
-        "mosfet",
-        "pmos"
-    ]
+    "description": "P-Channel 40 V 16A (Tc) 62.5W (Tc) Surface Mount PowerPAK\u00ae 1212-8",
+    "keywords": "SMT, TRANSISTOR, SEMICONDUCTOR, MOSFET, PMOS",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "Vishay_PowerPAK_1212-8_Single"
 }

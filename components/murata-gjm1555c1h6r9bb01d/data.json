@@ -1,25 +1,13 @@
 {
-    "id": "murata-gjm1555c1h6r9bb01d",
     "reference": "C",
+    "symbol": "C_6p9_0402",
+    "footprint": "C_0402_1005Metric",
+    "datasheet": "https://www.murata.com/products/productdetail?partno=GJM1555C1H6R9BB01%23",
+    "manufacturer": "Murata",
     "mpn": "GJM1555C1H6R9BB01D",
-    "category": "Passive",
-    "type": "SMT capacitor",
-    "datasheetUrl": null,
-    "assets": {
-        "blendfile": true,
-        "symbol": true,
-        "footprint": true
-    },
-    "blendfileId": "c-0402-1005metric",
-    "symbolId": "c-6p9-0402",
-    "footprintId": "c-0402-1005metric",
-    "manufacturerId": "murata",
-    "tagIds": [
-        "0402",
-        "smt",
-        "capacitor",
-        "passive",
-        "ceramic",
-        "mlcc"
-    ]
+    "description": "SMD Multilayer Ceramic Capacitor, 6.9 pF, 50 V, 0402 [1005 Metric], \u00b1 0.1pF, C0G / NP0, GJM",
+    "keywords": "0402, SMT, CAPACITOR, PASSIVE, CERAMIC, MLCC",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "C_0402_1005Metric"
 }
