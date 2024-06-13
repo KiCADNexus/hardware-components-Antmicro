@@ -1,0 +1,13 @@
+{
+    "reference": "U",
+    "symbol": "FUSB303B",
+    "footprint": "Texas_X2QFN-12_1.6x1.6mm_P0.4mm",
+    "datasheet": "https://eu.mouser.com/datasheet/2/308/1/FUSB303B_D-2314122.pdf",
+    "manufacturer": "Onsemi",
+    "mpn": "FUSB303B",
+    "description": "Autonomous USB Type-C Port Controller with I2C and GPIO Control",
+    "keywords": "SMT, CONTROLLER, IC, INTERFACE",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "Texas_X2QFN-12_1.6x1.6mm_P0.4mm"
+}

@@ -1,0 +1,13 @@
+{
+    "reference": "U",
+    "symbol": "PCF8563TS",
+    "footprint": "TSSOP-8_3x3mm_P0.65mm",
+    "datasheet": "https://eu.mouser.com/datasheet/2/302/PCF8563-3139707.pdf",
+    "manufacturer": "NXP",
+    "mpn": "PCF8563TS/5,118",
+    "description": "Real-time clock/calendar",
+    "keywords": "SMT, IC, CLOCK",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "TSSOP-8_3x3mm_P0.65mm"
+}

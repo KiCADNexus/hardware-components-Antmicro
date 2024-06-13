@@ -1,0 +1,13 @@
+{
+    "reference": "U",
+    "symbol": "TMP411",
+    "footprint": "SOIC-8_3.9x4.9x1.75mm_P1.27mm",
+    "datasheet": "https://www.ti.com/lit/ds/symlink/tmp411-q1.pdf?ts=1716805766475",
+    "manufacturer": "Texas Instruments",
+    "mpn": "TMP411DQDGKRQ1",
+    "description": "Board Mount Temperature Sensors AC +/-1degC Remote & Local Temp sensor",
+    "keywords": "DIGITAL, SENSOR, I2C",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "SOIC-8_3.9x4.9x1.75mm_P1.27mm"
+}

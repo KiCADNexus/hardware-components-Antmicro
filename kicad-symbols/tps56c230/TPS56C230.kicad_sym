@@ -6,7 +6,7 @@
     (property "Value" "TPS56C230" (at 33.02 -5.08 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
     )
-    (property "Footprint" "TPS56C230:QFN-20-1EP_3x3mm_P0.45mm" (at 33.02 -7.62 0)
+    (property "Footprint" "TPS56C230:QFN-20-1EP_3x3mm_P0.45mm_TPS56xxxx" (at 33.02 -7.62 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
     )
     (property "Datasheet" "https://www.ti.com/lit/ds/symlink/tps56c230.pdf?ts=1672843259715&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FTPS56C230" (at 33.02 -10.16 0)

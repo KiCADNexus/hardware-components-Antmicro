@@ -1,0 +1,13 @@
+{
+    "reference": "Q",
+    "symbol": "SI7155DP-T1-GE3",
+    "footprint": "PowerPAK_SO-8_Single",
+    "datasheet": "https://www.vishay.com/docs/75769/si7155dp.pdf",
+    "manufacturer": "Vishay",
+    "mpn": "SI7155DP-T1-GE3",
+    "description": "P-Channel 40 V (D-S) MOSFET RDS(on) 0.0036@10V",
+    "keywords": "PMOS",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": null
+}

@@ -1,0 +1,13 @@
+{
+    "reference": "H",
+    "symbol": "Spacer_Drill2.5mm_H1mm_SMTSO-M1.4-1ET",
+    "footprint": "Spacer_Drill2.5mm_H1mm_SMTSO-M1.4-1ET",
+    "datasheet": "https://eu.mouser.com/datasheet/2/974/kdata-1901229.pdf",
+    "manufacturer": "PEM",
+    "mpn": "SMTSO-M1.4-1ET",
+    "description": "SMT standoff 1mm high",
+    "keywords": "MECHANICAL, SPACER",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": null
+}

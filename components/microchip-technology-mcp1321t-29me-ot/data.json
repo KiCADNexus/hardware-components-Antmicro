@@ -1,0 +1,13 @@
+{
+    "reference": "U",
+    "symbol": "MCP1321T-29ME",
+    "footprint": "SOT-23-5",
+    "datasheet": "https://ww1.microchip.com/downloads/en/DeviceDoc/MCP131X-2X-Voltage-Supervisor-DS20001985E.pdf",
+    "manufacturer": "Microchip Technology",
+    "mpn": "MCP1321T-29ME/OT",
+    "description": "Watchdog timer 25.6s and Voltage Supervisor",
+    "keywords": "IC, SMT",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "SOT-23-5"
+}
