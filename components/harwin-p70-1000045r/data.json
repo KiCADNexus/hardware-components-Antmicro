@@ -1,0 +1,13 @@
+{
+    "reference": "J",
+    "symbol": "Harwin_1x1_H3.5mm_Pad2.2mm_P70-1000045R",
+    "footprint": "Harwin_1x1_H3.5mm_Pad2.2mm_P70-1000045R",
+    "datasheet": "https://eu.mouser.com/datasheet/2/181/P70_10X-1018735.pdf",
+    "manufacturer": "Harwin",
+    "mpn": "P70-1000045R",
+    "description": "Contact Spring Surface Mount",
+    "keywords": "POGO-PIN, CONNECTOR, SMT",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "Harwin_1x1_H3.5mm_Pad2.2mm_P70-1000045R"
+}

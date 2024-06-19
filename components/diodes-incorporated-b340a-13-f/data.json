@@ -1,0 +1,13 @@
+{
+    "reference": "D",
+    "symbol": "B340A-13-F",
+    "footprint": "D_SMA",
+    "datasheet": "https://www.diodes.com/assets/Datasheets/ds30891.pdf",
+    "manufacturer": "Diodes Incorporated",
+    "mpn": "B340A-13-F",
+    "description": "Schottky Diode, 40V, 3A, Single",
+    "keywords": "DIODE, SEMICONDUCTOR, SCHOTTKY",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "D_SMA"
+}
