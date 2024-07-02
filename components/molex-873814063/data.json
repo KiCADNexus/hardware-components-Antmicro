@@ -1,0 +1,13 @@
+{
+    "reference": "J",
+    "symbol": "PinSocket_2x20_P2mm_SMD_873814063",
+    "footprint": "PinSocket_2x20_P2mm_SMD",
+    "datasheet": "https://www.molex.com/content/dam/molex/molex-dot-com/products/automated/en-us/salesdrawingpdf/873/87381/873814063_sd.pdf?inline",
+    "manufacturer": "Molex",
+    "mpn": "873814063",
+    "description": "2.00mm Pitch Milli-Grid Receptacle, Surface Mount, Top Entry, 0.76\u00b5m Gold (Au) Plating, with Cover, without Locating Pegs, 40 Circuits, Lead-Free",
+    "keywords": "CONNECTOR, HEADER",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "PinSocket_2x20_P2mm_SMD"
+}

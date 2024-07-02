@@ -1,0 +1,13 @@
+{
+    "reference": "T",
+    "symbol": "Choke_DLP2ADN900HL4L",
+    "footprint": "Choke_Murata-DLP2AD",
+    "datasheet": "https://www.murata.com/en-eu/products/productdetail?partno=DLP2ADN900HL4%23",
+    "manufacturer": "Murata",
+    "mpn": "DLP2ADN900HL4L",
+    "description": "Choke, Common Mode, DLP2A Series, 90 ohm, 130 mA, 0804, 2mm x 1mm x 0.92mm",
+    "keywords": "CHOKE, PASSIVE",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "Choke_Murata-DLP2AD"
+}

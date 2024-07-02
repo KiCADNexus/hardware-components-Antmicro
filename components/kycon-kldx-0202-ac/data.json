@@ -1,7 +1,7 @@
 {
     "reference": "J",
     "symbol": "BarrelJack_Pin2mm_KLDX-0202-AC",
-    "footprint": "KYCON_KLDX-0202-AC",
+    "footprint": "BarrelJack_Pin2mm_KLDX-0202-AC",
     "datasheet": "https://eu.mouser.com/datasheet/2/222/KLDX_0202-334781.pdf",
     "manufacturer": "Kycon",
     "mpn": "KLDX-0202-AC",
@@ -9,5 +9,5 @@
     "keywords": "CONNECTOR",
     "displayName": null,
     "gitHub": null,
-    "blender_model": null
+    "blender_model": "BarrelJack_Pin2mm_KLDX-0202-AC"
 }

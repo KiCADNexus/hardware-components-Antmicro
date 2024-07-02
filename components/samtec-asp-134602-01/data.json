@@ -1,0 +1,13 @@
+{
+    "reference": "J",
+    "symbol": "Socket_Samtec_ASP_10x40_ASP-134602-01",
+    "footprint": "Conn_FMC_Samtec_ASP_134602-01",
+    "datasheet": "https://suddendocs.samtec.com/prints/asp-134602-01-mkt.pdf",
+    "manufacturer": "Samtec",
+    "mpn": "ASP-134602-01",
+    "description": "Mezzanine Connector, Array, 1.27 mm, 10 Rows, 400 Contacts, Surface Mount",
+    "keywords": "CONNECTOR",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": null
+}

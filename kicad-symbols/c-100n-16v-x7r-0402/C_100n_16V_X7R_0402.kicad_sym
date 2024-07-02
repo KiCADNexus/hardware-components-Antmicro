@@ -36,7 +36,7 @@
     (property "ki_keywords" "SMT, CAPACITOR, PASSIVE" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "ki_description" "SMD Multilayer Ceramic Capacitor, 100nF, 50V, 0603, ±5%, X7R" (at 0 0 0)
+    (property "ki_description" "SMD Multilayer Ceramic Capacitor, 100nF, 50V, 0402, ±5%, X7R" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (symbol "C_100n_16V_X7R_0402_0_1"

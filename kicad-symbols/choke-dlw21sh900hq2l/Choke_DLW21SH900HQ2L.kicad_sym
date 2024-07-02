@@ -173,7 +173,7 @@
     (property "MPN" "DLW21SH900HQ2L " (at 15.24 -7.62 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
     )
-    (property "IMax" "0.33 A" (at 15.24 -20.32 0)
+    (property "IMax" "0.28 A" (at 15.24 -20.32 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
     )
     (property "Author" "Antmicro" (at 15.24 -22.86 0)

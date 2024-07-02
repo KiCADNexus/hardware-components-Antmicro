@@ -1,0 +1,13 @@
+{
+    "reference": "R",
+    "symbol": "R_100k_0.5%_0402",
+    "footprint": "R_0402_1005Metric",
+    "datasheet": "https://industrial.panasonic.com/cdbs/www-data/pdf/RDM0000/AOA0000C307.pdf",
+    "manufacturer": "Panasonic",
+    "mpn": "ERA2AED104X",
+    "description": "SMD Chip Resistor, 100 kohm, \u00b1 0.5%, 63 mW, 0402 [1005 Metric], Thin Film, High Temperature",
+    "keywords": "0402, SMT, RESISTOR, PASSIVE",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "R_0402_1005Metric"
+}

@@ -21,6 +21,8 @@
       (effects (font (size 0.7 0.7) (thickness 0.15)) (justify left bottom))
     (tstamp b7ca9281-e4ae-40e2-bab3-3f21df2ebad1)
   )
+  (fp_circle (center 0 0) (end 2.9 0)
+    (stroke (width 0.05) (type default)) (fill none) (layer "F.CrtYd") (tstamp 79f0c911-b2f1-4533-971e-f3945881c4ec))
   (fp_circle (center 0 0) (end 2.25 0)
     (stroke (width 0.12) (type solid)) (fill none) (layer "User.5") (tstamp e84807a3-b7f5-420f-90f1-519ab5dbd101))
   (fp_line (start -2.176 0) (end -2.176 0)

@@ -1,0 +1,13 @@
+{
+    "reference": "T",
+    "symbol": "Choke_MCZ1210AH900L2TA0G",
+    "footprint": "Choke_TDK-MCZ-AH",
+    "datasheet": "https://product.tdk.com/en/search/emc/emc/cmf_cmc/info?part_no=MCZ1210AH900L2TA0G",
+    "manufacturer": "TDK",
+    "mpn": "MCZ1210AH900L2TA0G",
+    "description": "Choke, Common Mode, MCZ-AH Series, 90 ohm, 100 mA, 0504, 1.25mm x 1mm x 0.6mm",
+    "keywords": "CHOKE, PASSIVE",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "Choke_TDK-MCZ-AH"
+}

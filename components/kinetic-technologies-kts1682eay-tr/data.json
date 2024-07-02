@@ -1,0 +1,13 @@
+{
+    "reference": "U",
+    "symbol": "KTS1682EAY",
+    "footprint": "WLCSP-12_2x1.3mm_Layout4x3_P0.4mm",
+    "datasheet": "https://www.mouser.com/datasheet/2/936/KTS1682_04b-1634491.pdf",
+    "manufacturer": "Kinetic Technologies",
+    "mpn": "KTS1682EAY-TR",
+    "description": "Power Switch 4.5 AMP 38MOHM OVERVOLTAGE PROTECTION",
+    "keywords": "POWER, SWITCH, SMT, PMIC, IC, VOLTAGE",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "WLCSP-12_2x1.3mm_Layout4x3_P0.4mm"
+}

@@ -1,0 +1,13 @@
+{
+    "reference": "J",
+    "symbol": "PinSocket_2x10_P2mm_SMD_55510-120LF",
+    "footprint": "PinSocket_2x10_P2mm_SMD",
+    "datasheet": "https://cdn.amphenol-cs.com/media/wysiwyg/files/drawing/55510.pdf",
+    "manufacturer": "Amphenol",
+    "mpn": "55510-120LF",
+    "description": "PCB Receptacle, Board-to-Board, 2 mm, 2 Rows, 20 Contacts, Surface Mount, Tiger Beam TLE",
+    "keywords": "CONNECTOR, HEADER",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "PinSocket_2x10_P2mm_SMD"
+}

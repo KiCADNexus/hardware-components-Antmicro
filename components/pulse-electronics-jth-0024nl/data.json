@@ -1,0 +1,13 @@
+{
+    "reference": "J",
+    "symbol": "Bus_RJ45_JTH-0024NL",
+    "footprint": "RJ45_JTH-0024NL",
+    "datasheet": "https://www.mouser.com/datasheet/2/447/JTH_0024NL-3072047.pdf",
+    "manufacturer": "Pulse Electronics",
+    "mpn": "JTH-0024NL",
+    "description": "Modular Connectors / Ethernet Connectors 1X1 TAB DOWN W/LED'S ETHERNET (NON PoE)",
+    "keywords": "RJ45, HORIZONTAL, THT, ETHERNET, CONNECTOR, FEMALE",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "RJ45_JTH-0024NL"
+}

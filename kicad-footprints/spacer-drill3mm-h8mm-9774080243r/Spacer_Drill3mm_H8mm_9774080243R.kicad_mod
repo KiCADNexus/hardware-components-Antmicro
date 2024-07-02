@@ -17,6 +17,8 @@
       (effects (font (size 0.7 0.7) (thickness 0.15)))
     (tstamp beb0707f-5f5d-48ad-a8de-c7e7ad02403a)
   )
+  (fp_circle (center 0 0) (end 2.9 0)
+    (stroke (width 0.05) (type default)) (fill none) (layer "F.CrtYd") (tstamp 69f6329e-92c9-499e-a258-902f0407862e))
   (pad "1" thru_hole circle (at 0 0) (size 5.3 5.3) (drill 3) (layers "F.Cu" "F.Mask") (tstamp 12e6c618-6038-48c9-ae76-1235c6903dd8))
   (model ""
     (offset (xyz 0 0 -1.4))
