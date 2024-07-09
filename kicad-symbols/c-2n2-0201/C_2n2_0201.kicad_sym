@@ -36,9 +36,6 @@
     (property "ki_description" "template_value capacitor in misc package with template_voltage max voltage and template_dielectric dielectric" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Public" "False" (at 20.32 -33.02 0)
-      (effects (font (size 1.27 1.27)) (justify left bottom) hide)
-    )
     (symbol "C_template_name_misc_0_1"
       (polyline
         (pts

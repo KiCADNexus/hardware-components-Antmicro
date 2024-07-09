@@ -24,9 +24,6 @@
     (property "ki_description" "Zener diode template" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Public" "False" (at 20.32 -17.78 0)
-      (effects (font (size 1.27 1.27)) (justify left bottom) hide)
-    )
     (symbol ".D_zener_template_0_1"
       (polyline
         (pts

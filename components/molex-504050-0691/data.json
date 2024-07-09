@@ -1,0 +1,13 @@
+{
+    "reference": "J",
+    "symbol": "Molex_Pico-Lock_1x6_504050-0691",
+    "footprint": "Conn_Molex_Pico-Lock_1x6_504050-0691",
+    "datasheet": "https://www.molex.com/en-us/products/part-detail/5040500691?display=pdf",
+    "manufacturer": "Molex",
+    "mpn": "504050-0691",
+    "description": "Connector Header Surface Mount, Right Angle 6 position 0.059\" (1.50mm)",
+    "keywords": "CONNECTOR, HEADER, SMT",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "Conn_Molex_Pico-Lock_1x6_504050-0691"
+}

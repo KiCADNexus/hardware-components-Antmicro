@@ -1,0 +1,13 @@
+{
+    "reference": "U",
+    "symbol": "MX25L1006E_SOP",
+    "footprint": "SOP-8_3.9x5.05mm_P1.27mm",
+    "datasheet": "https://www.macronix.com/Lists/Datasheet/Attachments/8623/MX25L1006E,%203V,%201Mb,%20v1.4.pdf",
+    "manufacturer": "Macronix",
+    "mpn": "MX25L1006EMI-10G",
+    "description": "FLASH - NOR Memory IC 1Mbit SPI 104 MHz 8-SOP",
+    "keywords": "SMT, MEMORY, IC, FLASH",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "SOP-8_3.9x5.05mm_P1.27mm"
+}

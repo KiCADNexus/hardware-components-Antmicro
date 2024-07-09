@@ -9,7 +9,7 @@
     (property "Footprint" "MT53D512M32D2_WFBGA:BGA-200_10.0x14.5mm_Layout12x22_P0.80x0.65mm" (at 48.26 -12.7 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
     )
-    (property "Datasheet" "https://www.micron.com/search-results?searchRequest=%7B%22term%22%3A%22MT53D512M32D2DS-053%20WT%3AD%20TR%22%7D" (at 48.26 -15.24 0)
+    (property "Datasheet" "https://eu.mouser.com/datasheet/2/671/200b_z11m_non_auto_lpddr4_lpddr4x-3077547.pdf" (at 48.26 -15.24 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
     )
     (property "MPN" "MT53D512M32D2DS-053 WT:D TR" (at 48.26 -5.08 0)

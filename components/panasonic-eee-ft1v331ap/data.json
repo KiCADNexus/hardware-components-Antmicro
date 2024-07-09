@@ -1,0 +1,13 @@
+{
+    "reference": "C",
+    "symbol": "C_Pol_330u_35V_Panasonic_FT_F_D8mm_H10.2mm",
+    "footprint": "C_Pol_Panasonic-F-D8mm-H10.2mm",
+    "datasheet": "https://www.mouser.com/datasheet/2/315/ABA0000C1240-1130326.pdf",
+    "manufacturer": "Panasonic",
+    "mpn": "EEE-FT1V331AP",
+    "description": "Aluminum Electrolytic Capacitors - SMD 330uF 35volts 8x10.2mm SMD",
+    "keywords": "SMT, CAPACITOR, PASSIVE, POLARIZED, ALUMINUM",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "C_Pol_Panasonic-F-D8mm-H10.2mm"
+}

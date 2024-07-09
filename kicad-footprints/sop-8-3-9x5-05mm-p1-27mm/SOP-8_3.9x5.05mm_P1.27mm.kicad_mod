@@ -21,10 +21,6 @@
       (effects (font (size 0.7 0.7) (thickness 0.15)) (justify left bottom))
     (tstamp 84fffcde-840a-4bf3-b13b-c86a4983c5d6)
   )
-  (fp_text user "${REFERENCE}" (at -2.94 11.968) (layer "F.Fab") hide
-      (effects (font (size 0.7 0.7) (thickness 0.15)) (justify left bottom))
-    (tstamp e58eb1d5-3425-428b-bda2-5a4c9555d645)
-  )
   (fp_line (start -2.609 -2.081) (end -2.609 -1.782)
     (stroke (width 0.15) (type solid)) (layer "F.SilkS") (tstamp a6736ea4-2680-4803-b282-a361b6f83c53))
   (fp_line (start -2.609 1.217) (end -2.609 1.62)

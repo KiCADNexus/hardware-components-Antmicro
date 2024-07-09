@@ -1,0 +1,13 @@
+{
+    "reference": "J",
+    "symbol": "PinHeader_2x10_P2.00mm_SMD_TMMH-110-01-S-DV",
+    "footprint": "PinHeader_2x10_P2mm_SMD_TMMH-110-01-S-DV",
+    "datasheet": "https://www.mouser.com/datasheet/2/527/tmmh_sm-2529571.pdf",
+    "manufacturer": "Samtec",
+    "mpn": "TMMH-110-01-S-DV",
+    "description": "Connector Header Surface Mount 20 position 2mm",
+    "keywords": "CONNECTOR, HEADER, SMT",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "PinHeader_2x10_P2mm_SMD_TMMH-110-01-S-DV"
+}

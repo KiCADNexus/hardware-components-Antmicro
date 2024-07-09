@@ -1,0 +1,13 @@
+{
+    "reference": "Y",
+    "symbol": "Oscillator_100MHz_ECS_3225MV",
+    "footprint": "Oscillator_SMD_ECS_3225MV_3.2x2.5x1.2mm",
+    "datasheet": "https://www.mouser.com/datasheet/2/122/ECS_3225MVQ-1825332.pdf",
+    "manufacturer": "ECS Inc. International",
+    "mpn": "ECS-3225MVQ-1000CN-TR",
+    "description": "Oscillator, 100 MHz, CMOS, SMD, 3.2mm x 2.5mm, MultiVolt ECS-3225MVQ Series",
+    "keywords": "OSCILLATOR",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "Oscillator_SMD_ECS_3225MV_3.2x2.5x1.2mm"
+}

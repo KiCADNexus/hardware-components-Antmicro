@@ -1,0 +1,13 @@
+{
+    "reference": "J",
+    "symbol": "PinSocket_2x26_P2.54mm_Drill1.1mm_H13.59mm_L9.65mm_Stackthrough",
+    "footprint": "PinSocket_2x26_P2.54mm_Drill1.1mm_Stackthrough",
+    "datasheet": "https://suddendocs.samtec.com/catalog_english/esq_th.pdf",
+    "manufacturer": "Samtec",
+    "mpn": "ESQ-126-49-G-D",
+    "description": "Pin Socket, Vertical, Board-to-Board, 2.54 mm, 2 Rows, 56 Contacts, Through Hole Straight, Stackthrough",
+    "keywords": "HEADER, CONNECTOR, THT",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "PinSocket_2x26_P2.54mm_Drill1.1mm_Stackthrough"
+}

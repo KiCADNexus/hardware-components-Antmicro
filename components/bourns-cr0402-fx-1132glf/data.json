@@ -1,0 +1,13 @@
+{
+    "reference": "R",
+    "symbol": "R_11k3_0402",
+    "footprint": "R_0402_1005Metric",
+    "datasheet": "https://www.bourns.com/docs/product-datasheets/cr.pdf",
+    "manufacturer": "Bourns",
+    "mpn": "CR0402-FX-1132GLF",
+    "description": "SMD Chip Resistor, 11.3 kohm, \u00b1 1%, 62.5 mW, 0402 [1005 Metric], Thick Film, General Purpose",
+    "keywords": "0402, SMT, RESISTOR, PASSIVE",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "R_0402_1005Metric"
+}
