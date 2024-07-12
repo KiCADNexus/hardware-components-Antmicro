@@ -1,0 +1,13 @@
+{
+    "reference": "U",
+    "symbol": "GR716",
+    "footprint": "CQFP-132_24x24mm_P0.635mm",
+    "datasheet": "https://www.gaisler.com/doc/gr716/gr716-ds-um-3-2.pdf",
+    "manufacturer": "Frontgrade",
+    "mpn": "GR716A",
+    "description": "Fault-tolerant LEON3 SPARC V8 processor ",
+    "keywords": "IC, MCU",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "CQFP-132_24x24mm_P0.635mm"
+}
