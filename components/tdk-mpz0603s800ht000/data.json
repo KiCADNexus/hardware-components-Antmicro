@@ -1,0 +1,13 @@
+{
+    "reference": "FB",
+    "symbol": "FB_80Z_1.2A_0201",
+    "footprint": "FB_0201_0603Metric",
+    "datasheet": "https://product.tdk.com/system/files/dam/doc/product/emc/emc/beads/catalog/beads_commercial_power_mpz0603-h_en.pdf",
+    "manufacturer": "TDK",
+    "mpn": "MPZ0603S800HT000 ",
+    "description": "Ferrite Bead 0201 80ohms, 25%, DCR, 0.095ohms, 1200mA",
+    "keywords": "FERRITE BEAD,  PASSIVE",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "FB_0201_0603Metric"
+}

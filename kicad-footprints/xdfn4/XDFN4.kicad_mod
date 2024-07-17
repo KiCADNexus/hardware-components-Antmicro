@@ -87,7 +87,7 @@
     (stroke (width 0.02) (type solid)) (layer "User.9") (tstamp fdd88a06-8617-45d2-9ffd-1ca2aeaee9e0))
   (fp_line (start 0.498 0.498) (end 0.498 -0.5)
     (stroke (width 0.02) (type solid)) (layer "User.9") (tstamp e8e5c01b-0ccb-435d-9496-f2128df45d93))
-  (pad "1" smd custom (at -0.452 -0.327) (size 0.1 0.1) (layers "F.Cu")
+  (pad "1" smd custom (at -0.452 -0.327) (size 0.1 0.1) (layers "F.Cu" "F.Paste" "F.Mask")
     (zone_connect 2)
     (options (clearance outline) (anchor rect))
     (primitives
@@ -100,7 +100,7 @@
         )
         (width 0.01) (fill yes))
     ) (tstamp c6c39679-733a-49ce-a568-0f3bc938f667))
-  (pad "2" smd custom (at -0.452 0.325) (size 0.1 0.1) (layers "F.Cu")
+  (pad "2" smd custom (at -0.452 0.325) (size 0.1 0.1) (layers "F.Cu" "F.Paste" "F.Mask")
     (zone_connect 2)
     (options (clearance outline) (anchor rect))
     (primitives
@@ -114,7 +114,7 @@
         )
         (width 0.01) (fill yes))
     ) (tstamp a4e482af-d7ca-480b-a316-c37533af83e4))
-  (pad "3" smd custom (at 0.45 0.325) (size 0.1 0.1) (layers "F.Cu")
+  (pad "3" smd custom (at 0.45 0.325) (size 0.1 0.1) (layers "F.Cu" "F.Paste" "F.Mask")
     (zone_connect 2)
     (options (clearance outline) (anchor rect))
     (primitives
@@ -128,7 +128,7 @@
         )
         (width 0.01) (fill yes))
     ) (tstamp a44efac5-3cd4-44c4-8d17-6da8699a75c5))
-  (pad "4" smd custom (at 0.45 -0.327) (size 0.1 0.1) (layers "F.Cu")
+  (pad "4" smd custom (at 0.45 -0.327) (size 0.1 0.1) (layers "F.Cu" "F.Paste" "F.Mask")
     (zone_connect 2)
     (options (clearance outline) (anchor rect))
     (primitives

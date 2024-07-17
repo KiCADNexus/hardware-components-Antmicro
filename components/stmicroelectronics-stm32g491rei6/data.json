@@ -1,0 +1,13 @@
+{
+    "reference": "U",
+    "symbol": "STM32G491REI6",
+    "footprint": "BGA-64_5x5mm_Layout8x8_P0.5mm_Ball0.255mm",
+    "datasheet": "https://www.st.com/resource/en/datasheet/stm32g491RE.pdf",
+    "manufacturer": "STMicroelectronics",
+    "mpn": "STM32G491REI6",
+    "description": "ARM MCU, STM32 Family STM32G4 Series Microcontrollers, ARM Cortex-M4F, 32 bit, 170 MHz, 512 KB",
+    "keywords": "SMT, MICROCONTROLLER, IC, ARM",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "BGA-64_5x5mm_Layout8x8_P0.5mm_Ball0.255mm-stmicroelectronics-stm32g491rei6"
+}

@@ -1,0 +1,13 @@
+{
+    "reference": "U",
+    "symbol": "MB85RS1MTPW-G_WLP",
+    "footprint": "Fujitsu_WLP-8_2.28x3.092mm_P0.5mm",
+    "datasheet": "https://www.fujitsu.com/uk/Images/MB85RS1MT.pdf",
+    "manufacturer": "Fujitsu",
+    "mpn": "MB85RS1MTPW-G-APEWE1",
+    "description": "1Mbit FRAM (Ferroelectric RAM) Memory; SPI 30 MHz; WLP-8 2.3x3.1mm",
+    "keywords": "SMT, MEMORY, IC, SPI",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "Fujitsu_WLP-8_2.28x3.092mm_P0.5mm-fujitsu-mb85rs1mtpw-g-apewe1"
+}
