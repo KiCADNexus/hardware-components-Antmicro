@@ -9,7 +9,7 @@
     (property "Footprint" "EOS-S3:WLCSP-42_2.65x2.42mm_Layout7x6_P0.35mm" (at 66.04 -8.89 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
     )
-    (property "Datasheet" "https://dev.antmicro.com/attachments/download/9063/ql-eos-s3-datasheet.pdf" (at 66.04 -11.43 0)
+    (property "Datasheet" "https://eu.mouser.com/pdfDocs/QuickLogic_EOS-S3_DS.pdf" (at 66.04 -11.43 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
     )
     (property "MPN" "EOS3FF512-WRN42" (at 66.04 -3.81 0)
