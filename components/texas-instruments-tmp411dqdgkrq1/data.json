@@ -1,7 +1,7 @@
 {
     "reference": "U",
-    "symbol": "TMP411",
-    "footprint": "SOIC-8_3.9x4.9x1.75mm_P1.27mm",
+    "symbol": "TMP411DQDGKRQ1",
+    "footprint": "VSSOP-8_3x3mm_P0.65mm",
     "datasheet": "https://www.ti.com/lit/ds/symlink/tmp411-q1.pdf?ts=1716805766475",
     "manufacturer": "Texas Instruments",
     "mpn": "TMP411DQDGKRQ1",
@@ -9,5 +9,5 @@
     "keywords": "DIGITAL, SENSOR, I2C",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "SOIC-8_3.9x4.9x1.75mm_P1.27mm"
+    "blender_model": "VSSOP-8_3x3mm_P0.65mm"
 }

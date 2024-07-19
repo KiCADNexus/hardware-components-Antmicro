@@ -1,0 +1,13 @@
+{
+    "reference": "J",
+    "symbol": "PinHeader_2x4_P2.54mm_Drill1.02mm",
+    "footprint": "PinHeader_2x4_P2.54mm_Drill1.02mm",
+    "datasheet": "https://suddendocs.samtec.com/catalog_english/tsw_th.pdf",
+    "manufacturer": "Samtec",
+    "mpn": "TSW-104-23-T-D",
+    "description": "Header 2.54mm pitch THT 8P in Dual Pin Header",
+    "keywords": "PINSTRIP, HEADER, SMT",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "PinHeader_2x4_P2.54mm_Drill1.02mm"
+}
