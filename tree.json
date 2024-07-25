@@ -140,8 +140,10 @@
     ]},
     {"type":"directory","name":"abracon-aspiaig-q8080-4r7m-t","contents":[
       {"type":"link","name":"L_4u7_14.6A_Abracon-Q8080.kicad_sym","target":"../../kicad-symbols/l-4u7-14-6a-abracon-q8080/L_4u7_14.6A_Abracon-Q8080.kicad_sym","contents":[]},
+      {"type":"link","name":"L_Abracon_ASPIAIG-Q8080.blend","target":"../../blender-models/l-abracon-aspiaig-q8080/L_Abracon_ASPIAIG-Q8080.blend","contents":[]},
       {"type":"link","name":"L_Abracon_ASPIAIG-Q8080.kicad_mod","target":"../../kicad-footprints/l-abracon-aspiaig-q8080/L_Abracon_ASPIAIG-Q8080.kicad_mod","contents":[]},
-      {"type":"file","name":"data.json"}
+      {"type":"file","name":"data.json"},
+      {"type":"link","name":"previews","target":"../../blender-models/l-abracon-aspiaig-q8080/previews","contents":[]}
     ]},
     {"type":"directory","name":"abracon-ax3daf1-125-0000","contents":[
       {"type":"link","name":"Oscillator_125MHz_AX3DA.kicad_sym","target":"../../kicad-symbols/oscillator-125mhz-ax3da/Oscillator_125MHz_AX3DA.kicad_sym","contents":[]},
@@ -8804,11 +8806,11 @@
       {"type":"link","name":"previews","target":"../../blender-models/qfn-48-1ep-7x7mm/previews","contents":[]}
     ]},
     {"type":"directory","name":"lattice-semiconductor-lfe5um5g-85f-8bg756c","contents":[
-      {"type":"link","name":"BGA-1024-756_27x27mm_Layout32x32_P0.8mm.blend","target":"../../blender-models/bga-1024-756-27x27mm-layout32x32-p0-8mm/BGA-1024-756_27x27mm_Layout32x32_P0.8mm.blend","contents":[]},
+      {"type":"link","name":"BGA-1024-756_27x27mm_Layout32x32_P0.8mm-lattice-semiconductor-lfe5um5g-85f-8bg756c.blend","target":"../../blender-models/bga-1024-756-27x27mm-layout32x32-p0-8mm-lattice-semiconductor-lfe5um5g-85f-8bg756c/BGA-1024-756_27x27mm_Layout32x32_P0.8mm-lattice-semiconductor-lfe5um5g-85f-8bg756c.blend","contents":[]},
       {"type":"link","name":"BGA-1024-756_27x27mm_Layout32x32_P0.8mm.kicad_mod","target":"../../kicad-footprints/bga-1024-756-27x27mm-layout32x32-p0-8mm/BGA-1024-756_27x27mm_Layout32x32_P0.8mm.kicad_mod","contents":[]},
       {"type":"link","name":"ECP5_LFE5UM5G-85.kicad_sym","target":"../../kicad-symbols/ecp5-lfe5um5g-85/ECP5_LFE5UM5G-85.kicad_sym","contents":[]},
       {"type":"file","name":"data.json"},
-      {"type":"link","name":"previews","target":"../../blender-models/bga-1024-756-27x27mm-layout32x32-p0-8mm/previews","contents":[]}
+      {"type":"link","name":"previews","target":"../../blender-models/bga-1024-756-27x27mm-layout32x32-p0-8mm-lattice-semiconductor-lfe5um5g-85f-8bg756c/previews","contents":[]}
     ]},
     {"type":"directory","name":"lattice-semiconductor-lif-md6000-6jmg80i","contents":[
       {"type":"link","name":"BGA-80_7x7mm_Layout10x10_P0.65mm-lattice-semiconductor-lif-md6000-6jmg80i.blend","target":"../../blender-models/bga-80-7x7mm-layout10x10-p0-65mm-lattice-semiconductor-lif-md6000-6jmg80i/BGA-80_7x7mm_Layout10x10_P0.65mm-lattice-semiconductor-lif-md6000-6jmg80i.blend","contents":[]},
@@ -11455,6 +11457,13 @@
       {"type":"file","name":"data.json"},
       {"type":"link","name":"previews","target":"../../blender-models/tssop-14-4-4x5mm-p0-65mm/previews","contents":[]}
     ]},
+    {"type":"directory","name":"nexperia-74hc688d-653","contents":[
+      {"type":"link","name":"74HC688D.kicad_sym","target":"../../kicad-symbols/74hc688d/74HC688D.kicad_sym","contents":[]},
+      {"type":"link","name":"TSSOP-20_W4.4mm.blend","target":"../../blender-models/tssop-20-w4-4mm/TSSOP-20_W4.4mm.blend","contents":[]},
+      {"type":"link","name":"TSSOP-20_W4.4mm.kicad_mod","target":"../../kicad-footprints/tssop-20-w4-4mm/TSSOP-20_W4.4mm.kicad_mod","contents":[]},
+      {"type":"file","name":"data.json"},
+      {"type":"link","name":"previews","target":"../../blender-models/tssop-20-w4-4mm/previews","contents":[]}
+    ]},
     {"type":"directory","name":"nexperia-74lvc06abq","contents":[
       {"type":"link","name":"74LVC06ABQ.kicad_sym","target":"../../kicad-symbols/74lvc06abq/74LVC06ABQ.kicad_sym","contents":[]},
       {"type":"link","name":"DHVQFN-14-1EP_2.5x3mm.blend","target":"../../blender-models/dhvqfn-14-1ep-2-5x3mm/DHVQFN-14-1EP_2.5x3mm.blend","contents":[]},
@@ -13566,6 +13575,13 @@
       {"type":"file","name":"data.json"},
       {"type":"link","name":"previews","target":"../../blender-models/pinheader-2x10-p2-54mm-smd-tsm-110-01-l-dv-tr/previews","contents":[]}
     ]},
+    {"type":"directory","name":"samtec-tsw-104-23-t-d","contents":[
+      {"type":"link","name":"PinHeader_2x4_P2.54mm_Drill1.02mm.blend","target":"../../blender-models/pinheader-2x4-p2-54mm-drill1-02mm/PinHeader_2x4_P2.54mm_Drill1.02mm.blend","contents":[]},
+      {"type":"link","name":"PinHeader_2x4_P2.54mm_Drill1.02mm.kicad_mod","target":"../../kicad-footprints/pinheader-2x4-p2-54mm-drill1-02mm/PinHeader_2x4_P2.54mm_Drill1.02mm.kicad_mod","contents":[]},
+      {"type":"link","name":"PinHeader_2x4_P2.54mm_Drill1.02mm.kicad_sym","target":"../../kicad-symbols/pinheader-2x4-p2-54mm-drill1-02mm/PinHeader_2x4_P2.54mm_Drill1.02mm.kicad_sym","contents":[]},
+      {"type":"file","name":"data.json"},
+      {"type":"link","name":"previews","target":"../../blender-models/pinheader-2x4-p2-54mm-drill1-02mm/previews","contents":[]}
+    ]},
     {"type":"directory","name":"samtec-tsw-108-14-l-d","contents":[
       {"type":"link","name":"PinHeader_2x8_P2.54mm_Drill1mm.blend","target":"../../blender-models/pinheader-2x8-p2-54mm-drill1mm/PinHeader_2x8_P2.54mm_Drill1mm.blend","contents":[]},
       {"type":"link","name":"PinHeader_2x8_P2.54mm_Drill1mm.kicad_mod","target":"../../kicad-footprints/pinheader-2x8-p2-54mm-drill1mm/PinHeader_2x8_P2.54mm_Drill1mm.kicad_mod","contents":[]},
@@ -14990,11 +15006,11 @@
       {"type":"link","name":"previews","target":"../../blender-models/sot-223/previews","contents":[]}
     ]},
     {"type":"directory","name":"texas-instruments-lm21212mh-2-nopb","contents":[
-      {"type":"link","name":"HTSSOP-20_W4.4mm_P0.65mm.blend","target":"../../blender-models/htssop-20-w4-4mm-p0-65mm/HTSSOP-20_W4.4mm_P0.65mm.blend","contents":[]},
+      {"type":"link","name":"HTSSOP-20_W4.4mm_P0.65mm-texas-instruments-lm21212mh-2-nopb.blend","target":"../../blender-models/htssop-20-w4-4mm-p0-65mm-texas-instruments-lm21212mh-2-nopb/HTSSOP-20_W4.4mm_P0.65mm-texas-instruments-lm21212mh-2-nopb.blend","contents":[]},
       {"type":"link","name":"HTSSOP-20_W4.4mm_P0.65mm.kicad_mod","target":"../../kicad-footprints/htssop-20-w4-4mm-p0-65mm/HTSSOP-20_W4.4mm_P0.65mm.kicad_mod","contents":[]},
       {"type":"link","name":"LM21212-2.kicad_sym","target":"../../kicad-symbols/lm21212-2/LM21212-2.kicad_sym","contents":[]},
       {"type":"file","name":"data.json"},
-      {"type":"link","name":"previews","target":"../../blender-models/htssop-20-w4-4mm-p0-65mm/previews","contents":[]}
+      {"type":"link","name":"previews","target":"../../blender-models/htssop-20-w4-4mm-p0-65mm-texas-instruments-lm21212mh-2-nopb/previews","contents":[]}
     ]},
     {"type":"directory","name":"texas-instruments-lm335am","contents":[
       {"type":"link","name":"LM335AM.kicad_sym","target":"../../kicad-symbols/lm335am/LM335AM.kicad_sym","contents":[]},
@@ -15492,12 +15508,19 @@
       {"type":"file","name":"data.json"},
       {"type":"link","name":"previews","target":"../../blender-models/sot-563/previews","contents":[]}
     ]},
-    {"type":"directory","name":"texas-instruments-tmp411dqdgkrq1","contents":[
+    {"type":"directory","name":"texas-instruments-tmp411adr","contents":[
       {"type":"link","name":"SOIC-8_3.9x4.9x1.75mm_P1.27mm.blend","target":"../../blender-models/soic-8-3-9x4-9x1-75mm-p1-27mm/SOIC-8_3.9x4.9x1.75mm_P1.27mm.blend","contents":[]},
       {"type":"link","name":"SOIC-8_3.9x4.9x1.75mm_P1.27mm.kicad_mod","target":"../../kicad-footprints/soic-8-3-9x4-9x1-75mm-p1-27mm/SOIC-8_3.9x4.9x1.75mm_P1.27mm.kicad_mod","contents":[]},
-      {"type":"link","name":"TMP411.kicad_sym","target":"../../kicad-symbols/tmp411/TMP411.kicad_sym","contents":[]},
+      {"type":"link","name":"TMP411ADR.kicad_sym","target":"../../kicad-symbols/tmp411adr/TMP411ADR.kicad_sym","contents":[]},
       {"type":"file","name":"data.json"},
       {"type":"link","name":"previews","target":"../../blender-models/soic-8-3-9x4-9x1-75mm-p1-27mm/previews","contents":[]}
+    ]},
+    {"type":"directory","name":"texas-instruments-tmp411dqdgkrq1","contents":[
+      {"type":"link","name":"TMP411DQDGKRQ1.kicad_sym","target":"../../kicad-symbols/tmp411dqdgkrq1/TMP411DQDGKRQ1.kicad_sym","contents":[]},
+      {"type":"link","name":"VSSOP-8_3x3mm_P0.65mm.blend","target":"../../blender-models/vssop-8-3x3mm-p0-65mm/VSSOP-8_3x3mm_P0.65mm.blend","contents":[]},
+      {"type":"link","name":"VSSOP-8_3x3mm_P0.65mm.kicad_mod","target":"../../kicad-footprints/vssop-8-3x3mm-p0-65mm/VSSOP-8_3x3mm_P0.65mm.kicad_mod","contents":[]},
+      {"type":"file","name":"data.json"},
+      {"type":"link","name":"previews","target":"../../blender-models/vssop-8-3x3mm-p0-65mm/previews","contents":[]}
     ]},
     {"type":"directory","name":"texas-instruments-tmux1574rsvr","contents":[
       {"type":"link","name":"TMUX1574RSVR.kicad_sym","target":"../../kicad-symbols/tmux1574rsvr/TMUX1574RSVR.kicad_sym","contents":[]},
@@ -16618,11 +16641,11 @@
       {"type":"link","name":"previews","target":"../../blender-models/soic-8-5-3x5-3x2mm-p1-27mm/previews","contents":[]}
     ]},
     {"type":"directory","name":"winbond-w25q32jvssiq","contents":[
-      {"type":"link","name":"SOIC-8_5.3x5.3x2mm_P1.27mm.blend","target":"../../blender-models/soic-8-5-3x5-3x2mm-p1-27mm/SOIC-8_5.3x5.3x2mm_P1.27mm.blend","contents":[]},
+      {"type":"link","name":"SOIC-8_5.3x5.3x2mm_P1.27mm-winbond-w25q32jvssiq.blend","target":"../../blender-models/soic-8-5-3x5-3x2mm-p1-27mm-winbond-w25q32jvssiq/SOIC-8_5.3x5.3x2mm_P1.27mm-winbond-w25q32jvssiq.blend","contents":[]},
       {"type":"link","name":"SOIC-8_5.3x5.3x2mm_P1.27mm.kicad_mod","target":"../../kicad-footprints/soic-8-5-3x5-3x2mm-p1-27mm/SOIC-8_5.3x5.3x2mm_P1.27mm.kicad_mod","contents":[]},
       {"type":"link","name":"W25Q32JVSSIQ.kicad_sym","target":"../../kicad-symbols/w25q32jvssiq/W25Q32JVSSIQ.kicad_sym","contents":[]},
       {"type":"file","name":"data.json"},
-      {"type":"link","name":"previews","target":"../../blender-models/soic-8-5-3x5-3x2mm-p1-27mm/previews","contents":[]}
+      {"type":"link","name":"previews","target":"../../blender-models/soic-8-5-3x5-3x2mm-p1-27mm-winbond-w25q32jvssiq/previews","contents":[]}
     ]},
     {"type":"directory","name":"winbond-w25q32jwssiq","contents":[
       {"type":"link","name":"SOIC-8_5.3x5.3x2mm_P1.27mm-winbond-w25q32jwssiq.blend","target":"../../blender-models/soic-8-5-3x5-3x2mm-p1-27mm-winbond-w25q32jwssiq/SOIC-8_5.3x5.3x2mm_P1.27mm-winbond-w25q32jwssiq.blend","contents":[]},
@@ -16818,9 +16841,11 @@
       {"type":"link","name":"previews","target":"../../blender-models/rj45-wurth-615008137421/previews","contents":[]}
     ]},
     {"type":"directory","name":"wurth-elektronik-62000821121","contents":[
-      {"type":"link","name":"PinHeader_2x4_P2.54mm_Drill1.1mm.kicad_mod","target":"../../kicad-footprints/pinheader-2x4-p2-54mm-drill1-1mm/PinHeader_2x4_P2.54mm_Drill1.1mm.kicad_mod","contents":[]},
-      {"type":"link","name":"PinHeader_2x4_P2.54mm_Drill1.1mm.kicad_sym","target":"../../kicad-symbols/pinheader-2x4-p2-54mm-drill1-1mm/PinHeader_2x4_P2.54mm_Drill1.1mm.kicad_sym","contents":[]},
-      {"type":"file","name":"data.json"}
+      {"type":"link","name":"PinHeader_2x4_P2mm_Drill0.8mm.blend","target":"../../blender-models/pinheader-2x4-p2mm-drill0-8mm/PinHeader_2x4_P2mm_Drill0.8mm.blend","contents":[]},
+      {"type":"link","name":"PinHeader_2x4_P2mm_Drill0.8mm.kicad_mod","target":"../../kicad-footprints/pinheader-2x4-p2mm-drill0-8mm/PinHeader_2x4_P2mm_Drill0.8mm.kicad_mod","contents":[]},
+      {"type":"link","name":"PinHeader_2x4_P2mm_Drill0.8mm.kicad_sym","target":"../../kicad-symbols/pinheader-2x4-p2mm-drill0-8mm/PinHeader_2x4_P2mm_Drill0.8mm.kicad_sym","contents":[]},
+      {"type":"file","name":"data.json"},
+      {"type":"link","name":"previews","target":"../../blender-models/pinheader-2x4-p2mm-drill0-8mm/previews","contents":[]}
     ]},
     {"type":"directory","name":"wurth-elektronik-62100421821","contents":[
       {"type":"link","name":"PinSocket_2x2_P2.54mm_SMD_DualEntry.blend","target":"../../blender-models/pinsocket-2x2-p2-54mm-smd-dualentry/PinSocket_2x2_P2.54mm_SMD_DualEntry.blend","contents":[]},
@@ -17542,5 +17567,5 @@
       {"type":"link","name":"previews","target":"../../blender-models/microsd-yl004-030-001/previews","contents":[]}
     ]}
   ]},
-  {"type":"report","directories":4972,"files":10024}
+  {"type":"report","directories":4980,"files":10038}
 ]

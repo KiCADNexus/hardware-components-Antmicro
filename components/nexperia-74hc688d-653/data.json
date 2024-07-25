@@ -1,0 +1,13 @@
+{
+    "reference": "U",
+    "symbol": "74HC688D",
+    "footprint": "TSSOP-20_W4.4mm",
+    "datasheet": "https://assets.nexperia.com/documents/data-sheet/74HC688.pdf",
+    "manufacturer": "Nexperia",
+    "mpn": "74HC688D,653",
+    "description": "8-bit magnitude comparator",
+    "keywords": "SMT, LOGIC, IC, GATE",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "TSSOP-20_W4.4mm"
+}
