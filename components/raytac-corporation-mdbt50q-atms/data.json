@@ -1,0 +1,13 @@
+{
+    "reference": "A",
+    "symbol": "Bluetooth_MDBT50Q-ATMS",
+    "footprint": "Bluetooth_Module_MDBT50Q-ATMS",
+    "datasheet": "https://www.raytac.com/download/index.php?index_id=49.pdf",
+    "manufacturer": "Raytac Corporation",
+    "mpn": "MDBT50Q-ATMS",
+    "description": "Bluetooth 5.1/5 Module based on Nordic nRF52840 SoC",
+    "keywords": "MODULE",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "Bluetooth_Module_MDBT50Q-ATMS"
+}

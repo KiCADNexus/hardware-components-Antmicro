@@ -1,10 +1,10 @@
 {
     "reference": "U",
-    "symbol": "Myra-231F1F08",
+    "symbol": "MYRA-231F1F08",
     "footprint": "LGA-64_11.4x11.4mm_Myra",
     "datasheet": null,
     "manufacturer": "Antmicro",
-    "mpn": "Myra-231F1F08",
+    "mpn": "MYRA-231F1F08",
     "description": "Antmicro MYRA SiP",
     "keywords": "IC, SMT",
     "displayName": null,

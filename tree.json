@@ -791,7 +791,7 @@
     {"type":"directory","name":"antmicro-myra-231f1f08","contents":[
       {"type":"link","name":"LGA-64_11.4x11.4mm_Myra-antmicro-myra-231f1f08.blend","target":"../../blender-models/lga-64-11-4x11-4mm-myra-antmicro-myra-231f1f08/LGA-64_11.4x11.4mm_Myra-antmicro-myra-231f1f08.blend","contents":[]},
       {"type":"link","name":"LGA-64_11.4x11.4mm_Myra.kicad_mod","target":"../../kicad-footprints/lga-64-11-4x11-4mm-myra/LGA-64_11.4x11.4mm_Myra.kicad_mod","contents":[]},
-      {"type":"link","name":"Myra-231F1F08.kicad_sym","target":"../../kicad-symbols/myra-231f1f08/Myra-231F1F08.kicad_sym","contents":[]},
+      {"type":"link","name":"MYRA-231F1F08.kicad_sym","target":"../../kicad-symbols/myra-231f1f08/MYRA-231F1F08.kicad_sym","contents":[]},
       {"type":"file","name":"data.json"},
       {"type":"link","name":"previews","target":"../../blender-models/lga-64-11-4x11-4mm-myra-antmicro-myra-231f1f08/previews","contents":[]}
     ]},
@@ -12924,6 +12924,13 @@
       {"type":"file","name":"data.json"},
       {"type":"link","name":"previews","target":"../../blender-models/compute-module-4-h1-5mm/previews","contents":[]}
     ]},
+    {"type":"directory","name":"raytac-corporation-mdbt50q-atms","contents":[
+      {"type":"link","name":"Bluetooth_MDBT50Q-ATMS.kicad_sym","target":"../../kicad-symbols/bluetooth-mdbt50q-atms/Bluetooth_MDBT50Q-ATMS.kicad_sym","contents":[]},
+      {"type":"link","name":"Bluetooth_Module_MDBT50Q-ATMS.blend","target":"../../blender-models/bluetooth-module-mdbt50q-atms/Bluetooth_Module_MDBT50Q-ATMS.blend","contents":[]},
+      {"type":"link","name":"Bluetooth_Module_MDBT50Q-ATMS.kicad_mod","target":"../../kicad-footprints/bluetooth-module-mdbt50q-atms/Bluetooth_Module_MDBT50Q-ATMS.kicad_mod","contents":[]},
+      {"type":"file","name":"data.json"},
+      {"type":"link","name":"previews","target":"../../blender-models/bluetooth-module-mdbt50q-atms/previews","contents":[]}
+    ]},
     {"type":"directory","name":"realtek-rtl8111h","contents":[
       {"type":"link","name":"QFN-32-1EP_4x4mm_P0.4mm.blend","target":"../../blender-models/qfn-32-1ep-4x4mm-p0-4mm/QFN-32-1EP_4x4mm_P0.4mm.blend","contents":[]},
       {"type":"link","name":"QFN-32-1EP_4x4mm_P0.4mm.kicad_mod","target":"../../kicad-footprints/qfn-32-1ep-4x4mm-p0-4mm/QFN-32-1EP_4x4mm_P0.4mm.kicad_mod","contents":[]},
@@ -13358,9 +13365,11 @@
       {"type":"link","name":"previews","target":"../../blender-models/pinheader-2x5-p2-54mm-drill1-1mm/previews","contents":[]}
     ]},
     {"type":"directory","name":"samtec-jsom-0515-01","contents":[
+      {"type":"link","name":"Spacer_Drill4.45mm_H5.15mm_JSOM-0515-01.blend","target":"../../blender-models/spacer-drill4-45mm-h5-15mm-jsom-0515-01/Spacer_Drill4.45mm_H5.15mm_JSOM-0515-01.blend","contents":[]},
       {"type":"link","name":"Spacer_Drill4.45mm_H5.15mm_JSOM-0515-01.kicad_mod","target":"../../kicad-footprints/spacer-drill4-45mm-h5-15mm-jsom-0515-01/Spacer_Drill4.45mm_H5.15mm_JSOM-0515-01.kicad_mod","contents":[]},
       {"type":"link","name":"Spacer_Drill4.45mm_H5.15mm_JSOM-0515-01.kicad_sym","target":"../../kicad-symbols/spacer-drill4-45mm-h5-15mm-jsom-0515-01/Spacer_Drill4.45mm_H5.15mm_JSOM-0515-01.kicad_sym","contents":[]},
-      {"type":"file","name":"data.json"}
+      {"type":"file","name":"data.json"},
+      {"type":"link","name":"previews","target":"../../blender-models/spacer-drill4-45mm-h5-15mm-jsom-0515-01/previews","contents":[]}
     ]},
     {"type":"directory","name":"samtec-lshm-110-02-5-l-dv-a-n-k","contents":[
       {"type":"link","name":"Conn_Hermaphroditic_Samtec_LSHM_2x10_LSHM-110-02.5-L-DV-A-N-K.blend","target":"../../blender-models/conn-hermaphroditic-samtec-lshm-2x10-lshm-110-02-5-l-dv-a-n-k/Conn_Hermaphroditic_Samtec_LSHM_2x10_LSHM-110-02.5-L-DV-A-N-K.blend","contents":[]},
@@ -17244,9 +17253,11 @@
       {"type":"link","name":"previews","target":"../../blender-models/spacer-drill3-7mm-h2-5mm-9774025151r/previews","contents":[]}
     ]},
     {"type":"directory","name":"wurth-elektronik-9774025360r","contents":[
+      {"type":"link","name":"Spacer_Drill4.4mm_H2.5mm_9774025360R.blend","target":"../../blender-models/spacer-drill4-4mm-h2-5mm-9774025360r/Spacer_Drill4.4mm_H2.5mm_9774025360R.blend","contents":[]},
       {"type":"link","name":"Spacer_Drill4.4mm_H2.5mm_9774025360R.kicad_mod","target":"../../kicad-footprints/spacer-drill4-4mm-h2-5mm-9774025360r/Spacer_Drill4.4mm_H2.5mm_9774025360R.kicad_mod","contents":[]},
       {"type":"link","name":"Spacer_Drill4.4mm_H2.5mm_9774025360R.kicad_sym","target":"../../kicad-symbols/spacer-drill4-4mm-h2-5mm-9774025360r/Spacer_Drill4.4mm_H2.5mm_9774025360R.kicad_sym","contents":[]},
-      {"type":"file","name":"data.json"}
+      {"type":"file","name":"data.json"},
+      {"type":"link","name":"previews","target":"../../blender-models/spacer-drill4-4mm-h2-5mm-9774025360r/previews","contents":[]}
     ]},
     {"type":"directory","name":"wurth-elektronik-9774030151r","contents":[
       {"type":"link","name":"Spacer_Drill3.7mm_H3mm_9774030151R.blend","target":"../../blender-models/spacer-drill3-7mm-h3mm-9774030151r/Spacer_Drill3.7mm_H3mm_9774030151R.blend","contents":[]},
@@ -17277,9 +17288,11 @@
       {"type":"link","name":"previews","target":"../../blender-models/spacer-drill3-7mm-h5mm-9774050151r/previews","contents":[]}
     ]},
     {"type":"directory","name":"wurth-elektronik-9774050360r","contents":[
+      {"type":"link","name":"Spacer_Drill4.4mm_H5mm_9774050360R.blend","target":"../../blender-models/spacer-drill4-4mm-h5mm-9774050360r/Spacer_Drill4.4mm_H5mm_9774050360R.blend","contents":[]},
       {"type":"link","name":"Spacer_Drill4.4mm_H5mm_9774050360R.kicad_mod","target":"../../kicad-footprints/spacer-drill4-4mm-h5mm-9774050360r/Spacer_Drill4.4mm_H5mm_9774050360R.kicad_mod","contents":[]},
       {"type":"link","name":"Spacer_Drill4.4mm_H5mm_9774050360R.kicad_sym","target":"../../kicad-symbols/spacer-drill4-4mm-h5mm-9774050360r/Spacer_Drill4.4mm_H5mm_9774050360R.kicad_sym","contents":[]},
-      {"type":"file","name":"data.json"}
+      {"type":"file","name":"data.json"},
+      {"type":"link","name":"previews","target":"../../blender-models/spacer-drill4-4mm-h5mm-9774050360r/previews","contents":[]}
     ]},
     {"type":"directory","name":"wurth-elektronik-9774050960r","contents":[
       {"type":"link","name":"Spacer_Drill4.45mm_H5mm_9774050960R.blend","target":"../../blender-models/spacer-drill4-45mm-h5mm-9774050960r/Spacer_Drill4.45mm_H5mm_9774050960R.blend","contents":[]},
@@ -17324,9 +17337,11 @@
       {"type":"link","name":"previews","target":"../../blender-models/spacer-drill3-7mm-h8mm-9774080151r/previews","contents":[]}
     ]},
     {"type":"directory","name":"wurth-elektronik-9774080243r","contents":[
+      {"type":"link","name":"Spacer_Drill3mm_H8mm_9774080243R.blend","target":"../../blender-models/spacer-drill3mm-h8mm-9774080243r/Spacer_Drill3mm_H8mm_9774080243R.blend","contents":[]},
       {"type":"link","name":"Spacer_Drill3mm_H8mm_9774080243R.kicad_mod","target":"../../kicad-footprints/spacer-drill3mm-h8mm-9774080243r/Spacer_Drill3mm_H8mm_9774080243R.kicad_mod","contents":[]},
       {"type":"link","name":"Spacer_Drill3mm_H8mm_9774080243R.kicad_sym","target":"../../kicad-symbols/spacer-drill3mm-h8mm-9774080243r/Spacer_Drill3mm_H8mm_9774080243R.kicad_sym","contents":[]},
-      {"type":"file","name":"data.json"}
+      {"type":"file","name":"data.json"},
+      {"type":"link","name":"previews","target":"../../blender-models/spacer-drill3mm-h8mm-9774080243r/previews","contents":[]}
     ]},
     {"type":"directory","name":"wurth-elektronik-9774090360r","contents":[
       {"type":"link","name":"Spacer_Drill4.4mm_H9mm_9774090360R.blend","target":"../../blender-models/spacer-drill4-4mm-h9mm-9774090360r/Spacer_Drill4.4mm_H9mm_9774090360R.blend","contents":[]},
@@ -17567,5 +17582,5 @@
       {"type":"link","name":"previews","target":"../../blender-models/microsd-yl004-030-001/previews","contents":[]}
     ]}
   ]},
-  {"type":"report","directories":4980,"files":10038}
+  {"type":"report","directories":4986,"files":10046}
 ]
