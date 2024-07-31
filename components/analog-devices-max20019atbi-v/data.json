@@ -1,0 +1,13 @@
+{
+    "reference": "U",
+    "symbol": "MAX20019ATBI_V+",
+    "footprint": "TDFN-10-1EP_2x3mm_P0.5mm",
+    "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/max20019-max20020.pdf",
+    "manufacturer": "Analog Devices",
+    "mpn": "MAX20019ATBI/V+",
+    "description": "3.2MHz, 500mA Dual Step-Down Converters for Automotive Cameras",
+    "keywords": "SMT, PMIC, IC, VOLTAGE, REGULATOR, SWITCHING, DC-DC",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "TDFN-10-1EP_2x3mm_P0.5mm-analog-devices-max20019atbi-v"
+}

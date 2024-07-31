@@ -1,7 +1,7 @@
 {
     "reference": "J",
     "symbol": "PinHeader_1x2_P2.54mm_Drill1.1mm",
-    "footprint": "PinHeader_1x2_P2.54_Drill0.9mm",
+    "footprint": "PinHeader_1x2_P2.54_Drill1.1mm",
     "datasheet": "https://katalog.we-online.de/em/datasheet/6130xx11121.pdf",
     "manufacturer": "W\u00fcrth Elektronik",
     "mpn": "61300211121",
@@ -9,5 +9,5 @@
     "keywords": "VERTICAL, THT, HEADER, CONNECTOR, MALE",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "PinHeader_1x2_P2.54_Drill0.9mm"
+    "blender_model": "PinHeader_1x2_P2.54_Drill1.1mm"
 }

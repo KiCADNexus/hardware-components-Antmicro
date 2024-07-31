@@ -1,0 +1,13 @@
+{
+    "reference": "U",
+    "symbol": "MAX5419LETA+",
+    "footprint": "TDFN-8-1EP_3x3mm_P0.65mm",
+    "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/max5417-max5419.pdf",
+    "manufacturer": "Analog Devices",
+    "mpn": "MAX5419LETA+",
+    "description": "Non Volatile Digital Potentiometer, 200 kohm, Single, 2 Wire, I2C, Serial, Linear, 2.7 V",
+    "keywords": "SMT, DIGITAL, POTENTIOMETER, IC, I2C",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "TDFN-8-1EP_3x3mm_P0.65mm-analog-devices-max5419leta"
+}

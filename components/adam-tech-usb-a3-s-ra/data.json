@@ -1,0 +1,13 @@
+{
+    "reference": "J",
+    "symbol": "USB-A_Adam_Tech_USB-A3-S-RA",
+    "footprint": "USB-A_Adam_Tech_USB-A3-S-RA",
+    "datasheet": "https://app.adam-tech.com/products/download/data_sheet/219132/usb-a3-s-ra-data-sheet.pdf",
+    "manufacturer": "Adam Tech",
+    "mpn": "USB-A3-S-RA",
+    "description": "USB-A (USB TYPE-A) USB 3.2 Gen 1 (USB 3.1 Gen 1, Superspeed (USB 3.0)) Receptacle Connector 9 Position Through Hole, Right Angle",
+    "keywords": "USB, CONNECTOR, THT, HORIZONTAL",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "USB-A_Adam_Tech_USB-A3-S-RA"
+}

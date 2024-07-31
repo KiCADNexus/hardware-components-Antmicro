@@ -1,6 +1,7 @@
 (footprint "Spacer_Drill2.5mm_H1mm_SMTSO-M1.4-1ET" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
   (descr "Mounting Hardware, inside through hole M3, height 14mm")
+  (solder_paste_ratio -1)
   (attr smd)
   (fp_text reference "REF**" (at 0 -3.9) (layer "F.SilkS")
       (effects (font (size 0.7 0.7) (thickness 0.15)) (justify left bottom))

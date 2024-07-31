@@ -1,0 +1,13 @@
+{
+    "reference": "U",
+    "symbol": "MAX20029ATIA_V+",
+    "footprint": "TQFN-28-1EP_5x5mm_P0.5mm",
+    "datasheet": "https://www.analog.com/en/products/max20029.html",
+    "manufacturer": "Analog Devices",
+    "mpn": "MAX20029ATIA/V+",
+    "description": "Automotive Quad/Triple Low-Voltage Step-Down DC-DC Converter",
+    "keywords": "SMT, PMIC, IC, SWITCHING, VOLTAGE, REGULATOR, DC-DC",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "TQFN-28-1EP_5x5mm_P0.5mm-analog-devices-max20029atia-v"
+}

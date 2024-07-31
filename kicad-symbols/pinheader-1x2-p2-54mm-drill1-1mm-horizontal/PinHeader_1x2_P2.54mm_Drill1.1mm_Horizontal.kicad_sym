@@ -6,7 +6,7 @@
     (property "Value" "PinHeader_1x2_P2.54mm_Drill1.1mm_Horizontal" (at 20.32 -7.62 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
     )
-    (property "Footprint" "PinHeader_1x2_P2.54mm_Drill1.1mm_Horizontal:PinHeader_1x02_P2.54mm_Horizontal" (at 20.32 -10.16 0)
+    (property "Footprint" "PinHeader_1x2_P2.54mm_Drill1.1mm_Horizontal:PinHeader_1x2_P2.54mm_Horizontal" (at 20.32 -10.16 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
     )
     (property "Datasheet" "https://www.we-online.com/components/products/datasheet/61300211021.pdf" (at 20.32 -12.7 0)
@@ -31,7 +31,7 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (symbol "PinHeader_1x2_P2.54mm_Drill1.1mm_Horizontal_1_1"
-      (rectangle (start 2.54 -3.81) (end 5.08 1.27)
+      (rectangle (start 2.54 2.54) (end 5.08 -5.08)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )

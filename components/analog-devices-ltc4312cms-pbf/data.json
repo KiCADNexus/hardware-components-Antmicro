@@ -1,0 +1,13 @@
+{
+    "reference": "U",
+    "symbol": "LTC4312CMS_PBF",
+    "footprint": "MSOP-16_3x4.039mm_P0.5mm",
+    "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/4312f.pdf",
+    "manufacturer": "Analog Devices",
+    "mpn": "LTC4312CMS#PBF",
+    "description": "Pin-Selectable, 2-Channel, 2-Wire Multiplexer with Bus Buffer",
+    "keywords": "I2C, SMT, IC",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "MSOP-16_3x4.039mm_P0.5mm-analog-devices-ltc4312cms-pbf"
+}

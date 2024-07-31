@@ -1,0 +1,13 @@
+{
+    "reference": "U",
+    "symbol": "MAX20087ATPA_VY+",
+    "footprint": "SWTQFN-20-1EP_4x4mm_P0.5mm",
+    "datasheet": "https://www.analog.com/en/products/max20087.html",
+    "manufacturer": "Analog Devices",
+    "mpn": "MAX20087ATPA/VY+",
+    "description": "Dual/Quad Camera Power Protector",
+    "keywords": "SMT, PMIC, IC, VOLTAGE, POWER",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "SWTQFN-20-1EP_4x4mm_P0.5mm-analog-devices-max20087atpa-vy"
+}

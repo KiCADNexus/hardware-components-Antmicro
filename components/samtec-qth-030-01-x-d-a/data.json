@@ -1,0 +1,13 @@
+{
+    "reference": "J",
+    "symbol": "Plug_Samtec_QTH_2x30_QTH-030-01-X-D-A",
+    "footprint": "Conn_Plug_Samtec_QTH_2x30_QTH-030-01-X-D-A",
+    "datasheet": "https://suddendocs.samtec.com/productspecs/qsh-qth.pdf",
+    "manufacturer": "Samtec",
+    "mpn": "QTH-030-01-X-D-A",
+    "description": "Mezzanine Connector, Ground Plane, Header, 0.5 mm, 2 Rows, 60 Contacts, Surface Mount",
+    "keywords": "CONNECTOR, B2B, PLUG",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "Conn_Plug_Samtec_QTH_2x30_QTH-030-01-X-D-A"
+}
