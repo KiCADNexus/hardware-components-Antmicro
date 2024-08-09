@@ -1,0 +1,13 @@
+{
+    "reference": "J",
+    "symbol": "Socket_TE_MULTI-BEAM_2x8_2214913-7",
+    "footprint": "Socket_TE_MULTI-BEAM_2x8_2214913-7",
+    "datasheet": "https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F2214913%7FA2%7Fpdf%7FEnglish%7FENG_CD_2214913_A2.pdf%7F2214913-7",
+    "manufacturer": "TE Connectivity",
+    "mpn": "2214913-7",
+    "description": "Card Edge Power Connectors, Board-to-Board, 16 Position, 7.26mm",
+    "keywords": "RECEPTACLE,  CONNECTOR, FEMALE",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "Socket_TE_MULTI-BEAM_2x8_2214913-7"
+}

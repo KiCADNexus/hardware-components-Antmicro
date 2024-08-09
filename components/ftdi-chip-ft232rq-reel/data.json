@@ -9,5 +9,5 @@
     "keywords": "SMT, INTERFACE, IC, CONTROLLER, USB, UART, I2C",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "QFN-32-1EP_5x5mm"
+    "blender_model": "QFN-32-1EP_5x5mm-ftdi-chip-ft232rq-reel"
 }

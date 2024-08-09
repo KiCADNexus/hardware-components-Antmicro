@@ -1,0 +1,13 @@
+{
+    "reference": "J",
+    "symbol": "Molex_Mini-Fit_2x3_45558-0003_Horizontal",
+    "footprint": "Molex_Mini-Fit_2x3_45558-0003_Horizontal",
+    "datasheet": "https://www.molex.com/content/dam/molex/molex-dot-com/products/automated/en-us/salesdrawingpdf/455/45558/455580003_sd.pdf?inline",
+    "manufacturer": "Molex",
+    "mpn": "45558-0003",
+    "description": "Pin Header, Power, 4.2 mm, 2 Rows, 6 Contacts, Through Hole Right Angle, Mini-Fit Jr. 45558",
+    "keywords": "CONNECTOR, THT, WIRE-BOARD",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "Molex_Mini-Fit_2x3_45558-0003_Horizontal"
+}

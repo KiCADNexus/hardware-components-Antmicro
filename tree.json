@@ -7425,10 +7425,10 @@
     ]},
     {"type":"directory","name":"ftdi-chip-ft232rq-reel","contents":[
       {"type":"link","name":"FT232R_QFN.kicad_sym","target":"../../kicad-symbols/ft232r-qfn/FT232R_QFN.kicad_sym","contents":[]},
-      {"type":"link","name":"QFN-32-1EP_5x5mm.blend","target":"../../blender-models/qfn-32-1ep-5x5mm/QFN-32-1EP_5x5mm.blend","contents":[]},
+      {"type":"link","name":"QFN-32-1EP_5x5mm-ftdi-chip-ft232rq-reel.blend","target":"../../blender-models/qfn-32-1ep-5x5mm-ftdi-chip-ft232rq-reel/QFN-32-1EP_5x5mm-ftdi-chip-ft232rq-reel.blend","contents":[]},
       {"type":"link","name":"QFN-32-1EP_5x5mm.kicad_mod","target":"../../kicad-footprints/qfn-32-1ep-5x5mm/QFN-32-1EP_5x5mm.kicad_mod","contents":[]},
       {"type":"file","name":"data.json"},
-      {"type":"link","name":"previews","target":"../../blender-models/qfn-32-1ep-5x5mm/previews","contents":[]}
+      {"type":"link","name":"previews","target":"../../blender-models/qfn-32-1ep-5x5mm-ftdi-chip-ft232rq-reel/previews","contents":[]}
     ]},
     {"type":"directory","name":"ftdi-chip-ft234xd-r","contents":[
       {"type":"link","name":"DFN-12-1EP_3x3mm.blend","target":"../../blender-models/dfn-12-1ep-3x3mm/DFN-12-1EP_3x3mm.blend","contents":[]},
@@ -10285,6 +10285,13 @@
       {"type":"link","name":"Molex_Micro-Fit_2x12_44428-2402_Horizontal.kicad_sym","target":"../../kicad-symbols/molex-micro-fit-2x12-44428-2402-horizontal/Molex_Micro-Fit_2x12_44428-2402_Horizontal.kicad_sym","contents":[]},
       {"type":"file","name":"data.json"},
       {"type":"link","name":"previews","target":"../../blender-models/conn-molex-micro-fit-2x12-444282402/previews","contents":[]}
+    ]},
+    {"type":"directory","name":"molex-45558-0003","contents":[
+      {"type":"link","name":"Molex_Mini-Fit_2x3_45558-0003_Horizontal.blend","target":"../../blender-models/molex-mini-fit-2x3-45558-0003-horizontal/Molex_Mini-Fit_2x3_45558-0003_Horizontal.blend","contents":[]},
+      {"type":"link","name":"Molex_Mini-Fit_2x3_45558-0003_Horizontal.kicad_mod","target":"../../kicad-footprints/molex-mini-fit-2x3-45558-0003-horizontal/Molex_Mini-Fit_2x3_45558-0003_Horizontal.kicad_mod","contents":[]},
+      {"type":"link","name":"Molex_Mini-Fit_2x3_45558-0003_Horizontal.kicad_sym","target":"../../kicad-symbols/molex-mini-fit-2x3-45558-0003-horizontal/Molex_Mini-Fit_2x3_45558-0003_Horizontal.kicad_sym","contents":[]},
+      {"type":"file","name":"data.json"},
+      {"type":"link","name":"previews","target":"../../blender-models/molex-mini-fit-2x3-45558-0003-horizontal/previews","contents":[]}
     ]},
     {"type":"directory","name":"molex-467651001","contents":[
       {"type":"link","name":"HDMI-Micro-D_Molex_467561001.kicad_sym","target":"../../kicad-symbols/hdmi-micro-d-molex-467561001/HDMI-Micro-D_Molex_467561001.kicad_sym","contents":[]},
@@ -14195,11 +14202,11 @@
       {"type":"link","name":"previews","target":"../../blender-models/lqfp-100-14x14mm-p0-5mm/previews","contents":[]}
     ]},
     {"type":"directory","name":"stmicroelectronics-stusb4500qtr","contents":[
-      {"type":"link","name":"QFN-24-1EP_4x4mm_P0.5_EP2.1x2.1mm.blend","target":"../../blender-models/qfn-24-1ep-4x4mm-p0-5-ep2-1x2-1mm/QFN-24-1EP_4x4mm_P0.5_EP2.1x2.1mm.blend","contents":[]},
+      {"type":"link","name":"QFN-24-1EP_4x4mm_P0.5_EP2.1x2.1mm-stmicroelectronics-stusb4500qtr.blend","target":"../../blender-models/qfn-24-1ep-4x4mm-p0-5-ep2-1x2-1mm-stmicroelectronics-stusb4500qtr/QFN-24-1EP_4x4mm_P0.5_EP2.1x2.1mm-stmicroelectronics-stusb4500qtr.blend","contents":[]},
       {"type":"link","name":"QFN-24-1EP_4x4mm_P0.5_EP2.1x2.1mm.kicad_mod","target":"../../kicad-footprints/qfn-24-1ep-4x4mm-p0-5-ep2-1x2-1mm/QFN-24-1EP_4x4mm_P0.5_EP2.1x2.1mm.kicad_mod","contents":[]},
       {"type":"link","name":"STUSB4500_QFN.kicad_sym","target":"../../kicad-symbols/stusb4500-qfn/STUSB4500_QFN.kicad_sym","contents":[]},
       {"type":"file","name":"data.json"},
-      {"type":"link","name":"previews","target":"../../blender-models/qfn-24-1ep-4x4mm-p0-5-ep2-1x2-1mm/previews","contents":[]}
+      {"type":"link","name":"previews","target":"../../blender-models/qfn-24-1ep-4x4mm-p0-5-ep2-1x2-1mm-stmicroelectronics-stusb4500qtr/previews","contents":[]}
     ]},
     {"type":"directory","name":"sullins-connector-solutions-pbc02saan","contents":[
       {"type":"link","name":"PinHeader_1x2_P2.54_Drill1.1mm.blend","target":"../../blender-models/pinheader-1x2-p2-54-drill1-1mm/PinHeader_1x2_P2.54_Drill1.1mm.blend","contents":[]},
@@ -14882,6 +14889,13 @@
       {"type":"link","name":"Bus_M.2_Socket_Key_E_TE_2199230-6.kicad_mod","target":"../../kicad-footprints/bus-m-2-socket-key-e-te-2199230-6/Bus_M.2_Socket_Key_E_TE_2199230-6.kicad_mod","contents":[]},
       {"type":"file","name":"data.json"},
       {"type":"link","name":"previews","target":"../../blender-models/bus-m-2-socket-key-e-te-2199230-6/previews","contents":[]}
+    ]},
+    {"type":"directory","name":"te-connectivity-2214913-7","contents":[
+      {"type":"link","name":"Socket_TE_MULTI-BEAM_2x8_2214913-7.blend","target":"../../blender-models/socket-te-multi-beam-2x8-2214913-7/Socket_TE_MULTI-BEAM_2x8_2214913-7.blend","contents":[]},
+      {"type":"link","name":"Socket_TE_MULTI-BEAM_2x8_2214913-7.kicad_mod","target":"../../kicad-footprints/socket-te-multi-beam-2x8-2214913-7/Socket_TE_MULTI-BEAM_2x8_2214913-7.kicad_mod","contents":[]},
+      {"type":"link","name":"Socket_TE_MULTI-BEAM_2x8_2214913-7.kicad_sym","target":"../../kicad-symbols/socket-te-multi-beam-2x8-2214913-7/Socket_TE_MULTI-BEAM_2x8_2214913-7.kicad_sym","contents":[]},
+      {"type":"file","name":"data.json"},
+      {"type":"link","name":"previews","target":"../../blender-models/socket-te-multi-beam-2x8-2214913-7/previews","contents":[]}
     ]},
     {"type":"directory","name":"te-connectivity-2309409-1","contents":[
       {"type":"link","name":"Bus_DDR4_SODIMM_TE_2309409.blend","target":"../../blender-models/bus-ddr4-sodimm-te-2309409/Bus_DDR4_SODIMM_TE_2309409.blend","contents":[]},
@@ -16522,10 +16536,10 @@
     ]},
     {"type":"directory","name":"vishay-sic477ed-t1-ge3","contents":[
       {"type":"link","name":"SIC477ED-T1-GE3.kicad_sym","target":"../../kicad-symbols/sic477ed-t1-ge3/SIC477ED-T1-GE3.kicad_sym","contents":[]},
-      {"type":"link","name":"SIC47XED-T1-GE3.blend","target":"../../blender-models/sic47xed-t1-ge3/SIC47XED-T1-GE3.blend","contents":[]},
+      {"type":"link","name":"SIC47XED-T1-GE3-vishay-sic477ed-t1-ge3.blend","target":"../../blender-models/sic47xed-t1-ge3-vishay-sic477ed-t1-ge3/SIC47XED-T1-GE3-vishay-sic477ed-t1-ge3.blend","contents":[]},
       {"type":"link","name":"SIC47XED-T1-GE3.kicad_mod","target":"../../kicad-footprints/sic47xed-t1-ge3/SIC47XED-T1-GE3.kicad_mod","contents":[]},
       {"type":"file","name":"data.json"},
-      {"type":"link","name":"previews","target":"../../blender-models/sic47xed-t1-ge3/previews","contents":[]}
+      {"type":"link","name":"previews","target":"../../blender-models/sic47xed-t1-ge3-vishay-sic477ed-t1-ge3/previews","contents":[]}
     ]},
     {"type":"directory","name":"vishay-sip32409dnp-t1-ge4","contents":[
       {"type":"link","name":"SIP32409DNP-T1-GE4.kicad_sym","target":"../../kicad-symbols/sip32409dnp-t1-ge4/SIP32409DNP-T1-GE4.kicad_sym","contents":[]},
@@ -16820,6 +16834,12 @@
       {"type":"link","name":"C_4u7_0805.kicad_sym","target":"../../kicad-symbols/c-4u7-0805/C_4u7_0805.kicad_sym","contents":[]},
       {"type":"file","name":"data.json"},
       {"type":"link","name":"previews","target":"../../blender-models/c-0805-2012metric/previews","contents":[]}
+    ]},
+    {"type":"directory","name":"waveshare-electronics-orin-fan-pwm","contents":[
+      {"type":"link","name":"Heatsink_Orin-FAN-PWM.blend","target":"../../blender-models/heatsink-orin-fan-pwm/Heatsink_Orin-FAN-PWM.blend","contents":[]},
+      {"type":"link","name":"Heatsink_Orin-FAN-PWM.kicad_sym","target":"../../kicad-symbols/heatsink-orin-fan-pwm/Heatsink_Orin-FAN-PWM.kicad_sym","contents":[]},
+      {"type":"file","name":"data.json"},
+      {"type":"link","name":"previews","target":"../../blender-models/heatsink-orin-fan-pwm/previews","contents":[]}
     ]},
     {"type":"directory","name":"weidmuller-1825660000","contents":[
       {"type":"link","name":"TerminalBlock_Wire2Board_1x4_P3.5mm_1825660000.blend","target":"../../blender-models/terminalblock-wire2board-1x4-p3-5mm-1825660000/TerminalBlock_Wire2Board_1x4_P3.5mm_1825660000.blend","contents":[]},
@@ -17789,5 +17809,5 @@
       {"type":"link","name":"previews","target":"../../blender-models/microsd-yl004-030-001/previews","contents":[]}
     ]}
   ]},
-  {"type":"report","directories":5047,"files":10164}
+  {"type":"report","directories":5053,"files":10175}
 ]
