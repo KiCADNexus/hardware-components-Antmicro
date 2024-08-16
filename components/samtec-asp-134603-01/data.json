@@ -9,5 +9,6 @@
     "keywords": "CONNECTOR",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "SAMTEC_ASP-134603-01"
+    "blender_model": "SAMTEC_ASP-134603-01",
+    "pads": []
 }

@@ -9,5 +9,43 @@
     "keywords": "IC",
     "displayName": null,
     "gitHub": null,
-    "blender_model": null
+    "blender_model": null,
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "A0",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "2",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "3",
+            "pin_name": "VCC",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "4",
+            "pin_name": "SCL",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "5",
+            "pin_name": "OS",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "6",
+            "pin_name": "SDA",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        }
+    ]
 }

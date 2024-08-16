@@ -9,5 +9,25 @@
     "keywords": "MECHANICAL, BATTERY, HOLDER",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "Battery_Holder_BK-912"
+    "blender_model": "Battery_Holder_BK-912",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "S1",
+            "pin_name": "V_BAT",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "S2",
+            "pin_name": "V_BAT",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        }
+    ]
 }

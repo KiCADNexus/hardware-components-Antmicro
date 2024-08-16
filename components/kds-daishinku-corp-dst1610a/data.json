@@ -9,5 +9,19 @@
     "keywords": "SMT, OSCILLATOR",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "Resonator_SMD_KDS_DST1610A_1.6x1x0.45mm"
+    "blender_model": "Resonator_SMD_KDS_DST1610A_1.6x1x0.45mm",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "2",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        }
+    ]
 }

@@ -9,5 +9,31 @@
     "keywords": "SMT, TRANSISTOR, SEMICONDUCTOR, BIPOLAR",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "SOT-223"
+    "blender_model": "SOT-223",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "B",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "2",
+            "pin_name": "C",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "3",
+            "pin_name": "E",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "4",
+            "pin_name": "C",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        }
+    ]
 }

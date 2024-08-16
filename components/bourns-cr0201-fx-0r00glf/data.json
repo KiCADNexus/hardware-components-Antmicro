@@ -9,5 +9,19 @@
     "keywords": "0603, SMT, RESISTOR, PASSIVE",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "R_0201"
+    "blender_model": "R_0201",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "2",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        }
+    ]
 }

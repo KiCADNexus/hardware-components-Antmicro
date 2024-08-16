@@ -9,5 +9,31 @@
     "keywords": "RF, ANTENNA, BLUETOOTH",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "47948-0001"
+    "blender_model": "47948-0001",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "FEED",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "MP1",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "no_connect"
+        },
+        {
+            "reference": "MP2",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "no_connect"
+        },
+        {
+            "reference": "MP3",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "no_connect"
+        }
+    ]
 }

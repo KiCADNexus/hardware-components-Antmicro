@@ -9,5 +9,6 @@
     "keywords": "SOC, MODULE",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "Mercury+_XU1"
+    "blender_model": "Mercury+_XU1",
+    "pads": []
 }

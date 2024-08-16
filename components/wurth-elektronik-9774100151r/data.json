@@ -9,5 +9,13 @@
     "keywords": "MECHANICAL, SPACER",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "Spacer_Drill3.7mm_H10mm_9774100151R"
+    "blender_model": "Spacer_Drill3.7mm_H10mm_9774100151R",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        }
+    ]
 }

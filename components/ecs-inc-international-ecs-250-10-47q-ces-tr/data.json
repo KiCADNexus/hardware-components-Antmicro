@@ -9,5 +9,31 @@
     "keywords": "SMT, CERAMIC, OSCILLATOR",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "Resonator_SMD_ECS_ECX-1247Q_1.6x1.2x0.3mm"
+    "blender_model": "Resonator_SMD_ECS_ECX-1247Q_1.6x1.2x0.3mm",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "2",
+            "pin_name": "SH",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "3",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "4",
+            "pin_name": "SH",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        }
+    ]
 }

@@ -9,5 +9,6 @@
     "keywords": "SOM, MODULE, MECHANICAL",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "XILINX-KRIA-K26"
+    "blender_model": "XILINX-KRIA-K26",
+    "pads": []
 }

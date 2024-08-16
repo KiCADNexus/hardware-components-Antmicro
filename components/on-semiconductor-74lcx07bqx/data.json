@@ -9,5 +9,97 @@
     "keywords": "SMT, LOGIC, IC, DRIVER",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "QFN-14-1EP_2.5x3mm_EP1.15x1.65mm_ONSemi_MLP14A"
+    "blender_model": "QFN-14-1EP_2.5x3mm_EP1.15x1.65mm_ONSemi_MLP14A",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "2",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "open_collector"
+        },
+        {
+            "reference": "3",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "4",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "open_collector"
+        },
+        {
+            "reference": "5",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "6",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "open_collector"
+        },
+        {
+            "reference": "7",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        },
+        {
+            "reference": "8",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "open_collector"
+        },
+        {
+            "reference": "9",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "10",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "open_collector"
+        },
+        {
+            "reference": "11",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "12",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "open_collector"
+        },
+        {
+            "reference": "13",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "14",
+            "pin_name": "VCC",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        },
+        {
+            "reference": "15",
+            "pin_name": "DAP",
+            "alternate_pin_names": [],
+            "electrical_type": "no_connect"
+        }
+    ]
 }

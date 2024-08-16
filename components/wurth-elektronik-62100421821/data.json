@@ -9,5 +9,31 @@
     "keywords": "CONNECTOR, SMT, SOCKET",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "PinSocket_2x2_P2.54mm_SMD_DualEntry"
+    "blender_model": "PinSocket_2x2_P2.54mm_SMD_DualEntry",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "2",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "3",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "4",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        }
+    ]
 }

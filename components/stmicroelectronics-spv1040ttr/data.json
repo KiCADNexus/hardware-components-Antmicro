@@ -9,5 +9,55 @@
     "keywords": "IC",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "TSSOP-8_3x4.4mm_P0.65mm"
+    "blender_model": "TSSOP-8_3x4.4mm_P0.65mm",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "MPP-SET",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "2",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        },
+        {
+            "reference": "3",
+            "pin_name": "LX",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        },
+        {
+            "reference": "4",
+            "pin_name": "VOUT",
+            "alternate_pin_names": [],
+            "electrical_type": "power_out"
+        },
+        {
+            "reference": "5",
+            "pin_name": "VCTRL",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "6",
+            "pin_name": "ICTRL_M",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "7",
+            "pin_name": "ICTRL_P",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "8",
+            "pin_name": "XSHUT",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        }
+    ]
 }

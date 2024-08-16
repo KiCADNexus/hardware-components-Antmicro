@@ -9,5 +9,13 @@
     "keywords": "POGO-PIN, CONNECTOR",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "PogoPin_ATTEND_1x1_H11.2mm_Drill0.8mm_09403"
+    "blender_model": "PogoPin_ATTEND_1x1_H11.2mm_Drill0.8mm_09403",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        }
+    ]
 }

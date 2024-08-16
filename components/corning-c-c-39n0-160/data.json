@@ -9,5 +9,6 @@
     "keywords": "MECHANICAL, VIDEO",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "Corning_C-C-39N0-160"
+    "blender_model": "Corning_C-C-39N0-160",
+    "pads": []
 }

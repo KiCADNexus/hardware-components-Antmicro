@@ -9,5 +9,31 @@
     "keywords": "CONNECTOR, HEADER, SMT",
     "displayName": null,
     "gitHub": null,
-    "blender_model": null
+    "blender_model": null,
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "2",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "MP",
+            "pin_name": "MP",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "MP",
+            "pin_name": "MP",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        }
+    ]
 }

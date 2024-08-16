@@ -9,5 +9,85 @@
     "keywords": "SMT, INTERFACE, IC, DRIVER, TRANSCEIVER",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "DFN-12-1EP_4x3mm_P0.5mm"
+    "blender_model": "DFN-12-1EP_4x3mm_P0.5mm",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "RO",
+            "alternate_pin_names": [],
+            "electrical_type": "output"
+        },
+        {
+            "reference": "2",
+            "pin_name": "~{RE}",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "3",
+            "pin_name": "DE",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "4",
+            "pin_name": "DI",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "5",
+            "pin_name": "TE",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "6",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        },
+        {
+            "reference": "7",
+            "pin_name": "NC",
+            "alternate_pin_names": [],
+            "electrical_type": "no_connect"
+        },
+        {
+            "reference": "8",
+            "pin_name": "Y",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        },
+        {
+            "reference": "9",
+            "pin_name": "Z",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        },
+        {
+            "reference": "10",
+            "pin_name": "B",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        },
+        {
+            "reference": "11",
+            "pin_name": "A",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        },
+        {
+            "reference": "12",
+            "pin_name": "V_{CC}",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        },
+        {
+            "reference": "13",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        }
+    ]
 }

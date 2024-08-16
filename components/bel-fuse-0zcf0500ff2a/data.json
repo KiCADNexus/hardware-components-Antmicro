@@ -9,5 +9,6 @@
     "keywords": "FUSE, PASSIVE",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "2920-fuse"
+    "blender_model": "2920-fuse",
+    "pads": []
 }

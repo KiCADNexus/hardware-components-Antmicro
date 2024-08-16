@@ -9,5 +9,6 @@
     "keywords": "IC, PMIC, SMT, MONITOR",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "QFN-16_1EP_4x4mm_P0.65mm"
+    "blender_model": "QFN-16_1EP_4x4mm_P0.65mm",
+    "pads": []
 }

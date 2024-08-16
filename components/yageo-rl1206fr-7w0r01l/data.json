@@ -9,5 +9,19 @@
     "keywords": "0402, SMT, RESISTOR, PASSIVE",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "R_1206_3216Metric"
+    "blender_model": "R_1206_3216Metric",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "2",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        }
+    ]
 }

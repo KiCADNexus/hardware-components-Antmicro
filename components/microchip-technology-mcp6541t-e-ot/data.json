@@ -9,5 +9,37 @@
     "keywords": "SMT,  IC",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "SOT-23-5"
+    "blender_model": "SOT-23-5",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "",
+            "alternate_pin_names": [],
+            "electrical_type": "output"
+        },
+        {
+            "reference": "2",
+            "pin_name": "VSS",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        },
+        {
+            "reference": "3",
+            "pin_name": "",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "4",
+            "pin_name": "",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "5",
+            "pin_name": "VDD",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        }
+    ]
 }

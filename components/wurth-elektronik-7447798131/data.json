@@ -9,5 +9,19 @@
     "keywords": "INDUCTOR, PASSIVE",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "L_WE-PDF-1064"
+    "blender_model": "L_WE-PDF-1064",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "2",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        }
+    ]
 }

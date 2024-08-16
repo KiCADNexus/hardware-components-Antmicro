@@ -9,5 +9,19 @@
     "keywords": "SMT, CAPACITOR, PASSIVE, POLARIZED, TANTALUM",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "C_Pol_Vishay-T59-EE"
+    "blender_model": "C_Pol_Vishay-T59-EE",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "2",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        }
+    ]
 }

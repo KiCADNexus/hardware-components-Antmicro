@@ -9,5 +9,55 @@
     "keywords": "SMT, SENSOR, IC",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "LGA-8_2.5x2.5mm_BME280"
+    "blender_model": "LGA-8_2.5x2.5mm_BME280",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        },
+        {
+            "reference": "2",
+            "pin_name": "CSB",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "3",
+            "pin_name": "SDI",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        },
+        {
+            "reference": "4",
+            "pin_name": "SCK",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "5",
+            "pin_name": "SDO",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        },
+        {
+            "reference": "6",
+            "pin_name": "VDDIO",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        },
+        {
+            "reference": "7",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "8",
+            "pin_name": "VDD",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        }
+    ]
 }

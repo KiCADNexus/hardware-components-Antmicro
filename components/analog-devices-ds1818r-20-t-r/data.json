@@ -9,5 +9,25 @@
     "keywords": "IC, SMT, VOLTAGE, MONITOR",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "SOT-23-3"
+    "blender_model": "SOT-23-3",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "~{RST}",
+            "alternate_pin_names": [],
+            "electrical_type": "output"
+        },
+        {
+            "reference": "2",
+            "pin_name": "V_{cc}",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        },
+        {
+            "reference": "3",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        }
+    ]
 }

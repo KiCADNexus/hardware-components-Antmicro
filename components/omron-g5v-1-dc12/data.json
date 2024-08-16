@@ -9,5 +9,43 @@
     "keywords": "RELAY, SPDT",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "Relay_THT_G5V-1"
+    "blender_model": "Relay_THT_G5V-1",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "NC1",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "2",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "5",
+            "pin_name": "COM1",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "6",
+            "pin_name": "COM1",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "9",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "10",
+            "pin_name": "NO1",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        }
+    ]
 }

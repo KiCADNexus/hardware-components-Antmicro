@@ -9,5 +9,61 @@
     "keywords": "SMT, FLASH, IC",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "WDFN-8-1EP_6x5mm_P1.27mm_EP3.4x4mm"
+    "blender_model": "WDFN-8-1EP_6x5mm_P1.27mm_EP3.4x4mm",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "~{CS}",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "2",
+            "pin_name": "DQ1",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "3",
+            "pin_name": "DQ2/~{W}",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "4",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "5",
+            "pin_name": "DQ0",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "6",
+            "pin_name": "CLK",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "7",
+            "pin_name": "DQ3/~{HOLD}",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "8",
+            "pin_name": "VCC",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "9",
+            "pin_name": "EP",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        }
+    ]
 }

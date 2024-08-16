@@ -9,5 +9,6 @@
     "keywords": "THT, MODULE",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "Mech_Adafruit_4440_H6.0mm"
+    "blender_model": "Mech_Adafruit_4440_H6.0mm",
+    "pads": []
 }

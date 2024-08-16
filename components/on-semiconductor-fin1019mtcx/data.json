@@ -9,5 +9,91 @@
     "keywords": "SMT, LOGIC, IC",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "TSSOP-14_4.4x5mm_P0.65mm"
+    "blender_model": "TSSOP-14_4.4x5mm_P0.65mm",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "DE",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "2",
+            "pin_name": "DI",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "3",
+            "pin_name": "NC",
+            "alternate_pin_names": [],
+            "electrical_type": "no_connect"
+        },
+        {
+            "reference": "4",
+            "pin_name": "RO",
+            "alternate_pin_names": [],
+            "electrical_type": "output"
+        },
+        {
+            "reference": "5",
+            "pin_name": "NC",
+            "alternate_pin_names": [],
+            "electrical_type": "no_connect"
+        },
+        {
+            "reference": "6",
+            "pin_name": "NC",
+            "alternate_pin_names": [],
+            "electrical_type": "no_connect"
+        },
+        {
+            "reference": "7",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        },
+        {
+            "reference": "8",
+            "pin_name": "~{RE}",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "9",
+            "pin_name": "RI-",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "10",
+            "pin_name": "RI+",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "11",
+            "pin_name": "DO-",
+            "alternate_pin_names": [],
+            "electrical_type": "output"
+        },
+        {
+            "reference": "12",
+            "pin_name": "DO+",
+            "alternate_pin_names": [],
+            "electrical_type": "output"
+        },
+        {
+            "reference": "13",
+            "pin_name": "NC",
+            "alternate_pin_names": [],
+            "electrical_type": "no_connect"
+        },
+        {
+            "reference": "14",
+            "pin_name": "VCC",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        }
+    ]
 }

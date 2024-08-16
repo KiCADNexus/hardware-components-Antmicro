@@ -9,5 +9,6 @@
     "keywords": "SMT, VIDEO, HDMI, DISPLAYPORT",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "BGA-168_14x12_10x8.5mm_P0.65mm-synaptic-vmm5320bjg"
+    "blender_model": "BGA-168_14x12_10x8.5mm_P0.65mm-synaptic-vmm5320bjg",
+    "pads": []
 }

@@ -9,5 +9,19 @@
     "keywords": "SMT, RECTIFIER, SEMICONDUCTOR, DIODE, SCHOTTKY",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "D_SMC"
+    "blender_model": "D_SMC",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "C",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "2",
+            "pin_name": "A",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        }
+    ]
 }

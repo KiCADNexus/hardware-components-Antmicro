@@ -1,0 +1,14 @@
+{
+    "reference": "U",
+    "symbol": "BQ24735",
+    "footprint": "QFN-20_EP_3.5x3.5_Pitch0.5mm",
+    "datasheet": "https://www.ti.com/lit/ds/symlink/bq24735.pdf?ts=1723124445323",
+    "manufacturer": "Texas Instruments",
+    "mpn": "BQ24735",
+    "description": " 1- to 4-Cell Li+ Battery SMBus Charge Controller for Supporting Turbo\\nBoost Mode With N-Channel Power MOSFET Selector",
+    "keywords": "SMT, PMIC, IC, MANAGEMENT",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "QFN-20_EP_3.5x3.5_Pitch0.5mm",
+    "pads": []
+}

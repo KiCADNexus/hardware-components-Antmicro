@@ -9,5 +9,79 @@
     "keywords": "PCIE, MECHANICAL, HOUSING",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "PCIe_x8_Guide_74540-0201"
+    "blender_model": "PCIe_x8_Guide_74540-0201",
+    "pads": [
+        {
+            "reference": "MP",
+            "pin_name": "MP",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "MP",
+            "pin_name": "MP",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "MP",
+            "pin_name": "MP",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "MP",
+            "pin_name": "MP",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "SH",
+            "pin_name": "SH",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "SH",
+            "pin_name": "SH",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "SH",
+            "pin_name": "SH",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "SH",
+            "pin_name": "SH",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "SH",
+            "pin_name": "SH",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "SH",
+            "pin_name": "SH",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "SH",
+            "pin_name": "SH",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "SH",
+            "pin_name": "SH",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        }
+    ]
 }

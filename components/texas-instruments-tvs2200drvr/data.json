@@ -9,5 +9,49 @@
     "keywords": "SMT, DIODE, IC, TVS, ESD",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "WSON-6-1EP_2x2mm_P0.65mm"
+    "blender_model": "WSON-6-1EP_2x2mm_P0.65mm",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "2",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "3",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "4",
+            "pin_name": "IN",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "5",
+            "pin_name": "IN",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "6",
+            "pin_name": "IN",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "7",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        }
+    ]
 }

@@ -9,5 +9,6 @@
     "keywords": "MODULE, POWER",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "Dell_PSU_1600W"
+    "blender_model": "Dell_PSU_1600W",
+    "pads": []
 }

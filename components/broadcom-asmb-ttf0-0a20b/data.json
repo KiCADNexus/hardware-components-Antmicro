@@ -9,5 +9,43 @@
     "keywords": "SMT, DIODE, SEMICONDUCTOR, LED",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "PLCC6_3.5x3.7mm"
+    "blender_model": "PLCC6_3.5x3.7mm",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "A_{R}",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "2",
+            "pin_name": "C_{R}",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "3",
+            "pin_name": "A_{G}",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "4",
+            "pin_name": "C_{G}",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "5",
+            "pin_name": "A_{B}",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "6",
+            "pin_name": "C_{B}",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        }
+    ]
 }

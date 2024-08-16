@@ -9,5 +9,55 @@
     "keywords": "SMT, SWITCH, MECHANICAL",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "SW_SDA04H1SBD_SMD"
+    "blender_model": "SW_SDA04H1SBD_SMD",
+    "pads": [
+        {
+            "reference": "A1",
+            "pin_name": "A1",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "A2",
+            "pin_name": "A2",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "A3",
+            "pin_name": "A3",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "A4",
+            "pin_name": "A4",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "B1",
+            "pin_name": "B1",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "B2",
+            "pin_name": "B2",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "B3",
+            "pin_name": "B3",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "B4",
+            "pin_name": "B4",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        }
+    ]
 }

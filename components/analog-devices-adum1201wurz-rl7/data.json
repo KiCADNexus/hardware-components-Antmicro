@@ -9,5 +9,55 @@
     "keywords": "SMT, INTERFACE, IC, DIGITAL, ISOLATOR",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "SOIC-8_3.9x4.9x1.75mm_P1.27mm"
+    "blender_model": "SOIC-8_3.9x4.9x1.75mm_P1.27mm",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "VDD1",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        },
+        {
+            "reference": "2",
+            "pin_name": "VOA",
+            "alternate_pin_names": [],
+            "electrical_type": "output"
+        },
+        {
+            "reference": "3",
+            "pin_name": "VIB",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "4",
+            "pin_name": "GND1",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        },
+        {
+            "reference": "5",
+            "pin_name": "GND2",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        },
+        {
+            "reference": "6",
+            "pin_name": "VOB",
+            "alternate_pin_names": [],
+            "electrical_type": "output"
+        },
+        {
+            "reference": "7",
+            "pin_name": "VIA",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "8",
+            "pin_name": "VDD2",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        }
+    ]
 }

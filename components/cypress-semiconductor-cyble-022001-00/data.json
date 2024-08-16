@@ -9,5 +9,133 @@
     "keywords": "MODULE",
     "displayName": null,
     "gitHub": null,
-    "blender_model": null
+    "blender_model": null,
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        },
+        {
+            "reference": "2",
+            "pin_name": "P4.1",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        },
+        {
+            "reference": "3",
+            "pin_name": "P5.1",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        },
+        {
+            "reference": "4",
+            "pin_name": "P5.0",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        },
+        {
+            "reference": "5",
+            "pin_name": "VDDR",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        },
+        {
+            "reference": "6",
+            "pin_name": "P1.6",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        },
+        {
+            "reference": "7",
+            "pin_name": "P0.7",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        },
+        {
+            "reference": "8",
+            "pin_name": "P0.4",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        },
+        {
+            "reference": "9",
+            "pin_name": "P0.5",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        },
+        {
+            "reference": "10",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "11",
+            "pin_name": "P0.6",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        },
+        {
+            "reference": "12",
+            "pin_name": "P1.7",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        },
+        {
+            "reference": "13",
+            "pin_name": "VDD",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        },
+        {
+            "reference": "14",
+            "pin_name": "XRES",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "15",
+            "pin_name": "P3.5",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        },
+        {
+            "reference": "16",
+            "pin_name": "P3.4",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        },
+        {
+            "reference": "17",
+            "pin_name": "P3.7",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        },
+        {
+            "reference": "18",
+            "pin_name": "P1.4",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        },
+        {
+            "reference": "19",
+            "pin_name": "P1.5",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        },
+        {
+            "reference": "20",
+            "pin_name": "P3.6",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        },
+        {
+            "reference": "21",
+            "pin_name": "P4.0",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        }
+    ]
 }

@@ -9,5 +9,19 @@
     "keywords": "SMT, DIODE, SEMICONDUCTOR, ESD, TVS",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "SOD-123FL"
+    "blender_model": "SOD-123FL",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "C",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "2",
+            "pin_name": "A",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        }
+    ]
 }

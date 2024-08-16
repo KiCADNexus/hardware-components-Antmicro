@@ -9,5 +9,91 @@
     "keywords": "SMT, PMIC, IC, SWITCHING, BUCK, VOLTAGE, REGULATOR",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "VQFN-HR-14_3.5x4mm"
+    "blender_model": "VQFN-HR-14_3.5x4mm",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "BIAS",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "2",
+            "pin_name": "VCC",
+            "alternate_pin_names": [],
+            "electrical_type": "power_out"
+        },
+        {
+            "reference": "3",
+            "pin_name": "AGND",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        },
+        {
+            "reference": "4",
+            "pin_name": "FB",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "5",
+            "pin_name": "PGOOD",
+            "alternate_pin_names": [],
+            "electrical_type": "open_collector"
+        },
+        {
+            "reference": "6",
+            "pin_name": "MODE",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "7",
+            "pin_name": "EN",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "8",
+            "pin_name": "VIN",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        },
+        {
+            "reference": "9",
+            "pin_name": "PGND",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        },
+        {
+            "reference": "10",
+            "pin_name": "SW",
+            "alternate_pin_names": [],
+            "electrical_type": "power_out"
+        },
+        {
+            "reference": "11",
+            "pin_name": "PGND",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "12",
+            "pin_name": "VIN",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "13",
+            "pin_name": "RBOOT",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        },
+        {
+            "reference": "14",
+            "pin_name": "CBOOT",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        }
+    ]
 }

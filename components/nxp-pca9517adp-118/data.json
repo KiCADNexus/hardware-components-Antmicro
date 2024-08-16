@@ -9,5 +9,55 @@
     "keywords": "SMT, LEVEL-SHIFTER, IC, I2C",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "TSSOP-8_3x3mm_P0.65mm"
+    "blender_model": "TSSOP-8_3x3mm_P0.65mm",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "V_{CC(A)}",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        },
+        {
+            "reference": "2",
+            "pin_name": "SCLA",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "3",
+            "pin_name": "SDAA",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        },
+        {
+            "reference": "4",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        },
+        {
+            "reference": "5",
+            "pin_name": "EN",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "6",
+            "pin_name": "SDAB",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        },
+        {
+            "reference": "7",
+            "pin_name": "SCLB",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "8",
+            "pin_name": "V_{CC(B)}",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        }
+    ]
 }

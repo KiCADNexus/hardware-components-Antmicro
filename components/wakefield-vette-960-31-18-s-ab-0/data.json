@@ -9,5 +9,6 @@
     "keywords": "HEATSINK",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "Heatsink_960-31-18-S-AB-0"
+    "blender_model": "Heatsink_960-31-18-S-AB-0",
+    "pads": []
 }

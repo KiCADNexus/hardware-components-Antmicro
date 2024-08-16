@@ -9,5 +9,61 @@
     "keywords": "SMT, PMIC, IC, DDR, MEMORY",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "MSOP-8-1EP_3x3x1.1mm_P0.65mm"
+    "blender_model": "MSOP-8-1EP_3x3x1.1mm_P0.65mm",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "DDQ",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        },
+        {
+            "reference": "2",
+            "pin_name": "V_{TT}",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "3",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        },
+        {
+            "reference": "4",
+            "pin_name": "V_{TTSEN}",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "5",
+            "pin_name": "V_{DRV}",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "6",
+            "pin_name": "REF",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "7",
+            "pin_name": "V_{TT_EN}",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "8",
+            "pin_name": "V_{TTREF}",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "9",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        }
+    ]
 }

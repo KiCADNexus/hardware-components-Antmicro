@@ -9,5 +9,55 @@
     "keywords": "VERTICAL, SMT, SWITCH, MECHANICAL",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "SW_SKRHABE010_SMD"
+    "blender_model": "SW_SKRHABE010_SMD",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "A",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "2",
+            "pin_name": "CNTR",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "3",
+            "pin_name": "C",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "4",
+            "pin_name": "B",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "5",
+            "pin_name": "COMM",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "6",
+            "pin_name": "D",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "MP",
+            "pin_name": "MP",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "MP",
+            "pin_name": "MP",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        }
+    ]
 }

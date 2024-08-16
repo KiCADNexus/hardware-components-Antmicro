@@ -9,5 +9,25 @@
     "keywords": "HORIZONTAL, THT, POWER, CONNECTOR",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "BarrelJack_Pin2mm_PJ-102AH"
+    "blender_model": "BarrelJack_Pin2mm_PJ-102AH",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "2",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "3",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        }
+    ]
 }

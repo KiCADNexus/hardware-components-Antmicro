@@ -9,5 +9,55 @@
     "keywords": "IC, SMT, POWER, SWITCH",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "SOIC-8_3.9x4.9x1.75mm_P1.27mm"
+    "blender_model": "SOIC-8_3.9x4.9x1.75mm_P1.27mm",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "ENA",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "2",
+            "pin_name": "FLGA",
+            "alternate_pin_names": [],
+            "electrical_type": "output"
+        },
+        {
+            "reference": "3",
+            "pin_name": "FLGB",
+            "alternate_pin_names": [],
+            "electrical_type": "output"
+        },
+        {
+            "reference": "4",
+            "pin_name": "ENB",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "5",
+            "pin_name": "OUTB",
+            "alternate_pin_names": [],
+            "electrical_type": "output"
+        },
+        {
+            "reference": "6",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "7",
+            "pin_name": "IN",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        },
+        {
+            "reference": "8",
+            "pin_name": "OUTA",
+            "alternate_pin_names": [],
+            "electrical_type": "output"
+        }
+    ]
 }

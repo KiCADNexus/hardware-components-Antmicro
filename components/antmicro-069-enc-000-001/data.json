@@ -9,5 +9,6 @@
     "keywords": "ENCLOSURE",
     "displayName": null,
     "gitHub": "https://github.com/antmicro/environment-sensor-enclosure",
-    "blender_model": "069.ENC.000.001"
+    "blender_model": "069.ENC.000.001",
+    "pads": []
 }

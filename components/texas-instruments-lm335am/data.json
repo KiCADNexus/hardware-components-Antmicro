@@ -9,5 +9,49 @@
     "keywords": "ANALOG, SENSOR, SMT",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "SOIC-8_3.9x4.9x1.75mm_P1.27mm"
+    "blender_model": "SOIC-8_3.9x4.9x1.75mm_P1.27mm",
+    "pads": [
+        {
+            "reference": "2",
+            "pin_name": "NC",
+            "alternate_pin_names": [],
+            "electrical_type": "no_connect"
+        },
+        {
+            "reference": "3",
+            "pin_name": "NC",
+            "alternate_pin_names": [],
+            "electrical_type": "no_connect"
+        },
+        {
+            "reference": "4",
+            "pin_name": "V-",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        },
+        {
+            "reference": "5",
+            "pin_name": "ADJ",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "6",
+            "pin_name": "NC",
+            "alternate_pin_names": [],
+            "electrical_type": "no_connect"
+        },
+        {
+            "reference": "7",
+            "pin_name": "NC",
+            "alternate_pin_names": [],
+            "electrical_type": "no_connect"
+        },
+        {
+            "reference": "8",
+            "pin_name": "V+",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        }
+    ]
 }

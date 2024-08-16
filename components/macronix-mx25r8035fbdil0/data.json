@@ -9,5 +9,55 @@
     "keywords": "SMT, MEMORY, FLASH",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "WLCSP-8_1.24x1.75mm_Layout3-2-3_P0.35x0.4mm"
+    "blender_model": "WLCSP-8_1.24x1.75mm_Layout3-2-3_P0.35x0.4mm",
+    "pads": [
+        {
+            "reference": "A1",
+            "pin_name": "VCC",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        },
+        {
+            "reference": "A3",
+            "pin_name": "~{CS}",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "B2",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        },
+        {
+            "reference": "C1",
+            "pin_name": "~{HOLD}",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "C3",
+            "pin_name": "SO/IO1",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "D2",
+            "pin_name": "SI/IO0",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "E1",
+            "pin_name": "SCLK",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "E3",
+            "pin_name": "~{WP}",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        }
+    ]
 }

@@ -9,5 +9,43 @@
     "keywords": "SMT, LOGIC, IC, DECODER, ENCODER, MUX",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "SC-74-6_1.5x2.9mm_P0.95mm"
+    "blender_model": "SC-74-6_1.5x2.9mm_P0.95mm",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "I1",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "2",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        },
+        {
+            "reference": "3",
+            "pin_name": "I0",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "4",
+            "pin_name": "Y",
+            "alternate_pin_names": [],
+            "electrical_type": "output"
+        },
+        {
+            "reference": "5",
+            "pin_name": "VCC",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        },
+        {
+            "reference": "6",
+            "pin_name": "S",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        }
+    ]
 }

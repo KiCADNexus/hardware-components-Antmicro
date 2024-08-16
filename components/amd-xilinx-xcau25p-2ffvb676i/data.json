@@ -9,5 +9,6 @@
     "keywords": "FPGA, LVDS, MIPI, CMOS, BGA, ETHERNET, VIDEO, DSP, BRIDGE",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "BGA-676_27x27mm_Layout26x26_P1X1mm-amd-xilinx-xcau25p-2ffvb676i"
+    "blender_model": "BGA-676_27x27mm_Layout26x26_P1X1mm-amd-xilinx-xcau25p-2ffvb676i",
+    "pads": []
 }

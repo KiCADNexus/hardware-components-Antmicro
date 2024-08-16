@@ -9,5 +9,109 @@
     "keywords": "SMT, CLOCK, IC",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "VQFN-16-1EP_3x3mm_P0.5mm_EP1.68x1.68mm"
+    "blender_model": "VQFN-16-1EP_3x3mm_P0.5mm_EP1.68x1.68mm",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        },
+        {
+            "reference": "2",
+            "pin_name": "CLK_{IN}+",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "3",
+            "pin_name": "CLK_{IN}-",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "4",
+            "pin_name": "VDD",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        },
+        {
+            "reference": "5",
+            "pin_name": "GND_O",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "6",
+            "pin_name": "DIF_{1}-",
+            "alternate_pin_names": [],
+            "electrical_type": "output"
+        },
+        {
+            "reference": "7",
+            "pin_name": "DIF_{1}+",
+            "alternate_pin_names": [],
+            "electrical_type": "output"
+        },
+        {
+            "reference": "8",
+            "pin_name": "VDD_O",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "9",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "10",
+            "pin_name": "I_{REF}",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "11",
+            "pin_name": "~{OE0}",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "12",
+            "pin_name": "~{OE1}",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "13",
+            "pin_name": "VDD_O",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        },
+        {
+            "reference": "14",
+            "pin_name": "DIF_{0}+",
+            "alternate_pin_names": [],
+            "electrical_type": "output"
+        },
+        {
+            "reference": "15",
+            "pin_name": "DIF_{0}-",
+            "alternate_pin_names": [],
+            "electrical_type": "output"
+        },
+        {
+            "reference": "16",
+            "pin_name": "GND_O",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        },
+        {
+            "reference": "17",
+            "pin_name": "EPAD",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        }
+    ]
 }

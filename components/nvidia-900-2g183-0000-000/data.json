@@ -9,5 +9,6 @@
     "keywords": "MODULE, VIDEO, PCIE",
     "displayName": "Tesla T4",
     "gitHub": null,
-    "blender_model": "Nvidia_Tesla_T4"
+    "blender_model": "Nvidia_Tesla_T4",
+    "pads": []
 }

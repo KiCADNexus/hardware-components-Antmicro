@@ -9,5 +9,25 @@
     "keywords": "HORIZONTAL, THT, AUDIO, CONNECTOR",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "RCA_Jack_PJRAN1X1U01X"
+    "blender_model": "RCA_Jack_PJRAN1X1U01X",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "2",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "3",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        }
+    ]
 }

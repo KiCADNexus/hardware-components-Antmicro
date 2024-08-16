@@ -9,5 +9,73 @@
     "keywords": "SMT, PMIC, IC",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "VSON-10-1EP_3x3mm"
+    "blender_model": "VSON-10-1EP_3x3mm",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "REFIN",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "2",
+            "pin_name": "VLDOIN",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        },
+        {
+            "reference": "3",
+            "pin_name": "VO",
+            "alternate_pin_names": [],
+            "electrical_type": "power_out"
+        },
+        {
+            "reference": "4",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "5",
+            "pin_name": "VOSNS",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "6",
+            "pin_name": "REFOUT",
+            "alternate_pin_names": [],
+            "electrical_type": "power_out"
+        },
+        {
+            "reference": "7",
+            "pin_name": "EN",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "8",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        },
+        {
+            "reference": "9",
+            "pin_name": "PGOOD",
+            "alternate_pin_names": [],
+            "electrical_type": "open_collector"
+        },
+        {
+            "reference": "10",
+            "pin_name": "VIN",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        },
+        {
+            "reference": "11",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        }
+    ]
 }

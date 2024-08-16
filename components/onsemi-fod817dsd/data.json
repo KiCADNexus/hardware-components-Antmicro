@@ -9,5 +9,31 @@
     "keywords": "SMT, OPTOCOUPLER, TRANSISTOR",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "SOIC-4_6.5x4.6mm_P2.54mm"
+    "blender_model": "SOIC-4_6.5x4.6mm_P2.54mm",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "2",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "3",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "4",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        }
+    ]
 }

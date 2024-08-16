@@ -9,5 +9,6 @@
     "keywords": "OSCILLATOR",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "Oscillator_SMD_EPSON_SG3225CAN_3.2x2.5x1.2mm"
+    "blender_model": "Oscillator_SMD_EPSON_SG3225CAN_3.2x2.5x1.2mm",
+    "pads": []
 }

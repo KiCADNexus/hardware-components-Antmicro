@@ -9,5 +9,19 @@
     "keywords": "0402, SMT, CAPACITOR, PASSIVE, CERAMIC",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "C_0402_1005Metric"
+    "blender_model": "C_0402_1005Metric",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "2",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        }
+    ]
 }

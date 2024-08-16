@@ -9,5 +9,25 @@
     "keywords": "CRYSTAL, SMT",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "Resonator_SMD_Citizen_CMJ206_8.3x2.5x2.2mm"
+    "blender_model": "Resonator_SMD_Citizen_CMJ206_8.3x2.5x2.2mm",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "2",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "3",
+            "pin_name": "SH",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        }
+    ]
 }

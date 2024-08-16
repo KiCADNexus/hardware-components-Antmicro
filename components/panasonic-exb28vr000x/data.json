@@ -9,5 +9,55 @@
     "keywords": "0201, SMT, RESISTOR, PASSIVE, ARRAY",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "4x0R_0402_array_EXB28V"
+    "blender_model": "4x0R_0402_array_EXB28V",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "R1.1",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "2",
+            "pin_name": "R2.1",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "3",
+            "pin_name": "R3.1",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "4",
+            "pin_name": "R4.1",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "5",
+            "pin_name": "R4.2",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "6",
+            "pin_name": "R3.2",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "7",
+            "pin_name": "R2.2",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "8",
+            "pin_name": "R1.2",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        }
+    ]
 }

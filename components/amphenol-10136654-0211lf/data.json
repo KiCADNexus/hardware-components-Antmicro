@@ -9,5 +9,19 @@
     "keywords": "HORIZONTAL, THT, WIRE-BOARD, CONNECTOR",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "Amphenol_Minitek_1x2_10136654-0211LF"
+    "blender_model": "Amphenol_Minitek_1x2_10136654-0211LF",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "2",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        }
+    ]
 }

@@ -9,5 +9,6 @@
     "keywords": "MODULE",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "Mech_Adafruit_326_H6.0mm"
+    "blender_model": "Mech_Adafruit_326_H6.0mm",
+    "pads": []
 }

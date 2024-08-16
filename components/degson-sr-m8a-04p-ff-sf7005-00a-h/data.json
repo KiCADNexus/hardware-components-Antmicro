@@ -9,5 +9,31 @@
     "keywords": "HORIZONTAL, THT, M8, CONNECTOR, FEMALE",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "Conn_M8_SR-M8A-04P-FF-SF7005-00A_H_"
+    "blender_model": "Conn_M8_SR-M8A-04P-FF-SF7005-00A_H_",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "2",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "3",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "4",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        }
+    ]
 }

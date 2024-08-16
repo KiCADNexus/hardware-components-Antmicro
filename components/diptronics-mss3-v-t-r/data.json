@@ -9,5 +9,49 @@
     "keywords": "HORIZONTAL, SMT, SWITCH, MECHANICAL, SLIDE",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "Switch_Slide_MSS3"
+    "blender_model": "Switch_Slide_MSS3",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "2",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "3",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "S1",
+            "pin_name": "SH",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "S2",
+            "pin_name": "SH",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "S3",
+            "pin_name": "SH",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "S4",
+            "pin_name": "SH",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        }
+    ]
 }

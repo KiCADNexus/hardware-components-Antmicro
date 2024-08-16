@@ -9,5 +9,6 @@
     "keywords": "MECHANICAL, VIDEO",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "Camera_Lens_18mm"
+    "blender_model": "Camera_Lens_18mm",
+    "pads": []
 }

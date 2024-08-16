@@ -9,5 +9,19 @@
     "keywords": "CONNECTOR",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "TerminalBlock_Wire2Board_1x2_P3.5mm_STP128-350-2P"
+    "blender_model": "TerminalBlock_Wire2Board_1x2_P3.5mm_STP128-350-2P",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "2",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        }
+    ]
 }

@@ -9,5 +9,49 @@
     "keywords": "VERTICAL, SMT, SWITCH, SWITCH, SLIDE",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "PCM12SMTR"
+    "blender_model": "PCM12SMTR",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "2",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "3",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "S1",
+            "pin_name": "SH",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "S2",
+            "pin_name": "SH",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "S3",
+            "pin_name": "SH",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "S4",
+            "pin_name": "SH",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        }
+    ]
 }

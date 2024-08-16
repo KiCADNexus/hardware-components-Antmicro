@@ -9,5 +9,87 @@
     "keywords": "SMT, IC, CONTROLLER, USB",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "Texas_X2QFN-12_1.6x1.6mm_P0.4mm"
+    "blender_model": "Texas_X2QFN-12_1.6x1.6mm_P0.4mm",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "CC1",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "2",
+            "pin_name": "CC2",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "3",
+            "pin_name": "PORT",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "4",
+            "pin_name": "VBUS_DET",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "5",
+            "pin_name": "ADR",
+            "alternate_pin_names": [
+                "CON_DET"
+            ],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "6",
+            "pin_name": "INTB",
+            "alternate_pin_names": [
+                "OUT3"
+            ],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "7",
+            "pin_name": "SDA",
+            "alternate_pin_names": [
+                "OUT1"
+            ],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "8",
+            "pin_name": "SCL",
+            "alternate_pin_names": [
+                "OUT2"
+            ],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "9",
+            "pin_name": "ID",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "10",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "11",
+            "pin_name": "EXT_SEL",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "12",
+            "pin_name": "VDD",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        }
+    ]
 }

@@ -9,5 +9,37 @@
     "keywords": "ANTENNA",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "Antenna_ANT-LTE-CER-T"
+    "blender_model": "Antenna_ANT-LTE-CER-T",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "FEED",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "2",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "3",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "MP1",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "no_connect"
+        },
+        {
+            "reference": "MP2",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "no_connect"
+        }
+    ]
 }

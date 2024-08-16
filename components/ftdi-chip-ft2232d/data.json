@@ -9,5 +9,6 @@
     "keywords": "IC",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "LQFP-48_7x7mm_P0.5mm_PadClearance0.2mm_Pad0.3x1.2mm"
+    "blender_model": "LQFP-48_7x7mm_P0.5mm_PadClearance0.2mm_Pad0.3x1.2mm",
+    "pads": []
 }

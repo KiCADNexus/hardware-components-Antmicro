@@ -9,5 +9,73 @@
     "keywords": "SMT, PMIC, IC, VOLTAGE, REGULATOR, SWITCHING, DC-DC",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "DFN-10-1EP_3x3mm"
+    "blender_model": "DFN-10-1EP_3x3mm",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "VRI",
+            "alternate_pin_names": [],
+            "electrical_type": "unspecified"
+        },
+        {
+            "reference": "2",
+            "pin_name": "PVCC",
+            "alternate_pin_names": [],
+            "electrical_type": "unspecified"
+        },
+        {
+            "reference": "3",
+            "pin_name": "VTT",
+            "alternate_pin_names": [],
+            "electrical_type": "unspecified"
+        },
+        {
+            "reference": "4",
+            "pin_name": "PGND",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        },
+        {
+            "reference": "5",
+            "pin_name": "VTTS",
+            "alternate_pin_names": [],
+            "electrical_type": "unspecified"
+        },
+        {
+            "reference": "6",
+            "pin_name": "VRO",
+            "alternate_pin_names": [],
+            "electrical_type": "unspecified"
+        },
+        {
+            "reference": "7",
+            "pin_name": "EN",
+            "alternate_pin_names": [],
+            "electrical_type": "unspecified"
+        },
+        {
+            "reference": "8",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        },
+        {
+            "reference": "9",
+            "pin_name": "PGOOD",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        },
+        {
+            "reference": "10",
+            "pin_name": "VCC",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        },
+        {
+            "reference": "11",
+            "pin_name": "EPAD",
+            "alternate_pin_names": [],
+            "electrical_type": "unspecified"
+        }
+    ]
 }

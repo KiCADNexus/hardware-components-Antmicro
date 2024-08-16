@@ -9,5 +9,61 @@
     "keywords": "SMT, DIGITAL, POTENTIOMETER, IC, SPI",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "MSOP-10_W3mm-analog-devices-ad5290yrmz100-r7"
+    "blender_model": "MSOP-10_W3mm-analog-devices-ad5290yrmz100-r7",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "A",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "2",
+            "pin_name": "B",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "3",
+            "pin_name": "V_{SS}",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        },
+        {
+            "reference": "5",
+            "pin_name": "~{CS}",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "6",
+            "pin_name": "CLK",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "7",
+            "pin_name": "SDI",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "8",
+            "pin_name": "SDO",
+            "alternate_pin_names": [],
+            "electrical_type": "output"
+        },
+        {
+            "reference": "9",
+            "pin_name": "V_{DD}",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        },
+        {
+            "reference": "10",
+            "pin_name": "W",
+            "alternate_pin_names": [],
+            "electrical_type": "output"
+        }
+    ]
 }

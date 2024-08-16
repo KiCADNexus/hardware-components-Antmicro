@@ -9,5 +9,13 @@
     "keywords": "SPACER, MECHANICAL",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "Spacer_Pad4mm_H2.5mm_97730256330R"
+    "blender_model": "Spacer_Pad4mm_H2.5mm_97730256330R",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        }
+    ]
 }

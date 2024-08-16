@@ -9,5 +9,31 @@
     "keywords": "REGULATOR, LDO",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "SOT-223"
+    "blender_model": "SOT-223",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        },
+        {
+            "reference": "2",
+            "pin_name": "VOUT",
+            "alternate_pin_names": [],
+            "electrical_type": "power_out"
+        },
+        {
+            "reference": "3",
+            "pin_name": "IN",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "4",
+            "pin_name": "VOUT",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        }
+    ]
 }

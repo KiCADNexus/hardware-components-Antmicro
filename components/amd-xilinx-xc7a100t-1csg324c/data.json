@@ -9,5 +9,1951 @@
     "keywords": "IC, FPGA, SMT",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "BGA-324_15x15mm_Layout18x18_P0.8mm_CSG324"
+    "blender_model": "BGA-324_15x15mm_Layout18x18_P0.8mm_CSG324",
+    "pads": [
+        {
+            "reference": "A1",
+            "pin_name": "IO_L9N_T1_DQS_AD7N_35",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "A2",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "A3",
+            "pin_name": "IO_L8N_T1_AD14N_35",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "A4",
+            "pin_name": "IO_L8P_T1_AD14P_35",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "A5",
+            "pin_name": "IO_L3N_T0_DQS_AD5N_35",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "A6",
+            "pin_name": "IO_L3P_T0_DQS_AD5P_35",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "A7",
+            "pin_name": "VCCO_35",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "A8",
+            "pin_name": "IO_L12N_T1_MRCC_16",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "A9",
+            "pin_name": "IO_L14N_T2_SRCC_16",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "A10",
+            "pin_name": "IO_L14P_T2_SRCC_16",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "A11",
+            "pin_name": "IO_L4N_T0_15",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "A12",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "A13",
+            "pin_name": "IO_L9P_T1_DQS_AD3P_15",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "A14",
+            "pin_name": "IO_L9N_T1_DQS_AD3N_15",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "A15",
+            "pin_name": "IO_L8P_T1_AD10P_15",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "A16",
+            "pin_name": "IO_L8N_T1_AD10N_15",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "A17",
+            "pin_name": "VCCO_15",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "A18",
+            "pin_name": "IO_L10N_T1_AD11N_15",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "B1",
+            "pin_name": "IO_L9P_T1_DQS_AD7P_35",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "B2",
+            "pin_name": "IO_L10N_T1_AD15N_35",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "B3",
+            "pin_name": "IO_L10P_T1_AD15P_35",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "B4",
+            "pin_name": "IO_L7N_T1_AD6N_35",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "B5",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "B6",
+            "pin_name": "IO_L2N_T0_AD12N_35",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "B7",
+            "pin_name": "IO_L2P_T0_AD12P_35",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "B8",
+            "pin_name": "IO_L12P_T1_MRCC_16",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "B9",
+            "pin_name": "IO_L11N_T1_SRCC_16",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "B10",
+            "pin_name": "VCCO_16",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "B11",
+            "pin_name": "IO_L4P_T0_15",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "B12",
+            "pin_name": "IO_L3N_T0_DQS_AD1N_15",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "B13",
+            "pin_name": "IO_L2P_T0_AD8P_15",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "B14",
+            "pin_name": "IO_L2N_T0_AD8N_15",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "B15",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "B16",
+            "pin_name": "IO_L7P_T1_AD2P_15",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "B17",
+            "pin_name": "IO_L7N_T1_AD2N_15",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "B18",
+            "pin_name": "IO_L10P_T1_AD11P_15",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "C1",
+            "pin_name": "IO_L16N_T2_35",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "C2",
+            "pin_name": "IO_L16P_T2_35",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "C3",
+            "pin_name": "VCCO_35",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "C4",
+            "pin_name": "IO_L7P_T1_AD6P_35",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "C5",
+            "pin_name": "IO_L1N_T0_AD4N_35",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "C6",
+            "pin_name": "IO_L1P_T0_AD4P_35",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "C7",
+            "pin_name": "IO_L4N_T0_35",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "C8",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "C9",
+            "pin_name": "IO_L11P_T1_SRCC_16",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "C10",
+            "pin_name": "IO_L13N_T2_MRCC_16",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "C11",
+            "pin_name": "IO_L13P_T2_MRCC_16",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "C12",
+            "pin_name": "IO_L3P_T0_DQS_AD1P_15",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "C13",
+            "pin_name": "VCCO_15",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "C14",
+            "pin_name": "IO_L1N_T0_AD0N_15",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "C15",
+            "pin_name": "IO_L12N_T1_MRCC_15",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "C16",
+            "pin_name": "IO_L20P_T3_A20_15",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "C17",
+            "pin_name": "IO_L20N_T3_A19_15",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "C18",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "D1",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "D2",
+            "pin_name": "IO_L14N_T2_SRCC_35",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "D3",
+            "pin_name": "IO_L12N_T1_MRCC_35",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "D4",
+            "pin_name": "IO_L11N_T1_SRCC_35",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "D5",
+            "pin_name": "IO_L11P_T1_SRCC_35",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "D6",
+            "pin_name": "VCCO_35",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "D7",
+            "pin_name": "IO_L6N_T0_VREF_35",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "D8",
+            "pin_name": "IO_L4P_T0_35",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "D9",
+            "pin_name": "IO_L6N_T0_VREF_16",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "D10",
+            "pin_name": "IO_L19N_T3_VREF_16",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "D11",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "D12",
+            "pin_name": "IO_L6P_T0_15",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "D13",
+            "pin_name": "IO_L6N_T0_VREF_15",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "D14",
+            "pin_name": "IO_L1P_T0_AD0P_15",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "D15",
+            "pin_name": "IO_L12P_T1_MRCC_15",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "D16",
+            "pin_name": "VCCO_15",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "D17",
+            "pin_name": "IO_L16N_T2_A27_15",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "D18",
+            "pin_name": "IO_L21N_T3_DQS_A18_15",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "E1",
+            "pin_name": "IO_L18N_T2_35",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "E2",
+            "pin_name": "IO_L14P_T2_SRCC_35",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "E3",
+            "pin_name": "IO_L12P_T1_MRCC_35",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "E4",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "E5",
+            "pin_name": "IO_L5N_T0_AD13N_35",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "E6",
+            "pin_name": "IO_L5P_T0_AD13P_35",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "E7",
+            "pin_name": "IO_L6P_T0_35",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "E8",
+            "pin_name": "VCCBATT_0",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "E9",
+            "pin_name": "CCLK_0",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "E10",
+            "pin_name": "TCK_0",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "E11",
+            "pin_name": "TDI_0",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "E12",
+            "pin_name": "TMS_0",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "E13",
+            "pin_name": "TDO_0",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "E14",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "E15",
+            "pin_name": "IO_L11P_T1_SRCC_15",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "E16",
+            "pin_name": "IO_L11N_T1_SRCC_15",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "E17",
+            "pin_name": "IO_L16P_T2_A28_15",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "E18",
+            "pin_name": "IO_L21P_T3_DQS_15",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "F1",
+            "pin_name": "IO_L18P_T2_35",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "F2",
+            "pin_name": "VCCO_35",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "F3",
+            "pin_name": "IO_L13N_T2_MRCC_35",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "F4",
+            "pin_name": "IO_L13P_T2_MRCC_35",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "F5",
+            "pin_name": "IO_0_35",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "F6",
+            "pin_name": "IO_L19N_T3_VREF_35",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "F7",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "F8",
+            "pin_name": "VCCINT",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "F9",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "F10",
+            "pin_name": "VCCBRAM",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "F11",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "F12",
+            "pin_name": "VCCAUX",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "F13",
+            "pin_name": "IO_L5P_T0_AD9P_15",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "F14",
+            "pin_name": "IO_L5N_T0_AD9N_15",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "F15",
+            "pin_name": "IO_L14P_T2_SRCC_15",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "F16",
+            "pin_name": "IO_L14N_T2_SRCC_15",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "F17",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "F18",
+            "pin_name": "IO_L22N_T3_A16_15",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "G1",
+            "pin_name": "IO_L17N_T2_35",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "G2",
+            "pin_name": "IO_L15N_T2_DQS_35",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "G3",
+            "pin_name": "IO_L20N_T3_35",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "G4",
+            "pin_name": "IO_L20P_T3_35",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "G5",
+            "pin_name": "VCCO_35",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "G6",
+            "pin_name": "IO_L19P_T3_35",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "G7",
+            "pin_name": "VCCINT",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "G8",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "G9",
+            "pin_name": "VCCINT",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "G10",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "G11",
+            "pin_name": "VCCBRAM",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "G12",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "G13",
+            "pin_name": "IO_0_15",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "G14",
+            "pin_name": "IO_L15N_T2_DQS_ADV_B_15",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "G15",
+            "pin_name": "VCCO_15",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "G16",
+            "pin_name": "IO_L13N_T2_MRCC_15",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "G17",
+            "pin_name": "IO_L18N_T2_A23_15",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "G18",
+            "pin_name": "IO_L22P_T3_A17_15",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "H1",
+            "pin_name": "IO_L17P_T2_35",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "H2",
+            "pin_name": "IO_L15P_T2_DQS_35",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "H3",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "H4",
+            "pin_name": "IO_L21N_T3_DQS_35",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "H5",
+            "pin_name": "IO_L24N_T3_35",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "H6",
+            "pin_name": "IO_L24P_T3_35",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "H7",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "H8",
+            "pin_name": "VCCINT",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "H9",
+            "pin_name": "GNDADC_0",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "H10",
+            "pin_name": "VCCADC_0",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "H11",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "H12",
+            "pin_name": "VCCAUX",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "H13",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "H14",
+            "pin_name": "IO_L15P_T2_DQS_15",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "H15",
+            "pin_name": "IO_L19N_T3_A21_VREF_15",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "H16",
+            "pin_name": "IO_L13P_T2_MRCC_15",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "H17",
+            "pin_name": "IO_L18P_T2_A24_15",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "H18",
+            "pin_name": "VCCO_15",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "J1",
+            "pin_name": "VCCO_35",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "J2",
+            "pin_name": "IO_L22N_T3_35",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "J3",
+            "pin_name": "IO_L22P_T3_35",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "J4",
+            "pin_name": "IO_L21P_T3_DQS_35",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "J5",
+            "pin_name": "IO_25_35",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "J6",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "J7",
+            "pin_name": "VCCINT",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "J8",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "J9",
+            "pin_name": "VREFN_0",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "J10",
+            "pin_name": "VP_0",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "J11",
+            "pin_name": "VCCINT",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "J12",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "J13",
+            "pin_name": "IO_L17N_T2_A25_15",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "J14",
+            "pin_name": "IO_L19P_T3_A22_15",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "J15",
+            "pin_name": "IO_L24N_T3_RS0_15",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "J16",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "J17",
+            "pin_name": "IO_L23P_T3_FOE_B_15",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "J18",
+            "pin_name": "IO_L23N_T3_FWE_B_15",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "K1",
+            "pin_name": "IO_L23N_T3_35",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "K2",
+            "pin_name": "IO_L23P_T3_35",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "K3",
+            "pin_name": "IO_L2P_T0_34",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "K4",
+            "pin_name": "VCCO_34",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "K5",
+            "pin_name": "IO_L5P_T0_34",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "K6",
+            "pin_name": "IO_0_34",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "K7",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "K8",
+            "pin_name": "VCCINT",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "K9",
+            "pin_name": "VN_0",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "K10",
+            "pin_name": "VREFP_0",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "K11",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "K12",
+            "pin_name": "VCCAUX",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "K13",
+            "pin_name": "IO_L17P_T2_A26_15",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "K14",
+            "pin_name": "VCCO_15",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "K15",
+            "pin_name": "IO_L24P_T3_RS1_15",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "K16",
+            "pin_name": "IO_25_15",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "K17",
+            "pin_name": "IO_L1P_T0_D00_MOSI_14",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "K18",
+            "pin_name": "IO_L1N_T0_D01_DIN_14",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "L1",
+            "pin_name": "IO_L1P_T0_34",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "L2",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "L3",
+            "pin_name": "IO_L2N_T0_34",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "L4",
+            "pin_name": "IO_L5N_T0_34",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "L5",
+            "pin_name": "IO_L6N_T0_VREF_34",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "L6",
+            "pin_name": "IO_L6P_T0_34",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "L7",
+            "pin_name": "VCCINT",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "L8",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "L9",
+            "pin_name": "DXN_0",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "L10",
+            "pin_name": "DXP_0",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "L11",
+            "pin_name": "VCCINT",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "L12",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "L13",
+            "pin_name": "IO_L6P_T0_FCS_B_14",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "L14",
+            "pin_name": "IO_L2P_T0_D02_14",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "L15",
+            "pin_name": "IO_L3P_T0_DQS_PUDC_B_14",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "L16",
+            "pin_name": "IO_L3N_T0_DQS_EMCCLK_14",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "L17",
+            "pin_name": "VCCO_14",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "L18",
+            "pin_name": "IO_L4P_T0_D04_14",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "M1",
+            "pin_name": "IO_L1N_T0_34",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "M2",
+            "pin_name": "IO_L4N_T0_34",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "M3",
+            "pin_name": "IO_L4P_T0_34",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "M4",
+            "pin_name": "IO_L16P_T2_34",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "M5",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "M6",
+            "pin_name": "IO_L18P_T2_34",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "M7",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "M8",
+            "pin_name": "VCCINT",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "M9",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "M10",
+            "pin_name": "VCCINT",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "M11",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "M12",
+            "pin_name": "VCCAUX",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "M13",
+            "pin_name": "IO_L6N_T0_D08_VREF_14",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "M14",
+            "pin_name": "IO_L2N_T0_D03_14",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "M15",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "M16",
+            "pin_name": "IO_L10P_T1_D14_14",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "M17",
+            "pin_name": "IO_L10N_T1_D15_14",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "M18",
+            "pin_name": "IO_L4N_T0_D05_14",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "N1",
+            "pin_name": "IO_L3N_T0_DQS_34",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "N2",
+            "pin_name": "IO_L3P_T0_DQS_34",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "N3",
+            "pin_name": "VCCO_34",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "N4",
+            "pin_name": "IO_L16N_T2_34",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "N5",
+            "pin_name": "IO_L13P_T2_MRCC_34",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "N6",
+            "pin_name": "IO_L18N_T2_34",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "N7",
+            "pin_name": "VCCINT",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "N8",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "N9",
+            "pin_name": "VCCINT",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "N10",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "N11",
+            "pin_name": "VCCINT",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "N12",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "N13",
+            "pin_name": "VCCO_14",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "N14",
+            "pin_name": "IO_L8P_T1_D11_14",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "N15",
+            "pin_name": "IO_L11P_T1_SRCC_14",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "N16",
+            "pin_name": "IO_L11N_T1_SRCC_14",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "N17",
+            "pin_name": "IO_L9P_T1_DQS_14",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "N18",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "P1",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "P2",
+            "pin_name": "IO_L15P_T2_DQS_34",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "P3",
+            "pin_name": "IO_L14N_T2_SRCC_34",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "P4",
+            "pin_name": "IO_L14P_T2_SRCC_34",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "P5",
+            "pin_name": "IO_L13N_T2_MRCC_34",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "P6",
+            "pin_name": "VCCO_34",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "P7",
+            "pin_name": "INIT_B_0",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "P8",
+            "pin_name": "CFGBVS_0",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "P9",
+            "pin_name": "PROGRAM_B_0",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "P10",
+            "pin_name": "DONE_0",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "P11",
+            "pin_name": "M2_0",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "P12",
+            "pin_name": "M0_0",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "P13",
+            "pin_name": "M1_0",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "P14",
+            "pin_name": "IO_L8N_T1_D12_14",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "P15",
+            "pin_name": "IO_L13P_T2_MRCC_14",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "P16",
+            "pin_name": "VCCO_14",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "P17",
+            "pin_name": "IO_L12P_T1_MRCC_14",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "P18",
+            "pin_name": "IO_L9N_T1_DQS_D13_14",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "R1",
+            "pin_name": "IO_L17P_T2_34",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "R2",
+            "pin_name": "IO_L15N_T2_DQS_34",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "R3",
+            "pin_name": "IO_L11P_T1_SRCC_34",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "R4",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "R5",
+            "pin_name": "IO_L19N_T3_VREF_34",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "R6",
+            "pin_name": "IO_L19P_T3_34",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "R7",
+            "pin_name": "IO_L23P_T3_34",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "R8",
+            "pin_name": "IO_L24P_T3_34",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "R9",
+            "pin_name": "VCCO_0",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "R10",
+            "pin_name": "IO_25_14",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "R11",
+            "pin_name": "IO_0_14",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "R12",
+            "pin_name": "IO_L5P_T0_D06_14",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "R13",
+            "pin_name": "IO_L5N_T0_D07_14",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "R14",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "R15",
+            "pin_name": "IO_L13N_T2_MRCC_14",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "R16",
+            "pin_name": "IO_L15P_T2_DQS_RDWR_B_14",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "R17",
+            "pin_name": "IO_L12N_T1_MRCC_14",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "R18",
+            "pin_name": "IO_L7P_T1_D09_14",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "T1",
+            "pin_name": "IO_L17N_T2_34",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "T2",
+            "pin_name": "VCCO_34",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "T3",
+            "pin_name": "IO_L11N_T1_SRCC_34",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "T4",
+            "pin_name": "IO_L12N_T1_MRCC_34",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "T5",
+            "pin_name": "IO_L12P_T1_MRCC_34",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "T6",
+            "pin_name": "IO_L23N_T3_34",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "T7",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "T8",
+            "pin_name": "IO_L24N_T3_34",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "T9",
+            "pin_name": "IO_L24P_T3_A01_D17_14",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "T10",
+            "pin_name": "IO_L24N_T3_A00_D16_14",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "T11",
+            "pin_name": "IO_L19P_T3_A10_D26_14",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "T12",
+            "pin_name": "VCCO_14",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "T13",
+            "pin_name": "IO_L23P_T3_A03_D19_14",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "T14",
+            "pin_name": "IO_L14P_T2_SRCC_14",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "T15",
+            "pin_name": "IO_L14N_T2_SRCC_14",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "T16",
+            "pin_name": "IO_L15N_T2_DQS_DOUT_CSO_B_14",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "T17",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "T18",
+            "pin_name": "IO_L7N_T1_D10_14",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "U1",
+            "pin_name": "IO_L7P_T1_34",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "U2",
+            "pin_name": "IO_L9P_T1_DQS_34",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "U3",
+            "pin_name": "IO_L8N_T1_34",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "U4",
+            "pin_name": "IO_L8P_T1_34",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "U5",
+            "pin_name": "VCCO_34",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "U6",
+            "pin_name": "IO_L22N_T3_34",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "U7",
+            "pin_name": "IO_L22P_T3_34",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "U8",
+            "pin_name": "IO_25_34",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "U9",
+            "pin_name": "IO_L21P_T3_DQS_34",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "U10",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "U11",
+            "pin_name": "IO_L19N_T3_A09_D25_VREF_14",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "U12",
+            "pin_name": "IO_L20P_T3_A08_D24_14",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "U13",
+            "pin_name": "IO_L23N_T3_A02_D18_14",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "U14",
+            "pin_name": "IO_L22P_T3_A05_D21_14",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "U15",
+            "pin_name": "VCCO_14",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "U16",
+            "pin_name": "IO_L18P_T2_A12_D28_14",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "U17",
+            "pin_name": "IO_L17P_T2_A14_D30_14",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "U18",
+            "pin_name": "IO_L17N_T2_A13_D29_14",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "V1",
+            "pin_name": "IO_L7N_T1_34",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "V2",
+            "pin_name": "IO_L9N_T1_DQS_34",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "V3",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "V4",
+            "pin_name": "IO_L10N_T1_34",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "V5",
+            "pin_name": "IO_L10P_T1_34",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "V6",
+            "pin_name": "IO_L20N_T3_34",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "V7",
+            "pin_name": "IO_L20P_T3_34",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "V8",
+            "pin_name": "VCCO_34",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "V9",
+            "pin_name": "IO_L21N_T3_DQS_34",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "V10",
+            "pin_name": "IO_L21P_T3_DQS_14",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "V11",
+            "pin_name": "IO_L21N_T3_DQS_A06_D22_14",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "V12",
+            "pin_name": "IO_L20N_T3_A07_D23_14",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "V13",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "V14",
+            "pin_name": "IO_L22N_T3_A04_D20_14",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "V15",
+            "pin_name": "IO_L16P_T2_CSI_B_14",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "V16",
+            "pin_name": "IO_L16N_T2_A15_D31_14",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "V17",
+            "pin_name": "IO_L18N_T2_A11_D27_14",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "V18",
+            "pin_name": "VCCO_14",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        }
+    ]
 }

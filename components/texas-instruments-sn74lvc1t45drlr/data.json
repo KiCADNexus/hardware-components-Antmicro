@@ -9,5 +9,43 @@
     "keywords": "IC, LEVEL-SHIFTER",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "SOT-553-6"
+    "blender_model": "SOT-553-6",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "VCCA",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        },
+        {
+            "reference": "2",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        },
+        {
+            "reference": "3",
+            "pin_name": "A",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        },
+        {
+            "reference": "4",
+            "pin_name": "B",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        },
+        {
+            "reference": "5",
+            "pin_name": "DIR",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "6",
+            "pin_name": "VCCB",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        }
+    ]
 }

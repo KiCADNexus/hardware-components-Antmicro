@@ -9,5 +9,25 @@
     "keywords": "UFL, COAXIAL, CONNECTOR",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "Coax_Conn_U.FL"
+    "blender_model": "Coax_Conn_U.FL",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "SH1",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "SH2",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        }
+    ]
 }

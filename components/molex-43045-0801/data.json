@@ -9,5 +9,55 @@
     "keywords": "CONNECTOR, THT, WIRE-BOARD, HORIZONTAL",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "Conn_Molex_Micro-Fit_2x4_430450801"
+    "blender_model": "Conn_Molex_Micro-Fit_2x4_430450801",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "2",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "3",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "4",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "5",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "6",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "7",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "8",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        }
+    ]
 }

@@ -9,5 +9,6 @@
     "keywords": "SMT, DIODE, SEMICONDUCTOR, LED",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "LED_Dual0603"
+    "blender_model": "LED_Dual0603",
+    "pads": []
 }

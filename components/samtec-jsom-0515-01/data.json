@@ -9,5 +9,13 @@
     "keywords": "SPACER",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "Spacer_Drill4.45mm_H5.15mm_JSOM-0515-01"
+    "blender_model": "Spacer_Drill4.45mm_H5.15mm_JSOM-0515-01",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        }
+    ]
 }

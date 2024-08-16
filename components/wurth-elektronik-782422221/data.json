@@ -9,5 +9,19 @@
     "keywords": "PASSIVE, FERRITE BEAD",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "FB_0402_1005Metric"
+    "blender_model": "FB_0402_1005Metric",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "2",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        }
+    ]
 }

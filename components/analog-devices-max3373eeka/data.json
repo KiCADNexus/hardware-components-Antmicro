@@ -9,5 +9,55 @@
     "keywords": "LEVEL-SHIFTER, IC",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "SOT-23-8-analog-devices-max3373eeka"
+    "blender_model": "SOT-23-8-analog-devices-max3373eeka",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "IO_V_{CC}2",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        },
+        {
+            "reference": "2",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        },
+        {
+            "reference": "3",
+            "pin_name": "V_{L}",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        },
+        {
+            "reference": "4",
+            "pin_name": "IO_V_{L}2",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        },
+        {
+            "reference": "5",
+            "pin_name": "IO_V_{L}1",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        },
+        {
+            "reference": "6",
+            "pin_name": "~{THREE_STATE}",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "7",
+            "pin_name": "V_{CC}",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        },
+        {
+            "reference": "8",
+            "pin_name": "IO_V_{CC}1",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        }
+    ]
 }

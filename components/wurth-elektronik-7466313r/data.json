@@ -9,5 +9,13 @@
     "keywords": "HORIZONTAL, SMT, WIRE-BOARD, CONNECTOR",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "MP_Terminal_M3_SMD_7466313R"
+    "blender_model": "MP_Terminal_M3_SMD_7466313R",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        }
+    ]
 }

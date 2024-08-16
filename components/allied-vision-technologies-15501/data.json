@@ -9,5 +9,6 @@
     "keywords": "SENSOR, MODULE",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "Alvium_1800_C-508c"
+    "blender_model": "Alvium_1800_C-508c",
+    "pads": []
 }

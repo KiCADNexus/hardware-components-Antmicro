@@ -9,5 +9,25 @@
     "keywords": "IC",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "SOT-23-3"
+    "blender_model": "SOT-23-3",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "~{RST}",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "2",
+            "pin_name": "VCC",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "3",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        }
+    ]
 }

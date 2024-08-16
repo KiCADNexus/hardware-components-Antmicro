@@ -9,5 +9,13 @@
     "keywords": "SPACER",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "Spacer_Drill4.4mm_H9mm_9774090360R"
+    "blender_model": "Spacer_Drill4.4mm_H9mm_9774090360R",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        }
+    ]
 }

@@ -9,5 +9,55 @@
     "keywords": "IC",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "Texas_DSBGA-8_1.9x0.9mm_Layout2x4_P0.5mm"
+    "blender_model": "Texas_DSBGA-8_1.9x0.9mm_Layout2x4_P0.5mm",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "B2",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        },
+        {
+            "reference": "2",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        },
+        {
+            "reference": "3",
+            "pin_name": "V_{CCA}",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        },
+        {
+            "reference": "4",
+            "pin_name": "A2",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        },
+        {
+            "reference": "5",
+            "pin_name": "A1",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        },
+        {
+            "reference": "6",
+            "pin_name": "OE",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "7",
+            "pin_name": "V_{CCB}",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        },
+        {
+            "reference": "8",
+            "pin_name": "B1",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        }
+    ]
 }

@@ -9,5 +9,6 @@
     "keywords": "SMT, CAPACITOR, PASSIVE",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "1812-cap"
+    "blender_model": "1812-cap",
+    "pads": []
 }

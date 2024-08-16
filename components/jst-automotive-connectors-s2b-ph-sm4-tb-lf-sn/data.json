@@ -9,5 +9,31 @@
     "keywords": "CONNECTOR, SMT",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "Conn_JST_PH_1x2_S2B-PH-SM4-TB-LF-SN"
+    "blender_model": "Conn_JST_PH_1x2_S2B-PH-SM4-TB-LF-SN",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "2",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "MP",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "MP",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        }
+    ]
 }

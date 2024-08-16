@@ -9,5 +9,25 @@
     "keywords": "PASSIVE",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "POT_R0141-2"
+    "blender_model": "POT_R0141-2",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "2",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "3",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        }
+    ]
 }

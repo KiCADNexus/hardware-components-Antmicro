@@ -9,5 +9,37 @@
     "keywords": "AUDIO, SMT",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "MK_SPK0641HT4H-1-knowles-spk0641ht4h-1"
+    "blender_model": "MK_SPK0641HT4H-1-knowles-spk0641ht4h-1",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "DATA",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "2",
+            "pin_name": "VDD",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "3",
+            "pin_name": "CLOCK",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "4",
+            "pin_name": "SELECT",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "5",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        }
+    ]
 }

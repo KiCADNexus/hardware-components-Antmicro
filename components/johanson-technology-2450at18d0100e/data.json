@@ -9,5 +9,31 @@
     "keywords": "ANTENNA, SMT",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "2450AT18D0100E"
+    "blender_model": "2450AT18D0100E",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "FEED",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "2",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "3",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "4",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        }
+    ]
 }

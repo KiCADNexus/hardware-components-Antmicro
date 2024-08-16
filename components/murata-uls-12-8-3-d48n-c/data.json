@@ -9,5 +9,55 @@
     "keywords": "THT, PMIC, IC, DC-DC, CONVERTER, MODULE",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "ULS-12_5-D48N-C"
+    "blender_model": "ULS-12_5-D48N-C",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "VIN+",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        },
+        {
+            "reference": "2",
+            "pin_name": "CTRL",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "3",
+            "pin_name": "VIN-",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        },
+        {
+            "reference": "4",
+            "pin_name": "VOUT-",
+            "alternate_pin_names": [],
+            "electrical_type": "power_out"
+        },
+        {
+            "reference": "5",
+            "pin_name": "SENSE-",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "6",
+            "pin_name": "TRIM",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "7",
+            "pin_name": "SENSE+",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "8",
+            "pin_name": "VOUT+",
+            "alternate_pin_names": [],
+            "electrical_type": "power_out"
+        }
+    ]
 }

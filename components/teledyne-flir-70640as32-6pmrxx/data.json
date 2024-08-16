@@ -9,5 +9,6 @@
     "keywords": "SENSOR, MODULE, VIDEO, MIPI",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "Teledyne-FLIR_Hadron-640R"
+    "blender_model": "Teledyne-FLIR_Hadron-640R",
+    "pads": []
 }

@@ -9,5 +9,6 @@
     "keywords": "SENSOR, MODULE, CMOS",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "FRAMOS_FSM-GO-IMX676C"
+    "blender_model": "FRAMOS_FSM-GO-IMX676C",
+    "pads": []
 }

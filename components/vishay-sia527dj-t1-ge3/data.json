@@ -9,5 +9,55 @@
     "keywords": "MOSFET, TRANSISTOR, ARRAY, SMT",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "PowerPAK-SC-70-6-vishay-sia527dj-t1-ge3"
+    "blender_model": "PowerPAK-SC-70-6-vishay-sia527dj-t1-ge3",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "S1",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "2",
+            "pin_name": "G1",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "3",
+            "pin_name": "D2",
+            "alternate_pin_names": [],
+            "electrical_type": "output"
+        },
+        {
+            "reference": "3",
+            "pin_name": "D2",
+            "alternate_pin_names": [],
+            "electrical_type": "output"
+        },
+        {
+            "reference": "4",
+            "pin_name": "S2",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "5",
+            "pin_name": "G2",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "6",
+            "pin_name": "D1",
+            "alternate_pin_names": [],
+            "electrical_type": "output"
+        },
+        {
+            "reference": "6",
+            "pin_name": "D1",
+            "alternate_pin_names": [],
+            "electrical_type": "output"
+        }
+    ]
 }

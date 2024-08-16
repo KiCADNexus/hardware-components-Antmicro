@@ -9,5 +9,6 @@
     "keywords": "IC",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "QFN-20-1EP_3x3mm_P0.5mm_SI"
+    "blender_model": "QFN-20-1EP_3x3mm_P0.5mm_SI",
+    "pads": []
 }

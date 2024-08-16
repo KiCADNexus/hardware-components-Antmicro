@@ -9,5 +9,6 @@
     "keywords": "HORIZONTAL, THT, MECHANICAL",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "Mech_Lightpipe_Bivar_SLP3-300-250-F"
+    "blender_model": "Mech_Lightpipe_Bivar_SLP3-300-250-F",
+    "pads": []
 }

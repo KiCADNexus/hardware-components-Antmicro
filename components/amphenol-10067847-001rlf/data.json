@@ -9,5 +9,85 @@
     "keywords": "HORIZONTAL, SMT, MEMORY, CONNECTOR",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "SD_10067847-001RLF"
+    "blender_model": "SD_10067847-001RLF",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "DAT3/CD",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        },
+        {
+            "reference": "2",
+            "pin_name": "CMD",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        },
+        {
+            "reference": "3",
+            "pin_name": "VSS",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        },
+        {
+            "reference": "4",
+            "pin_name": "VDD",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        },
+        {
+            "reference": "5",
+            "pin_name": "CLK",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        },
+        {
+            "reference": "6",
+            "pin_name": "VSS",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "7",
+            "pin_name": "DAT0",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        },
+        {
+            "reference": "8",
+            "pin_name": "DAT1",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        },
+        {
+            "reference": "9",
+            "pin_name": "DAT2",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        },
+        {
+            "reference": "CD",
+            "pin_name": "CD",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "G1",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        },
+        {
+            "reference": "G2",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "WP",
+            "pin_name": "WP",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        }
+    ]
 }

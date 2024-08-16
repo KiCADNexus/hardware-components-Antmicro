@@ -9,5 +9,19 @@
     "keywords": "POLARIZED, ALUMINUM, CAPACITOR, SMT",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "C_Pol_Panasonic-C6-D6.3mm-H5.9mm"
+    "blender_model": "C_Pol_Panasonic-C6-D6.3mm-H5.9mm",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "2",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        }
+    ]
 }

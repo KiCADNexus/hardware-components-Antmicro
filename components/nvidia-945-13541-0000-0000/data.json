@@ -9,5 +9,6 @@
     "keywords": "MODULE, SOM",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "Module_Jetson-Nano"
+    "blender_model": "Module_Jetson-Nano",
+    "pads": []
 }

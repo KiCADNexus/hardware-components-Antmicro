@@ -9,5 +9,6 @@
     "keywords": "SMT, IC, FPGA",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "BGA-2809-2736_50x50mm_Layout53x53_P0.92mm_AMD-Xilinx_VSVA2785-VP1202"
+    "blender_model": "BGA-2809-2736_50x50mm_Layout53x53_P0.92mm_AMD-Xilinx_VSVA2785-VP1202",
+    "pads": []
 }

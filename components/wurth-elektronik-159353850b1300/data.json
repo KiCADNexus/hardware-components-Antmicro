@@ -9,5 +9,19 @@
     "keywords": "SMT, DIODE, SEMICONDUCTOR, LED",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "LED_WL-VCSL_1414"
+    "blender_model": "LED_WL-VCSL_1414",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "A",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "2",
+            "pin_name": "C",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        }
+    ]
 }

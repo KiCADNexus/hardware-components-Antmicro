@@ -9,5 +9,31 @@
     "keywords": "SMT, RESISTOR, SENSOR",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "R_Shunt_Vishay_WSK2512"
+    "blender_model": "R_Shunt_Vishay_WSK2512",
+    "pads": [
+        {
+            "reference": "I1",
+            "pin_name": "I1",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "I2",
+            "pin_name": "I2",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "V1",
+            "pin_name": "V1",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "V2",
+            "pin_name": "V2",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        }
+    ]
 }

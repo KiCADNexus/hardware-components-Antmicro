@@ -9,5 +9,55 @@
     "keywords": "SMT, MEMORY, IC, SPI",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "Fujitsu_WLP-8_2.28x3.092mm_P0.5mm-fujitsu-mb85rs1mtpw-g-apewe1"
+    "blender_model": "Fujitsu_WLP-8_2.28x3.092mm_P0.5mm-fujitsu-mb85rs1mtpw-g-apewe1",
+    "pads": [
+        {
+            "reference": "A1",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        },
+        {
+            "reference": "A3",
+            "pin_name": "D_{IN}",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "B2",
+            "pin_name": "~{WP}",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "C1",
+            "pin_name": "D_{OUT}",
+            "alternate_pin_names": [],
+            "electrical_type": "output"
+        },
+        {
+            "reference": "C3",
+            "pin_name": "SCK",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "D2",
+            "pin_name": "~{HOLD}",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "E1",
+            "pin_name": "~{CS}",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "E3",
+            "pin_name": "VDD",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        }
+    ]
 }

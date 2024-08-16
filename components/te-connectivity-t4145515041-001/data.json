@@ -9,5 +9,31 @@
     "keywords": "HORIZONTAL, THT, CONNECTOR, FEMALE",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "Conn_M12_T4145515041-001"
+    "blender_model": "Conn_M12_T4145515041-001",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "2",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "3",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "4",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        }
+    ]
 }

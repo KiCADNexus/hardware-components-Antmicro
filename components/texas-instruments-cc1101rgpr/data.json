@@ -9,5 +9,133 @@
     "keywords": "IC",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "QFN-20-1EP_4x4mm_P0.5mm_EP2.45x2.45mm"
+    "blender_model": "QFN-20-1EP_4x4mm_P0.5mm_EP2.45x2.45mm",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "SCLK",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "2",
+            "pin_name": "SO(GDO1)",
+            "alternate_pin_names": [],
+            "electrical_type": "output"
+        },
+        {
+            "reference": "3",
+            "pin_name": "GDO2",
+            "alternate_pin_names": [],
+            "electrical_type": "output"
+        },
+        {
+            "reference": "4",
+            "pin_name": "DVDD",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        },
+        {
+            "reference": "5",
+            "pin_name": "DCOUPL",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "6",
+            "pin_name": "GDO0",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        },
+        {
+            "reference": "7",
+            "pin_name": "~{CS}",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "8",
+            "pin_name": "XOSC_{Q1}",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        },
+        {
+            "reference": "9",
+            "pin_name": "AVDD",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "10",
+            "pin_name": "XOSC_{Q2}",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        },
+        {
+            "reference": "11",
+            "pin_name": "AVDD",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        },
+        {
+            "reference": "12",
+            "pin_name": "RF+",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        },
+        {
+            "reference": "13",
+            "pin_name": "RF-",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        },
+        {
+            "reference": "14",
+            "pin_name": "AVDD",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "15",
+            "pin_name": "AVDD",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "16",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        },
+        {
+            "reference": "17",
+            "pin_name": "R_{BIAS}",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "18",
+            "pin_name": "DGUARD",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        },
+        {
+            "reference": "19",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "20",
+            "pin_name": "SI",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "21",
+            "pin_name": "GND_{EP}",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        }
+    ]
 }

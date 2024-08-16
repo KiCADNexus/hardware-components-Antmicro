@@ -9,5 +9,6 @@
     "keywords": "CONNECTOR, HEADER",
     "displayName": null,
     "gitHub": null,
-    "blender_model": null
+    "blender_model": null,
+    "pads": []
 }

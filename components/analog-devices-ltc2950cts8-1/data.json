@@ -9,5 +9,55 @@
     "keywords": "SMT, PMIC, IC, CONTROLLER, ESD",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "SOT-23-8"
+    "blender_model": "SOT-23-8",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "V_{IN}",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        },
+        {
+            "reference": "2",
+            "pin_name": "~{PB}",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "3",
+            "pin_name": "ONT",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "4",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        },
+        {
+            "reference": "5",
+            "pin_name": "~{INT}",
+            "alternate_pin_names": [],
+            "electrical_type": "output"
+        },
+        {
+            "reference": "6",
+            "pin_name": "EN",
+            "alternate_pin_names": [],
+            "electrical_type": "output"
+        },
+        {
+            "reference": "7",
+            "pin_name": "OFFT",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "8",
+            "pin_name": "~{KILL}",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        }
+    ]
 }

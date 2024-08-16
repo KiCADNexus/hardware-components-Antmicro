@@ -9,5 +9,43 @@
     "keywords": "SMT, LOGIC, IC, LEVEL-SHIFTER, VOLTAGE",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "USON-6_1.45x1.0mm_P0.5mm_Texas_DRY6"
+    "blender_model": "USON-6_1.45x1.0mm_P0.5mm_Texas_DRY6",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        },
+        {
+            "reference": "2",
+            "pin_name": "VREF_{A}",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "3",
+            "pin_name": "A1",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        },
+        {
+            "reference": "4",
+            "pin_name": "B1",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        },
+        {
+            "reference": "5",
+            "pin_name": "VREF_{B}",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "6",
+            "pin_name": "EN",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        }
+    ]
 }

@@ -9,5 +9,55 @@
     "keywords": "IC, SMT, TRANSCEIVER",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "SOIC-8_3.9x4.9x1.75mm_P1.27mm"
+    "blender_model": "SOIC-8_3.9x4.9x1.75mm_P1.27mm",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "TXD",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "2",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        },
+        {
+            "reference": "3",
+            "pin_name": "VCC",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        },
+        {
+            "reference": "4",
+            "pin_name": "RXD",
+            "alternate_pin_names": [],
+            "electrical_type": "output"
+        },
+        {
+            "reference": "5",
+            "pin_name": "SPLIT",
+            "alternate_pin_names": [],
+            "electrical_type": "output"
+        },
+        {
+            "reference": "6",
+            "pin_name": "CAN_L",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        },
+        {
+            "reference": "7",
+            "pin_name": "CAN_H",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        },
+        {
+            "reference": "8",
+            "pin_name": "STDBY",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        }
+    ]
 }

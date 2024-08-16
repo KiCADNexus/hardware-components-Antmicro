@@ -9,5 +9,31 @@
     "keywords": "IC, SMT, VOLTAGE, MONITOR",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "SOT-143-4"
+    "blender_model": "SOT-143-4",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "2",
+            "pin_name": "~{RESET}",
+            "alternate_pin_names": [],
+            "electrical_type": "output"
+        },
+        {
+            "reference": "3",
+            "pin_name": "~{MR}",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "4",
+            "pin_name": "VCC",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        }
+    ]
 }

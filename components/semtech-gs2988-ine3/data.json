@@ -9,5 +9,109 @@
     "keywords": "IC",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "QFN-16-1EP_4x4mm_P0.65mm"
+    "blender_model": "QFN-16-1EP_4x4mm_P0.65mm",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "DDI+",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "2",
+            "pin_name": "DDI-",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "3",
+            "pin_name": "V_{EE}",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        },
+        {
+            "reference": "4",
+            "pin_name": "RSET",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "5",
+            "pin_name": "NC",
+            "alternate_pin_names": [],
+            "electrical_type": "no_connect"
+        },
+        {
+            "reference": "6",
+            "pin_name": "~{DISABLE}",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "7",
+            "pin_name": "NC",
+            "alternate_pin_names": [],
+            "electrical_type": "no_connect"
+        },
+        {
+            "reference": "8",
+            "pin_name": "NC",
+            "alternate_pin_names": [],
+            "electrical_type": "no_connect"
+        },
+        {
+            "reference": "9",
+            "pin_name": "V_{CC}",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        },
+        {
+            "reference": "10",
+            "pin_name": "SD/~{HD}",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "11",
+            "pin_name": "SDO-",
+            "alternate_pin_names": [],
+            "electrical_type": "output"
+        },
+        {
+            "reference": "12",
+            "pin_name": "SDO+",
+            "alternate_pin_names": [],
+            "electrical_type": "output"
+        },
+        {
+            "reference": "13",
+            "pin_name": "NC",
+            "alternate_pin_names": [],
+            "electrical_type": "no_connect"
+        },
+        {
+            "reference": "14",
+            "pin_name": "~{OSP}",
+            "alternate_pin_names": [],
+            "electrical_type": "output"
+        },
+        {
+            "reference": "15",
+            "pin_name": "NC",
+            "alternate_pin_names": [],
+            "electrical_type": "no_connect"
+        },
+        {
+            "reference": "16",
+            "pin_name": "~{EQ_EN}",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "17",
+            "pin_name": "EP",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        }
+    ]
 }

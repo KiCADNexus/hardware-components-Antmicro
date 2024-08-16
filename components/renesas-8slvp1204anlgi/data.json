@@ -9,5 +9,109 @@
     "keywords": "IC, CLOCK, BUFFER",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "VQFN-16-1EP_3x3mm_P0.5mm_EP1.1x1.1mm"
+    "blender_model": "VQFN-16-1EP_3x3mm_P0.5mm_EP1.1x1.1mm",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "VEE",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        },
+        {
+            "reference": "2",
+            "pin_name": "SEL",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "3",
+            "pin_name": "PCLK1_P",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "4",
+            "pin_name": "PCLK1_N",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "5",
+            "pin_name": "VCC",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        },
+        {
+            "reference": "6",
+            "pin_name": "PCLK0_P",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "7",
+            "pin_name": "PCLK0_N",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "8",
+            "pin_name": "VREF",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        },
+        {
+            "reference": "9",
+            "pin_name": "Q0_P",
+            "alternate_pin_names": [],
+            "electrical_type": "output"
+        },
+        {
+            "reference": "10",
+            "pin_name": "Q0_N",
+            "alternate_pin_names": [],
+            "electrical_type": "output"
+        },
+        {
+            "reference": "11",
+            "pin_name": "Q1_P",
+            "alternate_pin_names": [],
+            "electrical_type": "output"
+        },
+        {
+            "reference": "12",
+            "pin_name": "Q1_N",
+            "alternate_pin_names": [],
+            "electrical_type": "output"
+        },
+        {
+            "reference": "13",
+            "pin_name": "Q2_P",
+            "alternate_pin_names": [],
+            "electrical_type": "output"
+        },
+        {
+            "reference": "14",
+            "pin_name": "Q2_N",
+            "alternate_pin_names": [],
+            "electrical_type": "output"
+        },
+        {
+            "reference": "15",
+            "pin_name": "Q3_P",
+            "alternate_pin_names": [],
+            "electrical_type": "output"
+        },
+        {
+            "reference": "16",
+            "pin_name": "Q3_N",
+            "alternate_pin_names": [],
+            "electrical_type": "output"
+        },
+        {
+            "reference": "17",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        }
+    ]
 }

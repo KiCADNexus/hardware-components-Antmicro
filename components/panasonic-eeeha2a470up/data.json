@@ -9,5 +9,19 @@
     "keywords": "SMT, CAPACITOR, PASSIVE, POLARIZED, ALUMINUM",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "C_Pol_Panasonic-G-D10mm-H10.2mm"
+    "blender_model": "C_Pol_Panasonic-G-D10mm-H10.2mm",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "2",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        }
+    ]
 }

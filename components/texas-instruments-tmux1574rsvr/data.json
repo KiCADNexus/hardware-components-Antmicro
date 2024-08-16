@@ -9,5 +9,103 @@
     "keywords": "IC",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "UQFN-16-1.8x2.6mm_P0.4mm_Texas_RSV0016A"
+    "blender_model": "UQFN-16-1.8x2.6mm_P0.4mm_Texas_RSV0016A",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "S1B",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        },
+        {
+            "reference": "2",
+            "pin_name": "D1",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        },
+        {
+            "reference": "3",
+            "pin_name": "S2A",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        },
+        {
+            "reference": "4",
+            "pin_name": "S2B",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        },
+        {
+            "reference": "5",
+            "pin_name": "D2",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        },
+        {
+            "reference": "6",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        },
+        {
+            "reference": "7",
+            "pin_name": "D3",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        },
+        {
+            "reference": "8",
+            "pin_name": "S3B",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        },
+        {
+            "reference": "9",
+            "pin_name": "S3A",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        },
+        {
+            "reference": "10",
+            "pin_name": "D4",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        },
+        {
+            "reference": "11",
+            "pin_name": "S4B",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        },
+        {
+            "reference": "12",
+            "pin_name": "S4A",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        },
+        {
+            "reference": "13",
+            "pin_name": "~{EN}",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "14",
+            "pin_name": "VDD",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        },
+        {
+            "reference": "15",
+            "pin_name": "SEL",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "16",
+            "pin_name": "S1A",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        }
+    ]
 }

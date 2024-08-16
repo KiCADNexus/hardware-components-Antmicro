@@ -9,5 +9,6 @@
     "keywords": "IC",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "PSON50P200X300X50-8N"
+    "blender_model": "PSON50P200X300X50-8N",
+    "pads": []
 }

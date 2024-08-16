@@ -1,0 +1,11 @@
+{
+    "blendfile": "C_Pol_Panasonic-D8-D6.3mm-H7.7mm.blend",
+    "previews": [
+        {
+            "id": "iso-front",
+            "description": "Render in iso-front view",
+            "fileName": "isoF.webp",
+            "animations": {}
+        }
+    ]
+}

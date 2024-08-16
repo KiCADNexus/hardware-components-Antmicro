@@ -9,5 +9,61 @@
     "keywords": "SMT, POE, IC, INTERFACE",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "SOIC-8-1EP_3.9x4.9x1.75mm_P1.27mm"
+    "blender_model": "SOIC-8-1EP_3.9x4.9x1.75mm_P1.27mm",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "VDD",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        },
+        {
+            "reference": "2",
+            "pin_name": "DEN",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "3",
+            "pin_name": "CLS",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "4",
+            "pin_name": "VSS",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        },
+        {
+            "reference": "5",
+            "pin_name": "RTN",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "6",
+            "pin_name": "CDB",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "7",
+            "pin_name": "T2P",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "8",
+            "pin_name": "APD",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "9",
+            "pin_name": "EP",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        }
+    ]
 }

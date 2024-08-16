@@ -9,5 +9,6 @@
     "keywords": "HEATSINK",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "Heatsink_Orin-FAN-PWM"
+    "blender_model": "Heatsink_Orin-FAN-PWM",
+    "pads": []
 }

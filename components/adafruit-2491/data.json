@@ -9,5 +9,6 @@
     "keywords": "HORIZONTAL, SMT, TRANSCEIVER, MODULE, WIFI, BLUETOOTH",
     "displayName": null,
     "gitHub": null,
-    "blender_model": null
+    "blender_model": null,
+    "pads": []
 }

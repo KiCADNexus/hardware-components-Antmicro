@@ -9,5 +9,19 @@
     "keywords": "0201, SMT, CAPACITOR, PASSIVE, CERAMIC, MLCC",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "C_0201"
+    "blender_model": "C_0201",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "2",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        }
+    ]
 }

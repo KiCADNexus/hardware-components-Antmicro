@@ -9,5 +9,19 @@
     "keywords": "0603, SMT, CAPACITOR, PASSIVE, MLCC",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "C_0603_1608Metric"
+    "blender_model": "C_0603_1608Metric",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "2",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        }
+    ]
 }

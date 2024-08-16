@@ -9,5 +9,19 @@
     "keywords": "SMT, CERAMIC, OSCILLATOR",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "Resonator_SMD_Abracon_ABM7_6x3.5x1.4mm"
+    "blender_model": "Resonator_SMD_Abracon_ABM7_6x3.5x1.4mm",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "2",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        }
+    ]
 }

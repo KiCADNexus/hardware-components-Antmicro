@@ -9,5 +9,13 @@
     "keywords": "POGO-PIN, CONNECTOR",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "PogoPin_Mill-Max_1x1_H9.6mm_Drill1mm_0858-0-15-20-82-14-11-0"
+    "blender_model": "PogoPin_Mill-Max_1x1_H9.6mm_Drill1mm_0858-0-15-20-82-14-11-0",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        }
+    ]
 }

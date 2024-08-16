@@ -9,5 +9,19 @@
     "keywords": "CONNECTOR, THT",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "Conn_Molex_KK_1x2_22-23-2021"
+    "blender_model": "Conn_Molex_KK_1x2_22-23-2021",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "2",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        }
+    ]
 }

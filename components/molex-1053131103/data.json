@@ -9,5 +9,25 @@
     "keywords": "CONNECTOR, THT, WIRE-BOARD",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "Conn_Molex_Nano-Fit_1x3_1053131103"
+    "blender_model": "Conn_Molex_Nano-Fit_1x3_1053131103",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "2",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "3",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        }
+    ]
 }

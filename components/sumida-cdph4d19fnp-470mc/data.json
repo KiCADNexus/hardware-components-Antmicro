@@ -9,5 +9,19 @@
     "keywords": "INDUCTOR, SMT, POWER",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "L_CDPH4D19F"
+    "blender_model": "L_CDPH4D19F",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "2",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        }
+    ]
 }

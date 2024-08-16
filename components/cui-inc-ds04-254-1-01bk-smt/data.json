@@ -9,5 +9,19 @@
     "keywords": "HORIZONTAL, SMT, SWITCH, MECHANICAL, SLIDE",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "SW_DS04-254-1-01BK-SMT"
+    "blender_model": "SW_DS04-254-1-01BK-SMT",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "2",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        }
+    ]
 }

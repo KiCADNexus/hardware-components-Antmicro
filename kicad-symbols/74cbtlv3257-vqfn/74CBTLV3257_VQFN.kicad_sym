@@ -31,8 +31,8 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (symbol "74CBTLV3257_VQFN_1_1"
-      (rectangle (start 2.54 1.27) (end 17.78 -20.32)
-        (stroke (width 0.254) (type default))
+      (rectangle (start 2.54 2.54) (end 17.78 -20.32)
+        (stroke (width 0) (type default))
         (fill (type background))
       )
       (pin input line (at 0 0 0) (length 2.54)
@@ -66,6 +66,10 @@
       (pin power_in line (at 20.32 -17.78 180) (length 2.54)
         (name "VCC" (effects (font (size 1.27 1.27))))
         (number "16" (effects (font (size 1.27 1.27))))
+      )
+      (pin no_connect line (at 10.16 2.54 270) (length 2.54) hide
+        (name "EP" (effects (font (size 1.27 1.27))))
+        (number "17" (effects (font (size 1.27 1.27))))
       )
       (pin bidirectional line (at 0 -2.54 0) (length 2.54)
         (name "1B1" (effects (font (size 1.27 1.27))))

@@ -9,5 +9,43 @@
     "keywords": "MOSFET, TRANSISTOR, ARRAY, SMT, NMOS",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "SOT-363"
+    "blender_model": "SOT-363",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "S_{1}",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "2",
+            "pin_name": "G_{1}",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "3",
+            "pin_name": "D_{2}",
+            "alternate_pin_names": [],
+            "electrical_type": "output"
+        },
+        {
+            "reference": "4",
+            "pin_name": "S_{2}",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "5",
+            "pin_name": "G_{2}",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "6",
+            "pin_name": "D_{1}",
+            "alternate_pin_names": [],
+            "electrical_type": "output"
+        }
+    ]
 }

@@ -9,5 +9,25 @@
     "keywords": "BUZZER",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "Buzzer_SMD_CMT5023SSMTTR"
+    "blender_model": "Buzzer_SMD_CMT5023SSMTTR",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "2",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "MP",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        }
+    ]
 }

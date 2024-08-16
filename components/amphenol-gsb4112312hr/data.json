@@ -9,5 +9,139 @@
     "keywords": "USB, CONNECTOR, SMT",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "USB-A_Amphenol_GSB4112312HR"
+    "blender_model": "USB-A_Amphenol_GSB4112312HR",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "VBUS_1",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        },
+        {
+            "reference": "2",
+            "pin_name": "D-_1",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        },
+        {
+            "reference": "3",
+            "pin_name": "D+_1",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        },
+        {
+            "reference": "4",
+            "pin_name": "GND_1",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        },
+        {
+            "reference": "5",
+            "pin_name": "SSRX-_1",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        },
+        {
+            "reference": "6",
+            "pin_name": "SSRX+_1",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        },
+        {
+            "reference": "7",
+            "pin_name": "GND_DRAIN_1",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        },
+        {
+            "reference": "8",
+            "pin_name": "SSTX-_1",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        },
+        {
+            "reference": "9",
+            "pin_name": "SSTX+_1",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        },
+        {
+            "reference": "10",
+            "pin_name": "VBUS_2",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        },
+        {
+            "reference": "11",
+            "pin_name": "D-_2",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        },
+        {
+            "reference": "12",
+            "pin_name": "D+_2",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        },
+        {
+            "reference": "13",
+            "pin_name": "GND_2",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        },
+        {
+            "reference": "14",
+            "pin_name": "SSRX-_2",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        },
+        {
+            "reference": "15",
+            "pin_name": "SSRX+_2",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        },
+        {
+            "reference": "16",
+            "pin_name": "GND_DRAIN_2",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        },
+        {
+            "reference": "17",
+            "pin_name": "SSTX-_2",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        },
+        {
+            "reference": "18",
+            "pin_name": "SSTX+_2",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        },
+        {
+            "reference": "SH",
+            "pin_name": "SHIELD",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "SH",
+            "pin_name": "SHIELD",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "SH",
+            "pin_name": "SHIELD",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "SH",
+            "pin_name": "SHIELD",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        }
+    ]
 }

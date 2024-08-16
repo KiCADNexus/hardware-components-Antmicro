@@ -9,5 +9,6 @@
     "keywords": "MODULE",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "Mech_SFP+_RJ45_TL-SM5310-T"
+    "blender_model": "Mech_SFP+_RJ45_TL-SM5310-T",
+    "pads": []
 }

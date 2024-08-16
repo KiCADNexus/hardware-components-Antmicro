@@ -9,5 +9,49 @@
     "keywords": "SENSOR, I2C",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "DFN-6-1EP_3x3mm_P1mm_EP1.5x2.4mm-silicon-labs-si7021-a20-gm1r"
+    "blender_model": "DFN-6-1EP_3x3mm_P1mm_EP1.5x2.4mm-silicon-labs-si7021-a20-gm1r",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "SDA",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        },
+        {
+            "reference": "2",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        },
+        {
+            "reference": "3",
+            "pin_name": "NC",
+            "alternate_pin_names": [],
+            "electrical_type": "no_connect"
+        },
+        {
+            "reference": "4",
+            "pin_name": "NC",
+            "alternate_pin_names": [],
+            "electrical_type": "no_connect"
+        },
+        {
+            "reference": "5",
+            "pin_name": "VDD",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        },
+        {
+            "reference": "6",
+            "pin_name": "SCL",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "7",
+            "pin_name": "PAD",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        }
+    ]
 }

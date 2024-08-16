@@ -9,5 +9,6 @@
     "keywords": "CONNECTOR, THT, VERTICAL",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "Molex_Milli-Grid_2x7_87832-1420"
+    "blender_model": "Molex_Milli-Grid_2x7_87832-1420",
+    "pads": []
 }

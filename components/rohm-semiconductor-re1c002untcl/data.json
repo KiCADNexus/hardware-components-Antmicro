@@ -9,5 +9,25 @@
     "keywords": "SEMICONDUCTOR",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "SOT-416"
+    "blender_model": "SOT-416",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "G",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        },
+        {
+            "reference": "2",
+            "pin_name": "S",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        },
+        {
+            "reference": "3",
+            "pin_name": "D",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        }
+    ]
 }

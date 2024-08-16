@@ -9,5 +9,6 @@
     "keywords": "SMT, CONVERTER, IC, ADC, SPI",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "QFN-20-1EP_3x3mm_P0.5mm-microchip-technology-mcp3464rt-e-nc"
+    "blender_model": "QFN-20-1EP_3x3mm_P0.5mm-microchip-technology-mcp3464rt-e-nc",
+    "pads": []
 }

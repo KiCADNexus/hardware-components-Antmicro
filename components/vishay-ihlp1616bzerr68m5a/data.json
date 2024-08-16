@@ -9,5 +9,19 @@
     "keywords": "SMT, INDUCTOR, PASSIVE",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "L_Vishay-IHLP1616BZ"
+    "blender_model": "L_Vishay-IHLP1616BZ",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "2",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        }
+    ]
 }

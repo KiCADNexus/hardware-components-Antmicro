@@ -9,5 +9,6 @@
     "keywords": "MODULE, ETHERNET, PCIE, TRANSCEIVER, PHY",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "Mech_M2_2280_Innodisk-EGPL-T101_H6.65mm"
+    "blender_model": "Mech_M2_2280_Innodisk-EGPL-T101_H6.65mm",
+    "pads": []
 }

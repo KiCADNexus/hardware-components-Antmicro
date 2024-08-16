@@ -9,5 +9,31 @@
     "keywords": "CONNECTOR, RECEPTACLE, COAXIAL",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "Conn_Molex_SMA_0733910083"
+    "blender_model": "Conn_Molex_SMA_0733910083",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "e",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "2",
+            "pin_name": "SH",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "3",
+            "pin_name": "SH",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "4",
+            "pin_name": "SH",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        }
+    ]
 }

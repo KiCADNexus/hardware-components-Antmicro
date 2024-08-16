@@ -9,5 +9,75 @@
     "keywords": "SMT, DIGITAL, POTENTIOMETER, IC, SPI, I2C",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "MSOP-10_W3mm-analog-devices-ad5161brmz10-rl7"
+    "blender_model": "MSOP-10_W3mm-analog-devices-ad5161brmz10-rl7",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "A",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "2",
+            "pin_name": "B",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "3",
+            "pin_name": "~{CS}",
+            "alternate_pin_names": [
+                "AD0"
+            ],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "4",
+            "pin_name": "SDO",
+            "alternate_pin_names": [
+                "NC"
+            ],
+            "electrical_type": "output"
+        },
+        {
+            "reference": "5",
+            "pin_name": "SDI",
+            "alternate_pin_names": [
+                "SDA"
+            ],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "6",
+            "pin_name": "CLK",
+            "alternate_pin_names": [
+                "SCL"
+            ],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "7",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        },
+        {
+            "reference": "8",
+            "pin_name": "DIS",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "9",
+            "pin_name": "V_{DD}",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        },
+        {
+            "reference": "10",
+            "pin_name": "W",
+            "alternate_pin_names": [],
+            "electrical_type": "output"
+        }
+    ]
 }

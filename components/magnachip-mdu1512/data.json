@@ -1,0 +1,69 @@
+{
+    "reference": "Q",
+    "symbol": "MDU1512",
+    "footprint": "PowerPAK_SO-8_Single",
+    "datasheet": "https://pdf1.alldatasheet.com/datasheet-pdf/view/937484/MGCHIP/MDU1512.html",
+    "manufacturer": "Magnachip",
+    "mpn": "MDU1512",
+    "description": "Single N-channel Trench MOSFET 30V, 100.0A,3.4m\u03a9",
+    "keywords": "NMOS, TRANSISTOR, SMT",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "PowerPAK_SO-8_Single",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "G",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        },
+        {
+            "reference": "2",
+            "pin_name": "S",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        },
+        {
+            "reference": "3",
+            "pin_name": "S",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        },
+        {
+            "reference": "4",
+            "pin_name": "S",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        },
+        {
+            "reference": "5",
+            "pin_name": "D",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        },
+        {
+            "reference": "5",
+            "pin_name": "D",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        },
+        {
+            "reference": "5",
+            "pin_name": "D",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        },
+        {
+            "reference": "5",
+            "pin_name": "D",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        },
+        {
+            "reference": "5",
+            "pin_name": "D",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        }
+    ]
+}

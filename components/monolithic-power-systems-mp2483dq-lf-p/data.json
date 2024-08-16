@@ -9,5 +9,73 @@
     "keywords": "SMT, DRIVER, IC, LED",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "QFN-10-1EP_3x3mm_P0.5mm"
+    "blender_model": "QFN-10-1EP_3x3mm_P0.5mm",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "VDD",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        },
+        {
+            "reference": "2",
+            "pin_name": "VSS",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        },
+        {
+            "reference": "3",
+            "pin_name": "OVP",
+            "alternate_pin_names": [],
+            "electrical_type": "unspecified"
+        },
+        {
+            "reference": "4",
+            "pin_name": "FB",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "5",
+            "pin_name": "COMP",
+            "alternate_pin_names": [],
+            "electrical_type": "output"
+        },
+        {
+            "reference": "6",
+            "pin_name": "RSET",
+            "alternate_pin_names": [],
+            "electrical_type": "unspecified"
+        },
+        {
+            "reference": "7",
+            "pin_name": "EN/DIM",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "8",
+            "pin_name": "INGND",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        },
+        {
+            "reference": "9",
+            "pin_name": "BST",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        },
+        {
+            "reference": "10",
+            "pin_name": "SW",
+            "alternate_pin_names": [],
+            "electrical_type": "output"
+        },
+        {
+            "reference": "11",
+            "pin_name": "EP",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        }
+    ]
 }

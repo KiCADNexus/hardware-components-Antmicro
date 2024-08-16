@@ -9,5 +9,31 @@
     "keywords": "SMT, SENSOR, IC",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "Sensirion_DFN-4-1.5x1.5x0.5mm_P0.8mm"
+    "blender_model": "Sensirion_DFN-4-1.5x1.5x0.5mm_P0.8mm",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "SDA",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        },
+        {
+            "reference": "2",
+            "pin_name": "SCL",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "3",
+            "pin_name": "VDD",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        },
+        {
+            "reference": "4",
+            "pin_name": "VSS",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        }
+    ]
 }

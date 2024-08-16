@@ -9,5 +9,6 @@
     "keywords": "HORIZONTAL, THT, MECHANICAL, MODULE",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "Mech_Lightpipe_Mentor_1296.2013"
+    "blender_model": "Mech_Lightpipe_Mentor_1296.2013",
+    "pads": []
 }

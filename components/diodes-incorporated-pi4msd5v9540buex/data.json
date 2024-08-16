@@ -9,5 +9,55 @@
     "keywords": "SMT, MUX, IC, I2C",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "MSOP-8-1EP_3x3x1.1mm_P0.65mm"
+    "blender_model": "MSOP-8-1EP_3x3x1.1mm_P0.65mm",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "SCL",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        },
+        {
+            "reference": "2",
+            "pin_name": "SDA",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        },
+        {
+            "reference": "3",
+            "pin_name": "VCC",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        },
+        {
+            "reference": "4",
+            "pin_name": "SDA_{0}",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        },
+        {
+            "reference": "5",
+            "pin_name": "SCL_{0}",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        },
+        {
+            "reference": "6",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        },
+        {
+            "reference": "7",
+            "pin_name": "SDA_{1}",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        },
+        {
+            "reference": "8",
+            "pin_name": "SCL_{1}",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        }
+    ]
 }

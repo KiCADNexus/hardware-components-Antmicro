@@ -9,5 +9,55 @@
     "keywords": "IC",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "SOT-23-8"
+    "blender_model": "SOT-23-8",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "TXD",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "2",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "3",
+            "pin_name": "VCC",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "4",
+            "pin_name": "RXD",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "5",
+            "pin_name": "SHDN",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "6",
+            "pin_name": "CANL",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "7",
+            "pin_name": "CANH",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "8",
+            "pin_name": "RH",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        }
+    ]
 }

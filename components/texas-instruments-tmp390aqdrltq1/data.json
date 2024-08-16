@@ -9,5 +9,43 @@
     "keywords": "DIGITAL, SENSOR, I2C",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "SOT-563"
+    "blender_model": "SOT-563",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "SETA",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "2",
+            "pin_name": "SETB",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "3",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        },
+        {
+            "reference": "4",
+            "pin_name": "~{OUTB}",
+            "alternate_pin_names": [],
+            "electrical_type": "open_collector"
+        },
+        {
+            "reference": "5",
+            "pin_name": "VDD",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        },
+        {
+            "reference": "6",
+            "pin_name": "~{OUTA}",
+            "alternate_pin_names": [],
+            "electrical_type": "open_collector"
+        }
+    ]
 }

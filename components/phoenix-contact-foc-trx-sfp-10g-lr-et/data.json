@@ -9,5 +9,6 @@
     "keywords": "MODULE",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "Mech_SFP+_fiber_FOC-TRX-SFP+-10G-LR-ET"
+    "blender_model": "Mech_SFP+_fiber_FOC-TRX-SFP+-10G-LR-ET",
+    "pads": []
 }

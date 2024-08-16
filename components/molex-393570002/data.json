@@ -9,5 +9,19 @@
     "keywords": "CONNECTOR",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "TerminalBlock_Wire2Board_1x2_P3.5mm_393570002"
+    "blender_model": "TerminalBlock_Wire2Board_1x2_P3.5mm_393570002",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "2",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        }
+    ]
 }

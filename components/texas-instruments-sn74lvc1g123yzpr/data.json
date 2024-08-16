@@ -9,5 +9,55 @@
     "keywords": "IC",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "Texas_DSBGA-8_1.9x0.9mm_Layout2x4_P0.5mm"
+    "blender_model": "Texas_DSBGA-8_1.9x0.9mm_Layout2x4_P0.5mm",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "~{A}",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "2",
+            "pin_name": "B",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "3",
+            "pin_name": "~{CLR}",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "4",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        },
+        {
+            "reference": "5",
+            "pin_name": "Q",
+            "alternate_pin_names": [],
+            "electrical_type": "output"
+        },
+        {
+            "reference": "6",
+            "pin_name": "C_{EXT}",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "7",
+            "pin_name": "R_{EXT}/C_{EXT}",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        },
+        {
+            "reference": "8",
+            "pin_name": "V_{CC}",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        }
+    ]
 }

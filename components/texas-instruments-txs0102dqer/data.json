@@ -9,5 +9,55 @@
     "keywords": "IC",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "X2SON8_1.4x1x0.32mm_P0.35mm"
+    "blender_model": "X2SON8_1.4x1x0.32mm_P0.35mm",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "VCCA",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        },
+        {
+            "reference": "2",
+            "pin_name": "A1",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        },
+        {
+            "reference": "3",
+            "pin_name": "A2",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        },
+        {
+            "reference": "4",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        },
+        {
+            "reference": "5",
+            "pin_name": "OE",
+            "alternate_pin_names": [],
+            "electrical_type": "tri_state"
+        },
+        {
+            "reference": "6",
+            "pin_name": "B2",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        },
+        {
+            "reference": "7",
+            "pin_name": "B1",
+            "alternate_pin_names": [],
+            "electrical_type": "bidirectional"
+        },
+        {
+            "reference": "8",
+            "pin_name": "VCCB",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        }
+    ]
 }

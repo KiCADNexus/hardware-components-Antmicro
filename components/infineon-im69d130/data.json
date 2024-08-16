@@ -9,5 +9,37 @@
     "keywords": "SMT, MEMS, SENSOR",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "IM69D130"
+    "blender_model": "IM69D130",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "DATA",
+            "alternate_pin_names": [],
+            "electrical_type": "output"
+        },
+        {
+            "reference": "2",
+            "pin_name": "VDD",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        },
+        {
+            "reference": "3",
+            "pin_name": "CLOCK",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "4",
+            "pin_name": "SELECT",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "5",
+            "pin_name": "GND",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        }
+    ]
 }
