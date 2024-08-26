@@ -27,7 +27,7 @@
     (property "ki_keywords" "SMT, MICROCONTROLLER" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "ki_description" "ARM MCU, Raspberry Pi, Dual Cortex-M33, 32 bit, 150MHz, 520 KB" (at 0 0 0)
+    (property "ki_description" "The dual-architecture MCU has a dual-core Hazard3 RISC-V CPU and dual-core ARM Cortex-M33, selectable at boot time in software or in one-time programmable memory, Raspberry Pi , 32 bit, 150MHz system clock, 520 KB SRAM, 60 pin" (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (symbol "RP2350A_1_1"
