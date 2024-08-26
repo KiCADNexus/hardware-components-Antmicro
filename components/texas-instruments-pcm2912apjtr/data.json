@@ -90,6 +90,12 @@
             "electrical_type": "power_in"
         },
         {
+            "reference": "14",
+            "pin_name": "NC",
+            "alternate_pin_names": [],
+            "electrical_type": "no_connect"
+        },
+        {
             "reference": "15",
             "pin_name": "VCCA",
             "alternate_pin_names": [],

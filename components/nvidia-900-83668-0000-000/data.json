@@ -7,7 +7,7 @@
     "mpn": "900-83668-0000-000",
     "description": "Jetson Xavier NX, System On Module, 384-core Volta GPU, 8GB RAM, GPU 1100 MHz, CPU 1.9 GHz",
     "keywords": "MODULE, SOM",
-    "displayName": null,
+    "displayName": "Jetson Xavier NX",
     "gitHub": null,
     "blender_model": "Module_Jetson-Xavier-NX",
     "pads": []

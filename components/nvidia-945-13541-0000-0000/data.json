@@ -7,7 +7,7 @@
     "mpn": "945-13541-0000-0000",
     "description": "Jetson Nano, System On Module, ARM Cortex-A57, 16 GB memory, 128 NVIDIA CUDA\u00ae cores",
     "keywords": "MODULE, SOM",
-    "displayName": null,
+    "displayName": "Jetson Nano",
     "gitHub": null,
     "blender_model": "Module_Jetson-Nano",
     "pads": []

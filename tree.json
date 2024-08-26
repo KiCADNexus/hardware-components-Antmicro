@@ -1110,10 +1110,10 @@
     ]},
     {"type":"directory","name":"bourns-cd-mmbl110s","contents":[
       {"type":"link","name":"CD-MMBL110S.kicad_sym","target":"../../kicad-symbols/cd-mmbl110s/CD-MMBL110S.kicad_sym"},
-      {"type":"link","name":"DFN3538.blend","target":"../../blender-models/dfn3538/DFN3538.blend"},
+      {"type":"link","name":"DFN3538-bourns-cd-mmbl110s.blend","target":"../../blender-models/dfn3538-bourns-cd-mmbl110s/DFN3538-bourns-cd-mmbl110s.blend"},
       {"type":"link","name":"DFN3538.kicad_mod","target":"../../kicad-footprints/dfn3538/DFN3538.kicad_mod"},
       {"type":"file","name":"data.json"},
-      {"type":"link","name":"previews","target":"../../blender-models/dfn3538/previews"}
+      {"type":"link","name":"previews","target":"../../blender-models/dfn3538-bourns-cd-mmbl110s/previews"}
     ]},
     {"type":"directory","name":"bourns-cfn0603afz-r010elf","contents":[
       {"type":"link","name":"R_0603_1608Metric.blend","target":"../../blender-models/r-0603-1608metric/R_0603_1608Metric.blend"},
@@ -2575,6 +2575,13 @@
       {"type":"link","name":"R_0402_1005Metric.blend","target":"../../blender-models/r-0402-1005metric/R_0402_1005Metric.blend"},
       {"type":"link","name":"R_0402_1005Metric.kicad_mod","target":"../../kicad-footprints/r-0402-1005metric/R_0402_1005Metric.kicad_mod"},
       {"type":"link","name":"R_560k_0402.kicad_sym","target":"../../kicad-symbols/r-560k-0402/R_560k_0402.kicad_sym"},
+      {"type":"file","name":"data.json"},
+      {"type":"link","name":"previews","target":"../../blender-models/r-0402-1005metric/previews"}
+    ]},
+    {"type":"directory","name":"bourns-cr0402-fx-5621glf","contents":[
+      {"type":"link","name":"R_0402_1005Metric.blend","target":"../../blender-models/r-0402-1005metric/R_0402_1005Metric.blend"},
+      {"type":"link","name":"R_0402_1005Metric.kicad_mod","target":"../../kicad-footprints/r-0402-1005metric/R_0402_1005Metric.kicad_mod"},
+      {"type":"link","name":"R_5k62_0402.kicad_sym","target":"../../kicad-symbols/r-5k62-0402/R_5k62_0402.kicad_sym"},
       {"type":"file","name":"data.json"},
       {"type":"link","name":"previews","target":"../../blender-models/r-0402-1005metric/previews"}
     ]},
@@ -6174,10 +6181,10 @@
     ]},
     {"type":"directory","name":"broadcom-acpl-217-500e","contents":[
       {"type":"link","name":"ACPL-217-500E.kicad_sym","target":"../../kicad-symbols/acpl-217-500e/ACPL-217-500E.kicad_sym"},
-      {"type":"link","name":"SOIC-4_4.55x2.6mm_P1.27mm.blend","target":"../../blender-models/soic-4-4-55x2-6mm-p1-27mm/SOIC-4_4.55x2.6mm_P1.27mm.blend"},
+      {"type":"link","name":"SOIC-4_4.55x2.6mm_P1.27mm-broadcom-acpl-217-500e.blend","target":"../../blender-models/soic-4-4-55x2-6mm-p1-27mm-broadcom-acpl-217-500e/SOIC-4_4.55x2.6mm_P1.27mm-broadcom-acpl-217-500e.blend"},
       {"type":"link","name":"SOIC-4_4.55x2.6mm_P1.27mm.kicad_mod","target":"../../kicad-footprints/soic-4-4-55x2-6mm-p1-27mm/SOIC-4_4.55x2.6mm_P1.27mm.kicad_mod"},
       {"type":"file","name":"data.json"},
-      {"type":"link","name":"previews","target":"../../blender-models/soic-4-4-55x2-6mm-p1-27mm/previews"}
+      {"type":"link","name":"previews","target":"../../blender-models/soic-4-4-55x2-6mm-p1-27mm-broadcom-acpl-217-500e/previews"}
     ]},
     {"type":"directory","name":"broadcom-acpl-247-560e","contents":[
       {"type":"link","name":"ACPL-247-560E.kicad_sym","target":"../../kicad-symbols/acpl-247-560e/ACPL-247-560E.kicad_sym"},
@@ -6390,10 +6397,10 @@
     ]},
     {"type":"directory","name":"coilcraft-xal6030-182mec","contents":[
       {"type":"link","name":"L_1u8_14A_Coilcraft-XAL6030.kicad_sym","target":"../../kicad-symbols/l-1u8-14a-coilcraft-xal6030/L_1u8_14A_Coilcraft-XAL6030.kicad_sym"},
-      {"type":"link","name":"L_Coilcraft-XAL6030.blend","target":"../../blender-models/l-coilcraft-xal6030/L_Coilcraft-XAL6030.blend"},
+      {"type":"link","name":"L_Coilcraft-XAL6030-coilcraft-xal6030-182mec.blend","target":"../../blender-models/l-coilcraft-xal6030-coilcraft-xal6030-182mec/L_Coilcraft-XAL6030-coilcraft-xal6030-182mec.blend"},
       {"type":"link","name":"L_Coilcraft-XAL6030.kicad_mod","target":"../../kicad-footprints/l-coilcraft-xal6030/L_Coilcraft-XAL6030.kicad_mod"},
       {"type":"file","name":"data.json"},
-      {"type":"link","name":"previews","target":"../../blender-models/l-coilcraft-xal6030/previews"}
+      {"type":"link","name":"previews","target":"../../blender-models/l-coilcraft-xal6030-coilcraft-xal6030-182mec/previews"}
     ]},
     {"type":"directory","name":"coilcraft-xal6060-472mec","contents":[
       {"type":"link","name":"L_4u7_11A_Coilcraft-XAL6060.kicad_sym","target":"../../kicad-symbols/l-4u7-11a-coilcraft-xal6060/L_4u7_11A_Coilcraft-XAL6060.kicad_sym"},
@@ -6805,10 +6812,10 @@
     ]},
     {"type":"directory","name":"diodes-incorporated-ap22615awu-7","contents":[
       {"type":"link","name":"AP22615A_TSOT26.kicad_sym","target":"../../kicad-symbols/ap22615a-tsot26/AP22615A_TSOT26.kicad_sym"},
-      {"type":"link","name":"TSOT23-6.blend","target":"../../blender-models/tsot23-6/TSOT23-6.blend"},
+      {"type":"link","name":"TSOT23-6-diodes-incorporated-ap22615awu-7.blend","target":"../../blender-models/tsot23-6-diodes-incorporated-ap22615awu-7/TSOT23-6-diodes-incorporated-ap22615awu-7.blend"},
       {"type":"link","name":"TSOT23-6.kicad_mod","target":"../../kicad-footprints/tsot23-6/TSOT23-6.kicad_mod"},
       {"type":"file","name":"data.json"},
-      {"type":"link","name":"previews","target":"../../blender-models/tsot23-6/previews"}
+      {"type":"link","name":"previews","target":"../../blender-models/tsot23-6-diodes-incorporated-ap22615awu-7/previews"}
     ]},
     {"type":"directory","name":"diodes-incorporated-ap22652aw6-7","contents":[
       {"type":"link","name":"AP22652AW6.kicad_sym","target":"../../kicad-symbols/ap22652aw6/AP22652AW6.kicad_sym"},
@@ -7050,10 +7057,10 @@
     ]},
     {"type":"directory","name":"diodes-incorporated-pi4msd5v9548azdex","contents":[
       {"type":"link","name":"PI4MSD5V9548AZDEX.kicad_sym","target":"../../kicad-symbols/pi4msd5v9548azdex/PI4MSD5V9548AZDEX.kicad_sym"},
-      {"type":"link","name":"VQFN-24-1EP_3.8x3.8x1.0mm_P0.5mm.blend","target":"../../blender-models/vqfn-24-1ep-3-8x3-8x1-0mm-p0-5mm/VQFN-24-1EP_3.8x3.8x1.0mm_P0.5mm.blend"},
+      {"type":"link","name":"VQFN-24-1EP_3.8x3.8x1.0mm_P0.5mm-diodes-incorporated-pi4msd5v9548azdex.blend","target":"../../blender-models/vqfn-24-1ep-3-8x3-8x1-0mm-p0-5mm-diodes-incorporated-pi4msd5v9548azdex/VQFN-24-1EP_3.8x3.8x1.0mm_P0.5mm-diodes-incorporated-pi4msd5v9548azdex.blend"},
       {"type":"link","name":"VQFN-24-1EP_3.8x3.8x1.0mm_P0.5mm.kicad_mod","target":"../../kicad-footprints/vqfn-24-1ep-3-8x3-8x1-0mm-p0-5mm/VQFN-24-1EP_3.8x3.8x1.0mm_P0.5mm.kicad_mod"},
       {"type":"file","name":"data.json"},
-      {"type":"link","name":"previews","target":"../../blender-models/vqfn-24-1ep-3-8x3-8x1-0mm-p0-5mm/previews"}
+      {"type":"link","name":"previews","target":"../../blender-models/vqfn-24-1ep-3-8x3-8x1-0mm-p0-5mm-diodes-incorporated-pi4msd5v9548azdex/previews"}
     ]},
     {"type":"directory","name":"diodes-incorporated-smaj58a-13-f","contents":[
       {"type":"link","name":"D_SMA.blend","target":"../../blender-models/d-sma/D_SMA.blend"},
@@ -7338,6 +7345,13 @@
       {"type":"file","name":"data.json"},
       {"type":"link","name":"previews","target":"../../blender-models/oscillator-smd-epson-sg3225een-3-2x2-5x1-2mm/previews"}
     ]},
+    {"type":"directory","name":"epson-tsx-3225-25-0000mf10p-c0","contents":[
+      {"type":"link","name":"Resonator_25MHz_TSX-3225.kicad_sym","target":"../../kicad-symbols/resonator-25mhz-tsx-3225/Resonator_25MHz_TSX-3225.kicad_sym"},
+      {"type":"link","name":"Resonator_SMD_Abracon_ABM8G_3.2x2.5mm.blend","target":"../../blender-models/resonator-smd-abracon-abm8g-3-2x2-5mm/Resonator_SMD_Abracon_ABM8G_3.2x2.5mm.blend"},
+      {"type":"link","name":"Resonator_SMD_Abracon_ABM8G_3.2x2.5mm.kicad_mod","target":"../../kicad-footprints/resonator-smd-abracon-abm8g-3-2x2-5mm/Resonator_SMD_Abracon_ABM8G_3.2x2.5mm.kicad_mod"},
+      {"type":"file","name":"data.json"},
+      {"type":"link","name":"previews","target":"../../blender-models/resonator-smd-abracon-abm8g-3-2x2-5mm/previews"}
+    ]},
     {"type":"directory","name":"ept-401-51501-51","contents":[
       {"type":"link","name":"EPT_401-51501-51.blend","target":"../../blender-models/ept-401-51501-51/EPT_401-51501-51.blend"},
       {"type":"link","name":"EPT_401-51501-51.kicad_mod","target":"../../kicad-footprints/ept-401-51501-51/EPT_401-51501-51.kicad_mod"},
@@ -7427,10 +7441,10 @@
     ]},
     {"type":"directory","name":"ftdi-chip-ft230xq-r","contents":[
       {"type":"link","name":"FT230X_QFN.kicad_sym","target":"../../kicad-symbols/ft230x-qfn/FT230X_QFN.kicad_sym"},
-      {"type":"link","name":"QFN-16-1EP_4x4mm_P0.65mm.blend","target":"../../blender-models/qfn-16-1ep-4x4mm-p0-65mm/QFN-16-1EP_4x4mm_P0.65mm.blend"},
+      {"type":"link","name":"QFN-16-1EP_4x4mm_P0.65mm-ftdi-chip-ft230xq-r.blend","target":"../../blender-models/qfn-16-1ep-4x4mm-p0-65mm-ftdi-chip-ft230xq-r/QFN-16-1EP_4x4mm_P0.65mm-ftdi-chip-ft230xq-r.blend"},
       {"type":"link","name":"QFN-16-1EP_4x4mm_P0.65mm.kicad_mod","target":"../../kicad-footprints/qfn-16-1ep-4x4mm-p0-65mm/QFN-16-1EP_4x4mm_P0.65mm.kicad_mod"},
       {"type":"file","name":"data.json"},
-      {"type":"link","name":"previews","target":"../../blender-models/qfn-16-1ep-4x4mm-p0-65mm/previews"}
+      {"type":"link","name":"previews","target":"../../blender-models/qfn-16-1ep-4x4mm-p0-65mm-ftdi-chip-ft230xq-r/previews"}
     ]},
     {"type":"directory","name":"ftdi-chip-ft230xs-r","contents":[
       {"type":"link","name":"FT230XS-R.kicad_sym","target":"../../kicad-symbols/ft230xs-r/FT230XS-R.kicad_sym"},
@@ -7609,6 +7623,13 @@
       {"type":"link","name":"Harwin_1x1_H3.5mm_Pad2.2mm_P70-1000045R.kicad_sym","target":"../../kicad-symbols/harwin-1x1-h3-5mm-pad2-2mm-p70-1000045r/Harwin_1x1_H3.5mm_Pad2.2mm_P70-1000045R.kicad_sym"},
       {"type":"file","name":"data.json"},
       {"type":"link","name":"previews","target":"../../blender-models/harwin-1x1-h3-5mm-pad2-2mm-p70-1000045r/previews"}
+    ]},
+    {"type":"directory","name":"harwin-s1711-46r","contents":[
+      {"type":"link","name":"MP_Shield_Clip_S1711-46R.kicad_sym","target":"../../kicad-symbols/mp-shield-clip-s1711-46r/MP_Shield_Clip_S1711-46R.kicad_sym"},
+      {"type":"link","name":"Mech_EMI_Shield_Clip_S1711-46R.blend","target":"../../blender-models/mech-emi-shield-clip-s1711-46r/Mech_EMI_Shield_Clip_S1711-46R.blend"},
+      {"type":"link","name":"Mech_EMI_Shield_Clip_S1711-46R.kicad_mod","target":"../../kicad-footprints/mech-emi-shield-clip-s1711-46r/Mech_EMI_Shield_Clip_S1711-46R.kicad_mod"},
+      {"type":"file","name":"data.json"},
+      {"type":"link","name":"previews","target":"../../blender-models/mech-emi-shield-clip-s1711-46r/previews"}
     ]},
     {"type":"directory","name":"harwin-s1751-46r","contents":[
       {"type":"link","name":"TP_1307_SMD_S1751-46R.kicad_mod","target":"../../kicad-footprints/tp-1307-smd-s1751-46r/TP_1307_SMD_S1751-46R.kicad_mod"},
@@ -8735,6 +8756,13 @@
       {"type":"link","name":"TP_1508_SMD_5029.kicad_sym","target":"../../kicad-symbols/tp-1508-smd-5029/TP_1508_SMD_5029.kicad_sym"},
       {"type":"file","name":"data.json"}
     ]},
+    {"type":"directory","name":"kinetic-technologies-ktm5000b0t","contents":[
+      {"type":"link","name":"BGA-289_12x12mm_Layout17x17_P0.65mm.blend","target":"../../blender-models/bga-289-12x12mm-layout17x17-p0-65mm/BGA-289_12x12mm_Layout17x17_P0.65mm.blend"},
+      {"type":"link","name":"BGA-289_12x12mm_Layout17x17_P0.65mm.kicad_mod","target":"../../kicad-footprints/bga-289-12x12mm-layout17x17-p0-65mm/BGA-289_12x12mm_Layout17x17_P0.65mm.kicad_mod"},
+      {"type":"link","name":"KTM5000B0T.kicad_sym","target":"../../kicad-symbols/ktm5000b0t/KTM5000B0T.kicad_sym"},
+      {"type":"file","name":"data.json"},
+      {"type":"link","name":"previews","target":"../../blender-models/bga-289-12x12mm-layout17x17-p0-65mm/previews"}
+    ]},
     {"type":"directory","name":"kinetic-technologies-kts1682eay-tr","contents":[
       {"type":"link","name":"KTS1682EAY.kicad_sym","target":"../../kicad-symbols/kts1682eay/KTS1682EAY.kicad_sym"},
       {"type":"link","name":"WLCSP-12_2x1.3mm_Layout4x3_P0.4mm.blend","target":"../../blender-models/wlcsp-12-2x1-3mm-layout4x3-p0-4mm/WLCSP-12_2x1.3mm_Layout4x3_P0.4mm.blend"},
@@ -9440,6 +9468,13 @@
     ]},
     {"type":"directory","name":"microchip-technology-24aa32at-i-mny","contents":[
       {"type":"link","name":"24AA32AT-I_TDFN.kicad_sym","target":"../../kicad-symbols/24aa32at-i-tdfn/24AA32AT-I_TDFN.kicad_sym"},
+      {"type":"link","name":"TDFN-8-1EP_2x3x0.8mm_P0.5mm_EP1.3x1.4mm.blend","target":"../../blender-models/tdfn-8-1ep-2x3x0-8mm-p0-5mm-ep1-3x1-4mm/TDFN-8-1EP_2x3x0.8mm_P0.5mm_EP1.3x1.4mm.blend"},
+      {"type":"link","name":"TDFN-8-1EP_2x3x0.8mm_P0.5mm_EP1.3x1.4mm.kicad_mod","target":"../../kicad-footprints/tdfn-8-1ep-2x3x0-8mm-p0-5mm-ep1-3x1-4mm/TDFN-8-1EP_2x3x0.8mm_P0.5mm_EP1.3x1.4mm.kicad_mod"},
+      {"type":"file","name":"data.json"},
+      {"type":"link","name":"previews","target":"../../blender-models/tdfn-8-1ep-2x3x0-8mm-p0-5mm-ep1-3x1-4mm/previews"}
+    ]},
+    {"type":"directory","name":"microchip-technology-24lc32at-e-mny","contents":[
+      {"type":"link","name":"24LC32AT-E-MNY.kicad_sym","target":"../../kicad-symbols/24lc32at-e-mny/24LC32AT-E-MNY.kicad_sym"},
       {"type":"link","name":"TDFN-8-1EP_2x3x0.8mm_P0.5mm_EP1.3x1.4mm.blend","target":"../../blender-models/tdfn-8-1ep-2x3x0-8mm-p0-5mm-ep1-3x1-4mm/TDFN-8-1EP_2x3x0.8mm_P0.5mm_EP1.3x1.4mm.blend"},
       {"type":"link","name":"TDFN-8-1EP_2x3x0.8mm_P0.5mm_EP1.3x1.4mm.kicad_mod","target":"../../kicad-footprints/tdfn-8-1ep-2x3x0-8mm-p0-5mm-ep1-3x1-4mm/TDFN-8-1EP_2x3x0.8mm_P0.5mm_EP1.3x1.4mm.kicad_mod"},
       {"type":"file","name":"data.json"},
@@ -11548,6 +11583,13 @@
       {"type":"file","name":"data.json"},
       {"type":"link","name":"previews","target":"../../blender-models/r-0603-1608metric/previews"}
     ]},
+    {"type":"directory","name":"murata-nfg0qhb242hs2d","contents":[
+      {"type":"link","name":"Choke_025020_0605Metric.blend","target":"../../blender-models/choke-025020-0605metric/Choke_025020_0605Metric.blend"},
+      {"type":"link","name":"Choke_025020_0605Metric.kicad_mod","target":"../../kicad-footprints/choke-025020-0605metric/Choke_025020_0605Metric.kicad_mod"},
+      {"type":"link","name":"Choke_NFG0QHB242HS2D.kicad_sym","target":"../../kicad-symbols/choke-nfg0qhb242hs2d/Choke_NFG0QHB242HS2D.kicad_sym"},
+      {"type":"file","name":"data.json"},
+      {"type":"link","name":"previews","target":"../../blender-models/choke-025020-0605metric/previews"}
+    ]},
     {"type":"directory","name":"murata-nfp0qhb242hs2d","contents":[
       {"type":"link","name":"Choke_025020_0605Metric.blend","target":"../../blender-models/choke-025020-0605metric/Choke_025020_0605Metric.blend"},
       {"type":"link","name":"Choke_025020_0605Metric.kicad_mod","target":"../../kicad-footprints/choke-025020-0605metric/Choke_025020_0605Metric.kicad_mod"},
@@ -11563,11 +11605,11 @@
       {"type":"link","name":"previews","target":"../../blender-models/buzzer-smd-pkmcs0909e4000-r1/previews"}
     ]},
     {"type":"directory","name":"murata-uls-12-5-d48n-c","contents":[
-      {"type":"link","name":"ULS-12_5-D48N-C.blend","target":"../../blender-models/uls-12-5-d48n-c/ULS-12_5-D48N-C.blend"},
+      {"type":"link","name":"ULS-12_5-D48N-C-murata-uls-12-5-d48n-c.blend","target":"../../blender-models/uls-12-5-d48n-c-murata-uls-12-5-d48n-c/ULS-12_5-D48N-C-murata-uls-12-5-d48n-c.blend"},
       {"type":"link","name":"ULS-12_5-D48N-C.kicad_mod","target":"../../kicad-footprints/uls-12-5-d48n-c/ULS-12_5-D48N-C.kicad_mod"},
       {"type":"link","name":"ULS-12_5-D48N-C.kicad_sym","target":"../../kicad-symbols/uls-12-5-d48n-c/ULS-12_5-D48N-C.kicad_sym"},
       {"type":"file","name":"data.json"},
-      {"type":"link","name":"previews","target":"../../blender-models/uls-12-5-d48n-c/previews"}
+      {"type":"link","name":"previews","target":"../../blender-models/uls-12-5-d48n-c-murata-uls-12-5-d48n-c/previews"}
     ]},
     {"type":"directory","name":"murata-uls-12-8-3-d48n-c","contents":[
       {"type":"link","name":"ULS-12_5-D48N-C.blend","target":"../../blender-models/uls-12-5-d48n-c/ULS-12_5-D48N-C.blend"},
@@ -12076,6 +12118,13 @@
       {"type":"link","name":"Module_Jetson-Nano.kicad_mod","target":"../../kicad-footprints/module-jetson-nano/Module_Jetson-Nano.kicad_mod"},
       {"type":"file","name":"data.json"},
       {"type":"link","name":"previews","target":"../../blender-models/module-jetson-nano/previews"}
+    ]},
+    {"type":"directory","name":"nvidia-cd575m-a1","contents":[
+      {"type":"link","name":"BGA-916-813_23x23mm_Layout31x31_P0.7mm_CD575M-A1-nvidia-cd575m-a1.blend","target":"../../blender-models/bga-916-813-23x23mm-layout31x31-p0-7mm-cd575m-a1-nvidia-cd575m-a1/BGA-916-813_23x23mm_Layout31x31_P0.7mm_CD575M-A1-nvidia-cd575m-a1.blend"},
+      {"type":"link","name":"BGA-916-813_23x23mm_Layout31x31_P0.7mm_CD575M-A1.kicad_mod","target":"../../kicad-footprints/bga-916-813-23x23mm-layout31x31-p0-7mm-cd575m-a1/BGA-916-813_23x23mm_Layout31x31_P0.7mm_CD575M-A1.kicad_mod"},
+      {"type":"link","name":"CD575M-A1.kicad_sym","target":"../../kicad-symbols/cd575m-a1/CD575M-A1.kicad_sym"},
+      {"type":"file","name":"data.json"},
+      {"type":"link","name":"previews","target":"../../blender-models/bga-916-813-23x23mm-layout31x31-p0-7mm-cd575m-a1-nvidia-cd575m-a1/previews"}
     ]},
     {"type":"directory","name":"nxp-lh75401n0q100c0","contents":[
       {"type":"link","name":"LH75401N0Q100C0.kicad_sym","target":"../../kicad-symbols/lh75401n0q100c0/LH75401N0Q100C0.kicad_sym"},
@@ -13205,6 +13254,13 @@
       {"type":"link","name":"FBGA-25-24_6x8mm_Layout5x5_P1mm.kicad_mod","target":"../../kicad-footprints/fbga-25-24-6x8mm-layout5x5-p1mm/FBGA-25-24_6x8mm_Layout5x5_P1mm.kicad_mod"},
       {"type":"file","name":"data.json"},
       {"type":"link","name":"previews","target":"../../blender-models/fbga-25-24-6x8mm-layout5x5-p1mm/previews"}
+    ]},
+    {"type":"directory","name":"renesas-electronics-at25ff161a-mahn-t","contents":[
+      {"type":"link","name":"AT25FF161A-MAHN-T.kicad_sym","target":"../../kicad-symbols/at25ff161a-mahn-t/AT25FF161A-MAHN-T.kicad_sym"},
+      {"type":"link","name":"USON-8_2x3mm_P0.5mm.blend","target":"../../blender-models/uson-8-2x3mm-p0-5mm/USON-8_2x3mm_P0.5mm.blend"},
+      {"type":"link","name":"USON-8_2x3mm_P0.5mm.kicad_mod","target":"../../kicad-footprints/uson-8-2x3mm-p0-5mm/USON-8_2x3mm_P0.5mm.kicad_mod"},
+      {"type":"file","name":"data.json"},
+      {"type":"link","name":"previews","target":"../../blender-models/uson-8-2x3mm-p0-5mm/previews"}
     ]},
     {"type":"directory","name":"renesas-icm7555ipaz","contents":[
       {"type":"link","name":"DIP-8_W7.62mm.blend","target":"../../blender-models/dip-8-w7-62mm/DIP-8_W7.62mm.blend"},
@@ -15058,10 +15114,10 @@
     ]},
     {"type":"directory","name":"te-connectivity-2309413-1","contents":[
       {"type":"link","name":"Bus_DDR4_SODIMM.kicad_sym","target":"../../kicad-symbols/bus-ddr4-sodimm/Bus_DDR4_SODIMM.kicad_sym"},
-      {"type":"link","name":"TE_2309413.blend","target":"../../blender-models/te-2309413/TE_2309413.blend"},
+      {"type":"link","name":"TE_2309413-te-connectivity-2309413-1.blend","target":"../../blender-models/te-2309413-te-connectivity-2309413-1/TE_2309413-te-connectivity-2309413-1.blend"},
       {"type":"link","name":"TE_2309413.kicad_mod","target":"../../kicad-footprints/te-2309413/TE_2309413.kicad_mod"},
       {"type":"file","name":"data.json"},
-      {"type":"link","name":"previews","target":"../../blender-models/te-2309413/previews"}
+      {"type":"link","name":"previews","target":"../../blender-models/te-2309413-te-connectivity-2309413-1/previews"}
     ]},
     {"type":"directory","name":"te-connectivity-2822541-1","contents":[
       {"type":"link","name":"2822541-1.kicad_sym","target":"../../kicad-symbols/2822541-1/2822541-1.kicad_sym"},
@@ -15084,10 +15140,10 @@
     ]},
     {"type":"directory","name":"te-connectivity-5-2337992-8","contents":[
       {"type":"link","name":"Bus_RJ45_5-2337992-8.kicad_sym","target":"../../kicad-symbols/bus-rj45-5-2337992-8/Bus_RJ45_5-2337992-8.kicad_sym"},
-      {"type":"link","name":"RJ45_X-2337992-8_Horizontal.blend","target":"../../blender-models/rj45-x-2337992-8-horizontal/RJ45_X-2337992-8_Horizontal.blend"},
+      {"type":"link","name":"RJ45_X-2337992-8_Horizontal-te-connectivity-5-2337992-8.blend","target":"../../blender-models/rj45-x-2337992-8-horizontal-te-connectivity-5-2337992-8/RJ45_X-2337992-8_Horizontal-te-connectivity-5-2337992-8.blend"},
       {"type":"link","name":"RJ45_X-2337992-8_Horizontal.kicad_mod","target":"../../kicad-footprints/rj45-x-2337992-8-horizontal/RJ45_X-2337992-8_Horizontal.kicad_mod"},
       {"type":"file","name":"data.json"},
-      {"type":"link","name":"previews","target":"../../blender-models/rj45-x-2337992-8-horizontal/previews"}
+      {"type":"link","name":"previews","target":"../../blender-models/rj45-x-2337992-8-horizontal-te-connectivity-5-2337992-8/previews"}
     ]},
     {"type":"directory","name":"te-connectivity-5177984-6","contents":[
       {"type":"link","name":"Conn_TE_AMP_2x70_5177984-6.blend","target":"../../blender-models/conn-te-amp-2x70-5177984-6/Conn_TE_AMP_2x70_5177984-6.blend"},
@@ -15961,10 +16017,10 @@
     ]},
     {"type":"directory","name":"texas-instruments-tpd4e05u06qdqarq1","contents":[
       {"type":"link","name":"TPD4E05U06QDQARQ1.kicad_sym","target":"../../kicad-symbols/tpd4e05u06qdqarq1/TPD4E05U06QDQARQ1.kicad_sym"},
-      {"type":"link","name":"USON-10_2.5x1mm_P0.5mm.blend","target":"../../blender-models/uson-10-2-5x1mm-p0-5mm/USON-10_2.5x1mm_P0.5mm.blend"},
+      {"type":"link","name":"USON-10_2.5x1mm_P0.5mm-texas-instruments-tpd4e05u06qdqarq1.blend","target":"../../blender-models/uson-10-2-5x1mm-p0-5mm-texas-instruments-tpd4e05u06qdqarq1/USON-10_2.5x1mm_P0.5mm-texas-instruments-tpd4e05u06qdqarq1.blend"},
       {"type":"link","name":"USON-10_2.5x1mm_P0.5mm.kicad_mod","target":"../../kicad-footprints/uson-10-2-5x1mm-p0-5mm/USON-10_2.5x1mm_P0.5mm.kicad_mod"},
       {"type":"file","name":"data.json"},
-      {"type":"link","name":"previews","target":"../../blender-models/uson-10-2-5x1mm-p0-5mm/previews"}
+      {"type":"link","name":"previews","target":"../../blender-models/uson-10-2-5x1mm-p0-5mm-texas-instruments-tpd4e05u06qdqarq1/previews"}
     ]},
     {"type":"directory","name":"texas-instruments-tpd4s012dryr","contents":[
       {"type":"link","name":"TPD4S012DRYR.kicad_sym","target":"../../kicad-symbols/tpd4s012dryr/TPD4S012DRYR.kicad_sym"},
@@ -16226,11 +16282,11 @@
       {"type":"link","name":"previews","target":"../../blender-models/ic-tps65987ddhrshr/previews"}
     ]},
     {"type":"directory","name":"texas-instruments-tps65988dhrshr","contents":[
-      {"type":"link","name":"IC_TPS65987DDHRSHR.blend","target":"../../blender-models/ic-tps65987ddhrshr/IC_TPS65987DDHRSHR.blend"},
+      {"type":"link","name":"IC_TPS65987DDHRSHR-texas-instruments-tps65988dhrshr.blend","target":"../../blender-models/ic-tps65987ddhrshr-texas-instruments-tps65988dhrshr/IC_TPS65987DDHRSHR-texas-instruments-tps65988dhrshr.blend"},
       {"type":"link","name":"IC_TPS65987DDHRSHR.kicad_mod","target":"../../kicad-footprints/ic-tps65987ddhrshr/IC_TPS65987DDHRSHR.kicad_mod"},
       {"type":"link","name":"TPS65988DHRSHR.kicad_sym","target":"../../kicad-symbols/tps65988dhrshr/TPS65988DHRSHR.kicad_sym"},
       {"type":"file","name":"data.json"},
-      {"type":"link","name":"previews","target":"../../blender-models/ic-tps65987ddhrshr/previews"}
+      {"type":"link","name":"previews","target":"../../blender-models/ic-tps65987ddhrshr-texas-instruments-tps65988dhrshr/previews"}
     ]},
     {"type":"directory","name":"texas-instruments-tps74611pqwdrbrq1","contents":[
       {"type":"link","name":"TPS74611PQWDRBRQ1.kicad_sym","target":"../../kicad-symbols/tps74611pqwdrbrq1/TPS74611PQWDRBRQ1.kicad_sym"},
@@ -16281,12 +16337,19 @@
       {"type":"file","name":"data.json"},
       {"type":"link","name":"previews","target":"../../blender-models/texas-x2qfn-14-2x2mm-p0-4mm-texas-instruments-ts3a4751rucr/previews"}
     ]},
-    {"type":"directory","name":"texas-instruments-ts3dv642ruarq1","contents":[
-      {"type":"link","name":"TS3DV642RUARQ1.kicad_sym","target":"../../kicad-symbols/ts3dv642ruarq1/TS3DV642RUARQ1.kicad_sym"},
+    {"type":"directory","name":"texas-instruments-ts3dv642a0ruar","contents":[
+      {"type":"link","name":"TS3DV642A0RUAR.kicad_sym","target":"../../kicad-symbols/ts3dv642a0ruar/TS3DV642A0RUAR.kicad_sym"},
       {"type":"link","name":"WQFN-42-1EP_3.5x9mm_P0.5mm.blend","target":"../../blender-models/wqfn-42-1ep-3-5x9mm-p0-5mm/WQFN-42-1EP_3.5x9mm_P0.5mm.blend"},
       {"type":"link","name":"WQFN-42-1EP_3.5x9mm_P0.5mm.kicad_mod","target":"../../kicad-footprints/wqfn-42-1ep-3-5x9mm-p0-5mm/WQFN-42-1EP_3.5x9mm_P0.5mm.kicad_mod"},
       {"type":"file","name":"data.json"},
       {"type":"link","name":"previews","target":"../../blender-models/wqfn-42-1ep-3-5x9mm-p0-5mm/previews"}
+    ]},
+    {"type":"directory","name":"texas-instruments-ts3dv642ruarq1","contents":[
+      {"type":"link","name":"TS3DV642RUARQ1.kicad_sym","target":"../../kicad-symbols/ts3dv642ruarq1/TS3DV642RUARQ1.kicad_sym"},
+      {"type":"link","name":"WQFN-42-1EP_3.5x9mm_P0.5mm-texas-instruments-ts3dv642ruarq1.blend","target":"../../blender-models/wqfn-42-1ep-3-5x9mm-p0-5mm-texas-instruments-ts3dv642ruarq1/WQFN-42-1EP_3.5x9mm_P0.5mm-texas-instruments-ts3dv642ruarq1.blend"},
+      {"type":"link","name":"WQFN-42-1EP_3.5x9mm_P0.5mm.kicad_mod","target":"../../kicad-footprints/wqfn-42-1ep-3-5x9mm-p0-5mm/WQFN-42-1EP_3.5x9mm_P0.5mm.kicad_mod"},
+      {"type":"file","name":"data.json"},
+      {"type":"link","name":"previews","target":"../../blender-models/wqfn-42-1ep-3-5x9mm-p0-5mm-texas-instruments-ts3dv642ruarq1/previews"}
     ]},
     {"type":"directory","name":"texas-instruments-ts3l500rhur","contents":[
       {"type":"link","name":"TS3L500RHUR.kicad_sym","target":"../../kicad-symbols/ts3l500rhur/TS3L500RHUR.kicad_sym"},
@@ -16318,10 +16381,10 @@
     ]},
     {"type":"directory","name":"texas-instruments-tusb1046-dcirnqt","contents":[
       {"type":"link","name":"TUSB1046-DCIRNQ.kicad_sym","target":"../../kicad-symbols/tusb1046-dcirnq/TUSB1046-DCIRNQ.kicad_sym"},
-      {"type":"link","name":"WQFN-40_1EP_6x3mm_Pitch0.4mm_EP4.7x2.7mm.blend","target":"../../blender-models/wqfn-40-1ep-6x3mm-pitch0-4mm-ep4-7x2-7mm/WQFN-40_1EP_6x3mm_Pitch0.4mm_EP4.7x2.7mm.blend"},
+      {"type":"link","name":"WQFN-40_1EP_6x3mm_Pitch0.4mm_EP4.7x2.7mm-texas-instruments-tusb1046-dcirnqt.blend","target":"../../blender-models/wqfn-40-1ep-6x3mm-pitch0-4mm-ep4-7x2-7mm-texas-instruments-tusb1046-dcirnqt/WQFN-40_1EP_6x3mm_Pitch0.4mm_EP4.7x2.7mm-texas-instruments-tusb1046-dcirnqt.blend"},
       {"type":"link","name":"WQFN-40_1EP_6x3mm_Pitch0.4mm_EP4.7x2.7mm.kicad_mod","target":"../../kicad-footprints/wqfn-40-1ep-6x3mm-pitch0-4mm-ep4-7x2-7mm/WQFN-40_1EP_6x3mm_Pitch0.4mm_EP4.7x2.7mm.kicad_mod"},
       {"type":"file","name":"data.json"},
-      {"type":"link","name":"previews","target":"../../blender-models/wqfn-40-1ep-6x3mm-pitch0-4mm-ep4-7x2-7mm/previews"}
+      {"type":"link","name":"previews","target":"../../blender-models/wqfn-40-1ep-6x3mm-pitch0-4mm-ep4-7x2-7mm-texas-instruments-tusb1046-dcirnqt/previews"}
     ]},
     {"type":"directory","name":"texas-instruments-tusb1106rsvr","contents":[
       {"type":"link","name":"TUSB1106RSVR.kicad_sym","target":"../../kicad-symbols/tusb1106rsvr/TUSB1106RSVR.kicad_sym"},
@@ -17096,6 +17159,13 @@
       {"type":"file","name":"data.json"},
       {"type":"link","name":"previews","target":"../../blender-models/led-wl-vcsl-1414/previews"}
     ]},
+    {"type":"directory","name":"wurth-elektronik-3671434","contents":[
+      {"type":"link","name":"EMI_Shield_Cover_3671434.kicad_sym","target":"../../kicad-symbols/emi-shield-cover-3671434/EMI_Shield_Cover_3671434.kicad_sym"},
+      {"type":"link","name":"Mech_EMI_Shield_3671434.blend","target":"../../blender-models/mech-emi-shield-3671434/Mech_EMI_Shield_3671434.blend"},
+      {"type":"link","name":"Mech_EMI_Shield_3671434.kicad_mod","target":"../../kicad-footprints/mech-emi-shield-3671434/Mech_EMI_Shield_3671434.kicad_mod"},
+      {"type":"file","name":"data.json"},
+      {"type":"link","name":"previews","target":"../../blender-models/mech-emi-shield-3671434/previews"}
+    ]},
     {"type":"directory","name":"wurth-elektronik-434113050826","contents":[
       {"type":"link","name":"SW_434113050826_SMD.blend","target":"../../blender-models/sw-434113050826-smd/SW_434113050826_SMD.blend"},
       {"type":"link","name":"SW_434113050826_SMD.kicad_mod","target":"../../kicad-footprints/sw-434113050826-smd/SW_434113050826_SMD.kicad_mod"},
@@ -17358,10 +17428,10 @@
     ]},
     {"type":"directory","name":"wurth-elektronik-68715014522","contents":[
       {"type":"link","name":"Conn_FFC_WE_68715014522.kicad_sym","target":"../../kicad-symbols/conn-ffc-we-68715014522/Conn_FFC_WE_68715014522.kicad_sym"},
-      {"type":"link","name":"Conn_FFC_WE_68715014x22.blend","target":"../../blender-models/conn-ffc-we-68715014x22/Conn_FFC_WE_68715014x22.blend"},
+      {"type":"link","name":"Conn_FFC_WE_68715014x22-wurth-elektronik-68715014522.blend","target":"../../blender-models/conn-ffc-we-68715014x22-wurth-elektronik-68715014522/Conn_FFC_WE_68715014x22-wurth-elektronik-68715014522.blend"},
       {"type":"link","name":"Conn_FFC_WE_68715014x22.kicad_mod","target":"../../kicad-footprints/conn-ffc-we-68715014x22/Conn_FFC_WE_68715014x22.kicad_mod"},
       {"type":"file","name":"data.json"},
-      {"type":"link","name":"previews","target":"../../blender-models/conn-ffc-we-68715014x22/previews"}
+      {"type":"link","name":"previews","target":"../../blender-models/conn-ffc-we-68715014x22-wurth-elektronik-68715014522/previews"}
     ]},
     {"type":"directory","name":"wurth-elektronik-691382030002","contents":[
       {"type":"link","name":"Header_1x2_P2.5mm_691382030002_Shrouded.kicad_sym","target":"../../kicad-symbols/header-1x2-p2-5mm-691382030002-shrouded/Header_1x2_P2.5mm_691382030002_Shrouded.kicad_sym"},
@@ -18012,5 +18082,5 @@
     ]}
   ]}
 ,
-  {"type":"report","directories":5114,"files":10289}
+  {"type":"report","directories":5130,"files":10333}
 ]

@@ -9,7 +9,7 @@
     "keywords": "SMT, INDUCTOR, PASSIVE",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "L_Coilcraft-XAL6030",
+    "blender_model": "L_Coilcraft-XAL6030-coilcraft-xal6030-182mec",
     "pads": [
         {
             "reference": "1",
