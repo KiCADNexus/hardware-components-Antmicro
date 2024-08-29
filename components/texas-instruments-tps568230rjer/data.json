@@ -2,7 +2,7 @@
     "reference": "U",
     "symbol": "TPS568230",
     "footprint": "QFN-20-1EP_3x3mm_P0.45mm_TPS56xxxx",
-    "datasheet": "https://www.ti.com/lit/ds/symlink/tps568230.pdf?ts=1716795250512&ref_url=https%253A%252F%252Fwww.mouser.pl%252F",
+    "datasheet": "https://www.ti.com/lit/ds/symlink/tps568230.pdf",
     "manufacturer": "Texas Instruments",
     "mpn": "TPS568230RJER",
     "description": "Switching Voltage Regulators 4.5-V to 18-V, 8-A synchronous SWIFT\u2122 buck converter optimized for solution cost 20-VQFN-HR -40 to 125",

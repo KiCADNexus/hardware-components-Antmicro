@@ -16205,11 +16205,11 @@
       {"type":"link","name":"previews","target":"../../blender-models/qfn-20-1ep-3x3mm-p0-45mm-tps56xxxx/previews"}
     ]},
     {"type":"directory","name":"texas-instruments-tps56c230rjer","contents":[
-      {"type":"link","name":"QFN-20-1EP_3x3mm_P0.45mm_TPS56xxxx.blend","target":"../../blender-models/qfn-20-1ep-3x3mm-p0-45mm-tps56xxxx/QFN-20-1EP_3x3mm_P0.45mm_TPS56xxxx.blend"},
-      {"type":"link","name":"QFN-20-1EP_3x3mm_P0.45mm_TPS56xxxx.kicad_mod","target":"../../kicad-footprints/qfn-20-1ep-3x3mm-p0-45mm-tps56xxxx/QFN-20-1EP_3x3mm_P0.45mm_TPS56xxxx.kicad_mod"},
+      {"type":"link","name":"QFN-20-1EP_3x3mm_P0.45mm.blend","target":"../../blender-models/qfn-20-1ep-3x3mm-p0-45mm/QFN-20-1EP_3x3mm_P0.45mm.blend"},
+      {"type":"link","name":"QFN-20-1EP_3x3mm_P0.45mm.kicad_mod","target":"../../kicad-footprints/qfn-20-1ep-3x3mm-p0-45mm/QFN-20-1EP_3x3mm_P0.45mm.kicad_mod"},
       {"type":"link","name":"TPS56C230.kicad_sym","target":"../../kicad-symbols/tps56c230/TPS56C230.kicad_sym"},
       {"type":"file","name":"data.json"},
-      {"type":"link","name":"previews","target":"../../blender-models/qfn-20-1ep-3x3mm-p0-45mm-tps56xxxx/previews"}
+      {"type":"link","name":"previews","target":"../../blender-models/qfn-20-1ep-3x3mm-p0-45mm/previews"}
     ]},
     {"type":"directory","name":"texas-instruments-tps613221adbvt","contents":[
       {"type":"link","name":"SOT-23-5.blend","target":"../../blender-models/sot-23-5/SOT-23-5.blend"},
@@ -18082,5 +18082,5 @@
     ]}
   ]}
 ,
-  {"type":"report","directories":5130,"files":10333}
+  {"type":"report","directories":5132,"files":10331}
 ]

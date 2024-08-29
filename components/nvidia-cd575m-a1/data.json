@@ -2,7 +2,7 @@
     "reference": "U",
     "symbol": "CD575M-A1",
     "footprint": "BGA-916-813_23x23mm_Layout31x31_P0.7mm_CD575M-A1",
-    "datasheet": "https://developer.download.nvidia.com/assets/embedded/secure/jetson/TK1/docs/Tegra_K1_Series_Processor_DataSheet_DS06472001v5.pdf?HeCarLHpr9EC4m7K63UV3gD2r64FCo24sOEMN5IA83zGiE7zwfQ1eOAczzTSvoly_Mgyx_afdrMmJQNOMh66Kvbz3SPwgWYDwEqdyRoF07AcfrEE5r_lYcRf6Jt8Kl41kxTLqZlinLxd3bPA_0xv0XQoksQ9bJmZi0JHOwA6ORJ4YmrERcy5R6AETsbzRfubksbvp8G8RFemnA==&t=eyJscyI6ImdzZW8iLCJsc2QiOiJodHRwczovL3d3dy5nb29nbGUuY29tLyJ9",
+    "datasheet": "https://developer.nvidia.com/embedded/tegra-k1-reference",
     "manufacturer": "Nvidia",
     "mpn": "CD575M-A1",
     "description": "Tegra K1 processors integrate a power optimized version of  Kepler GPU architecture. It supports OpenGL\u00ae 4.4, OpenGL ES 3.1 and CUDA\u00ae/GPGPU on mobile and embedded devices.",
