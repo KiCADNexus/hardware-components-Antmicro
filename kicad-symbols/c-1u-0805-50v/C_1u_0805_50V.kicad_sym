@@ -99,7 +99,7 @@
     (property "Voltage" "50V" (at 20.32 -27.94 0)
       (effects (font (size 1.27 1.27)) (justify left bottom) hide)
     )
-    (property "Dielectric" "" (at 20.32 -30.48 0)
+    (property "Dielectric" "X7R" (at 20.32 -30.48 0)
       (effects (font (size 1.27 1.27)) (justify left bottom) hide)
     )
     (property "ki_keywords" "0805, SMT, CAPACITOR, PASSIVE, MLCC, CERAMIC" (at 0 0 0)

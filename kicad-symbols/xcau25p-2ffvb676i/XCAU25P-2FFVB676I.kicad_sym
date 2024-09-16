@@ -6,7 +6,7 @@
     (property "Value" "XCAU25P-2FFVB676I" (at 63.5 -5.08 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
     )
-    (property "Footprint" "XCAU25P-2FFVB676I:BGA-676_27x27mm_Layout26x26_P1X1mm" (at 63.5 -7.62 0)
+    (property "Footprint" "XCAU25P-2FFVB676I:BGA-676_27x27mm_Layout26x26_P1x1mm_FFVB676" (at 63.5 -7.62 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
     )
     (property "Datasheet" "https://docs.xilinx.com/viewer/book-attachment/2PXOpPtpaABIt0fkzeBLnw/hvbsEUaOT0OxFhln7VEVyA" (at 63.5 -10.16 0)

@@ -9,7 +9,7 @@
     (property "Footprint" "USB2422-I_MJ:QFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm" (at 48.26 -7.62 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
     )
-    (property "Datasheet" "https://www.mouser.com/datasheet/2/268/2412-1064136.pdf" (at 48.26 -10.16 0)
+    (property "Datasheet" "https://ww1.microchip.com/downloads/aemDocuments/documents/OTH/ProductDocuments/DataSheets/00001726B.pdf" (at 48.26 -10.16 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
     )
     (property "Author" "Antmicro" (at 48.26 -12.7 0)
