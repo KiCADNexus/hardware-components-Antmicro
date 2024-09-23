@@ -29627,6 +29627,11 @@
             "bytesize": 307231,
             "name": "LQFP-64_10x10mm_P0.5mm"
         },
+        "lqfp-64-10x10mm-p0-5mm-stmicroelectronics-stm32l100rbt6": {
+            "checksum": "c90dc437e595d7bdafe3ee1dd7a0dd992f1d06323226896c46f98317fef51b17",
+            "bytesize": 430902,
+            "name": "LQFP-64_10x10mm_P0.5mm-stmicroelectronics-stm32l100rbt6"
+        },
         "qfn-24-1ep-4x4mm-p0-5-ep2-5x2-5mm-microchip-technology-usb3315-cp-tr": {
             "checksum": "63582d9999119a002621b9b8a16e2cd4e5db291213ba0bd0ce8c2bf0d1bbdf05",
             "bytesize": 252814,
