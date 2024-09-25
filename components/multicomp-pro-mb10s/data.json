@@ -9,7 +9,7 @@
     "keywords": "SMT, RECTIFIER, SEMICONDUCTOR, DIODE, BRIDGE",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "SOIC-4_W3.9mm",
+    "blender_model": "SOIC-4_W3.9mm-multicomp-pro-mb10s",
     "pads": [
         {
             "reference": "1",

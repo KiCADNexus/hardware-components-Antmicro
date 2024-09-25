@@ -9,7 +9,7 @@
     "keywords": "SMT, LEVEL-SHIFTER, IC",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "SOIC-8_3.9x4.9x1.75mm_P1.27mm",
+    "blender_model": "SOIC-8_3.9x4.9x1.75mm_P1.27mm-nxp-pca9306d-118",
     "pads": [
         {
             "reference": "1",

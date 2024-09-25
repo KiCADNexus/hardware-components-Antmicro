@@ -1479,8 +1479,10 @@
   (pad "6" thru_hole circle (at 2.5 5.2) (size 1.4986 1.4986) (drill 0.9906) (layers "*.Cu" "*.Mask") (tstamp a7bd13ec-efb9-4e37-bbb5-2c6fe33ba928))
   (pad "7" thru_hole circle (at 5 5.2) (size 1.4986 1.4986) (drill 0.9906) (layers "*.Cu" "*.Mask") (tstamp 5ade5be6-b71a-4a10-a140-c5c52f3e104f))
   (pad "8" thru_hole circle (at 7.5 5.2) (size 1.4986 1.4986) (drill 0.9906) (layers "*.Cu" "*.Mask") (tstamp 48d105d2-5703-413a-be65-64241f3ce2cc))
-  (pad "MP" thru_hole circle (at -5.25 2.6 90) (size 4.0132 4.0132) (drill 3.5052) (layers "*.Cu" "*.Mask") (tstamp 2273770f-1c08-428f-94d2-939ee05e90f7))
-  (pad "MP" thru_hole circle (at 12.75 2.6 90) (size 4.0132 4.0132) (drill 3.5052) (layers "*.Cu" "*.Mask") (tstamp 623f8e25-8abd-4837-af54-8e823a79883f))
+  (pad "MP" thru_hole circle (at -5.25 2.6 90) (size 4.0132 4.0132) (drill 3.5052) (layers "*.Cu" "*.Mask")
+    (solder_paste_margin_ratio -1) (tstamp 2273770f-1c08-428f-94d2-939ee05e90f7))
+  (pad "MP" thru_hole circle (at 12.75 2.6 90) (size 4.0132 4.0132) (drill 3.5052) (layers "*.Cu" "*.Mask")
+    (solder_paste_margin_ratio -1) (tstamp 623f8e25-8abd-4837-af54-8e823a79883f))
   (model ""
     (offset (xyz 3.7 0.2 19.2))
     (scale (xyz 1 1 1))
