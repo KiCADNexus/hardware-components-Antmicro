@@ -9,7 +9,7 @@
     "keywords": "IC,DC-DC,LDO,ADC,I2C,SPI",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "CTBGA-128_8x8mm_Layout14x14_P0.5x0.5mm",
+    "blender_model": "CTBGA-128_8x8mm_Layout14x14_P0.5x0.5mm-ams-as3722",
     "pads": [
         {
             "reference": "A1",
