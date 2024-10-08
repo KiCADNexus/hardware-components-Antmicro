@@ -1,0 +1,14 @@
+{
+    "reference": "A",
+    "symbol": "Auvidea_B103",
+    "footprint": "Auvidea_B103",
+    "datasheet": "https://auvidea.eu/download/manual/B10x_technical_reference_1.3.pdf",
+    "manufacturer": "Auvidea",
+    "mpn": "B103",
+    "description": "HDMI to CSI-2 bridge",
+    "keywords": "MODULE, B2B",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "Auvidea_B103",
+    "pads": []
+}

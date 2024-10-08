@@ -9,7 +9,7 @@
     "keywords": "SMT, IC, FPGA",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "BGA-1369_35x35mm_Layout37x37_P0.92mm_NSVH1369",
+    "blender_model": "BGA-1369_35x35mm_Layout37x37_P0.92mm_NSVH1369-amd-xilinx-xcvm2202-1mlinsvh1369",
     "pads": [
         {
             "reference": "A1",

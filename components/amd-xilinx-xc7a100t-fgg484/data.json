@@ -9,7 +9,7 @@
     "keywords": "SMT, IC, FPGA",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "BGA-484_23x23mm_Layout22x22_P1mm_FGG484",
+    "blender_model": "BGA-484_23x23mm_Layout22x22_P1mm_FGG484-amd-xilinx-xc7a100t-fgg484",
     "pads": [
         {
             "reference": "A1",
