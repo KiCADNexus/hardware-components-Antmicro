@@ -6,7 +6,7 @@
     (property "Value" "ULS-5_12-D48N-C" (at 33.02 -7.62 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
     )
-    (property "Footprint" "ULS-5_12-D48N-C:ULS-12_5-D48N-C" (at 33.02 -10.16 0)
+    (property "Footprint" "ULS-5_12-D48N-C:Conv_Murata_ULS-60W" (at 33.02 -10.16 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
     )
     (property "Datasheet" "https://www.murata.com/products/productdata/8807040286750/uls.pdf?1649388617000" (at 33.02 -12.7 0)
