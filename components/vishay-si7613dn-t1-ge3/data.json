@@ -9,7 +9,7 @@
     "keywords": "SMT, TRANSISTOR, SEMICONDUCTOR, MOSFET, PMOS",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "Vishay_PowerPAK_1212-8_Single",
+    "blender_model": "Vishay_PowerPAK_1212-8_Single-vishay-si7613dn-t1-ge3",
     "pads": [
         {
             "reference": "1",

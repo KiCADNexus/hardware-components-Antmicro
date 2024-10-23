@@ -9,7 +9,7 @@
     "keywords": "SMT, INTERFACE, IC, I2C",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "QFN-24-1EP_4x4mm_P0.5_EP2.1x2.1mm",
+    "blender_model": "QFN-24-1EP_4x4mm_P0.5_EP2.1x2.1mm-nxp-pca9539ahf-128",
     "pads": [
         {
             "reference": "1",

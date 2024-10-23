@@ -9,7 +9,7 @@
     "keywords": "IC, PMIC, SMT, MONITOR",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "SOT-23-8",
+    "blender_model": "SOT-23-8-texas-instruments-ina219aidcnr",
     "pads": [
         {
             "reference": "1",
