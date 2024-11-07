@@ -19,19 +19,19 @@
         },
         {
             "reference": "A2",
-            "pin_name": "DQ13",
+            "pin_name": "DQU5",
             "alternate_pin_names": [],
             "electrical_type": "bidirectional"
         },
         {
             "reference": "A3",
-            "pin_name": "DQ15",
+            "pin_name": "DQU7",
             "alternate_pin_names": [],
             "electrical_type": "bidirectional"
         },
         {
             "reference": "A7",
-            "pin_name": "DQ12",
+            "pin_name": "DQU4",
             "alternate_pin_names": [],
             "electrical_type": "bidirectional"
         },
@@ -67,13 +67,13 @@
         },
         {
             "reference": "B7",
-            "pin_name": "~{UDQS}",
+            "pin_name": "~{DQSU}",
             "alternate_pin_names": [],
             "electrical_type": "bidirectional"
         },
         {
             "reference": "B8",
-            "pin_name": "DQ14",
+            "pin_name": "DQU6",
             "alternate_pin_names": [],
             "electrical_type": "bidirectional"
         },
@@ -91,25 +91,25 @@
         },
         {
             "reference": "C2",
-            "pin_name": "DQ11",
+            "pin_name": "DQU3",
             "alternate_pin_names": [],
             "electrical_type": "bidirectional"
         },
         {
             "reference": "C3",
-            "pin_name": "DQ9",
+            "pin_name": "DQU1",
             "alternate_pin_names": [],
             "electrical_type": "bidirectional"
         },
         {
             "reference": "C7",
-            "pin_name": "UDQS",
+            "pin_name": "DQSU",
             "alternate_pin_names": [],
             "electrical_type": "bidirectional"
         },
         {
             "reference": "C8",
-            "pin_name": "DQ10",
+            "pin_name": "DQU2",
             "alternate_pin_names": [],
             "electrical_type": "bidirectional"
         },
@@ -139,7 +139,7 @@
         },
         {
             "reference": "D7",
-            "pin_name": "DQ8",
+            "pin_name": "DQU0",
             "alternate_pin_names": [],
             "electrical_type": "bidirectional"
         },
@@ -169,7 +169,7 @@
         },
         {
             "reference": "E3",
-            "pin_name": "DQ0",
+            "pin_name": "DQL0",
             "alternate_pin_names": [],
             "electrical_type": "bidirectional"
         },
@@ -199,25 +199,25 @@
         },
         {
             "reference": "F2",
-            "pin_name": "DQ2",
+            "pin_name": "DQL2",
             "alternate_pin_names": [],
             "electrical_type": "bidirectional"
         },
         {
             "reference": "F3",
-            "pin_name": "LDQS",
+            "pin_name": "DQSL",
             "alternate_pin_names": [],
             "electrical_type": "bidirectional"
         },
         {
             "reference": "F7",
-            "pin_name": "DQ1",
+            "pin_name": "DQL1",
             "alternate_pin_names": [],
             "electrical_type": "bidirectional"
         },
         {
             "reference": "F8",
-            "pin_name": "DQ3",
+            "pin_name": "DQL3",
             "alternate_pin_names": [],
             "electrical_type": "bidirectional"
         },
@@ -235,13 +235,13 @@
         },
         {
             "reference": "G2",
-            "pin_name": "DQ6",
+            "pin_name": "DQL6",
             "alternate_pin_names": [],
             "electrical_type": "bidirectional"
         },
         {
             "reference": "G3",
-            "pin_name": "~{LDQS}",
+            "pin_name": "~{DQSL}",
             "alternate_pin_names": [],
             "electrical_type": "bidirectional"
         },
@@ -277,19 +277,19 @@
         },
         {
             "reference": "H3",
-            "pin_name": "DQ4",
+            "pin_name": "DQL4",
             "alternate_pin_names": [],
             "electrical_type": "bidirectional"
         },
         {
             "reference": "H7",
-            "pin_name": "DQ7",
+            "pin_name": "DQL7",
             "alternate_pin_names": [],
             "electrical_type": "bidirectional"
         },
         {
             "reference": "H8",
-            "pin_name": "DQ5",
+            "pin_name": "DQL5",
             "alternate_pin_names": [],
             "electrical_type": "bidirectional"
         },

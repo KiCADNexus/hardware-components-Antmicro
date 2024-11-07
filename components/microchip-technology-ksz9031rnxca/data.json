@@ -109,7 +109,7 @@
         },
         {
             "reference": "17",
-            "pin_name": "LED1/PHAD0/PME_N1",
+            "pin_name": "LED1/PHYAD0/PME_N1",
             "alternate_pin_names": [],
             "electrical_type": "bidirectional"
         },

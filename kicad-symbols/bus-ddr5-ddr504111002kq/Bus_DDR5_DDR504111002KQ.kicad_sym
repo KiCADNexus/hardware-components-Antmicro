@@ -524,95 +524,95 @@
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
-      (pin input line (at 0 0 0) (length 3.81)
+      (pin power_in line (at 0 0 0) (length 3.81)
         (name "VIN_BULK" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
       )
-      (pin input line (at 0 -53.34 0) (length 3.81)
+      (pin power_in line (at 0 -55.88 0) (length 3.81)
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "10" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "101" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "103" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "106" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "108" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "110" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "112" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "114" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "117" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "119" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "121" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "123" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "125" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "128" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "13" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "130" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "132" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "134" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "136" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "139" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "141" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "143" (effects (font (size 1.27 1.27))))
       )
@@ -640,7 +640,7 @@
         (name "RFU" (effects (font (size 1.27 1.27))))
         (number "149" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "15" (effects (font (size 1.27 1.27))))
       )
@@ -648,103 +648,103 @@
         (name "RFU" (effects (font (size 1.27 1.27))))
         (number "150" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "151" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "153" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "155" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "158" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "160" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "162" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "164" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "166" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "169" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "17" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "171" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "173" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "175" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "177" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "180" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "182" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "184" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "186" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "188" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "19" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "191" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "193" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "195" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "197" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "199" (effects (font (size 1.27 1.27))))
       )
@@ -752,15 +752,15 @@
         (name "RFU" (effects (font (size 1.27 1.27))))
         (number "2" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "202" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "204" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "206" (effects (font (size 1.27 1.27))))
       )
@@ -768,7 +768,7 @@
         (name "RESET_N" (effects (font (size 1.27 1.27))))
         (number "207" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "208" (effects (font (size 1.27 1.27))))
       )
@@ -776,11 +776,11 @@
         (name "CS1_A_N" (effects (font (size 1.27 1.27))))
         (number "209" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "21" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "210" (effects (font (size 1.27 1.27))))
       )
@@ -788,7 +788,7 @@
         (name "CA1_A" (effects (font (size 1.27 1.27))))
         (number "211" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "212" (effects (font (size 1.27 1.27))))
       )
@@ -796,7 +796,7 @@
         (name "CA3_A" (effects (font (size 1.27 1.27))))
         (number "213" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "214" (effects (font (size 1.27 1.27))))
       )
@@ -804,7 +804,7 @@
         (name "CA5_A" (effects (font (size 1.27 1.27))))
         (number "215" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "216" (effects (font (size 1.27 1.27))))
       )
@@ -816,7 +816,7 @@
         (name "CK_C" (effects (font (size 1.27 1.27))))
         (number "218" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "219" (effects (font (size 1.27 1.27))))
       )
@@ -828,7 +828,7 @@
         (name "CA1_B" (effects (font (size 1.27 1.27))))
         (number "221" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "222" (effects (font (size 1.27 1.27))))
       )
@@ -836,7 +836,7 @@
         (name "CA3_B" (effects (font (size 1.27 1.27))))
         (number "223" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "224" (effects (font (size 1.27 1.27))))
       )
@@ -844,7 +844,7 @@
         (name "CA5_B" (effects (font (size 1.27 1.27))))
         (number "225" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "226" (effects (font (size 1.27 1.27))))
       )
@@ -852,7 +852,7 @@
         (name "PAR_B" (effects (font (size 1.27 1.27))))
         (number "227" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "228" (effects (font (size 1.27 1.27))))
       )
@@ -860,7 +860,7 @@
         (name "CS1_B_N" (effects (font (size 1.27 1.27))))
         (number "229" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "230" (effects (font (size 1.27 1.27))))
       )
@@ -872,143 +872,143 @@
         (name "RFU" (effects (font (size 1.27 1.27))))
         (number "232" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "233" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "235" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "237" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "24" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "240" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "242" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "244" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "246" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "248" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "251" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "253" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "255" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "257" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "259" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "26" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "262" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "264" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "266" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "268" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "270" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "273" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "275" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "277" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "279" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "28" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "281" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "284" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "286" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "288" (effects (font (size 1.27 1.27))))
       )
-      (pin input line (at 0 -2.54 0) (length 3.81)
+      (pin power_in line (at 0 -2.54 0) (length 3.81)
         (name "VIN_MGMT" (effects (font (size 1.27 1.27))))
         (number "3" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "30" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "32" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "35" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "37" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "39" (effects (font (size 1.27 1.27))))
       )
@@ -1016,19 +1016,19 @@
         (name "HSCL" (effects (font (size 1.27 1.27))))
         (number "4" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "41" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "43" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "46" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "48" (effects (font (size 1.27 1.27))))
       )
@@ -1036,31 +1036,31 @@
         (name "HSDA" (effects (font (size 1.27 1.27))))
         (number "5" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "50" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "52" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "54" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "57" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "59" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "6" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "61" (effects (font (size 1.27 1.27))))
       )
@@ -1068,7 +1068,7 @@
         (name "ALERT_N" (effects (font (size 1.27 1.27))))
         (number "62" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "63" (effects (font (size 1.27 1.27))))
       )
@@ -1076,7 +1076,7 @@
         (name "CS0_A_N" (effects (font (size 1.27 1.27))))
         (number "64" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "65" (effects (font (size 1.27 1.27))))
       )
@@ -1084,7 +1084,7 @@
         (name "CA0_A" (effects (font (size 1.27 1.27))))
         (number "66" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "67" (effects (font (size 1.27 1.27))))
       )
@@ -1092,7 +1092,7 @@
         (name "CA2_A" (effects (font (size 1.27 1.27))))
         (number "68" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "69" (effects (font (size 1.27 1.27))))
       )
@@ -1100,7 +1100,7 @@
         (name "CA4_A" (effects (font (size 1.27 1.27))))
         (number "70" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "71" (effects (font (size 1.27 1.27))))
       )
@@ -1108,7 +1108,7 @@
         (name "CA6_A" (effects (font (size 1.27 1.27))))
         (number "72" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "73" (effects (font (size 1.27 1.27))))
       )
@@ -1117,14 +1117,14 @@
         (number "74" (effects (font (size 1.27 1.27))))
       )
       (pin passive line (at 0 -53.34 0) (length 3.81) hide
-        (name "VSS" (effects (font (size 1.27 1.27))))
+        (name "VSS_DET" (effects (font (size 1.27 1.27))))
         (number "75" (effects (font (size 1.27 1.27))))
       )
       (pin input line (at 30.48 -20.32 180) (length 3.81)
         (name "CA0_B" (effects (font (size 1.27 1.27))))
         (number "76" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "77" (effects (font (size 1.27 1.27))))
       )
@@ -1132,11 +1132,11 @@
         (name "CA2_B" (effects (font (size 1.27 1.27))))
         (number "78" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "79" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "8" (effects (font (size 1.27 1.27))))
       )
@@ -1144,7 +1144,7 @@
         (name "CA4_B" (effects (font (size 1.27 1.27))))
         (number "80" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "81" (effects (font (size 1.27 1.27))))
       )
@@ -1152,7 +1152,7 @@
         (name "CA6_B" (effects (font (size 1.27 1.27))))
         (number "82" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "83" (effects (font (size 1.27 1.27))))
       )
@@ -1160,7 +1160,7 @@
         (name "CS0_B_N" (effects (font (size 1.27 1.27))))
         (number "84" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "85" (effects (font (size 1.27 1.27))))
       )
@@ -1172,39 +1172,39 @@
         (name "DLBDQS" (effects (font (size 1.27 1.27))))
         (number "87" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "88" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "90" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "92" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "95" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "97" (effects (font (size 1.27 1.27))))
       )
-      (pin passive line (at 0 -53.34 0) (length 3.81) hide
+      (pin passive line (at 0 -55.88 0) (length 3.81) hide
         (name "VSS" (effects (font (size 1.27 1.27))))
         (number "99" (effects (font (size 1.27 1.27))))
       )
-      (pin input line (at 30.48 -55.88 180) (length 3.81)
+      (pin passive line (at 30.48 -55.88 180) (length 3.81)
         (name "SH" (effects (font (size 1.27 1.27))))
         (number "S1" (effects (font (size 1.27 1.27))))
       )
-      (pin input line (at 30.48 -58.42 180) (length 3.81)
+      (pin passive line (at 30.48 -58.42 180) (length 3.81)
         (name "SH" (effects (font (size 1.27 1.27))))
         (number "S2" (effects (font (size 1.27 1.27))))
       )
-      (pin input line (at 30.48 -60.96 180) (length 3.81)
+      (pin passive line (at 30.48 -60.96 180) (length 3.81)
         (name "SH" (effects (font (size 1.27 1.27))))
         (number "S3" (effects (font (size 1.27 1.27))))
       )

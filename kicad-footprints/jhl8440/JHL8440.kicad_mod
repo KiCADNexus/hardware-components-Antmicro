@@ -45,6 +45,14 @@
     (stroke (width 0.15) (type solid)) (layer "F.Fab") (tstamp 0ef73e47-0479-4e45-83c3-7206d147abd4))
   (fp_rect (start -5.35 -5.35) (end 5.35 5.35)
     (stroke (width 0.15) (type solid)) (fill none) (layer "User.5") (tstamp 197cdf75-5760-442b-bb22-bc7215530113))
+  (fp_line (start -5.35 -5.35) (end 5.35 -5.35)
+    (stroke (width 0) (type solid)) (layer "User.9") (tstamp 4d65ba43-bd91-46df-b9e4-be46d32ff6fb))
+  (fp_line (start -5.35 5.35) (end -5.35 -5.35)
+    (stroke (width 0) (type solid)) (layer "User.9") (tstamp b4060c0b-c1ad-45e0-95b4-f2a4bac214a0))
+  (fp_line (start 5.35 -5.35) (end 5.35 5.35)
+    (stroke (width 0) (type solid)) (layer "User.9") (tstamp eb46b0bb-7d77-4b58-968e-c29e2a93f015))
+  (fp_line (start 5.35 5.35) (end -5.35 5.35)
+    (stroke (width 0) (type solid)) (layer "User.9") (tstamp 3669db80-99e5-40dd-a040-04f742d94d75))
   (pad "A1" smd circle (at -5.06 -5.06) (size 0.254 0.254) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp e5ab7842-5d22-45f6-b791-145ef2ce6945))
   (pad "A2" smd oval (at -4.6 -5.06) (size 0.1578 0.3302) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp cb9bd7ff-0ce7-494d-ba10-484f97290d37))
   (pad "A3" smd oval (at -4.14 -5.06) (size 0.1578 0.3302) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp d0572159-daf6-4f50-8aaf-34460b1497f6))
@@ -382,6 +390,14 @@
   (pad "Y20" smd circle (at 3.9 3.9) (size 0.254 0.254) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 6ea80613-b240-46f9-979b-5c484c3aa157))
   (pad "Y22" smd circle (at 4.6 3.68) (size 0.254 0.254) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 6c737203-85fd-4c46-b24b-10731efccbc3))
   (pad "Y23" smd oval (at 5.06 3.68 90) (size 0.1578 0.3302) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 6f11ee99-0b85-46e3-a467-2b0fe9dd6052))
+  (group "" (id 1d677b46-442c-49e5-b1f4-cef6db47ab9b)
+    (members
+      3669db80-99e5-40dd-a040-04f742d94d75
+      4d65ba43-bd91-46df-b9e4-be46d32ff6fb
+      b4060c0b-c1ad-45e0-95b4-f2a4bac214a0
+      eb46b0bb-7d77-4b58-968e-c29e2a93f015
+    )
+  )
   (model ""
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))

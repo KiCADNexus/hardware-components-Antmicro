@@ -9,7 +9,7 @@
     "keywords": "MODULE",
     "displayName": null,
     "gitHub": null,
-    "blender_model": null,
+    "blender_model": "Bluetooth_Module_BC118_1103394",
     "pads": [
         {
             "reference": "1",

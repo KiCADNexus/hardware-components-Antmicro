@@ -9,7 +9,7 @@
     "keywords": "MODULE",
     "displayName": null,
     "gitHub": null,
-    "blender_model": null,
+    "blender_model": "Bluetooth_Module_CYBLE-022001-00",
     "pads": [
         {
             "reference": "1",

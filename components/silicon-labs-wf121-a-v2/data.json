@@ -9,7 +9,7 @@
     "keywords": "MODULE",
     "displayName": null,
     "gitHub": null,
-    "blender_model": null,
+    "blender_model": "WiFi_Module_WF121-A-V2",
     "pads": [
         {
             "reference": "1",

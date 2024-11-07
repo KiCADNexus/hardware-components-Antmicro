@@ -15,7 +15,7 @@
             "reference": "1",
             "pin_name": "VIN_BULK",
             "alternate_pin_names": [],
-            "electrical_type": "input"
+            "electrical_type": "power_in"
         },
         {
             "reference": "2",
@@ -27,7 +27,7 @@
             "reference": "3",
             "pin_name": "VIN_MGMT",
             "alternate_pin_names": [],
-            "electrical_type": "input"
+            "electrical_type": "power_in"
         },
         {
             "reference": "4",
@@ -69,7 +69,7 @@
             "reference": "10",
             "pin_name": "VSS",
             "alternate_pin_names": [],
-            "electrical_type": "input"
+            "electrical_type": "power_in"
         },
         {
             "reference": "11",
@@ -457,7 +457,7 @@
         },
         {
             "reference": "75",
-            "pin_name": "VSS",
+            "pin_name": "VSS_DET",
             "alternate_pin_names": [],
             "electrical_type": "passive"
         },
@@ -1743,19 +1743,19 @@
             "reference": "S1",
             "pin_name": "SH",
             "alternate_pin_names": [],
-            "electrical_type": "input"
+            "electrical_type": "passive"
         },
         {
             "reference": "S2",
             "pin_name": "SH",
             "alternate_pin_names": [],
-            "electrical_type": "input"
+            "electrical_type": "passive"
         },
         {
             "reference": "S3",
             "pin_name": "SH",
             "alternate_pin_names": [],
-            "electrical_type": "input"
+            "electrical_type": "passive"
         }
     ]
 }

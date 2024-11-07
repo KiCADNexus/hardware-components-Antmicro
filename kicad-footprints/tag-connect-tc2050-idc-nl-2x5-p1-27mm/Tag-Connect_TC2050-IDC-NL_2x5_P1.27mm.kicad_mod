@@ -72,9 +72,4 @@
   (pad "8" connect circle (at 0 -0.635) (size 0.7874 0.7874) (layers "F.Cu" "F.Mask") (tstamp 22a8fc86-6025-4c1e-bd6b-ae161daa5355))
   (pad "9" connect circle (at -1.27 -0.635) (size 0.7874 0.7874) (layers "F.Cu" "F.Mask") (tstamp 2f7f3677-80b5-4bfe-b73d-a9ecc864c275))
   (pad "10" connect circle (at -2.54 -0.635) (size 0.7874 0.7874) (layers "F.Cu" "F.Mask") (tstamp 0490f742-c202-4bd7-8c0a-25a9bd959d25))
-  (model ""
-    (offset (xyz 0 0 0))
-    (scale (xyz 1 1 1))
-    (rotate (xyz -90 0 0))
-  )
 )

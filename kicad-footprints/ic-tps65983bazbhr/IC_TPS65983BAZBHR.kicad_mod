@@ -597,6 +597,14 @@
     (stroke (width 0.15) (type solid)) (layer "F.Fab") (tstamp 5da46b55-ac5d-4285-a719-0ed3adce3510))
   (fp_rect (start 3 -3) (end -3 3)
     (stroke (width 0.12) (type solid)) (fill none) (layer "User.5") (tstamp 0748266b-d7ad-41b4-a03c-d973cf5c56a0))
+  (fp_line (start -3 -3) (end -3 3)
+    (stroke (width 0) (type solid)) (layer "User.9") (tstamp a18d649e-e51a-4452-9f28-e515659e2f5a))
+  (fp_line (start -3 3) (end 3 3)
+    (stroke (width 0) (type solid)) (layer "User.9") (tstamp b61a72f3-5f78-47cf-b67c-e453d87f3454))
+  (fp_line (start 3 -3) (end -3 -3)
+    (stroke (width 0) (type solid)) (layer "User.9") (tstamp ce1c0fae-767a-405a-ae86-7d0f1136fb38))
+  (fp_line (start 3 3) (end 3 -3)
+    (stroke (width 0) (type solid)) (layer "User.9") (tstamp 94fd6f6c-26ec-41fb-adad-feb3b9013e2c))
   (pad "A1" smd circle (at -2.5 -2.5) (size 0.25 0.25) (layers "F.Cu" "F.Paste" "F.Mask")
     (solder_paste_margin_ratio -1) (tstamp f1d92ff3-b8e4-49f0-8bfd-1af62fb0e0a5))
   (pad "A2" smd oval (at -2 -2.5) (size 0.17 0.25) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp b5459b92-9f03-4c2c-89e3-38baff106785))
@@ -753,6 +761,14 @@
   (pad "L10" smd oval (at 2 2.5) (size 0.17 0.25) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 2c0b7940-69fc-4412-9cca-bef547deef6a))
   (pad "L11" smd circle (at 2.5 2.5) (size 0.25 0.25) (layers "F.Cu" "F.Paste" "F.Mask")
     (solder_paste_margin_ratio -1) (tstamp ad5fad47-33cc-43e2-abc2-ca49a677bee3))
+  (group "" (id 0e24c7e2-0eaf-4c50-8cc9-02f58053bbb3)
+    (members
+      94fd6f6c-26ec-41fb-adad-feb3b9013e2c
+      a18d649e-e51a-4452-9f28-e515659e2f5a
+      b61a72f3-5f78-47cf-b67c-e453d87f3454
+      ce1c0fae-767a-405a-ae86-7d0f1136fb38
+    )
+  )
   (model ""
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))

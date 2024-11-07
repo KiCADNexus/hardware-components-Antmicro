@@ -9,7 +9,7 @@
     "keywords": "MODULE",
     "displayName": null,
     "gitHub": null,
-    "blender_model": null,
+    "blender_model": "ZigBee_Module_MRF24J40MA",
     "pads": [
         {
             "reference": "1",

@@ -1,7 +1,7 @@
 {
     "reference": "U",
     "symbol": "USB2642_ML",
-    "footprint": "QFN-48-Microchip-QFN77-48LD-PL-2",
+    "footprint": "QFN-48-1EP_7x7x0.9mm_P0.5mm_EP5x5mm",
     "datasheet": "https://ww1.microchip.com/downloads/en/DeviceDoc/00001578D.pdf",
     "manufacturer": "Microchip Technology",
     "mpn": "USB2642/ML",
@@ -9,7 +9,7 @@
     "keywords": "USB, HUB, INTERFACE, CONTROLLER, FLASH ",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "QFN-48-Microchip-QFN77-48LD-PL-2",
+    "blender_model": "QFN-48-1EP_7x7x0.9mm_P0.5mm_EP5x5mm-microchip-technology-usb2642-ml",
     "pads": [
         {
             "reference": "1",
@@ -255,7 +255,7 @@
             "reference": "41",
             "pin_name": "VDDA33_2",
             "alternate_pin_names": [],
-            "electrical_type": "power_in"
+            "electrical_type": "passive"
         },
         {
             "reference": "42",

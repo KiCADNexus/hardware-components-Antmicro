@@ -9,7 +9,7 @@
     "keywords": "SMT, MEMORY, IC, DRAM, HYPERBUS, HYPERRAM",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "FBGA-25-24_6x8mm_Layout5x5_P1mm",
+    "blender_model": "FBGA-25-24_6x8mm_Layout5x5_P1mm-cypress-semiconductor-s27kl0641dabhi023",
     "pads": [
         {
             "reference": "A2",

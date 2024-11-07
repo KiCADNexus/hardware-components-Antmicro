@@ -1,0 +1,27 @@
+{
+    "reference": "L",
+    "symbol": "L_33u_8A_Bourns-SRP1265A",
+    "footprint": "L_Bourns-SRP1265A",
+    "datasheet": "https://www.bourns.com/docs/Product-Datasheets/SRP1265A.pdf",
+    "manufacturer": "Bourns",
+    "mpn": "SRP1265A-330M",
+    "description": "Power Inductor (SMD), 33 \u00b5H, 8 A, Shielded, \u00b120%, 11A, SRP1265A-330M",
+    "keywords": "SMT, INDUCTOR, PASSIVE",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "L_Bourns-SRP1265A",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "2",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        }
+    ]
+}
