@@ -1,6 +1,6 @@
 {
     "reference": "R",
-    "symbol": "4x1k_0201_array_1",
+    "symbol": "4x1k_0201_array",
     "footprint": "R_Array_4x0201_Panasonic_EXB18V",
     "datasheet": "http://industrial.panasonic.com/cdbs/www-data/pdf/AOC0000/AOC0000C14.pdf",
     "manufacturer": "Panasonic",

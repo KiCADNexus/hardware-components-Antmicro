@@ -9,6 +9,6 @@
     "keywords": "CONNECTOR, HEADER",
     "displayName": null,
     "gitHub": null,
-    "blender_model": null,
+    "blender_model": "PinHeader_2x20_P2mm_SMD",
     "pads": []
 }

@@ -2,6 +2,7 @@
   (layer "F.Cu")
   (descr "Mech M2 Quectel EM06 H2.5mm")
   (tags "Mech M2 Quectel EM06 H2.5mm")
+  (attr exclude_from_pos_files exclude_from_bom allow_missing_courtyard)
   (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS") hide
       (effects (font (size 0.7 0.7) (thickness 0.15)) (justify left bottom))
     (tstamp 72b51742-a6de-40b8-984c-954d84728fea)

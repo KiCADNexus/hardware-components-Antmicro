@@ -49,9 +49,9 @@
         },
         {
             "reference": "7",
-            "pin_name": "RESV",
+            "pin_name": "NC",
             "alternate_pin_names": [],
-            "electrical_type": "power_in"
+            "electrical_type": "no_connect"
         },
         {
             "reference": "8",
