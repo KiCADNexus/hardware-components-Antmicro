@@ -1,0 +1,27 @@
+{
+    "reference": "L",
+    "symbol": "L_33u_4.9A_TDK-SPM10065VT",
+    "footprint": "L_TDK-SPM10065VT",
+    "datasheet": "https://product.tdk.com/en/search/inductor/inductor/smd/info?part_no=SPM10065VT-330M-D",
+    "manufacturer": "TDK",
+    "mpn": "SPM10065VT-330M-D",
+    "description": "Power Inductors - SMD 33uH 20% 50mOhm AEC-Q200",
+    "keywords": "SMT, INDUCTOR, PASSIVE",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "L_TDK-SPM10065VT",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "2",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        }
+    ]
+}

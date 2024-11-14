@@ -9,7 +9,7 @@
     "keywords": "IC, CLOCK",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "QFN-36-1EP_6x6mm_P0.5mm_EP3.7x3.7mm",
+    "blender_model": "QFN-36-1EP_6x6mm_P0.5mm_EP3.7x3.7mm-skyworks-solutions-si5319c-c-gm-nd",
     "pads": [
         {
             "reference": "1",

@@ -1,0 +1,11 @@
+{
+    "blendfile": "C_Pol_EIA-D-kemet-t520d108m2r5ate030.blend",
+    "previews": [
+        {
+            "id": "iso-front",
+            "description": "Render in iso-front view",
+            "fileName": "isoF.webp",
+            "animations": {}
+        }
+    ]
+}

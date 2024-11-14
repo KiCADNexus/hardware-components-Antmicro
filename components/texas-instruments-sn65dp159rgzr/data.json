@@ -9,7 +9,7 @@
     "keywords": "SMT, IC, HDMI",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "VQFN-48_7x7mm_P0.5mm_EP4.1x4.1mm",
+    "blender_model": "VQFN-48_7x7mm_P0.5mm_EP4.1x4.1mm-texas-instruments-sn65dp159rgzr",
     "pads": [
         {
             "reference": "1",

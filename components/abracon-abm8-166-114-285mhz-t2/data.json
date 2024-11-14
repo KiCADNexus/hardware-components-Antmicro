@@ -9,7 +9,7 @@
     "keywords": "SMT, CERAMIC, OSCILLATOR",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "Resonator_SMD_Abracon_ABM8G_3.2x2.5mm",
+    "blender_model": "Resonator_SMD_Abracon_ABM8G_3.2x2.5mm-abracon-abm8-166-114-285mhz-t2",
     "pads": [
         {
             "reference": "1",
