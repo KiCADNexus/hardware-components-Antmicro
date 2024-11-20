@@ -5,7 +5,7 @@
     "datasheet": "https://www.st.com/resource/en/datasheet/stpmic1.pdf",
     "manufacturer": "STMicroelectronics",
     "mpn": "STPMIC1APQR",
-    "description": null,
+    "description": "2.8V-5.5V in, 6 x LDO 1.0V - 3.3V, 1 x Boost 5V , 4 x Buck (1.1V - 3.3V)",
     "keywords": "SMT, PMIC, IC, VOLTAGE, REGULATOR, SWITCHING, DC-DC",
     "displayName": null,
     "gitHub": null,

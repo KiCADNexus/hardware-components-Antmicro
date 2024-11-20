@@ -5,7 +5,7 @@
     "datasheet": "https://ams-osram.com/products/sensors/cmos-image-sensors/ams-cmv2000",
     "manufacturer": "OSRAM",
     "mpn": "CMV2000",
-    "description": null,
+    "description": "High sensitivity, pipelined global shutter CMOS image sensor with 2048 x 1088 pixel resolution capable of HD format",
     "keywords": "MECHANICAL, VIDEO",
     "displayName": null,
     "gitHub": null,

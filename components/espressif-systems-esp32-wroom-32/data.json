@@ -5,7 +5,7 @@
     "datasheet": "https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32_datasheet_en.pdf",
     "manufacturer": "Espressif Systems",
     "mpn": "ESP32-WROOM-32",
-    "description": null,
+    "description": "RF transceiver module",
     "keywords": "SMT, MODULE, BLUETOOTH, RF, ANTENNA",
     "displayName": null,
     "gitHub": null,

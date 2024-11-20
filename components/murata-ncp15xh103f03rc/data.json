@@ -5,7 +5,7 @@
     "datasheet": "https://eu.mouser.com/datasheet/2/281/r44e-522712.pdf",
     "manufacturer": "Murata",
     "mpn": "NCP15XH103F03RC",
-    "description": null,
+    "description": "10k NTC in 0603 package with 5V max voltage",
     "keywords": "THERMISTOR, NTC",
     "displayName": null,
     "gitHub": null,

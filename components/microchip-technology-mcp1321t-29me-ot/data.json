@@ -5,7 +5,7 @@
     "datasheet": "https://ww1.microchip.com/downloads/en/DeviceDoc/MCP131X-2X-Voltage-Supervisor-DS20001985E.pdf",
     "manufacturer": "Microchip Technology",
     "mpn": "MCP1321T-29ME/OT",
-    "description": null,
+    "description": "Watchdog timer 25.6s and Voltage Supervisor",
     "keywords": "IC, SMT",
     "displayName": null,
     "gitHub": null,

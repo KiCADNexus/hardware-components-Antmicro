@@ -5,7 +5,7 @@
     "datasheet": "https://eu.mouser.com/datasheet/2/389/stusb4710-1852079.pdf",
     "manufacturer": "STMicroelectronics",
     "mpn": "STUSB4710AQ1TR",
-    "description": null,
+    "description": "USBC PD 2.0 source controller I2C Interface 16-QFN(3x3)",
     "keywords": "SMT,CONTROLLER,POE,IC",
     "displayName": null,
     "gitHub": null,

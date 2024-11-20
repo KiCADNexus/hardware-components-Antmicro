@@ -5,7 +5,7 @@
     "datasheet": "https://www.ti.com/lit/ds/symlink/ina230.pdf?ts=1720708270976&ref_url=https%253A%252F%252Fwww.mouser.pl%252F",
     "manufacturer": "Texas Instruments",
     "mpn": "INA230AIRGTR",
-    "description": null,
+    "description": "Current-shunt and power monitor with an I2C interface",
     "keywords": "IC, PMIC, SMT, MONITOR",
     "displayName": null,
     "gitHub": null,

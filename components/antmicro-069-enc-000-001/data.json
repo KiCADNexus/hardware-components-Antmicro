@@ -5,7 +5,7 @@
     "datasheet": null,
     "manufacturer": "Antmicro",
     "mpn": "069.ENC.000.001",
-    "description": null,
+    "description": "3D printable enclosure design matching the Environment Sensor design. Contains a opening on one side to expose the part of the PCB with sensors.",
     "keywords": "ENCLOSURE",
     "displayName": null,
     "gitHub": "https://github.com/antmicro/environment-sensor-enclosure",

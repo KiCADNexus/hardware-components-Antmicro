@@ -5,7 +5,7 @@
     "datasheet": "http://www.microchip.com/mymicrochip/filehandler.aspx?ddocname=en011779",
     "manufacturer": "Microchip Technology",
     "mpn": "MCP1700T-3302E/TT",
-    "description": null,
+    "description": "Fixed LDO Voltage Regulator, 2.3V to 6V, 178mV Dropout, 3.3Vout, 250mAout, SOT-23-3",
     "keywords": "SMT, REGULATOR, IC, LINEAR",
     "displayName": null,
     "gitHub": null,

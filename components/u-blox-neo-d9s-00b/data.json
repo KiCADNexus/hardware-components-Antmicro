@@ -5,7 +5,7 @@
     "datasheet": "https://content.u-blox.com/sites/default/files/NEO-D9S-00B_DataSheet_UBX-18012996.pdf",
     "manufacturer": "u-blox",
     "mpn": "NEO-D9S-00B",
-    "description": null,
+    "description": "RF receiver",
     "keywords": "IC",
     "displayName": null,
     "gitHub": null,

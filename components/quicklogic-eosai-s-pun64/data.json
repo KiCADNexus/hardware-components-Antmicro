@@ -5,7 +5,7 @@
     "datasheet": "https://www.quicklogic.com/wp-content/uploads/2020/12/QL-EOS-S3-Ultra-Low-Power-multicore-MCU-Datasheet-2020.pdf",
     "manufacturer": "QuickLogic",
     "mpn": "EOSAI-S-PUN64",
-    "description": null,
+    "description": "MCU + eFPGA SoC",
     "keywords": "FPGA, SOC, MCU",
     "displayName": null,
     "gitHub": null,

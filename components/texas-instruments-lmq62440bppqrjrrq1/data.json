@@ -5,7 +5,7 @@
     "datasheet": "https://www.ti.com/lit/ds/symlink/lmq62440-q1.pdf?ts=1636528724430",
     "manufacturer": "Texas Instruments",
     "mpn": "LMQ62440BPPQRJRRQ1",
-    "description": null,
+    "description": "DC/DC converter",
     "keywords": "SMT, PMIC, IC, SWITCHING, BUCK, VOLTAGE, REGULATOR",
     "displayName": null,
     "gitHub": null,

@@ -5,7 +5,7 @@
     "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/MAX6650-MAX6651.pdf",
     "manufacturer": "Analog Devices",
     "mpn": "MAX6650EUB+",
-    "description": null,
+    "description": "Fan-Speed Regulators and Monitors with SMBus/I2C-Compatible Interface",
     "keywords": "CONTROLLER",
     "displayName": null,
     "gitHub": null,

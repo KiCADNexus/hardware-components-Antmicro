@@ -5,7 +5,7 @@
     "datasheet": "https://www.ti.com/lit/ds/symlink/tps22976.pdf?ts=1695945616654",
     "manufacturer": "Texas Instruments",
     "mpn": "TPS22976DPUR",
-    "description": null,
+    "description": "2-ch, 5.7-V, 6-A, 14-m\u03a9, load switch with adj. rise time and optional output discharge",
     "keywords": "IC, POWER, SWITCH, SMT",
     "displayName": null,
     "gitHub": null,

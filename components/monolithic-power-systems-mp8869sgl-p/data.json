@@ -5,7 +5,7 @@
     "datasheet": "https://www.mouser.com/datasheet/2/277/MP8869S-2946178.pdf",
     "manufacturer": "Monolithic Power Systems",
     "mpn": "MP8869SGL-P",
-    "description": null,
+    "description": "DC-DC Switching Synchronous Buck Regulator, 2.85V-18V in, 600mV to 5.5V out, 12A, 500kHz, QFN-14",
     "keywords": "SMT, PMIC, IC, VOLTAGE, REGULATOR, SWITCHING, DC-DC",
     "displayName": null,
     "gitHub": null,

@@ -5,7 +5,7 @@
     "datasheet": "https://eu.mouser.com/datasheet/2/609/3507afa-2954803.pdf",
     "manufacturer": "Analog Devices",
     "mpn": "LT3507AEFE#PBF",
-    "description": null,
+    "description": "Triple Monolithic Step-Down Regulator with LDO",
     "keywords": "BUCK, SWITCHING, REGULATOR, DC-DC",
     "displayName": null,
     "gitHub": null,

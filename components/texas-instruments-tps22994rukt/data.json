@@ -5,7 +5,7 @@
     "datasheet": "https://www.ti.com/lit/ds/symlink/tps22994.pdf?ts=1707303306217",
     "manufacturer": "Texas Instruments",
     "mpn": "TPS22994RUKT",
-    "description": null,
+    "description": "Quad Channel Load Switch with GPIO and I2C Control",
     "keywords": "IC, SWITCH",
     "displayName": null,
     "gitHub": null,

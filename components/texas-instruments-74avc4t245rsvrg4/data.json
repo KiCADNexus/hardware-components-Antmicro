@@ -5,7 +5,7 @@
     "datasheet": "https://www.ti.com/lit/ds/symlink/sn74avc4t245.pdf",
     "manufacturer": "Texas Instruments",
     "mpn": "74AVC4T245RSVRG4",
-    "description": null,
+    "description": "Logic translator/level shifter",
     "keywords": "SMT, LOGIC, IC, LEVEL-SHIFTER",
     "displayName": null,
     "gitHub": null,

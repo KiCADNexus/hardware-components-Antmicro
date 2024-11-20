@@ -5,7 +5,7 @@
     "datasheet": "https://eu.mouser.com/datasheet/2/698/REN_8SLVP1204_DST_20210520-1996892.pdf",
     "manufacturer": "Renesas",
     "mpn": "8SLVP1204ANLGI",
-    "description": null,
+    "description": "Clock Buffer 2:4 LVPECL Output Fanout Buffer",
     "keywords": "IC, CLOCK, BUFFER",
     "displayName": null,
     "gitHub": null,

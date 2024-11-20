@@ -5,7 +5,7 @@
     "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/MAX31730.pdf",
     "manufacturer": "Analog Devices",
     "mpn": "MAX31730AUB+",
-    "description": null,
+    "description": "3-Channel remote temperature sensor, 3-3.6V, I2C",
     "keywords": "I2C, SENSOR, IC",
     "displayName": null,
     "gitHub": null,

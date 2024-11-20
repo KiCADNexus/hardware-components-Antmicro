@@ -5,7 +5,7 @@
     "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/max31740.pdf",
     "manufacturer": "Analog Devices",
     "mpn": "MAX31740ATA+T",
-    "description": null,
+    "description": "Pwm fan speed controller, temperature measurement, Control speed of 2-, 3-, 4- Wire Fans",
     "keywords": "SENSOR, IC, SMT",
     "displayName": null,
     "gitHub": null,

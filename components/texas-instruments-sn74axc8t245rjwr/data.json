@@ -5,7 +5,7 @@
     "datasheet": "https://www.ti.com/lit/ds/symlink/sn74axc8t245.pdf?ts=1702327536011",
     "manufacturer": "Texas Instruments",
     "mpn": "SN74AXC8T245RJWR",
-    "description": null,
+    "description": "8-bit dual-supply bus transceiver",
     "keywords": "LEVEL-SHIFTER , DIGITAL",
     "displayName": null,
     "gitHub": null,

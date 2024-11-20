@@ -5,7 +5,7 @@
     "datasheet": "https://eu.mouser.com/datasheet/2/268/20006180C_MCP3461_2_4_Two_Four_Eight_Channel_LowNo-2297874.pdf",
     "manufacturer": "Microchip Technology",
     "mpn": "MCP3464RT-E/NC",
-    "description": null,
+    "description": "4 channel16-bit ADC with I2C, 1V8-3.6V",
     "keywords": "SMT, CONVERTER, IC, ADC, SPI",
     "displayName": null,
     "gitHub": null,

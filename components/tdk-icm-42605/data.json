@@ -5,7 +5,7 @@
     "datasheet": "https://invensense.tdk.com/wp-content/uploads/2022/09/DS-000292-ICM-42605-v1.7.pdf",
     "manufacturer": "TDK",
     "mpn": "ICM-42605",
-    "description": null,
+    "description": "Motion sensor (IMU)",
     "keywords": "IC",
     "displayName": null,
     "gitHub": null,

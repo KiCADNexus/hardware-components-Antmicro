@@ -5,7 +5,7 @@
     "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/lt8350.pdf",
     "manufacturer": "Analog Devices",
     "mpn": "LT8350RV#PBF",
-    "description": null,
+    "description": "DC/DC converter",
     "keywords": "SMT, PMIC, IC, POWER, MANAGEMENT, VOLTAGE, REGULATOR",
     "displayName": null,
     "gitHub": null,

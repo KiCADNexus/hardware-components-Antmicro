@@ -5,7 +5,7 @@
     "datasheet": "https://www.ti.com/general/docs/suppproductinfo.tsp?distId=26&gotoUrl=https://www.ti.com/lit/gpn/tps7a20",
     "manufacturer": "Texas Instruments",
     "mpn": "TPS7A20185PDQNR",
-    "description": null,
+    "description": "Linear voltage regulator",
     "keywords": "SMT, PMIC, IC, LDO, LINEAR, VOLTAGE, REGULATOR",
     "displayName": null,
     "gitHub": null,

@@ -5,7 +5,7 @@
     "datasheet": "https://www.ti.com/lit/ds/symlink/tps51313.pdf",
     "manufacturer": "Texas Instruments",
     "mpn": "TPS51313DRCT",
-    "description": null,
+    "description": "DC/DC switching voltage regulator",
     "keywords": "IC",
     "displayName": null,
     "gitHub": null,

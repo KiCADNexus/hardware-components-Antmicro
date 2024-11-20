@@ -5,7 +5,7 @@
     "datasheet": "https://www.infineon.com/dgdl/Infineon-EZ-PD_BCR_Datasheet_USB_Type-C_Port_Controller_for_Power_Sinks-DataSheet-v03_00-EN.pdf?fileId=8ac78c8c7d0d8da4017d0ee7ce9d70ad",
     "manufacturer": "Infineon",
     "mpn": "CYPD3177-24LQXQ",
-    "description": null,
+    "description": "USB Interface, USB Type-C and Power Delivery (PD) Controller, USB PD 3.0, 2.7 V, 5.5 V, QFN-EP",
     "keywords": "SMT, CONTROLLER, IC, INTERFACE",
     "displayName": null,
     "gitHub": null,

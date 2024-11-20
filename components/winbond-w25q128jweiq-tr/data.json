@@ -5,7 +5,7 @@
     "datasheet": "https://www.winbond.com/resource-files/W25Q128JW_RevG_07292021%20Plus.pdf",
     "manufacturer": "Winbond",
     "mpn": "W25Q128JWEIQ TR",
-    "description": null,
+    "description": "FLASH - NOR Memory IC 128Mbit SPI - Quad I/O, QPI 133 MHz 8-WSON (5x6)",
     "keywords": "SMT, MEMORY, IC",
     "displayName": null,
     "gitHub": null,

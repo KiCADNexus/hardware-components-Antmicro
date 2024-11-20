@@ -5,7 +5,7 @@
     "datasheet": "https://www.onsemi.com/pub/Collateral/BSS84-D.PDF",
     "manufacturer": "ON Semiconductor",
     "mpn": "BSS84",
-    "description": null,
+    "description": "MOSFET P Channel, 50 V, 130 mA, 10 ohm",
     "keywords": "SMT, TRANSISTOR, SEMICONDUCTOR, PMOS",
     "displayName": null,
     "gitHub": null,

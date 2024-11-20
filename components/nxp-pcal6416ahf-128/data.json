@@ -5,7 +5,7 @@
     "datasheet": "https://www.nxp.com/docs/en/data-sheet/PCAL6416A.pdf",
     "manufacturer": "NXP",
     "mpn": "PCAL6416AHF,128",
-    "description": null,
+    "description": "I/O Expander, 16 bit, I2C, 1.65 V, 5.5 V, HWQFN, 24 Pins",
     "keywords": "I2C, INTERFACE",
     "displayName": null,
     "gitHub": null,

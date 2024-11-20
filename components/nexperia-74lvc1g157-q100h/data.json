@@ -5,7 +5,7 @@
     "datasheet": "https://www.mouser.com/datasheet/2/916/74LVC1G157_Q100-1578792.pdf",
     "manufacturer": "Nexperia",
     "mpn": "74LVC1G157-Q100H",
-    "description": null,
+    "description": "Single 2-input multiplexer",
     "keywords": "SMT, LOGIC, IC, DECODER, ENCODER, MUX",
     "displayName": null,
     "gitHub": null,

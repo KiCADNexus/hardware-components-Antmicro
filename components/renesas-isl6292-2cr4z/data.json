@@ -5,7 +5,7 @@
     "datasheet": "https://www.renesas.com/us/en/document/dst/isl6292-datasheet",
     "manufacturer": "Renesas",
     "mpn": "ISL6292-2CR4Z",
-    "description": null,
+    "description": "Li-Ion/Li-Pol battery charger, 2A",
     "keywords": "SMT, PMIC, IC, MANAGEMENT",
     "displayName": null,
     "gitHub": null,

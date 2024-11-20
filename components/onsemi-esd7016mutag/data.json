@@ -5,7 +5,7 @@
     "datasheet": "https://www.onsemi.com/pdf/datasheet/esd7016-d.pdf",
     "manufacturer": "Onsemi",
     "mpn": "ESD7016MUTAG",
-    "description": null,
+    "description": "TVS diode array, 15 kV, UDFN-8, 5 V, 0.15 pF",
     "keywords": "SMT, DIODE, SEMICONDUCTOR, TVS, ESD",
     "displayName": null,
     "gitHub": null,

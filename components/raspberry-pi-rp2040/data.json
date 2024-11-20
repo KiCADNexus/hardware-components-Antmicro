@@ -5,7 +5,7 @@
     "datasheet": "https://datasheets.raspberrypi.com/rp2040/rp2040-datasheet.pdf",
     "manufacturer": "Raspberry Pi",
     "mpn": "RP2040",
-    "description": null,
+    "description": "ARM MCU, Raspberry Pi, Dual ARM Cortex-M0+, 32 bit, 133MHz, 264 KB",
     "keywords": "SMT, MICROCONTROLLER",
     "displayName": null,
     "gitHub": null,

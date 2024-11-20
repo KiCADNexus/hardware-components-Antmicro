@@ -5,7 +5,7 @@
     "datasheet": "https://www.st.com/resource/en/datasheet/stm32mp157c.pdf",
     "manufacturer": "STMicroelectronics",
     "mpn": "STM32MP157CAC3",
-    "description": null,
+    "description": "ARM Cortex-A7 processor, 2x209MHz, 1.71-3.6V, 176 GPIO, TFBGA-361",
     "keywords": "BGA, IC, ARM",
     "displayName": null,
     "gitHub": null,

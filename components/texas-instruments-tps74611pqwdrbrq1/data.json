@@ -5,7 +5,7 @@
     "datasheet": "https://www.ti.com/lit/gpn/tps746-q1",
     "manufacturer": "Texas Instruments",
     "mpn": "TPS74611PQWDRBRQ1",
-    "description": null,
+    "description": "Linear voltage regulator",
     "keywords": "SMT, PMIC, IC, LDO, LINEAR, VOLTAGE, REGULATOR",
     "displayName": null,
     "gitHub": null,
