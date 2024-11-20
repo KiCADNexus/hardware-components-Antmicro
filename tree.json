@@ -16878,11 +16878,11 @@
       {"type":"link","name":"previews","target":"../../blender-models/uson-14-3-5x1-3x0-5mm-p0-5mm/previews"}
     ]},
     {"type":"directory","name":"texas-instruments-tpd8s009dsmr","contents":[
-      {"type":"link","name":"R-PDSO-N15.blend","target":"../../blender-models/r-pdso-n15/R-PDSO-N15.blend"},
+      {"type":"link","name":"R-PDSO-N15-texas-instruments-tpd8s009dsmr.blend","target":"../../blender-models/r-pdso-n15-texas-instruments-tpd8s009dsmr/R-PDSO-N15-texas-instruments-tpd8s009dsmr.blend"},
       {"type":"link","name":"R-PDSO-N15.kicad_mod","target":"../../kicad-footprints/r-pdso-n15/R-PDSO-N15.kicad_mod"},
       {"type":"link","name":"TPD8S009DSMR.kicad_sym","target":"../../kicad-symbols/tpd8s009dsmr/TPD8S009DSMR.kicad_sym"},
       {"type":"file","name":"data.json"},
-      {"type":"link","name":"previews","target":"../../blender-models/r-pdso-n15/previews"}
+      {"type":"link","name":"previews","target":"../../blender-models/r-pdso-n15-texas-instruments-tpd8s009dsmr/previews"}
     ]},
     {"type":"directory","name":"texas-instruments-tpl5110ddct","contents":[
       {"type":"link","name":"SOT-23-6.blend","target":"../../blender-models/sot-23-6/SOT-23-6.blend"},
@@ -18564,10 +18564,10 @@
     ]},
     {"type":"directory","name":"wurth-elektronik-7447798720","contents":[
       {"type":"link","name":"L_7u2_7.9A_WE-PDF-1064.kicad_sym","target":"../../kicad-symbols/l-7u2-7-9a-we-pdf-1064/L_7u2_7.9A_WE-PDF-1064.kicad_sym"},
-      {"type":"link","name":"L_WE-PDF-1064.blend","target":"../../blender-models/l-we-pdf-1064/L_WE-PDF-1064.blend"},
+      {"type":"link","name":"L_WE-PDF-1064-wurth-elektronik-7447798720.blend","target":"../../blender-models/l-we-pdf-1064-wurth-elektronik-7447798720/L_WE-PDF-1064-wurth-elektronik-7447798720.blend"},
       {"type":"link","name":"L_WE-PDF-1064.kicad_mod","target":"../../kicad-footprints/l-we-pdf-1064/L_WE-PDF-1064.kicad_mod"},
       {"type":"file","name":"data.json"},
-      {"type":"link","name":"previews","target":"../../blender-models/l-we-pdf-1064/previews"}
+      {"type":"link","name":"previews","target":"../../blender-models/l-we-pdf-1064-wurth-elektronik-7447798720/previews"}
     ]},
     {"type":"directory","name":"wurth-elektronik-74479276210c","contents":[
       {"type":"link","name":"L_0806_2016Metric.blend","target":"../../blender-models/l-0806-2016metric/L_0806_2016Metric.blend"},
