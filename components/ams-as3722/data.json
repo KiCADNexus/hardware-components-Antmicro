@@ -5,7 +5,7 @@
     "datasheet": "https://look.ams-osram.com/m/21ab19a43cbbe57a/original/AS3722-DS000358.pdf",
     "manufacturer": "AMS",
     "mpn": "AS3722",
-    "description": "Programmable power management unit, 4x DC-DC buck converter, 3x buck converter (6A to 24A), 11 low noise LDOs, 4MHz switching frequency, RTC",
+    "description": null,
     "keywords": "IC,DC-DC,LDO,ADC,I2C,SPI",
     "displayName": null,
     "gitHub": null,

@@ -1,28 +1,31 @@
-(kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "CD575M-A1" (in_bom yes) (on_board yes)
+(kicad_symbol_lib
+  (symbol "CD575M-A1"  (exclude_from_sim no) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 71.12 -5.08 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
     )
     (property "Value" "CD575M-A1" (at 71.12 -10.16 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "Footprint" "CD575M-A1:BGA-916-813_23x23mm_Layout31x31_P0.7mm_CD575M-A1" (at 71.12 -12.7 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "Datasheet" "https://developer.nvidia.com/embedded/tegra-k1-reference" (at 71.12 -15.24 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
+    )
+    (property "Description" "Tegra K1 processors integrate a power optimized version of  Kepler GPU architecture. It supports OpenGL® 4.4, OpenGL ES 3.1 and CUDA®/GPGPU on mobile and embedded devices." (at 0 0 0)
+      (effects (font (size 1.27 1.27))( hide yes ))
     )
     (property "MPN" "CD575M-A1" (at 71.12 -7.62 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
     )
     (property "Manufacturer" "Nvidia" (at 71.12 -17.78 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "Author" "Antmicro" (at 71.12 -20.32 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "License" "Apache-2.0" (at 71.12 -22.86 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "Displayed name" "Tegra K1" (at 71.12 -25.4 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
@@ -31,12 +34,9 @@
       (effects (font (size 1.27 1.27)))
     )
     (property "ki_keywords" "SOC,MEMORY,HDMI,DSI,BGA,AUDIO,MIPI,MONITOR,PLL,SEMICONDUCTOR,VIDEO" (at 0 0 0)
-      (effects (font (size 1.27 1.27)) hide)
+      (effects (font (size 1.27 1.27))( hide yes ))
     )
-    (property "ki_description" "Tegra K1 processors integrate a power optimized version of  Kepler GPU architecture. It supports OpenGL® 4.4, OpenGL ES 3.1 and CUDA®/GPGPU on mobile and embedded devices." (at 0 0 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (symbol "CD575M-A1_1_1"
+    (symbol "CD575M-A1_1_1" 
       (polyline
         (pts
           (xy 24.13 -62.23)
@@ -1765,7 +1765,7 @@
         (alternate "SDMMC1_WP_N" passive line)
       )
     )
-    (symbol "CD575M-A1_2_1"
+    (symbol "CD575M-A1_2_1" 
       (polyline
         (pts
           (xy 5.08 -104.14)
@@ -2308,7 +2308,7 @@
         (alternate "pd" passive line)
       )
     )
-    (symbol "CD575M-A1_3_1"
+    (symbol "CD575M-A1_3_1" 
       (polyline
         (pts
           (xy 5.08 -134.62)
@@ -2737,7 +2737,7 @@
         (alternate "SDMMC4_DAT1" passive line)
       )
     )
-    (symbol "CD575M-A1_4_1"
+    (symbol "CD575M-A1_4_1" 
       (polyline
         (pts
           (xy 5.08 -144.78)
@@ -3208,7 +3208,7 @@
         (alternate "GPIO3_PX.05" passive line)
       )
     )
-    (symbol "CD575M-A1_5_1"
+    (symbol "CD575M-A1_5_1" 
       (polyline
         (pts
           (xy 5.08 -76.2)
@@ -3752,7 +3752,7 @@
         (alternate "z" passive line)
       )
     )
-    (symbol "CD575M-A1_6_1"
+    (symbol "CD575M-A1_6_1" 
       (rectangle (start 5.08 2.54) (end 38.1 -208.28)
         (stroke (width 0) (type default))
         (fill (type background))

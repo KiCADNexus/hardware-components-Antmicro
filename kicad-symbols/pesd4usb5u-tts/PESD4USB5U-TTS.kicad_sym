@@ -1,36 +1,36 @@
-(kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "PESD4USB5U-TTS" (pin_names hide) (in_bom yes) (on_board yes)
+(kicad_symbol_lib
+  (symbol "PESD4USB5U-TTS"  (pin_names hide) (exclude_from_sim no) (in_bom yes) (on_board yes)
     (property "Reference" "D" (at 13.97 4.445 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
     )
     (property "Value" "PESD4USB5U-TTS" (at 13.97 -5.715 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "Footprint" "PESD4USB5U-TTS:DFN-10_2.5x1mm" (at 13.97 -0.635 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/PESD4USB5U-TTS.pdf" (at 13.97 -3.175 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
+    )
+    (property "Description" "TVS diode array, 15kV, DFN-10, 5 V, 0.5 pF" (at 0 0 0)
+      (effects (font (size 1.27 1.27))( hide yes ))
     )
     (property "MPN" "PESD4USB5U-TTS" (at 13.97 1.905 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
     )
     (property "Manufacturer" "Nexperia" (at 13.97 -8.255 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "Author" "Antmicro" (at 13.97 -10.795 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "License" "Apache-2.0" (at 13.97 -13.335 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "ki_keywords" "SMT, DIODE, SEMICONDUCTOR, TVS, ESD" (at 0 0 0)
-      (effects (font (size 1.27 1.27)) hide)
+      (effects (font (size 1.27 1.27))( hide yes ))
     )
-    (property "ki_description" "TVS diode array, 15kV, DFN-10, 5 V, 0.5 pF" (at 0 0 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (symbol "PESD4USB5U-TTS_0_1"
+    (symbol "PESD4USB5U-TTS_0_1" 
       (polyline
         (pts
           (xy 3.81 -7.62)
@@ -98,7 +98,7 @@
         (fill (type none))
       )
     )
-    (symbol "PESD4USB5U-TTS_1_1"
+    (symbol "PESD4USB5U-TTS_1_1" 
       (polyline
         (pts
           (xy 3.81 -8.255)

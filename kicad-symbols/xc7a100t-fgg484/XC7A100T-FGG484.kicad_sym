@@ -1,39 +1,39 @@
-(kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "XC7A100T-FGG484" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+(kicad_symbol_lib
+  (symbol "XC7A100T-FGG484"  (pin_names (offset 1.016)) (exclude_from_sim no) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 76.2 -2.54 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
     )
     (property "Value" "XC7A100T-FGG484" (at 76.2 -7.62 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "Footprint" "XC7A100T-FGG484:BGA-484_23x23mm_Layout22x22_P1mm_FGG484" (at 76.2 -10.16 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "Datasheet" "https://docs.xilinx.com/v/u/en-US/ds181_Artix_7_Data_Sheet" (at 76.2 -12.7 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
+    )
+    (property "Description" "Artix-7 Field Programmable Gate Array IC 210 324-LFBGA, CSPBGA" (at 0 0 0)
+      (effects (font (size 1.27 1.27))( hide yes ))
     )
     (property "MPN" "XC7A100T-FGG484" (at 76.2 -5.08 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
     )
     (property "Manufacturer" "AMD-Xilinx" (at 76.2 -15.24 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "Author" "Antmicro" (at 76.2 -17.78 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "License" "Apache-2.0" (at 76.2 -20.32 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "ki_locked" "" (at 0 0 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "ki_keywords" "SMT, IC, FPGA" (at 0 0 0)
-      (effects (font (size 1.27 1.27)) hide)
+      (effects (font (size 1.27 1.27))( hide yes ))
     )
-    (property "ki_description" "Artix-7 Field Programmable Gate Array IC 210 324-LFBGA, CSPBGA" (at 0 0 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (symbol "XC7A100T-FGG484_1_1"
+    (symbol "XC7A100T-FGG484_1_1" 
       (rectangle (start 5.08 5.08) (end 58.42 -130.81)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -429,7 +429,7 @@
         (number "Y22" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XC7A100T-FGG484_2_1"
+    (symbol "XC7A100T-FGG484_2_1" 
       (rectangle (start 5.08 5.08) (end 58.42 -130.81)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -889,7 +889,7 @@
         (number "N22" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XC7A100T-FGG484_3_1"
+    (symbol "XC7A100T-FGG484_3_1" 
       (rectangle (start 5.08 5.08) (end 58.42 -130.81)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -1349,7 +1349,7 @@
         (number "Y9" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XC7A100T-FGG484_4_1"
+    (symbol "XC7A100T-FGG484_4_1" 
       (rectangle (start 5.08 2.54) (end 21.59 -55.88)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -1435,7 +1435,7 @@
         (number "V12" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XC7A100T-FGG484_5_1"
+    (symbol "XC7A100T-FGG484_5_1" 
       (rectangle (start 5.08 2.54) (end 26.67 -62.23)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -1569,7 +1569,7 @@
         (number "F9" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XC7A100T-FGG484_6_1"
+    (symbol "XC7A100T-FGG484_6_1" 
       (rectangle (start 5.08 2.54) (end 16.51 -19.05)
         (stroke (width 0.254) (type default))
         (fill (type background))

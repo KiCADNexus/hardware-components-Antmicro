@@ -1,39 +1,39 @@
-(kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "SC606T" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
+(kicad_symbol_lib
+  (symbol "SC606T"  (pin_names (offset 1.016)) (exclude_from_sim no) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 69.85 -2.54 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
     )
     (property "Value" "SC606T" (at 69.85 -7.62 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "Footprint" "SC606T:Quectel_SC606T" (at 69.85 -10.16 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "Datasheet" "https://www.quectel.com/product/lte-sc606t-smart-module-series" (at 69.85 -12.7 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
+    )
+    (property "Description" "Qualcomm® octa-core ARM Cortex-A53 64-bit CPU + AdrenoTM 506 GPU" (at 0 0 0)
+      (effects (font (size 1.27 1.27))( hide yes ))
     )
     (property "Manufacturer" "Quectel" (at 69.85 -15.24 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "MPN" "SC606T-WF" (at 69.85 -5.08 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
     )
     (property "Author" "Antmicro" (at 69.85 -17.78 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "License" "Apache-2.0" (at 69.85 -20.32 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "ki_locked" "" (at 0 0 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "ki_keywords" "MODULE" (at 0 0 0)
-      (effects (font (size 1.27 1.27)) hide)
+      (effects (font (size 1.27 1.27))( hide yes ))
     )
-    (property "ki_description" "Qualcomm® octa-core ARM Cortex-A53 64-bit CPU + AdrenoTM 506 GPU" (at 0 0 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (symbol "SC606T_1_0"
+    (symbol "SC606T_1_0" 
       (rectangle (start 3.81 2.54) (end 39.37 -81.28)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -239,7 +239,7 @@
         (number "97" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "SC606T_2_0"
+    (symbol "SC606T_2_0" 
       (polyline
         (pts
           (xy 3.81 -106.68)
@@ -697,7 +697,7 @@
         (number "99" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "SC606T_2_1"
+    (symbol "SC606T_2_1" 
       (pin bidirectional line (at 43.18 -2.54 180) (length 3.81)
         (name "FP_SPI_MOSI" (effects (font (size 1.27 1.27))))
         (number "249" (effects (font (size 1.27 1.27))))
@@ -715,7 +715,7 @@
         (number "256" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "SC606T_3_0"
+    (symbol "SC606T_3_0" 
       (polyline
         (pts
           (xy 3.81 -22.86)
@@ -888,7 +888,7 @@
         (number "8" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "SC606T_3_1"
+    (symbol "SC606T_3_1" 
       (pin bidirectional line (at 0 -40.64 0) (length 3.81)
         (name "UART5_RTS" (effects (font (size 1.27 1.27))))
         (number "245" (effects (font (size 1.27 1.27))))
@@ -898,7 +898,7 @@
         (number "246" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "SC606T_4_0"
+    (symbol "SC606T_4_0" 
       (rectangle (start 3.81 2.54) (end 20.32 -50.8)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -1082,7 +1082,7 @@
         (number "29" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "SC606T_4_1"
+    (symbol "SC606T_4_1" 
       (polyline
         (pts
           (xy 20.32 -43.18)
@@ -1116,7 +1116,7 @@
         (number "255" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "SC606T_5_0"
+    (symbol "SC606T_5_0" 
       (rectangle (start 3.81 2.54) (end 39.37 -38.1)
         (stroke (width 0.254) (type default))
         (fill (type background))

@@ -1,36 +1,36 @@
-(kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "PRTR5V0U2X" (pin_names (offset 0.002) hide) (in_bom yes) (on_board yes)
+(kicad_symbol_lib
+  (symbol "PRTR5V0U2X"  (pin_names (offset 0.002) hide) (exclude_from_sim no) (in_bom yes) (on_board yes)
     (property "Reference" "D" (at 28.575 -2.54 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
     )
     (property "Value" "PRTR5V0U2X" (at 28.575 -12.7 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "Footprint" "PRTR5V0U2X:SOT-143-4" (at 28.575 -7.62 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "Datasheet" "https://eu.mouser.com/datasheet/2/916/PRTR5V0U2X-2938759.pdf" (at 28.575 -10.16 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
+    )
+    (property "Description" "TVS diode array, 8 kV, SOT-143B, 5.5 V, 1.5 pF" (at 0 0 0)
+      (effects (font (size 1.27 1.27))( hide yes ))
     )
     (property "MPN" "PRTR5V0U2X" (at 28.575 -5.08 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
     )
     (property "Manufacturer" "Nexperia" (at 28.575 -15.24 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "Author" "Antmicro" (at 28.575 -17.78 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "License" "Apache-2.0" (at 28.575 -20.32 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "ki_keywords" "SMT, DIODE, SEMICONDUCTOR, TVS, ESD" (at 0 0 0)
-      (effects (font (size 1.27 1.27)) hide)
+      (effects (font (size 1.27 1.27))( hide yes ))
     )
-    (property "ki_description" "TVS diode array, 8 kV, SOT-143B, 5.5 V, 1.5 pF" (at 0 0 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (symbol "PRTR5V0U2X_0_1"
+    (symbol "PRTR5V0U2X_0_1" 
       (polyline
         (pts
           (xy 10.16 -5.08)
@@ -40,7 +40,7 @@
         (fill (type none))
       )
     )
-    (symbol "PRTR5V0U2X_1_1"
+    (symbol "PRTR5V0U2X_1_1" 
       (polyline
         (pts
           (xy 2.54 -6.35)

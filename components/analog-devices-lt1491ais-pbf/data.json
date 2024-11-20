@@ -5,10 +5,95 @@
     "datasheet": "https://eu.mouser.com/datasheet/2/609/14901afd-3123917.pdf",
     "manufacturer": "Analog Devices",
     "mpn": "LT1491AIS#PBF",
-    "description": "Operational Amplifier - 4x Over-The-Top",
+    "description": null,
     "keywords": "SMT, AMP, IC",
     "displayName": null,
     "gitHub": null,
     "blender_model": "SOIC-14_W3.9mm-analog-devices-lt1491ais-pbf",
-    "pads": []
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "",
+            "alternate_pin_names": [],
+            "electrical_type": "output"
+        },
+        {
+            "reference": "2",
+            "pin_name": "",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "3",
+            "pin_name": "",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "4",
+            "pin_name": "V+",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        },
+        {
+            "reference": "5",
+            "pin_name": "",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "6",
+            "pin_name": "",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "7",
+            "pin_name": "",
+            "alternate_pin_names": [],
+            "electrical_type": "output"
+        },
+        {
+            "reference": "8",
+            "pin_name": "",
+            "alternate_pin_names": [],
+            "electrical_type": "output"
+        },
+        {
+            "reference": "9",
+            "pin_name": "",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "10",
+            "pin_name": "",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "11",
+            "pin_name": "V-",
+            "alternate_pin_names": [],
+            "electrical_type": "power_in"
+        },
+        {
+            "reference": "12",
+            "pin_name": "",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "13",
+            "pin_name": "",
+            "alternate_pin_names": [],
+            "electrical_type": "input"
+        },
+        {
+            "reference": "14",
+            "pin_name": "",
+            "alternate_pin_names": [],
+            "electrical_type": "output"
+        }
+    ]
 }

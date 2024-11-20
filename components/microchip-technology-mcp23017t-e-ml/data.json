@@ -5,7 +5,7 @@
     "datasheet": "https://ww1.microchip.com/downloads/aemDocuments/documents/APID/ProductDocuments/DataSheets/MCP23017-Data-Sheet-DS20001952.pdf",
     "manufacturer": "Microchip Technology",
     "mpn": "MCP23017T-E/ML",
-    "description": "I/O Expander, 16 bit, I2C, 1.8-5.5 V, QFN, 28 Pins",
+    "description": null,
     "keywords": "IC, SMT",
     "displayName": null,
     "gitHub": null,

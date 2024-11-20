@@ -5,7 +5,7 @@
     "datasheet": "https://www.ti.com/lit/ds/symlink/tps54561-q1.pdf?ts=1678720110394&ref_url=https%253A%252F%252Fwww.google.com%252F",
     "manufacturer": "Texas Instruments",
     "mpn": "TPS54561QDPRRQ1",
-    "description": "DC/DC converter",
+    "description": null,
     "keywords": "SMT, PMIC, IC, SWITCHING, VOLTAGE, REGULATOR, DC-DC",
     "displayName": null,
     "gitHub": null,

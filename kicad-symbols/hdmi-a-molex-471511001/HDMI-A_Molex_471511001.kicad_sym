@@ -1,36 +1,36 @@
-(kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "HDMI-A_Molex_471511001" (in_bom yes) (on_board yes)
+(kicad_symbol_lib
+  (symbol "HDMI-A_Molex_471511001"  (exclude_from_sim no) (in_bom yes) (on_board yes)
     (property "Reference" "J" (at 45.72 -2.54 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
     )
     (property "Value" "HDMI-A_Molex_471511001" (at 45.72 -5.08 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "Footprint" "HDMI-A_Molex_471511001:HDMI-A_Receptacle_Molex_471511001" (at 45.72 -7.62 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "Datasheet" "https://tools.molex.com/pdm_docs/sd/471511001_sd.pdf" (at 45.72 -10.16 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
+    )
+    (property "Description" "HDMI Receptacle Connector 19 Position Surface Mount, Right Angle; Through Hole" (at 0 0 0)
+      (effects (font (size 1.27 1.27))( hide yes ))
     )
     (property "Manufacturer" "Molex" (at 45.72 -12.7 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "MPN" "471511001" (at 45.72 -15.24 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
     )
     (property "Author" "Antmicro" (at 45.72 -17.78 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "License" "Apache-2.0" (at 45.72 -20.32 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "ki_keywords" "HDMI, CONNECTOR, SMT, HORIZONTAL" (at 0 0 0)
-      (effects (font (size 1.27 1.27)) hide)
+      (effects (font (size 1.27 1.27))( hide yes ))
     )
-    (property "ki_description" "HDMI Receptacle Connector 19 Position Surface Mount, Right Angle; Through Hole" (at 0 0 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (symbol "HDMI-A_Molex_471511001_0_0"
+    (symbol "HDMI-A_Molex_471511001_0_0" 
       (polyline
         (pts
           (xy 22.098 0)
@@ -65,7 +65,7 @@
         (fill (type none))
       )
     )
-    (symbol "HDMI-A_Molex_471511001_0_1"
+    (symbol "HDMI-A_Molex_471511001_0_1" 
       (polyline
         (pts
           (xy 10.16 -15.24)
@@ -107,7 +107,7 @@
         (fill (type none))
       )
     )
-    (symbol "HDMI-A_Molex_471511001_1_1"
+    (symbol "HDMI-A_Molex_471511001_1_1" 
       (rectangle (start 2.54 2.54) (end 22.86 -53.34)
         (stroke (width 0.254) (type default))
         (fill (type background))

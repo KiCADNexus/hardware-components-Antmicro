@@ -5,7 +5,7 @@
     "datasheet": "http://www.ti.com/lit/ds/symlink/lm3881.pdf",
     "manufacturer": "Texas Instruments",
     "mpn": "LM3881MME/NOPB",
-    "description": "Power Sequencer, 3-Monitors, 2.7V-5.5Vin,VSSOP-8",
+    "description": null,
     "keywords": "SMT, PMIC, IC, POWER, SEQUENCER",
     "displayName": null,
     "gitHub": null,

@@ -1,36 +1,36 @@
-(kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "TPD2EUSB30DRTR" (pin_names (offset 0)) (in_bom yes) (on_board yes)
+(kicad_symbol_lib
+  (symbol "TPD2EUSB30DRTR"  (pin_names (offset 0)) (exclude_from_sim no) (in_bom yes) (on_board yes)
     (property "Reference" "D" (at 19.05 -1.27 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Value" "TPD2EUSB30DRTR" (at 19.05 -6.35 0)
-      (effects (font (size 1.27 1.27)) (justify left) hide)
+      (effects (font (size 1.27 1.27)) (justify left)( hide yes ))
     )
     (property "Footprint" "TPD2EUSB30DRTR:SOT-3" (at 19.05 -11.43 0)
-      (effects (font (size 1.27 1.27)) (justify left) hide)
+      (effects (font (size 1.27 1.27)) (justify left)( hide yes ))
     )
     (property "Datasheet" "http://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=http%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Ftpd2eusb30" (at 19.05 -8.89 0)
-      (effects (font (size 1.27 1.27)) (justify left) hide)
+      (effects (font (size 1.27 1.27)) (justify left)( hide yes ))
+    )
+    (property "Description" "TVS diode array, 8 kV, SOT-3, 5.5 V, 0.8 pF" (at 0 0 0)
+      (effects (font (size 1.27 1.27))( hide yes ))
     )
     (property "Manufacturer" "Texas Instruments" (at 19.05 -13.97 0)
-      (effects (font (size 1.27 1.27)) (justify left) hide)
+      (effects (font (size 1.27 1.27)) (justify left)( hide yes ))
     )
     (property "MPN" "TPD2EUSB30DRTR" (at 19.05 -3.81 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Author" "Antmicro" (at 19.05 -16.51 0)
-      (effects (font (size 1.27 1.27)) (justify left) hide)
+      (effects (font (size 1.27 1.27)) (justify left)( hide yes ))
     )
     (property "License" "Apache-2.0" (at 19.05 -19.05 0)
-      (effects (font (size 1.27 1.27)) (justify left) hide)
+      (effects (font (size 1.27 1.27)) (justify left)( hide yes ))
     )
     (property "ki_keywords" "SMT, DIODE, SEMICONDUCTOR, TVS, ESD" (at 0 0 0)
-      (effects (font (size 1.27 1.27)) hide)
+      (effects (font (size 1.27 1.27))( hide yes ))
     )
-    (property "ki_description" "TVS diode array, 8 kV, SOT-3, 5.5 V, 0.8 pF" (at 0 0 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (symbol "TPD2EUSB30DRTR_0_1"
+    (symbol "TPD2EUSB30DRTR_0_1" 
       (polyline
         (pts
           (xy 10.16 -5.08)
@@ -40,7 +40,7 @@
         (fill (type none))
       )
     )
-    (symbol "TPD2EUSB30DRTR_1_1"
+    (symbol "TPD2EUSB30DRTR_1_1" 
       (polyline
         (pts
           (xy 2.54 -6.35)

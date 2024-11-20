@@ -1,36 +1,36 @@
-(kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "IRLTS2242TRPBF" (pin_names (offset 0)) (in_bom yes) (on_board yes)
+(kicad_symbol_lib
+  (symbol "IRLTS2242TRPBF"  (pin_names (offset 0)) (exclude_from_sim no) (in_bom yes) (on_board yes)
     (property "Reference" "Q" (at 22.86 -6.35 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
     )
     (property "Value" "IRLTS2242TRPBF" (at 22.86 -8.89 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "Footprint" "IRLTS2242TRPBF:SOT-23-6" (at 22.86 -11.43 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "Datasheet" "https://www.mouser.com/datasheet/2/196/Infineon_IRLTS2242_DataSheet_v01_01_EN-3166667.pdf" (at 22.86 -13.97 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
+    )
+    (property "Description" "P-Channel 20 V 6.9A (Ta) 2W (Ta) Surface Mount 6-TSOP" (at 0 0 0)
+      (effects (font (size 1.27 1.27))( hide yes ))
     )
     (property "MPN" "IRLTS2242TRPBF" (at 22.86 -16.51 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
     )
     (property "Manufacturer" "Infineon" (at 22.86 -19.05 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "Author" "Antmicro" (at 22.86 -21.59 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "License" "Apache-2.0" (at 22.86 -24.13 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "ki_keywords" "SMT, TRANSISTOR, SEMICONDUCTOR, MOSFET, PMOS" (at 0 0 0)
-      (effects (font (size 1.27 1.27)) hide)
+      (effects (font (size 1.27 1.27))( hide yes ))
     )
-    (property "ki_description" "P-Channel 20 V 6.9A (Ta) 2W (Ta) Surface Mount 6-TSOP" (at 0 0 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (symbol "IRLTS2242TRPBF_0_1"
+    (symbol "IRLTS2242TRPBF_0_1" 
       (polyline
         (pts
           (xy 7.62 1.143)
@@ -110,7 +110,7 @@
         (fill (type none))
       )
     )
-    (symbol "IRLTS2242TRPBF_1_1"
+    (symbol "IRLTS2242TRPBF_1_1" 
       (polyline
         (pts
           (xy 5.08 1.143)

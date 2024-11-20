@@ -5,7 +5,7 @@
     "datasheet": "https://www.nxp.com/docs/en/data-sheet/P3A9606JK.pdf",
     "manufacturer": "NXP",
     "mpn": "P3A9606JKZ",
-    "description": "Dual bidirectional I3C/I2C-bus and SPI voltage-level translator",
+    "description": null,
     "keywords": "SMT, LEVEL-SHIFTER, IC, I2C",
     "displayName": null,
     "gitHub": null,

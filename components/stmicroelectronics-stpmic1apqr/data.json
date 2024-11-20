@@ -1,0 +1,14 @@
+{
+    "reference": "U",
+    "symbol": "STPMIC1APQR",
+    "footprint": "QFN-44L-1EP_5x6mm_P0.4mm",
+    "datasheet": "https://www.st.com/resource/en/datasheet/stpmic1.pdf",
+    "manufacturer": "STMicroelectronics",
+    "mpn": "STPMIC1APQR",
+    "description": null,
+    "keywords": "SMT, PMIC, IC, VOLTAGE, REGULATOR, SWITCHING, DC-DC",
+    "displayName": null,
+    "gitHub": null,
+    "blender_model": "QFN-44L-1EP_5x6mm_P0.4mm-stmicroelectronics-stpmic1apqr",
+    "pads": []
+}

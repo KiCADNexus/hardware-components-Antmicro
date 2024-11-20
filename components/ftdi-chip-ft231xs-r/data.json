@@ -5,7 +5,7 @@
     "datasheet": "https://ftdichip.com/wp-content/uploads/2021/10/DS_FT231X.pdf",
     "manufacturer": "FTDI Chip",
     "mpn": "FT231XS-R",
-    "description": "USB Interface, USB-UART Converter, USB 2.0, 2.97 V, 5.5 V, SSOP, 20 Pins",
+    "description": null,
     "keywords": "SMT, INTERFACE, IC, CONTROLLER, USB, UART",
     "displayName": null,
     "gitHub": null,

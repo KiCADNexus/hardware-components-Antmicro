@@ -5,7 +5,7 @@
     "datasheet": "https://ww1.microchip.com/downloads/en/DeviceDoc/22272C.pdf",
     "manufacturer": "Microchip Technology",
     "mpn": "MCP4726A0T-E/MAY",
-    "description": "12-Bit Voltage Output Digital-to-Analog Converter with EEPROM and I2C Interface",
+    "description": null,
     "keywords": "DAC, SMT, I2C",
     "displayName": null,
     "gitHub": null,

@@ -5,7 +5,7 @@
     "datasheet": "https://www.onsemi.cn/pdf/datasheet/ncp177-d.pdf",
     "manufacturer": "ON Semiconductor",
     "mpn": "NCP177AMX330TCG",
-    "description": "LDO  Fixed; 3V3; VIN<5.5V; 500mA; XDFN4-1x1mm",
+    "description": null,
     "keywords": "SMT, PMIC, IC, LDO, VOLTAGE, REGULATOR",
     "displayName": null,
     "gitHub": null,

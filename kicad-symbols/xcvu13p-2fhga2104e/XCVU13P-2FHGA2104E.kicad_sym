@@ -1,39 +1,39 @@
-(kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "XCVU13P-2FHGA2104E" (in_bom yes) (on_board yes)
+(kicad_symbol_lib
+  (symbol "XCVU13P-2FHGA2104E"  (exclude_from_sim no) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 54.61 0 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
     )
     (property "Value" "XCVU13P-2FHGA2104E" (at 54.61 -5.08 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "Footprint" "XCVU13P-2FHGA2104E:BGA-2116-2104_52.5x52.5mm_Layout46x46_P1mm" (at 54.61 -7.62 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "Datasheet" "https://eu.mouser.com/datasheet/2/903/ds890_ultrascale_overview-1591529.pdf" (at 54.61 -10.16 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
+    )
+    (property "Description" "Virtex® UltraScale+™ Field Programmable Gate Array (FPGA) IC 832 514867200 3780000 2104-BBGA, FCBGA" (at 0 0 0)
+      (effects (font (size 1.27 1.27))( hide yes ))
     )
     (property "MPN" "XCVU13P-2FHGA2104E" (at 54.61 -2.54 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
     )
     (property "Manufacturer" "AMD-Xilinx" (at 54.61 -12.7 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "Author" "Antmicro" (at 54.61 -15.24 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "License" "Apache-2.0" (at 54.61 -17.78 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "ki_locked" "" (at 0 0 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "ki_keywords" "SMT, IC, FPGA" (at 0 0 0)
-      (effects (font (size 1.27 1.27)) hide)
+      (effects (font (size 1.27 1.27))( hide yes ))
     )
-    (property "ki_description" "Virtex® UltraScale+™ Field Programmable Gate Array (FPGA) IC 832 514867200 3780000 2104-BBGA, FCBGA" (at 0 0 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (symbol "XCVU13P-2FHGA2104E_1_1"
+    (symbol "XCVU13P-2FHGA2104E_1_1" 
       (rectangle (start 25.4 -76.2) (end 5.08 5.08)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -162,7 +162,7 @@
         (number "Y11" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XCVU13P-2FHGA2104E_2_1"
+    (symbol "XCVU13P-2FHGA2104E_2_1" 
       (rectangle (start 5.08 5.08) (end 43.18 -137.16)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -410,7 +410,7 @@
         (number "BF32" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XCVU13P-2FHGA2104E_3_1"
+    (symbol "XCVU13P-2FHGA2104E_3_1" 
       (rectangle (start 5.08 5.08) (end 43.18 -137.16)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -658,7 +658,7 @@
         (number "BF29" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XCVU13P-2FHGA2104E_4_1"
+    (symbol "XCVU13P-2FHGA2104E_4_1" 
       (rectangle (start 5.08 5.08) (end 43.18 -137.16)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -910,7 +910,7 @@
         (number "BF40" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XCVU13P-2FHGA2104E_5_1"
+    (symbol "XCVU13P-2FHGA2104E_5_1" 
       (rectangle (start 5.08 5.08) (end 43.18 -137.16)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -1158,7 +1158,7 @@
         (number "AT40" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XCVU13P-2FHGA2104E_6_1"
+    (symbol "XCVU13P-2FHGA2104E_6_1" 
       (rectangle (start 5.08 5.08) (end 43.18 -137.16)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -1414,7 +1414,7 @@
         (number "BF24" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XCVU13P-2FHGA2104E_7_1"
+    (symbol "XCVU13P-2FHGA2104E_7_1" 
       (rectangle (start 5.08 5.08) (end 46.99 -137.16)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -1662,7 +1662,7 @@
         (number "BF21" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XCVU13P-2FHGA2104E_8_1"
+    (symbol "XCVU13P-2FHGA2104E_8_1" 
       (rectangle (start 5.08 5.08) (end 43.18 -137.16)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -1910,7 +1910,7 @@
         (number "BF9" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XCVU13P-2FHGA2104E_9_1"
+    (symbol "XCVU13P-2FHGA2104E_9_1" 
       (rectangle (start 5.08 5.08) (end 43.18 -137.16)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -2158,7 +2158,7 @@
         (number "BA13" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XCVU13P-2FHGA2104E_10_1"
+    (symbol "XCVU13P-2FHGA2104E_10_1" 
       (rectangle (start 5.08 5.08) (end 43.18 -137.16)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -2406,7 +2406,7 @@
         (number "Y34" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XCVU13P-2FHGA2104E_11_1"
+    (symbol "XCVU13P-2FHGA2104E_11_1" 
       (rectangle (start 5.08 5.08) (end 43.18 -137.16)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -2654,7 +2654,7 @@
         (number "K38" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XCVU13P-2FHGA2104E_12_1"
+    (symbol "XCVU13P-2FHGA2104E_12_1" 
       (rectangle (start 5.08 5.08) (end 43.18 -137.16)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -2906,7 +2906,7 @@
         (number "T29" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XCVU13P-2FHGA2104E_13_1"
+    (symbol "XCVU13P-2FHGA2104E_13_1" 
       (rectangle (start 5.08 5.08) (end 43.18 -137.16)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -3158,7 +3158,7 @@
         (number "T26" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XCVU13P-2FHGA2104E_14_1"
+    (symbol "XCVU13P-2FHGA2104E_14_1" 
       (rectangle (start 5.08 5.08) (end 43.18 -137.16)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -3406,7 +3406,7 @@
         (number "Y14" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XCVU13P-2FHGA2104E_15_1"
+    (symbol "XCVU13P-2FHGA2104E_15_1" 
       (rectangle (start 5.08 5.08) (end 43.18 -137.16)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -3654,7 +3654,7 @@
         (number "J15" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XCVU13P-2FHGA2104E_16_1"
+    (symbol "XCVU13P-2FHGA2104E_16_1" 
       (rectangle (start 5.08 5.08) (end 43.18 -137.16)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -3906,7 +3906,7 @@
         (number "T23" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XCVU13P-2FHGA2104E_17_1"
+    (symbol "XCVU13P-2FHGA2104E_17_1" 
       (rectangle (start 5.08 5.08) (end 43.18 -137.16)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -4154,7 +4154,7 @@
         (number "T19" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XCVU13P-2FHGA2104E_18_1"
+    (symbol "XCVU13P-2FHGA2104E_18_1" 
       (rectangle (start 5.08 5.08) (end 33.02 -104.14)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -4326,7 +4326,7 @@
         (number "BD43" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XCVU13P-2FHGA2104E_19_1"
+    (symbol "XCVU13P-2FHGA2104E_19_1" 
       (rectangle (start 5.08 5.08) (end 35.56 -104.14)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -4498,7 +4498,7 @@
         (number "Y44" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XCVU13P-2FHGA2104E_20_1"
+    (symbol "XCVU13P-2FHGA2104E_20_1" 
       (rectangle (start 5.08 5.08) (end 34.29 -104.14)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -4670,7 +4670,7 @@
         (number "W46" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XCVU13P-2FHGA2104E_21_1"
+    (symbol "XCVU13P-2FHGA2104E_21_1" 
       (rectangle (start 5.08 5.08) (end 34.29 -104.14)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -4842,7 +4842,7 @@
         (number "BE5" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XCVU13P-2FHGA2104E_22_1"
+    (symbol "XCVU13P-2FHGA2104E_22_1" 
       (rectangle (start 5.08 5.08) (end 34.29 -104.14)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -5014,7 +5014,7 @@
         (number "Y7" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XCVU13P-2FHGA2104E_23_1"
+    (symbol "XCVU13P-2FHGA2104E_23_1" 
       (rectangle (start 5.08 5.08) (end 34.29 -104.14)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -5186,7 +5186,7 @@
         (number "Y2" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XCVU13P-2FHGA2104E_24_1"
+    (symbol "XCVU13P-2FHGA2104E_24_1" 
       (rectangle (start 5.08 5.08) (end 34.29 -50.8)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -5278,7 +5278,7 @@
         (number "L9" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XCVU13P-2FHGA2104E_25_1"
+    (symbol "XCVU13P-2FHGA2104E_25_1" 
       (rectangle (start 5.08 5.08) (end 22.86 -20.32)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -5467,7 +5467,7 @@
         (number "Y8" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XCVU13P-2FHGA2104E_26_1"
+    (symbol "XCVU13P-2FHGA2104E_26_1" 
       (rectangle (start 5.08 5.08) (end 39.37 -15.24)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -5772,7 +5772,7 @@
         (number "Y41" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XCVU13P-2FHGA2104E_27_1"
+    (symbol "XCVU13P-2FHGA2104E_27_1" 
       (rectangle (start 5.08 5.08) (end 21.59 -13.97)
         (stroke (width 0.254) (type default))
         (fill (type background))

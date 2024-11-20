@@ -1,39 +1,39 @@
-(kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "Bus_DDR5_SODIMM_Amphenol_10161033-002RHLF" (in_bom yes) (on_board yes)
+(kicad_symbol_lib
+  (symbol "Bus_DDR5_SODIMM_Amphenol_10161033-002RHLF"  (exclude_from_sim no) (in_bom yes) (on_board yes)
     (property "Reference" "J" (at 50.8 0 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
     )
     (property "Value" "Bus_DDR5_SODIMM_Amphenol_10161033-002RHLF" (at 50.8 -7.62 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "Footprint" "Bus_DDR5_SODIMM_Amphenol_10161033-002RHLF:Bus_DDR5_SODIMM_Amphenol_10161033-002RHLF" (at 50.8 -10.16 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "Datasheet" "https://cdn.amphenol-cs.com/media/wysiwyg/files/documentation/datasheet/ssio/ssio_ddr5_sodimm.pdf" (at 50.8 -12.7 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
+    )
+    (property "Description" "DDR5 SODIMM connector, Right Angle, Surface Mount, 262 Position, 0.5mm Pitch, 5,2mm Height" (at 0 0 0)
+      (effects (font (size 1.27 1.27))( hide yes ))
     )
     (property "MPN" "10161033-002RHLF" (at 50.8 -2.54 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
     )
     (property "Manufacturer" "Amphenol" (at 50.8 -15.24 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "Author" "Antmicro" (at 50.8 -17.78 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "License" "Apache-2.0" (at 50.8 -20.32 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "ki_locked" "" (at 0 0 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "ki_keywords" "SMT, CONNECTOR, DDR" (at 0 0 0)
-      (effects (font (size 1.27 1.27)) hide)
+      (effects (font (size 1.27 1.27))( hide yes ))
     )
-    (property "ki_description" "DDR5 SODIMM connector, Right Angle, Surface Mount, 262 Position, 0.5mm Pitch, 5,2mm Height" (at 0 0 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (symbol "Bus_DDR5_SODIMM_Amphenol_10161033-002RHLF_1_1"
+    (symbol "Bus_DDR5_SODIMM_Amphenol_10161033-002RHLF_1_1" 
       (polyline
         (pts
           (xy 20.32 -97.79)
@@ -360,7 +360,7 @@
         (number "99" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "Bus_DDR5_SODIMM_Amphenol_10161033-002RHLF_2_1"
+    (symbol "Bus_DDR5_SODIMM_Amphenol_10161033-002RHLF_2_1" 
       (polyline
         (pts
           (xy 20.32 -97.79)
@@ -687,7 +687,7 @@
         (number "260" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "Bus_DDR5_SODIMM_Amphenol_10161033-002RHLF_3_1"
+    (symbol "Bus_DDR5_SODIMM_Amphenol_10161033-002RHLF_3_1" 
       (rectangle (start 3.81 2.54) (end 24.13 -22.86)
         (stroke (width 0.254) (type default))
         (fill (type background))

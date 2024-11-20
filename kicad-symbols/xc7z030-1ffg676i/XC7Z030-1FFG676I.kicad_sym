@@ -1,42 +1,42 @@
-(kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "XC7Z030-1FFG676I" (in_bom yes) (on_board yes)
+(kicad_symbol_lib
+  (symbol "XC7Z030-1FFG676I"  (exclude_from_sim no) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 68.58 -2.54 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
     )
     (property "Value" "XC7Z030-1FFG676I" (at 68.58 -7.62 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "Footprint" "XC7Z030-1FFG676I:BGA-676_27x27mm_Layout26x26_P1x1mm_FFG676" (at 68.58 -10.16 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "Datasheet" "https://docs.amd.com/v/u/en-US/ds191-XC7Z030-XC7Z045-data-sheet" (at 68.58 -12.7 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
+    )
+    (property "Description" "Dual ARM® Cortex®-A9 MPCore™ with CoreSight™ System On Chip (SOC) IC Zynq®-7000 Kintex™-7 FPGA, 125K Logic Cells 667MHz 676-FCBGA" (at 0 0 0)
+      (effects (font (size 1.27 1.27))( hide yes ))
     )
     (property "MPN" "XC7Z030-1FFG676I" (at 68.58 -5.08 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
     )
     (property "Manufacturer" "AMD-Xilinx" (at 68.58 -15.24 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "Author" "Antmicro" (at 68.58 -17.78 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "License" "Apache-2.0" (at 68.58 -20.32 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "ki_locked" "" (at 0 0 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "ki_keywords" "FPGA, SMT, BGA" (at 0 0 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (property "ki_description" "Dual ARM® Cortex®-A9 MPCore™ with CoreSight™ System On Chip (SOC) IC Zynq®-7000 Kintex™-7 FPGA, 125K Logic Cells 667MHz 676-FCBGA" (at 0 0 0)
-      (effects (font (size 1.27 1.27)) hide)
+      (effects (font (size 1.27 1.27))( hide yes ))
     )
     (property "ki_fp_filters" "FFG676/FFV676_XIL FFG676/FFV676_XIL-M FFG676/FFV676_XIL-L" (at 0 0 0)
-      (effects (font (size 1.27 1.27)) hide)
+      (effects (font (size 1.27 1.27))( hide yes ))
     )
-    (symbol "XC7Z030-1FFG676I_1_1"
+    (symbol "XC7Z030-1FFG676I_1_1" 
       (rectangle (start 5.08 5.08) (end 50.8 -130.81)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -496,7 +496,7 @@
         (number "Y20" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XC7Z030-1FFG676I_2_1"
+    (symbol "XC7Z030-1FFG676I_2_1" 
       (rectangle (start 5.08 5.08) (end 50.8 -130.81)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -956,7 +956,7 @@
         (number "N8" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XC7Z030-1FFG676I_3_1"
+    (symbol "XC7Z030-1FFG676I_3_1" 
       (rectangle (start 5.08 5.08) (end 36.83 -130.81)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -1189,7 +1189,7 @@
         (number "K15" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XC7Z030-1FFG676I_4_1"
+    (symbol "XC7Z030-1FFG676I_4_1" 
       (rectangle (start 5.08 5.08) (end 41.91 -105.41)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -1465,7 +1465,7 @@
         (number "K19" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XC7Z030-1FFG676I_5_1"
+    (symbol "XC7Z030-1FFG676I_5_1" 
       (rectangle (start 5.08 5.08) (end 46.99 -107.95)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -1810,7 +1810,7 @@
         (number "Y26" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XC7Z030-1FFG676I_6_1"
+    (symbol "XC7Z030-1FFG676I_6_1" 
       (rectangle (start 5.08 5.08) (end 38.1 -31.75)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -1899,7 +1899,7 @@
         (number "Y4" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XC7Z030-1FFG676I_7_1"
+    (symbol "XC7Z030-1FFG676I_7_1" 
       (rectangle (start 5.08 2.54) (end 34.29 -22.86)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -2649,7 +2649,7 @@
         (number "Y9" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XC7Z030-1FFG676I_8_1"
+    (symbol "XC7Z030-1FFG676I_8_1" 
       (rectangle (start 5.08 2.54) (end 25.4 -40.64)
         (stroke (width 0.254) (type default))
         (fill (type background))

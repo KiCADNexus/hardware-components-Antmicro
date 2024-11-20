@@ -1,39 +1,39 @@
-(kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "MT62F1G32D4DR-031" (in_bom yes) (on_board yes)
+(kicad_symbol_lib
+  (symbol "MT62F1G32D4DR-031"  (exclude_from_sim no) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 44.45 0 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
     (property "Value" "MT62F1G32D4DR-031" (at 44.45 -5.08 0)
-      (effects (font (size 1.27 1.27)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27)) (justify left bottom)( hide yes ))
     )
     (property "Footprint" "MT62F1G32D4DR-031:BGA-315_12.4x15mm_Layout15x21_P0.8x0.7mm" (at 44.45 -12.7 0)
-      (effects (font (size 1.27 1.27)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27)) (justify left bottom)( hide yes ))
     )
     (property "Datasheet" "https://www.micron.com/search-results?searchRequest=%7B%22term%22%3A%22MT62F1G32D4DR-031%22%7D" (at 44.45 -10.16 0)
-      (effects (font (size 1.27 1.27)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27)) (justify left bottom)( hide yes ))
+    )
+    (property "Description" "DRAM LPDDR5 32G X32 TFBGA" (at 0 0 0)
+      (effects (font (size 1.27 1.27))( hide yes ))
     )
     (property "Manufacturer" "Micron Technology" (at 44.45 -7.62 0)
-      (effects (font (size 1.27 1.27)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27)) (justify left bottom)( hide yes ))
     )
     (property "MPN" "MT62F1G32D4DR-031 WT:B" (at 44.45 -2.54 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
     (property "Author" "Antmicro" (at 44.45 -15.24 0)
-      (effects (font (size 1.27 1.27)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27)) (justify left bottom)( hide yes ))
     )
     (property "License" "Apache-2.0" (at 44.45 -17.78 0)
-      (effects (font (size 1.27 1.27)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27)) (justify left bottom)( hide yes ))
     )
     (property "ki_locked" "" (at 0 0 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "ki_keywords" "BGA, DDR, MEMORY, DRAM" (at 0 0 0)
-      (effects (font (size 1.27 1.27)) hide)
+      (effects (font (size 1.27 1.27))( hide yes ))
     )
-    (property "ki_description" "DRAM LPDDR5 32G X32 TFBGA" (at 0 0 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (symbol "MT62F1G32D4DR-031_1_0"
+    (symbol "MT62F1G32D4DR-031_1_0" 
       (pin no_connect line (at 29.21 -3.81 180) (length 5.08) hide
         (name "NC" (effects (font (size 1.27 1.27))))
         (number "A1" (effects (font (size 1.27 1.27))))
@@ -999,13 +999,13 @@
         (number "Y9" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "MT62F1G32D4DR-031_1_1"
+    (symbol "MT62F1G32D4DR-031_1_1" 
       (rectangle (start 5.08 2.54) (end 29.21 -33.02)
         (stroke (width 0) (type default))
         (fill (type background))
       )
     )
-    (symbol "MT62F1G32D4DR-031_2_0"
+    (symbol "MT62F1G32D4DR-031_2_0" 
       (pin passive line (at 0 -10.16 0) (length 5.08)
         (name "DMI1_A" (effects (font (size 1.27 1.27))))
         (number "A12" (effects (font (size 1.27 1.27))))
@@ -1155,13 +1155,13 @@
         (number "J9" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "MT62F1G32D4DR-031_2_1"
+    (symbol "MT62F1G32D4DR-031_2_1" 
       (rectangle (start 5.08 2.54) (end 29.21 -55.88)
         (stroke (width 0) (type default))
         (fill (type background))
       )
     )
-    (symbol "MT62F1G32D4DR-031_3_0"
+    (symbol "MT62F1G32D4DR-031_3_0" 
       (pin passive line (at 0 -7.62 0) (length 5.08)
         (name "DMI0_B" (effects (font (size 1.27 1.27))))
         (number "AA12" (effects (font (size 1.27 1.27))))
@@ -1311,7 +1311,7 @@
         (number "Y5" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "MT62F1G32D4DR-031_3_1"
+    (symbol "MT62F1G32D4DR-031_3_1" 
       (rectangle (start 5.08 2.54) (end 29.21 -55.88)
         (stroke (width 0) (type default))
         (fill (type background))

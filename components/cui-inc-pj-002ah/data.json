@@ -5,10 +5,29 @@
     "datasheet": "https://www.cuidevices.com/product/resource/pj-002ah.pdf",
     "manufacturer": "CUI Inc",
     "mpn": "PJ-002AH",
-    "description": "Barrel power connector",
+    "description": null,
     "keywords": "CONNECTOR",
     "displayName": null,
     "gitHub": null,
     "blender_model": "BarrelJack_Pin2mm_PJ-002AH",
-    "pads": []
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "2",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "3",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        }
+    ]
 }

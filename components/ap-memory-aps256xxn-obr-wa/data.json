@@ -5,7 +5,7 @@
     "datasheet": "https://www.apmemory.com/wp-content/uploads/APM_PSRAM_OPI_Xccela-APS256XXN-OBRx-v1.0-PKG.pdf",
     "manufacturer": "AP Memory",
     "mpn": "APS256XXN-OBR-WA",
-    "description": "DRAM RAM 256Mb OPI (x8,x16) DDR 200MHz, 1.8V, Industrial Grade Temperature",
+    "description": null,
     "keywords": "MEMORY, DRAM, BGA",
     "displayName": null,
     "gitHub": null,

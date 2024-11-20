@@ -5,7 +5,7 @@
     "datasheet": "https://www.mouser.com/datasheet/2/308/NCP51400_D-1812533.pdf",
     "manufacturer": "ON Semiconductor",
     "mpn": "NCP51400MNTXG",
-    "description": "Fixed LDO Voltage Regulator, 2.375V to 5.5V, 1.2 V Drop, 750 mV/3A out, DFN-10 Pins",
+    "description": null,
     "keywords": "SMT, PMIC, IC, VOLTAGE, REGULATOR, SWITCHING, DC-DC",
     "displayName": null,
     "gitHub": null,

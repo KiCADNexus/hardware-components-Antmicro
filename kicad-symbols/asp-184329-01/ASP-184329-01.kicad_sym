@@ -1,39 +1,39 @@
-(kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "ASP-184329-01" (in_bom yes) (on_board yes)
+(kicad_symbol_lib
+  (symbol "ASP-184329-01"  (exclude_from_sim no) (in_bom yes) (on_board yes)
     (property "Reference" "J" (at 58.42 -3.81 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
     )
     (property "Value" "ASP-184329-01" (at 58.42 -8.89 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "Footprint" "ASP-184329-01:ASP-184329-01" (at 58.42 -11.43 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "Datasheet" "https://www.mouser.com/datasheet/2/527/asp_184329_01_mkt-2854128.pdf" (at 58.42 -13.97 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
+    )
+    (property "Description" "Mezzanine Connector, Array, Female, 1.27 mm, 14 Rows, 560 Contacts, Surface Mount" (at 0 0 0)
+      (effects (font (size 1.27 1.27))( hide yes ))
     )
     (property "Manufacturer" "Samtec" (at 58.42 -16.51 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "MPN" "ASP-184329-01" (at 58.42 -6.35 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
     )
     (property "Author" "Antmicro" (at 58.42 -19.05 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "License" "Apache-2.0" (at 58.42 -21.59 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "ki_locked" "" (at 0 0 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "ki_keywords" "CONNECTOR" (at 0 0 0)
-      (effects (font (size 1.27 1.27)) hide)
+      (effects (font (size 1.27 1.27))( hide yes ))
     )
-    (property "ki_description" "Mezzanine Connector, Array, Female, 1.27 mm, 14 Rows, 560 Contacts, Surface Mount" (at 0 0 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (symbol "ASP-184329-01_1_1"
+    (symbol "ASP-184329-01_1_1" 
       (rectangle (start 3.81 2.54) (end 33.02 -50.8)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -359,7 +359,7 @@
         (number "M40" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "ASP-184329-01_2_1"
+    (symbol "ASP-184329-01_2_1" 
       (rectangle (start 3.81 2.54) (end 33.02 -68.58)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -685,7 +685,7 @@
         (number "K40" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "ASP-184329-01_3_1"
+    (symbol "ASP-184329-01_3_1" 
       (rectangle (start 3.81 2.54) (end 33.02 -69.85)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -1011,7 +1011,7 @@
         (number "H40" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "ASP-184329-01_4_1"
+    (symbol "ASP-184329-01_4_1" 
       (rectangle (start 3.81 2.54) (end 33.02 -67.31)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -1337,7 +1337,7 @@
         (number "F40" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "ASP-184329-01_5_1"
+    (symbol "ASP-184329-01_5_1" 
       (rectangle (start 3.81 2.54) (end 33.02 -60.96)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -1663,7 +1663,7 @@
         (number "D40" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "ASP-184329-01_6_1"
+    (symbol "ASP-184329-01_6_1" 
       (rectangle (start 3.81 2.54) (end 33.02 -53.34)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -1989,7 +1989,7 @@
         (number "B40" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "ASP-184329-01_7_1"
+    (symbol "ASP-184329-01_7_1" 
       (rectangle (start 3.81 2.54) (end 33.02 -54.61)
         (stroke (width 0.254) (type default))
         (fill (type background))

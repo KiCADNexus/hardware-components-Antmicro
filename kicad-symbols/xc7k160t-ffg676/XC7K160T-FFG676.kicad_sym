@@ -1,39 +1,39 @@
-(kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "XC7K160T-FFG676" (in_bom yes) (on_board yes)
+(kicad_symbol_lib
+  (symbol "XC7K160T-FFG676"  (exclude_from_sim no) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 86.36 -2.54 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
     )
     (property "Value" "XC7K160T-FFG676" (at 86.36 -7.62 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "Footprint" "XC7K160T-FFG676:BGA-676_27x27mm_Layout26x26_P1x1mm_FFG676" (at 86.36 -10.16 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "Datasheet" "https://docs.xilinx.com/v/u/en-US/ds180_7Series_Overview" (at 86.36 -12.7 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
+    )
+    (property "Description" "Kintex®-7 Field Programmable Gate Array (FPGA) IC 300 4976640 65600 676-BBGA, FCBGA" (at 0 0 0)
+      (effects (font (size 1.27 1.27))( hide yes ))
     )
     (property "MPN" "XC7K160T-FFG676" (at 86.36 -5.08 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
     )
     (property "Manufacturer" "AMD-Xilinx" (at 86.36 -20.32 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "Author" "Antmicro" (at 86.36 -15.24 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "License" "Apache-2.0" (at 86.36 -17.78 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "ki_locked" "" (at 0 0 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "ki_keywords" "SMT, IC, FPGA" (at 0 0 0)
-      (effects (font (size 1.27 1.27)) hide)
+      (effects (font (size 1.27 1.27))( hide yes ))
     )
-    (property "ki_description" "Kintex®-7 Field Programmable Gate Array (FPGA) IC 300 4976640 65600 676-BBGA, FCBGA" (at 0 0 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (symbol "XC7K160T-FFG676_1_1"
+    (symbol "XC7K160T-FFG676_1_1" 
       (rectangle (start 5.08 5.08) (end 49.53 -130.81)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -497,7 +497,7 @@
         (number "Y26" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XC7K160T-FFG676_2_1"
+    (symbol "XC7K160T-FFG676_2_1" 
       (rectangle (start 5.08 5.08) (end 66.04 -130.81)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -957,7 +957,7 @@
         (number "M18" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XC7K160T-FFG676_3_1"
+    (symbol "XC7K160T-FFG676_3_1" 
       (rectangle (start 5.08 5.08) (end 49.53 -130.81)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -1421,7 +1421,7 @@
         (number "Y18" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XC7K160T-FFG676_4_1"
+    (symbol "XC7K160T-FFG676_4_1" 
       (rectangle (start 5.08 5.08) (end 49.53 -130.81)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -1881,7 +1881,7 @@
         (number "Y8" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XC7K160T-FFG676_5_1"
+    (symbol "XC7K160T-FFG676_5_1" 
       (rectangle (start 5.08 5.08) (end 43.18 -53.34)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -2053,7 +2053,7 @@
         (number "R4" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XC7K160T-FFG676_6_1"
+    (symbol "XC7K160T-FFG676_6_1" 
       (rectangle (start 5.08 2.54) (end 34.29 -19.05)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -2723,7 +2723,7 @@
         (number "Y9" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XC7K160T-FFG676_7_1"
+    (symbol "XC7K160T-FFG676_7_1" 
       (rectangle (start 5.08 2.54) (end 30.48 -29.21)
         (stroke (width 0.254) (type default))
         (fill (type background))

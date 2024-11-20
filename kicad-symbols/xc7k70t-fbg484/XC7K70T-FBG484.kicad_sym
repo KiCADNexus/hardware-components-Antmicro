@@ -1,39 +1,39 @@
-(kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "XC7K70T-FBG484" (in_bom yes) (on_board yes)
+(kicad_symbol_lib
+  (symbol "XC7K70T-FBG484"  (exclude_from_sim no) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 78.74 -2.54 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
     )
     (property "Value" "XC7K70T-FBG484" (at 78.74 -7.62 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "Footprint" "XC7K70T-FBG484:BGA-484_23x23mm_Layout22x22_P1mm_FBG484" (at 78.74 -10.16 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "Datasheet" "https://docs.xilinx.com/v/u/en-US/ds182_Kintex_7_Data_Sheet" (at 78.74 -12.7 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
+    )
+    (property "Description" "Kintex®-7 Field Programmable Gate Array (FPGA) IC 285 484-BBGA, FCBGA" (at 0 0 0)
+      (effects (font (size 1.27 1.27))( hide yes ))
     )
     (property "MPN" "XC7K70T-1FBG484C" (at 78.74 -5.08 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
     )
     (property "Manufacturer" "AMD-Xilinx" (at 78.74 -15.24 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "Author" "Antmicro" (at 78.74 -17.78 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "License" "Apache-2.0" (at 78.74 -20.32 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "ki_locked" "" (at 0 0 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "ki_keywords" "SMT, IC, FPGA" (at 0 0 0)
-      (effects (font (size 1.27 1.27)) hide)
+      (effects (font (size 1.27 1.27))( hide yes ))
     )
-    (property "ki_description" "Kintex®-7 Field Programmable Gate Array (FPGA) IC 285 484-BBGA, FCBGA" (at 0 0 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (symbol "XC7K70T-FBG484_1_1"
+    (symbol "XC7K70T-FBG484_1_1" 
       (rectangle (start 5.08 5.08) (end 58.42 -130.81)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -493,7 +493,7 @@
         (number "Y22" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XC7K70T-FBG484_2_1"
+    (symbol "XC7K70T-FBG484_2_1" 
       (rectangle (start 5.08 5.08) (end 54.61 -130.81)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -885,7 +885,7 @@
         (number "J17" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XC7K70T-FBG484_3_1"
+    (symbol "XC7K70T-FBG484_3_1" 
       (rectangle (start 5.08 5.08) (end 50.8 -130.81)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -1345,7 +1345,7 @@
         (number "Y9" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XC7K70T-FBG484_4_1"
+    (symbol "XC7K70T-FBG484_4_1" 
       (rectangle (start 5.08 5.08) (end 24.13 -55.88)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -1434,7 +1434,7 @@
         (number "G4" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XC7K70T-FBG484_5_1"
+    (symbol "XC7K70T-FBG484_5_1" 
       (rectangle (start 5.08 2.54) (end 20.32 -53.34)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -1512,7 +1512,7 @@
         (number "P6" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XC7K70T-FBG484_6_1"
+    (symbol "XC7K70T-FBG484_6_1" 
       (rectangle (start 5.08 2.54) (end 24.13 -35.56)
         (stroke (width 0.254) (type default))
         (fill (type background))

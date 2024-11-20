@@ -5,7 +5,7 @@
     "datasheet": "https://ww1.microchip.com/downloads/aemDocuments/documents/MCU32/ProductDocuments/DataSheets/SAM-D21-DA1-Family-Data-Sheet-DS40001882H.pdf",
     "manufacturer": "Microchip Technology",
     "mpn": "ATSAMD21J17D-AFT",
-    "description": "ARM MCU, SAM32 Family SAM D2X Series Microcontrollers, ARM Cortex-M0+, 32 bit, 48 MHz, 128 KB",
+    "description": null,
     "keywords": "SMT, MICROCONTROLLER, IC, ARM",
     "displayName": null,
     "gitHub": null,

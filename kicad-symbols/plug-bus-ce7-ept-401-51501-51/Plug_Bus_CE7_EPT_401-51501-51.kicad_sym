@@ -1,25 +1,28 @@
-(kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "Plug_Bus_CE7_EPT_401-51501-51" (in_bom yes) (on_board yes)
+(kicad_symbol_lib
+  (symbol "Plug_Bus_CE7_EPT_401-51501-51"  (exclude_from_sim no) (in_bom yes) (on_board yes)
     (property "Reference" "J" (at 53.34 -2.54 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
     )
     (property "Value" "Plug_Bus_CE7_EPT_401-51501-51" (at 53.34 -12.7 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "Footprint" "Plug_Bus_CE7_EPT_401-51501-51:EPT_401-51501-51" (at 53.34 -7.62 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "Datasheet" "https://www.farnell.com/datasheets/1905093.pdf" (at 53.34 -10.16 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
+    )
+    (property "Description" "Mezzanine Connector, 5mm Height, COM Express, Header, 0.5 mm, 2 Rows, 440 Contacts, Surface Mount" (at 0 0 0)
+      (effects (font (size 1.27 1.27))( hide yes ))
     )
     (property "Author" "Antmicro" (at 53.34 -17.78 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "License" "Apache-2.0" (at 53.34 -20.32 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "Manufacturer" "ept" (at 53.34 -15.24 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "MPN" "401-51501-51" (at 53.34 -5.08 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
@@ -28,12 +31,9 @@
       (effects (font (size 1.27 1.27)))
     )
     (property "ki_keywords" "CONNECTOR, B2B, PLUG" (at 0 0 0)
-      (effects (font (size 1.27 1.27)) hide)
+      (effects (font (size 1.27 1.27))( hide yes ))
     )
-    (property "ki_description" "Mezzanine Connector, 5mm Height, COM Express, Header, 0.5 mm, 2 Rows, 440 Contacts, Surface Mount" (at 0 0 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (symbol "Plug_Bus_CE7_EPT_401-51501-51_1_1"
+    (symbol "Plug_Bus_CE7_EPT_401-51501-51_1_1" 
       (rectangle (start -33.02 2.54) (end -5.08 -25.4)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -85,7 +85,7 @@
         (number "B99" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "Plug_Bus_CE7_EPT_401-51501-51_2_1"
+    (symbol "Plug_Bus_CE7_EPT_401-51501-51_2_1" 
       (rectangle (start -33.02 2.54) (end -5.08 -50.8)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -153,7 +153,7 @@
         (number "B2" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "Plug_Bus_CE7_EPT_401-51501-51_3_1"
+    (symbol "Plug_Bus_CE7_EPT_401-51501-51_3_1" 
       (rectangle (start -33.02 2.54) (end -5.08 -35.56)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -209,7 +209,7 @@
         (number "B97" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "Plug_Bus_CE7_EPT_401-51501-51_4_1"
+    (symbol "Plug_Bus_CE7_EPT_401-51501-51_4_1" 
       (rectangle (start -33.02 2.54) (end -5.08 -91.44)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -365,7 +365,7 @@
         (number "B9" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "Plug_Bus_CE7_EPT_401-51501-51_5_1"
+    (symbol "Plug_Bus_CE7_EPT_401-51501-51_5_1" 
       (rectangle (start -33.02 2.54) (end -5.08 -20.32)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -409,7 +409,7 @@
         (number "B63" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "Plug_Bus_CE7_EPT_401-51501-51_6_1"
+    (symbol "Plug_Bus_CE7_EPT_401-51501-51_6_1" 
       (rectangle (start -33.02 2.54) (end -5.08 -33.02)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -457,7 +457,7 @@
         (number "B20" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "Plug_Bus_CE7_EPT_401-51501-51_7_1"
+    (symbol "Plug_Bus_CE7_EPT_401-51501-51_7_1" 
       (rectangle (start -33.02 2.54) (end -5.08 -38.1)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -513,7 +513,7 @@
         (number "B48" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "Plug_Bus_CE7_EPT_401-51501-51_8_1"
+    (symbol "Plug_Bus_CE7_EPT_401-51501-51_8_1" 
       (rectangle (start -33.02 2.54) (end -5.08 -17.78)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -777,7 +777,7 @@
         (number "B90" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "Plug_Bus_CE7_EPT_401-51501-51_9_1"
+    (symbol "Plug_Bus_CE7_EPT_401-51501-51_9_1" 
       (rectangle (start -33.02 2.54) (end -5.08 -119.38)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -917,7 +917,7 @@
         (number "B82" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "Plug_Bus_CE7_EPT_401-51501-51_10_1"
+    (symbol "Plug_Bus_CE7_EPT_401-51501-51_10_1" 
       (rectangle (start -33.02 2.54) (end -5.08 -58.42)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -993,7 +993,7 @@
         (number "D9" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "Plug_Bus_CE7_EPT_401-51501-51_11_1"
+    (symbol "Plug_Bus_CE7_EPT_401-51501-51_11_1" 
       (rectangle (start -33.02 2.54) (end -5.08 -154.94)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -1189,7 +1189,7 @@
         (number "D50" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "Plug_Bus_CE7_EPT_401-51501-51_12_1"
+    (symbol "Plug_Bus_CE7_EPT_401-51501-51_12_1" 
       (rectangle (start -33.02 2.54) (end -5.08 -10.16)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -1217,7 +1217,7 @@
         (number "D57" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "Plug_Bus_CE7_EPT_401-51501-51_13_1"
+    (symbol "Plug_Bus_CE7_EPT_401-51501-51_13_1" 
       (rectangle (start -33.02 2.54) (end -5.08 -17.78)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -1561,7 +1561,7 @@
         (number "MP" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "Plug_Bus_CE7_EPT_401-51501-51_14_1"
+    (symbol "Plug_Bus_CE7_EPT_401-51501-51_14_1" 
       (rectangle (start -33.02 2.54) (end -5.08 -241.3)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -1829,7 +1829,7 @@
         (number "D99" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "Plug_Bus_CE7_EPT_401-51501-51_15_1"
+    (symbol "Plug_Bus_CE7_EPT_401-51501-51_15_1" 
       (rectangle (start -33.02 2.54) (end -5.08 -27.94)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -1873,7 +1873,7 @@
         (number "D23" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "Plug_Bus_CE7_EPT_401-51501-51_16_1"
+    (symbol "Plug_Bus_CE7_EPT_401-51501-51_16_1" 
       (rectangle (start -33.02 2.54) (end -5.08 -96.52)
         (stroke (width 0.254) (type default))
         (fill (type background))

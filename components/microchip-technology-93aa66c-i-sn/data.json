@@ -5,7 +5,7 @@
     "datasheet": "https://ww1.microchip.com/downloads/aemDocuments/documents/MPD/ProductDocuments/DataSheets/93AA66X-93LC66X-93C66X-4-Kbit-Microwire-Compatible-Serial-EEPROM-Data-Sheet.pdf",
     "manufacturer": "Microchip Technology",
     "mpn": "93AA66C-I/SN",
-    "description": "EEPROM 512x8 Or 256x16",
+    "description": null,
     "keywords": "SMT, MEMORY, IC, EEPROM",
     "displayName": null,
     "gitHub": null,

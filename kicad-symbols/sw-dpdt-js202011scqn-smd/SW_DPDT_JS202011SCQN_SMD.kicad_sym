@@ -1,36 +1,36 @@
-(kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "SW_DPDT_JS202011SCQN_SMD" (pin_names hide) (in_bom yes) (on_board yes)
+(kicad_symbol_lib
+  (symbol "SW_DPDT_JS202011SCQN_SMD"  (pin_names hide) (exclude_from_sim no) (in_bom yes) (on_board yes)
     (property "Reference" "SW" (at 20.32 0 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
     )
     (property "Value" "SW_DPDT_JS202011SCQN_SMD" (at 20.32 -5.08 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "Footprint" "SW_DPDT_JS202011SCQN_SMD:SW_DPDT_CnK_JS202011JCQN_SMD" (at 20.32 -7.62 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "Datasheet" "https://www.ckswitches.com/media/1422/js.pdf" (at 20.32 -10.16 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
+    )
+    (property "Description" "Slide Switch, Subminiature, DPDT, On-On, Surface Mount, 300 mA" (at 0 0 0)
+      (effects (font (size 1.27 1.27))( hide yes ))
     )
     (property "MPN" "JS202011SCQN" (at 20.32 -2.54 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
     )
     (property "Manufacturer" "C&K" (at 20.32 -12.7 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "Author" "Antmicro" (at 20.32 -15.24 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "License" "Apache-2.0" (at 20.32 -17.78 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "ki_keywords" "SWITCH, SLIDE, DPDT" (at 0 0 0)
-      (effects (font (size 1.27 1.27)) hide)
+      (effects (font (size 1.27 1.27))( hide yes ))
     )
-    (property "ki_description" "Slide Switch, Subminiature, DPDT, On-On, Surface Mount, 300 mA" (at 0 0 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (symbol "SW_DPDT_JS202011SCQN_SMD_0_1"
+    (symbol "SW_DPDT_JS202011SCQN_SMD_0_1" 
       (polyline
         (pts
           (xy 5.08 -5.08)
@@ -80,7 +80,7 @@
         (fill (type none))
       )
     )
-    (symbol "SW_DPDT_JS202011SCQN_SMD_1_1"
+    (symbol "SW_DPDT_JS202011SCQN_SMD_1_1" 
       (polyline
         (pts
           (xy 2.54 -6.35)

@@ -5,7 +5,7 @@
     "datasheet": "https://www.analog.com/media/en/technical-documentation/data-sheets/4312f.pdf",
     "manufacturer": "Analog Devices",
     "mpn": "LTC4312CMS#PBF",
-    "description": "Pin-Selectable, 2-Channel, 2-Wire Multiplexer with Bus Buffer",
+    "description": null,
     "keywords": "I2C, SMT, IC",
     "displayName": null,
     "gitHub": null,

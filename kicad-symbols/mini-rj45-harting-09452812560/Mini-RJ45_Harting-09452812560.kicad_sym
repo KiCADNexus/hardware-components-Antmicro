@@ -1,36 +1,36 @@
-(kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "Mini-RJ45_Harting-09452812560" (in_bom yes) (on_board yes)
+(kicad_symbol_lib
+  (symbol "Mini-RJ45_Harting-09452812560"  (exclude_from_sim no) (in_bom yes) (on_board yes)
     (property "Reference" "J" (at 38.1 -2.54 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
     )
     (property "Value" "Mini-RJ45_Harting-09452812560" (at 38.1 -15.24 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "Footprint" "Mini-RJ45_Harting-09452812560:Ethernet_Jack_Harting-09452812560" (at 38.1 -17.78 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "Datasheet" "https://www.mouser.com/datasheet/2/179/PDF_DS_09450000003-3085158.pdf" (at 38.1 -20.32 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
+    )
+    (property "Description" "Harting IX Modular Connectors / Ethernet Connectors,Horizontal, 8A-1 jack AV T&R400" (at 0 0 0)
+      (effects (font (size 1.27 1.27))( hide yes ))
     )
     (property "MPN" "09452812560" (at 38.1 -5.08 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
     )
     (property "Manufacturer" "HARTING" (at 38.1 -7.62 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "Author" "Antmicro" (at 38.1 -10.16 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "License" "Apache-2.0" (at 38.1 -12.7 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "ki_keywords" "CONNECTOR, THT, ETHERNET, HORIZONTAL" (at 0 0 0)
-      (effects (font (size 1.27 1.27)) hide)
+      (effects (font (size 1.27 1.27))( hide yes ))
     )
-    (property "ki_description" "Harting IX Modular Connectors / Ethernet Connectors,Horizontal, 8A-1 jack AV T&R400" (at 0 0 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (symbol "Mini-RJ45_Harting-09452812560_0_1"
+    (symbol "Mini-RJ45_Harting-09452812560_0_1" 
       (polyline
         (pts
           (xy 15.24 -19.685)
@@ -124,7 +124,7 @@
         (fill (type none))
       )
     )
-    (symbol "Mini-RJ45_Harting-09452812560_1_1"
+    (symbol "Mini-RJ45_Harting-09452812560_1_1" 
       (polyline
         (pts
           (xy 12.7 -8.89)

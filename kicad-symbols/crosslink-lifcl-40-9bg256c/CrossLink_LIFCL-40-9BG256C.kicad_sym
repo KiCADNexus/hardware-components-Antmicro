@@ -1,39 +1,39 @@
-(kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "CrossLink_LIFCL-40-9BG256C" (in_bom yes) (on_board yes)
+(kicad_symbol_lib
+  (symbol "CrossLink_LIFCL-40-9BG256C"  (exclude_from_sim no) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 53.34 0 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
     )
     (property "Value" "CrossLink_LIFCL-40-9BG256C" (at 53.34 -5.08 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "Footprint" "CrossLink_LIFCL-40-9BG256C:BGA-256_14x14mm_Layout16x16_P0.8x0.8mm_LATTICE" (at 53.34 -7.62 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "Datasheet" "https://www.latticesemi.com/-/media/LatticeSemi/Documents/DataSheets/CrossLink/FPGA-DS-02007-2-1-CrossLink-Family-Data-Sheet.ashx?document_id=51662" (at 53.34 -10.16 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
+    )
+    (property "Description" "CrossLink-NX™ Field Programmable Gate Array 256-LFBGA" (at 0 0 0)
+      (effects (font (size 1.27 1.27))( hide yes ))
     )
     (property "MPN" "LIFCL-40-9BG256C" (at 53.34 -2.54 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
     )
     (property "Manufacturer" "Lattice Semiconductor" (at 53.34 -12.7 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "Author" "Antmicro" (at 53.34 -15.24 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "License" "Apache-2.0" (at 53.34 -17.78 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "ki_locked" "" (at 0 0 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "ki_keywords" "SMT, FPGA, IC" (at 0 0 0)
-      (effects (font (size 1.27 1.27)) hide)
+      (effects (font (size 1.27 1.27))( hide yes ))
     )
-    (property "ki_description" "CrossLink-NX™ Field Programmable Gate Array 256-LFBGA" (at 0 0 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (symbol "CrossLink_LIFCL-40-9BG256C_1_1"
+    (symbol "CrossLink_LIFCL-40-9BG256C_1_1" 
       (rectangle (start 3.81 -33.02) (end 41.91 2.54)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -94,7 +94,7 @@
         (number "E16" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "CrossLink_LIFCL-40-9BG256C_2_1"
+    (symbol "CrossLink_LIFCL-40-9BG256C_2_1" 
       (rectangle (start 3.81 -55.88) (end 41.91 2.54)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -191,7 +191,7 @@
         (number "G9" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "CrossLink_LIFCL-40-9BG256C_3_1"
+    (symbol "CrossLink_LIFCL-40-9BG256C_3_1" 
       (rectangle (start 3.81 -35.56) (end 41.91 2.54)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -256,7 +256,7 @@
         (number "K12" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "CrossLink_LIFCL-40-9BG256C_4_1"
+    (symbol "CrossLink_LIFCL-40-9BG256C_4_1" 
       (rectangle (start 3.81 -83.82) (end 41.91 2.54)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -397,7 +397,7 @@
         (number "T15" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "CrossLink_LIFCL-40-9BG256C_5_1"
+    (symbol "CrossLink_LIFCL-40-9BG256C_5_1" 
       (rectangle (start 3.81 2.54) (end 41.91 -83.82)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -538,7 +538,7 @@
         (number "T9" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "CrossLink_LIFCL-40-9BG256C_6_1"
+    (symbol "CrossLink_LIFCL-40-9BG256C_6_1" 
       (rectangle (start 3.81 -27.94) (end 52.07 2.54)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -591,7 +591,7 @@
         (number "P3" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "CrossLink_LIFCL-40-9BG256C_7_1"
+    (symbol "CrossLink_LIFCL-40-9BG256C_7_1" 
       (rectangle (start 3.81 2.54) (end 40.64 -68.58)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -708,7 +708,7 @@
         (number "N2" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "CrossLink_LIFCL-40-9BG256C_8_1"
+    (symbol "CrossLink_LIFCL-40-9BG256C_8_1" 
       (rectangle (start 3.81 -30.48) (end 41.91 2.54)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -765,7 +765,7 @@
         (number "G6" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "CrossLink_LIFCL-40-9BG256C_9_1"
+    (symbol "CrossLink_LIFCL-40-9BG256C_9_1" 
       (rectangle (start 3.81 2.54) (end 25.4 -30.48)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -814,7 +814,7 @@
         (number "F2" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "CrossLink_LIFCL-40-9BG256C_10_1"
+    (symbol "CrossLink_LIFCL-40-9BG256C_10_1" 
       (rectangle (start 3.81 2.54) (end 25.4 -30.48)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -863,7 +863,7 @@
         (number "B7" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "CrossLink_LIFCL-40-9BG256C_11_1"
+    (symbol "CrossLink_LIFCL-40-9BG256C_11_1" 
       (rectangle (start 3.81 2.54) (end 25.4 -25.4)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -904,7 +904,7 @@
         (number "L16" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "CrossLink_LIFCL-40-9BG256C_12_1"
+    (symbol "CrossLink_LIFCL-40-9BG256C_12_1" 
       (rectangle (start 3.81 2.54) (end 25.4 -24.13)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -945,7 +945,7 @@
         (number "C11" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "CrossLink_LIFCL-40-9BG256C_13_1"
+    (symbol "CrossLink_LIFCL-40-9BG256C_13_1" 
       (rectangle (start 3.81 2.54) (end 29.21 -48.26)
         (stroke (width 0.254) (type default))
         (fill (type background))

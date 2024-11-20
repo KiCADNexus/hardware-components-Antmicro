@@ -5,7 +5,7 @@
     "datasheet": "https://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT232R.pdf",
     "manufacturer": "FTDI Chip",
     "mpn": "FT232RQ-REEL",
-    "description": "Interface Bridges, USB to UART, 1.8 V, 5.25 V, QFN, 32 Pins, -40 \u00b0C",
+    "description": null,
     "keywords": "SMT, INTERFACE, IC, CONTROLLER, USB, UART, I2C",
     "displayName": null,
     "gitHub": null,

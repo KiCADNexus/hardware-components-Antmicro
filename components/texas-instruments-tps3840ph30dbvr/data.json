@@ -5,7 +5,7 @@
     "datasheet": "https://www.ti.com/lit/ds/symlink/tps3840.pdf?HQS=dis-mous-null-mousermode-dsf-pf-null-wwe&DCM=yes&ref_url=https%3A%2F%2Fwww.mouser.com%2F&distId=26",
     "manufacturer": "Texas Instruments",
     "mpn": "TPS3840PH30DBVR",
-    "description": "Voltage supervisor",
+    "description": null,
     "keywords": "SMT, PMIC, IC, CONTROLLER",
     "displayName": null,
     "gitHub": null,

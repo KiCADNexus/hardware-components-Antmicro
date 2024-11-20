@@ -5,7 +5,7 @@
     "datasheet": "https://www.mouser.com/datasheet/2/408/SSM3K15ACT_datasheet_en_20140301-1144185.pdf",
     "manufacturer": "Toshiba",
     "mpn": "SSM3K15ACT,L3F",
-    "description": "FET/MOSFET transistor, RDS(ON) = 3.6 \u2126 (VGS=4V), VGSth=1.5V, VDSS = 30 V, VGSS = +- 20 V",
+    "description": null,
     "keywords": "SMT, TRANSISTOR, SEMICONDUCTOR, MOSFET, NMOS",
     "displayName": null,
     "gitHub": null,

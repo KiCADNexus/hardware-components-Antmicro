@@ -5,11 +5,11 @@
     "datasheet": "https://www.nxp.com/docs/en/data-sheet/SC18IS602B.pdf",
     "manufacturer": "NXP",
     "mpn": "SC18IS602BIPW",
-    "description": "I\u00b2C Controller SPI Interface 16-TSSOP",
+    "description": null,
     "keywords": "SMT, INTERFACE, IC, I2C, SPI",
     "displayName": null,
     "gitHub": null,
-    "blender_model": "TSSOP-16_4.4x5mm_P0.65mm",
+    "blender_model": "TSSOP-16_4.4x5mm_P0.65mm-nxp-sc18is602bipw",
     "pads": [
         {
             "reference": "1",

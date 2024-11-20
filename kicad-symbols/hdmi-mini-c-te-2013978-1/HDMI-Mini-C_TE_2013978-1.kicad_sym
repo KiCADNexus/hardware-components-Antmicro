@@ -1,36 +1,36 @@
-(kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "HDMI-Mini-C_TE_2013978-1" (in_bom yes) (on_board yes)
+(kicad_symbol_lib
+  (symbol "HDMI-Mini-C_TE_2013978-1"  (exclude_from_sim no) (in_bom yes) (on_board yes)
     (property "Reference" "J" (at 59.69 -2.54 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
     )
     (property "Value" "HDMI-Mini-C_TE_2013978-1" (at 59.69 -5.08 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "Footprint" "HDMI-Mini-C_TE_2013978-1:HDMI-Mini-C_Receptacle_TE_2013978-1" (at 59.69 -7.62 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "Datasheet" "https://www.te.com/en/product-2013978-1.html" (at 59.69 -10.16 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
+    )
+    (property "Description" "HDMI - Mini Receptacle Connector 19 Position Surface Mount, Right Angle; Through Hole" (at 0 0 0)
+      (effects (font (size 1.27 1.27))( hide yes ))
     )
     (property "Manufacturer" "TE Connectivity" (at 59.69 -12.7 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "MPN" "2013978-1" (at 59.69 -15.24 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
     )
     (property "Author" "Antmicro" (at 59.69 -17.78 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "License" "Apache-2.0" (at 59.69 -20.32 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "ki_keywords" "MINI, HDMI, CONNECTOR, SMT" (at 0 0 0)
-      (effects (font (size 1.27 1.27)) hide)
+      (effects (font (size 1.27 1.27))( hide yes ))
     )
-    (property "ki_description" "HDMI - Mini Receptacle Connector 19 Position Surface Mount, Right Angle; Through Hole" (at 0 0 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (symbol "HDMI-Mini-C_TE_2013978-1_0_0"
+    (symbol "HDMI-Mini-C_TE_2013978-1_0_0" 
       (polyline
         (pts
           (xy 22.098 0)
@@ -68,7 +68,7 @@
         (effects (font (size 1.27 1.27)))
       )
     )
-    (symbol "HDMI-Mini-C_TE_2013978-1_0_1"
+    (symbol "HDMI-Mini-C_TE_2013978-1_0_1" 
       (polyline
         (pts
           (xy 10.16 -15.24)

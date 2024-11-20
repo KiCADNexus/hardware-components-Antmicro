@@ -5,7 +5,7 @@
     "datasheet": "http://infocenter.nordicsemi.com/pdf/nRF52832_PS_v1.4.pdf",
     "manufacturer": "Nordic Semiconductor",
     "mpn": "NRF52832-QFAA-R",
-    "description": "RF Transceiver, 2.5 GHz, 2 MBPS, QFN-48, -40 \u00b0C to 85 \u00b0C",
+    "description": null,
     "keywords": "IC",
     "displayName": null,
     "gitHub": null,

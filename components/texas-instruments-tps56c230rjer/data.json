@@ -5,7 +5,7 @@
     "datasheet": "https://www.ti.com/lit/ds/symlink/tps56c230.pdf",
     "manufacturer": "Texas Instruments",
     "mpn": "TPS56C230RJER",
-    "description": "DC/DC converter",
+    "description": null,
     "keywords": "SMT, PMIC, IC, SWITCHING, VOLTAGE, REGULATOR, DC-DC",
     "displayName": null,
     "gitHub": null,

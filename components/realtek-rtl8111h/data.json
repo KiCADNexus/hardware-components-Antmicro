@@ -5,7 +5,7 @@
     "datasheet": "https://datasheet.lcsc.com/lcsc/2108141930_Realtek-Semicon-RTL8111H-CG_C2761340.pdf",
     "manufacturer": "Realtek",
     "mpn": "RTL8111H",
-    "description": "10/100/1000M Ethernet controller,  triple-speed IEEE 802.3 compatible MAC, triple-speed Ethernet transceiver, PCIe bus controller, embedded memory",
+    "description": null,
     "keywords": "IC, ETHERNET, PCIE, SMT, TRANSCEIVER, PHY",
     "displayName": null,
     "gitHub": null,

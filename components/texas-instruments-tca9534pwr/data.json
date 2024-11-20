@@ -5,7 +5,7 @@
     "datasheet": "http://www.ti.com/lit/ds/symlink/tca9534.pdf",
     "manufacturer": "Texas Instruments",
     "mpn": "TCA9534PWR",
-    "description": "Low Voltage 8-Bit I2C and SMBUS Low-Power I/O Expander with Interrupt Output and Configuration Registers",
+    "description": null,
     "keywords": "SMT, INTERFACE, IC, I2C",
     "displayName": null,
     "gitHub": null,

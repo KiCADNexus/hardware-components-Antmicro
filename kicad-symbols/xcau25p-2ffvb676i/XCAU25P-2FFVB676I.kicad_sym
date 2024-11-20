@@ -1,39 +1,39 @@
-(kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "XCAU25P-2FFVB676I" (in_bom yes) (on_board yes)
+(kicad_symbol_lib
+  (symbol "XCAU25P-2FFVB676I"  (exclude_from_sim no) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 63.5 0 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
     )
     (property "Value" "XCAU25P-2FFVB676I" (at 63.5 -5.08 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "Footprint" "XCAU25P-2FFVB676I:BGA-676_27x27mm_Layout26x26_P1x1mm_FFVB676" (at 63.5 -7.62 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "Datasheet" "https://docs.xilinx.com/viewer/book-attachment/2PXOpPtpaABIt0fkzeBLnw/hvbsEUaOT0OxFhln7VEVyA" (at 63.5 -10.16 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
+    )
+    (property "Description" "Artix UltraScale+ Field Programmable Gate Array " (at 0 0 0)
+      (effects (font (size 1.27 1.27))( hide yes ))
     )
     (property "MPN" "XCAU25P-2FFVB676I" (at 63.5 -2.54 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
     )
     (property "Manufacturer" "AMD-Xilinx" (at 63.5 -12.7 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "Author" "Antmicro" (at 63.5 -15.24 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "License" "Apache-2.0" (at 63.5 -17.78 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "ki_locked" "" (at 0 0 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "ki_keywords" "FPGA, LVDS, MIPI, CMOS, BGA, ETHERNET, VIDEO, DSP, BRIDGE" (at 0 0 0)
-      (effects (font (size 1.27 1.27)) hide)
+      (effects (font (size 1.27 1.27))( hide yes ))
     )
-    (property "ki_description" "Artix UltraScale+ Field Programmable Gate Array " (at 0 0 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (symbol "XCAU25P-2FFVB676I_1_1"
+    (symbol "XCAU25P-2FFVB676I_1_1" 
       (polyline
         (pts
           (xy 15.24 -3.81)
@@ -162,7 +162,7 @@
         (number "Y12" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XCAU25P-2FFVB676I_2_1"
+    (symbol "XCAU25P-2FFVB676I_2_1" 
       (polyline
         (pts
           (xy 30.48 -6.35)
@@ -411,7 +411,7 @@
         (number "Y21" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XCAU25P-2FFVB676I_3_1"
+    (symbol "XCAU25P-2FFVB676I_3_1" 
       (polyline
         (pts
           (xy 36.83 -5.08)
@@ -660,7 +660,7 @@
         (number "Y26" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XCAU25P-2FFVB676I_4_1"
+    (symbol "XCAU25P-2FFVB676I_4_1" 
       (polyline
         (pts
           (xy 30.48 -6.35)
@@ -909,7 +909,7 @@
         (number "M26" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XCAU25P-2FFVB676I_5_1"
+    (symbol "XCAU25P-2FFVB676I_5_1" 
       (polyline
         (pts
           (xy 30.48 -6.35)
@@ -1158,7 +1158,7 @@
         (number "J16" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XCAU25P-2FFVB676I_6_1"
+    (symbol "XCAU25P-2FFVB676I_6_1" 
       (polyline
         (pts
           (xy 22.86 -3.81)
@@ -1287,7 +1287,7 @@
         (number "Y16" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XCAU25P-2FFVB676I_7_1"
+    (symbol "XCAU25P-2FFVB676I_7_1" 
       (polyline
         (pts
           (xy 22.86 -3.81)
@@ -1416,7 +1416,7 @@
         (number "K9" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XCAU25P-2FFVB676I_8_1"
+    (symbol "XCAU25P-2FFVB676I_8_1" 
       (polyline
         (pts
           (xy 22.86 -3.81)
@@ -1545,7 +1545,7 @@
         (number "J15" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XCAU25P-2FFVB676I_9_1"
+    (symbol "XCAU25P-2FFVB676I_9_1" 
       (polyline
         (pts
           (xy 16.51 2.54)
@@ -1650,7 +1650,7 @@
         (number "Y7" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XCAU25P-2FFVB676I_10_1"
+    (symbol "XCAU25P-2FFVB676I_10_1" 
       (polyline
         (pts
           (xy 16.51 2.54)
@@ -1755,7 +1755,7 @@
         (number "Y2" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XCAU25P-2FFVB676I_11_1"
+    (symbol "XCAU25P-2FFVB676I_11_1" 
       (polyline
         (pts
           (xy 16.51 2.54)
@@ -1860,7 +1860,7 @@
         (number "P7" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XCAU25P-2FFVB676I_12_1"
+    (symbol "XCAU25P-2FFVB676I_12_1" 
       (rectangle (start 5.08 2.54) (end 35.56 -27.94)
         (stroke (width 0.254) (type default))
         (fill (type background))

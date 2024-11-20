@@ -1,39 +1,39 @@
-(kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "JHL8440" (in_bom yes) (on_board yes)
+(kicad_symbol_lib
+  (symbol "JHL8440"  (exclude_from_sim no) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 91.44 -2.54 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
     )
     (property "Value" "JHL8440" (at 91.44 -10.16 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "Footprint" "JHL8440:JHL8440" (at 91.44 -12.7 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "Datasheet" "https://www.mouser.com/datasheet/2/612/thunderbolt_security_brief-1903286.pdf" (at 91.44 -15.24 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
+    )
+    (property "Description" "Thunderbolt™ 3 Controller, I/O" (at 0 0 0)
+      (effects (font (size 1.27 1.27))( hide yes ))
     )
     (property "Manufacturer" "Intel" (at 91.44 -17.78 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "MPN" "JHL8440" (at 91.44 -5.08 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
     )
     (property "Author" "Antmicro" (at 91.44 -20.32 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "License" "Apache-2.0" (at 91.44 -22.86 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "ki_locked" "" (at 0 0 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "ki_keywords" "IC" (at 0 0 0)
-      (effects (font (size 1.27 1.27)) hide)
+      (effects (font (size 1.27 1.27))( hide yes ))
     )
-    (property "ki_description" "Thunderbolt™ 3 Controller, I/O" (at 0 0 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (symbol "JHL8440_1_1"
+    (symbol "JHL8440_1_1" 
       (polyline
         (pts
           (xy 22.86 -69.85)
@@ -377,7 +377,7 @@
         (number "Y1" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "JHL8440_2_1"
+    (symbol "JHL8440_2_1" 
       (polyline
         (pts
           (xy 29.21 -7.62)
@@ -1355,7 +1355,7 @@
         (number "Y9" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "JHL8440_3_1"
+    (symbol "JHL8440_3_1" 
       (polyline
         (pts
           (xy 5.08 -58.42)

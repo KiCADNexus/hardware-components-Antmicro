@@ -5,7 +5,7 @@
     "datasheet": "https://www.infineon.com/dgdl/Infineon-DPS310-DataSheet-v01_01-EN.pdf?fileId=5546d462576f34750157750826c42242",
     "manufacturer": "Infineon",
     "mpn": "DPS310",
-    "description": "300-1200hPa I2C/SPI sensor",
+    "description": null,
     "keywords": "SENSOR, I2C",
     "displayName": null,
     "gitHub": null,

@@ -5,7 +5,7 @@
     "datasheet": "https://www.ti.com/lit/ds/symlink/lm66200.pdf",
     "manufacturer": "Texas Instruments",
     "mpn": "LM66200DRLR",
-    "description": "1.6 V to 5 V, 2.5-A Dual Ideal Diode With Automatic Switchover",
+    "description": null,
     "keywords": "SMT, PMIC, IC, POWER, MANAGEMENT, DIODE, CONTROLLER",
     "displayName": null,
     "gitHub": null,

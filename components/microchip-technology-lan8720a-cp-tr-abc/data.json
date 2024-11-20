@@ -5,7 +5,7 @@
     "datasheet": "http://ww1.microchip.com/downloads/en/DeviceDoc/8720a.pdf",
     "manufacturer": "Microchip Technology",
     "mpn": "LAN8720A-CP-TR-ABC",
-    "description": "Ethernet Controller, 100 Mbps, IEEE 802.3, IEEE 802.3u, 3 V, 3.6 V, SQFN, 24 Pins",
+    "description": null,
     "keywords": "SMT, TRANSCEIVER, IC, ETHERNET, PHY",
     "displayName": null,
     "gitHub": null,

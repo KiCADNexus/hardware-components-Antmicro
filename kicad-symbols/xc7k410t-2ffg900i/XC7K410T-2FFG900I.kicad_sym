@@ -1,39 +1,39 @@
-(kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "XC7K410T-2FFG900I" (in_bom yes) (on_board yes)
+(kicad_symbol_lib
+  (symbol "XC7K410T-2FFG900I"  (exclude_from_sim no) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 82.55 -2.54 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
     )
     (property "Value" "XC7K410T-2FFG900I" (at 82.55 -7.62 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "Footprint" "XC7K410T-2FFG900I:BGA-900_31x31mm_Layout30x30_P1x1mm_FFG900" (at 82.55 -10.16 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "Datasheet" "https://eu.mouser.com/datasheet/2/903/ds180_7Series_Overview-1591537.pdf" (at 82.55 -12.7 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
+    )
+    (property "Description" "FPGA, Kintex-7, MMCM, PLL, 350 I/O's, 710 MHz, 406720 Cells, 970 mV to 1.03 V, FCBGA-900" (at 0 0 0)
+      (effects (font (size 1.27 1.27))( hide yes ))
     )
     (property "MPN" "XC7K410T-2FFG900I" (at 82.55 -5.08 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
     )
     (property "Manufacturer" "AMD-Xilinx" (at 82.55 -15.24 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "Author" "Antmicro" (at 82.55 -17.78 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "License" "Apache-2.0" (at 82.55 -20.32 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "ki_locked" "" (at 0 0 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "ki_keywords" "SMT, IC, FPGA" (at 0 0 0)
-      (effects (font (size 1.27 1.27)) hide)
+      (effects (font (size 1.27 1.27))( hide yes ))
     )
-    (property "ki_description" "FPGA, Kintex-7, MMCM, PLL, 350 I/O's, 710 MHz, 406720 Cells, 970 mV to 1.03 V, FCBGA-900" (at 0 0 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (symbol "XC7K410T-2FFG900I_1_1"
+    (symbol "XC7K410T-2FFG900I_1_1" 
       (rectangle (start 5.08 5.08) (end 50.8 -130.81)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -493,7 +493,7 @@
         (number "Y30" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XC7K410T-2FFG900I_2_1"
+    (symbol "XC7K410T-2FFG900I_2_1" 
       (rectangle (start 5.08 5.08) (end 64.77 -130.81)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -953,7 +953,7 @@
         (number "W26" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XC7K410T-2FFG900I_3_1"
+    (symbol "XC7K410T-2FFG900I_3_1" 
       (rectangle (start 5.08 5.08) (end 49.53 -130.81)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -1421,7 +1421,7 @@
         (number "L19" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XC7K410T-2FFG900I_4_1"
+    (symbol "XC7K410T-2FFG900I_4_1" 
       (rectangle (start 5.08 5.08) (end 48.26 -130.81)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -1881,7 +1881,7 @@
         (number "Y19" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XC7K410T-2FFG900I_5_1"
+    (symbol "XC7K410T-2FFG900I_5_1" 
       (rectangle (start 5.08 5.08) (end 49.53 -130.81)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -2345,7 +2345,7 @@
         (number "Y13" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XC7K410T-2FFG900I_6_1"
+    (symbol "XC7K410T-2FFG900I_6_1" 
       (rectangle (start 5.08 5.08) (end 43.18 -53.34)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -2517,7 +2517,7 @@
         (number "Y6" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XC7K410T-2FFG900I_7_1"
+    (symbol "XC7K410T-2FFG900I_7_1" 
       (rectangle (start 5.08 5.08) (end 43.18 -53.34)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -2689,7 +2689,7 @@
         (number "K6" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XC7K410T-2FFG900I_8_1"
+    (symbol "XC7K410T-2FFG900I_8_1" 
       (rectangle (start 5.08 2.54) (end 24.13 -13.97)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -2811,7 +2811,7 @@
         (number "W8" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XC7K410T-2FFG900I_9_1"
+    (symbol "XC7K410T-2FFG900I_9_1" 
       (rectangle (start 5.08 2.54) (end 27.94 -29.21)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -2897,7 +2897,7 @@
         (number "U15" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XC7K410T-2FFG900I_10_1"
+    (symbol "XC7K410T-2FFG900I_10_1" 
       (rectangle (start 5.08 2.54) (end 20.32 -21.59)
         (stroke (width 0.254) (type default))
         (fill (type background))

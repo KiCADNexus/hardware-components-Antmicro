@@ -5,7 +5,7 @@
     "datasheet": "https://www.st.com/content/ccc/resource/technical/document/datasheet/d8/b3/7b/dc/18/22/44/f5/DM00141036.pdf/files/DM00141036.pdf/jcr:content/translations/en.DM00141036.pdf",
     "manufacturer": "STMicroelectronics",
     "mpn": "STM32L073V8T6",
-    "description": "ARM\u00ae Cortex\u00ae-M0+ STM32L0 Microcontroller IC 32-Bit Single-Core 32MHz 64KB (64K x 8) FLASH 100-LQFP (14x14)",
+    "description": null,
     "keywords": "SMT, MICROCONTROLLER, IC, ARM",
     "displayName": null,
     "gitHub": null,

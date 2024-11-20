@@ -1,36 +1,36 @@
-(kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "0895-2C1R-GVH" (in_bom yes) (on_board yes)
+(kicad_symbol_lib
+  (symbol "0895-2C1R-GVH"  (exclude_from_sim no) (in_bom yes) (on_board yes)
     (property "Reference" "J" (at 40.64 -2.54 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
     )
     (property "Value" "0895-2C1R-GVH" (at 40.64 -5.08 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "Footprint" "0895-2C1R-GVH:0895-2C1R-GVH" (at 40.64 -7.62 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "Datasheet" "https://www.belfuse.com/resources/drawings/magneticsolutions/dr-mag-0895-2c1r-gvh.pdf" (at 40.64 -10.16 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
+    )
+    (property "Description" "Modular connector with magnetics" (at 0 0 0)
+      (effects (font (size 1.27 1.27))( hide yes ))
     )
     (property "MPN" "0895-2C1R-GVH" (at 40.64 -12.7 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
     )
     (property "Manufacturer" "Bel Fuse" (at 40.64 -15.24 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "Author" "Antmicro" (at 40.64 -17.78 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "License" "Apache-2.0" (at 40.64 -20.32 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "ki_keywords" "RJ45, HORIZONTAL, THT, ETHERNET, CONNECTOR" (at 0 0 0)
-      (effects (font (size 1.27 1.27)) hide)
+      (effects (font (size 1.27 1.27))( hide yes ))
     )
-    (property "ki_description" "Modular connector with magnetics" (at 0 0 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (symbol "0895-2C1R-GVH_1_1"
+    (symbol "0895-2C1R-GVH_1_1" 
       (polyline
         (pts
           (xy 17.526 -17.526)
@@ -611,7 +611,7 @@
         (number "SH" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "0895-2C1R-GVH_2_1"
+    (symbol "0895-2C1R-GVH_2_1" 
       (polyline
         (pts
           (xy 17.526 -17.526)

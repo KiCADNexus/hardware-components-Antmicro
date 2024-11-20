@@ -1,0 +1,11 @@
+{
+    "blendfile": "C_1812_4532Metric.blend",
+    "previews": [
+        {
+            "id": "iso-front",
+            "description": "Render in iso-front view",
+            "fileName": "isoF.webp",
+            "animations": {}
+        }
+    ]
+}

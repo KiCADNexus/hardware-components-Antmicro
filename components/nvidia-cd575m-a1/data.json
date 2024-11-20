@@ -5,7 +5,7 @@
     "datasheet": "https://developer.nvidia.com/embedded/tegra-k1-reference",
     "manufacturer": "Nvidia",
     "mpn": "CD575M-A1",
-    "description": "Tegra K1 processors integrate a power optimized version of  Kepler GPU architecture. It supports OpenGL\u00ae 4.4, OpenGL ES 3.1 and CUDA\u00ae/GPGPU on mobile and embedded devices.",
+    "description": null,
     "keywords": "SOC,MEMORY,HDMI,DSI,BGA,AUDIO,MIPI,MONITOR,PLL,SEMICONDUCTOR,VIDEO",
     "displayName": "Tegra K1",
     "gitHub": null,

@@ -1,36 +1,36 @@
-(kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "PJA3404" (pin_names (offset 0)) (in_bom yes) (on_board yes)
+(kicad_symbol_lib
+  (symbol "PJA3404"  (pin_names (offset 0)) (exclude_from_sim no) (in_bom yes) (on_board yes)
     (property "Reference" "Q" (at 22.86 -6.35 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
     )
     (property "Value" "PJA3404" (at 22.86 -8.89 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "Footprint" "PJA3404:SOT-23-3" (at 22.86 -11.43 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "Datasheet" "https://www.mouser.com/datasheet/2/1057/PJA3404-1867365.pdf" (at 22.86 -13.97 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
+    )
+    (property "Description" "FET/MOSFET transistor" (at 0 0 0)
+      (effects (font (size 1.27 1.27))( hide yes ))
     )
     (property "MPN" "PJA3404_R1_00001" (at 22.86 -16.51 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
     )
     (property "Manufacturer" "PANJIT" (at 22.86 -19.05 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "Author" "Antmicro" (at 22.86 -21.59 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "License" "Apache-2.0" (at 22.86 -24.13 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "ki_keywords" "SMT, TRANSISTOR, SEMICONDUCTOR, MOSFET" (at 0 0 0)
-      (effects (font (size 1.27 1.27)) hide)
+      (effects (font (size 1.27 1.27))( hide yes ))
     )
-    (property "ki_description" "FET/MOSFET transistor" (at 0 0 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (symbol "PJA3404_0_1"
+    (symbol "PJA3404_0_1" 
       (polyline
         (pts
           (xy 7.62 1.143)
@@ -94,7 +94,7 @@
         (fill (type none))
       )
     )
-    (symbol "PJA3404_1_1"
+    (symbol "PJA3404_1_1" 
       (polyline
         (pts
           (xy 5.08 1.143)

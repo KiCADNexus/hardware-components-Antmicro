@@ -5,10 +5,23 @@
     "datasheet": "https://www.bourns.com/docs/product-datasheets/cr.pdf",
     "manufacturer": "Bourns",
     "mpn": "CR0402-FX-3163GLF",
-    "description": "SMD Chip Resistor",
+    "description": null,
     "keywords": "0402, SMT, RESISTOR, PASSIVE",
     "displayName": null,
     "gitHub": null,
     "blender_model": "R_0402_1005Metric",
-    "pads": []
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "2",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        }
+    ]
 }

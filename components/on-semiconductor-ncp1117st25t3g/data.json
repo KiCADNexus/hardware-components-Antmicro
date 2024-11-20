@@ -5,7 +5,7 @@
     "datasheet": "https://www.onsemi.com/pdf/datasheet/ncp1117-d.pdf",
     "manufacturer": "ON Semiconductor",
     "mpn": "NCP1117ST25T3G",
-    "description": "Fixed LDO Voltage Regulator, 1.2V Dropout, 2.5Vout, 1Aout, SOT-223",
+    "description": null,
     "keywords": "SMT, REGULATOR, IC, LINEAR",
     "displayName": null,
     "gitHub": null,

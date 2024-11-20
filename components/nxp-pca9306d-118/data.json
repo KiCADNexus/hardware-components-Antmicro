@@ -5,7 +5,7 @@
     "datasheet": "https://www.nxp.com/docs/en/data-sheet/PCA9306.pdf",
     "manufacturer": "NXP",
     "mpn": "PCA9306D,118",
-    "description": "Specialized Interface, I2C, SMBus, I2C Bus & SMBus Systems Applications, 0 V, 5 V, SOIC, 8 Pins",
+    "description": null,
     "keywords": "SMT, LEVEL-SHIFTER, IC",
     "displayName": null,
     "gitHub": null,

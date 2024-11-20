@@ -1,45 +1,45 @@
-(kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "JHL6340SLLSQ" (in_bom yes) (on_board yes)
+(kicad_symbol_lib
+  (symbol "JHL6340SLLSQ"  (exclude_from_sim no) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 71.12 0 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
     )
     (property "Value" "JHL6340SLLSQ" (at 71.12 -2.54 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "Footprint" "JHL6340SLLSQ:JHL6340SLLSQ" (at 71.12 -5.08 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "Datasheet" "https://www.thunderbolttechnology.net/sites/default/files/18-241_ThunderboltController_Brief_HI.pdf" (at 71.12 -7.62 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
+    )
+    (property "Description" "Thunderbolt™ 3 Controller, I/O" (at 0 0 0)
+      (effects (font (size 1.27 1.27))( hide yes ))
     )
     (property "Manufacturer" "Intel" (at 71.12 -10.16 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "MPN" "JHL6340SLLSQ" (at 71.12 -12.7 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
     )
     (property "Author" "Antmicro" (at 71.12 -15.24 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "License" "Apache-2.0" (at 71.12 -17.78 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "ki_locked" "" (at 0 0 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "ki_keywords" "IC" (at 0 0 0)
-      (effects (font (size 1.27 1.27)) hide)
+      (effects (font (size 1.27 1.27))( hide yes ))
     )
-    (property "ki_description" "Thunderbolt™ 3 Controller, I/O" (at 0 0 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (symbol "JHL6340SLLSQ_1_0"
+    (symbol "JHL6340SLLSQ_1_0" 
       (rectangle (start 5.08 3.81) (end 49.53 -85.09)
         (stroke (width 0.254) (type default))
         (fill (type background))
       )
     )
-    (symbol "JHL6340SLLSQ_1_1"
+    (symbol "JHL6340SLLSQ_1_1" 
       (pin power_in line (at 54.61 -55.88 180) (length 5.08)
         (name "SVR_VSS" (effects (font (size 1.27 1.27))))
         (number "A1" (effects (font (size 1.27 1.27))))
@@ -837,12 +837,12 @@
         (number "Y9" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "JHL6340SLLSQ_2_0"
+    (symbol "JHL6340SLLSQ_2_0" 
       (text "PCIe Gen3" (at 24.13 -17.78 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
       )
     )
-    (symbol "JHL6340SLLSQ_2_1"
+    (symbol "JHL6340SLLSQ_2_1" 
       (rectangle (start 5.08 5.08) (end 50.8 -40.64)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -932,7 +932,7 @@
         (number "Y23" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "JHL6340SLLSQ_3_0"
+    (symbol "JHL6340SLLSQ_3_0" 
       (polyline
         (pts
           (xy 15.24 -50.8)
@@ -999,7 +999,7 @@
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
       )
     )
-    (symbol "JHL6340SLLSQ_3_1"
+    (symbol "JHL6340SLLSQ_3_1" 
       (rectangle (start 5.08 3.81) (end 50.8 -107.95)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -1225,12 +1225,12 @@
         (number "Y8" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "JHL6340SLLSQ_4_0"
+    (symbol "JHL6340SLLSQ_4_0" 
       (text "MISCELLANEOUS" (at 20.32 -13.97 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
       )
     )
-    (symbol "JHL6340SLLSQ_4_1"
+    (symbol "JHL6340SLLSQ_4_1" 
       (rectangle (start 5.08 3.81) (end 50.8 -29.21)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -1296,7 +1296,7 @@
         (number "Y4" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "JHL6340SLLSQ_5_0"
+    (symbol "JHL6340SLLSQ_5_0" 
       (polyline
         (pts
           (xy 15.24 2.54)
@@ -1324,7 +1324,7 @@
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
       )
     )
-    (symbol "JHL6340SLLSQ_5_1"
+    (symbol "JHL6340SLLSQ_5_1" 
       (rectangle (start 5.08 3.81) (end 50.8 -59.69)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -1458,12 +1458,12 @@
         (number "Y16" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "JHL6340SLLSQ_6_0"
+    (symbol "JHL6340SLLSQ_6_0" 
       (text "DEBUG" (at 24.13 -15.24 0)
         (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
       )
     )
-    (symbol "JHL6340SLLSQ_6_1"
+    (symbol "JHL6340SLLSQ_6_1" 
       (rectangle (start 5.08 3.81) (end 50.8 -31.75)
         (stroke (width 0.254) (type default))
         (fill (type background))

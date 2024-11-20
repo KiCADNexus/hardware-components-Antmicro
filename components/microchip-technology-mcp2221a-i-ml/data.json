@@ -5,7 +5,7 @@
     "datasheet": "https://ww1.microchip.com/downloads/aemDocuments/documents/APID/ProductDocuments/DataSheets/MCP2221A-Data-Sheet-20005565E.pdf",
     "manufacturer": "Microchip Technology",
     "mpn": "MCP2221A-I/ML",
-    "description": "USB 2.0 to I 2C/UART Protocol Converter with GPIO",
+    "description": null,
     "keywords": "SMT, INTERFACE, IC, CONTROLLER, USB, UART, I2C",
     "displayName": null,
     "gitHub": null,

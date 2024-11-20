@@ -1,36 +1,36 @@
-(kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "TG111-MSC13LF" (pin_names (offset 0.002) hide) (in_bom yes) (on_board yes)
+(kicad_symbol_lib
+  (symbol "TG111-MSC13LF"  (pin_names (offset 0.002) hide) (exclude_from_sim no) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 39.37 -2.54 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
     )
     (property "Value" "TG111-MSC13LF" (at 39.37 -5.08 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "Footprint" "TG111-MSC13LF:TG111-MSC13LF" (at 39.37 -7.62 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "Datasheet" "https://www.mouser.com/datasheet/2/706/discrete-genesus-964242.pdf" (at 39.37 -10.16 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
+    )
+    (property "Description" "Interface driver/receiver/transceiver" (at 0 0 0)
+      (effects (font (size 1.27 1.27))( hide yes ))
     )
     (property "Manufacturer" "HALO Electronics" (at 39.37 -12.7 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "MPN" "TG111-MSC13LF" (at 39.37 -15.24 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
     )
     (property "Author" "Antmicro" (at 39.37 -17.78 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "License" "Apache-2.0" (at 39.37 -20.32 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "ki_keywords" "SEMICONDUCTOR" (at 0 0 0)
-      (effects (font (size 1.27 1.27)) hide)
+      (effects (font (size 1.27 1.27))( hide yes ))
     )
-    (property "ki_description" "Interface driver/receiver/transceiver" (at 0 0 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (symbol "TG111-MSC13LF_0_1"
+    (symbol "TG111-MSC13LF_0_1" 
       (polyline
         (pts
           (xy 2.54 -5.08)
@@ -156,7 +156,7 @@
         (number "9" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "TG111-MSC13LF_1_1"
+    (symbol "TG111-MSC13LF_1_1" 
       (polyline
         (pts
           (xy 2.54 -35.56)

@@ -1,39 +1,39 @@
-(kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "XCVM2202-NSVH1369" (in_bom yes) (on_board yes)
+(kicad_symbol_lib
+  (symbol "XCVM2202-NSVH1369"  (exclude_from_sim no) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 58.42 0 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
     )
     (property "Value" "XCVM2202-NSVH1369" (at 58.42 -5.08 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "Footprint" "XCVM2202-NSVH1369:BGA-1369_35x35mm_Layout37x37_P0.92mm_NSVH1369" (at 58.42 -10.16 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "Datasheet" "https://docs.xilinx.com/v/u/en-US/ds950-versal-overview" (at 58.42 -12.7 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
+    )
+    (property "Description" "FPGA, AMD-Xilinx Versal Adaptive SoC, Prime series, XCVM2202, NSVH1369" (at 0 0 0)
+      (effects (font (size 1.27 1.27))( hide yes ))
     )
     (property "MPN" "XCVM2202-1MLINSVH1369" (at 58.42 -2.54 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
     )
     (property "Manufacturer" "AMD-Xilinx" (at 58.42 -7.62 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "Author" "Antmicro" (at 58.42 -15.24 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "License" "Apache-2.0" (at 58.42 -17.78 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "ki_locked" "" (at 0 0 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "ki_keywords" "SMT, IC, FPGA" (at 0 0 0)
-      (effects (font (size 1.27 1.27)) hide)
+      (effects (font (size 1.27 1.27))( hide yes ))
     )
-    (property "ki_description" "FPGA, AMD-Xilinx Versal Adaptive SoC, Prime series, XCVM2202, NSVH1369" (at 0 0 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (symbol "XCVM2202-NSVH1369_1_1"
+    (symbol "XCVM2202-NSVH1369_1_1" 
       (rectangle (start 5.08 2.54) (end 33.02 -50.8)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -119,7 +119,7 @@
         (number "V7" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XCVM2202-NSVH1369_2_1"
+    (symbol "XCVM2202-NSVH1369_2_1" 
       (rectangle (start 5.08 2.54) (end 33.02 -50.8)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -205,7 +205,7 @@
         (number "Y7" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XCVM2202-NSVH1369_3_1"
+    (symbol "XCVM2202-NSVH1369_3_1" 
       (rectangle (start 5.08 2.54) (end 33.02 -50.8)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -291,7 +291,7 @@
         (number "R5" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XCVM2202-NSVH1369_4_1"
+    (symbol "XCVM2202-NSVH1369_4_1" 
       (rectangle (start 5.08 2.54) (end 33.02 -55.88)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -385,7 +385,7 @@
         (number "W9" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XCVM2202-NSVH1369_5_1"
+    (symbol "XCVM2202-NSVH1369_5_1" 
       (rectangle (start 5.08 2.54) (end 27.94 -55.88)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -479,7 +479,7 @@
         (number "T7" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XCVM2202-NSVH1369_6_1"
+    (symbol "XCVM2202-NSVH1369_6_1" 
       (rectangle (start 5.08 2.54) (end 27.94 -50.8)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -565,7 +565,7 @@
         (number "V37" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XCVM2202-NSVH1369_7_1"
+    (symbol "XCVM2202-NSVH1369_7_1" 
       (rectangle (start 5.08 2.54) (end 27.94 -55.88)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -659,7 +659,7 @@
         (number "P32" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XCVM2202-NSVH1369_8_1"
+    (symbol "XCVM2202-NSVH1369_8_1" 
       (rectangle (start 5.08 2.54) (end 27.94 -50.8)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -745,7 +745,7 @@
         (number "H32" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XCVM2202-NSVH1369_9_1"
+    (symbol "XCVM2202-NSVH1369_9_1" 
       (rectangle (start 5.08 2.54) (end 25.4 -58.42)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -847,7 +847,7 @@
         (number "AG28" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XCVM2202-NSVH1369_10_1"
+    (symbol "XCVM2202-NSVH1369_10_1" 
       (rectangle (start 5.08 2.54) (end 25.4 -58.42)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -949,7 +949,7 @@
         (number "Y30" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XCVM2202-NSVH1369_11_1"
+    (symbol "XCVM2202-NSVH1369_11_1" 
       (rectangle (start 5.08 2.54) (end 22.86 -78.74)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -1083,7 +1083,7 @@
         (number "W15" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XCVM2202-NSVH1369_12_1"
+    (symbol "XCVM2202-NSVH1369_12_1" 
       (rectangle (start 5.08 2.54) (end 22.86 -68.58)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -1201,7 +1201,7 @@
         (number "H27" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XCVM2202-NSVH1369_13_1"
+    (symbol "XCVM2202-NSVH1369_13_1" 
       (rectangle (start 5.08 2.54) (end 22.86 -68.58)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -1319,7 +1319,7 @@
         (number "D21" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XCVM2202-NSVH1369_14_1"
+    (symbol "XCVM2202-NSVH1369_14_1" 
       (rectangle (start 5.08 2.54) (end 22.86 -40.64)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -1393,7 +1393,7 @@
         (number "D27" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XCVM2202-NSVH1369_15_1"
+    (symbol "XCVM2202-NSVH1369_15_1" 
       (rectangle (start 5.08 2.54) (end 43.18 -142.24)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -1631,7 +1631,7 @@
         (number "AU9" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XCVM2202-NSVH1369_16_1"
+    (symbol "XCVM2202-NSVH1369_16_1" 
       (rectangle (start 5.08 2.54) (end 45.72 -139.7)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -1865,7 +1865,7 @@
         (number "AU15" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XCVM2202-NSVH1369_17_1"
+    (symbol "XCVM2202-NSVH1369_17_1" 
       (rectangle (start 5.08 2.54) (end 45.72 -139.7)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -2099,7 +2099,7 @@
         (number "AU23" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XCVM2202-NSVH1369_18_1"
+    (symbol "XCVM2202-NSVH1369_18_1" 
       (rectangle (start 5.08 2.54) (end 43.18 -139.7)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -2333,7 +2333,7 @@
         (number "AU29" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XCVM2202-NSVH1369_19_1"
+    (symbol "XCVM2202-NSVH1369_19_1" 
       (rectangle (start 5.08 2.54) (end 45.72 -139.7)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -2567,7 +2567,7 @@
         (number "AU36" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XCVM2202-NSVH1369_20_1"
+    (symbol "XCVM2202-NSVH1369_20_1" 
       (rectangle (start 5.08 2.54) (end 45.72 -139.7)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -2801,7 +2801,7 @@
         (number "Y37" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XCVM2202-NSVH1369_21_1"
+    (symbol "XCVM2202-NSVH1369_21_1" 
       (rectangle (start 5.08 2.54) (end 30.48 -68.58)
         (stroke (width 0.254) (type default))
         (fill (type background))

@@ -1,39 +1,39 @@
-(kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "MPFS025T-FCVG484I" (in_bom yes) (on_board yes)
+(kicad_symbol_lib
+  (symbol "MPFS025T-FCVG484I"  (exclude_from_sim no) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 105.41 0 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
     )
     (property "Value" "MPFS025T-FCVG484I" (at 105.41 -5.08 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "Footprint" "MPFS025T-FCVG484I:BGA-484_19x19mm_Layout22x22_P0.8mm-microchip-technology-mpfs025t-fcvg484" (at 105.41 -7.62 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "Datasheet" "https://www.microsemi.com/document-portal/doc_download/1244583-polarfire-soc-advance-datasheet" (at 105.41 -10.16 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
+    )
+    (property "Description" "RISC-V System On Chip (SOC) IC PolarFire® FPGA - 254K Logic Modules 484-FCBGA (19x19)" (at 0 0 0)
+      (effects (font (size 1.27 1.27))( hide yes ))
     )
     (property "MPN" "MPFS025T-FCVG484I" (at 105.41 -2.54 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
     )
     (property "Manufacturer" "Microchip Technology" (at 105.41 -12.7 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "Author" "Antmicro" (at 105.41 -15.24 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "License" "Apache-2.0" (at 105.41 -17.78 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "ki_locked" "" (at 0 0 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "ki_keywords" "IC, FPGA, SOC" (at 0 0 0)
-      (effects (font (size 1.27 1.27)) hide)
+      (effects (font (size 1.27 1.27))( hide yes ))
     )
-    (property "ki_description" "RISC-V System On Chip (SOC) IC PolarFire® FPGA - 254K Logic Modules 484-FCBGA (19x19)" (at 0 0 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (symbol "MPFS025T-FCVG484I_1_1"
+    (symbol "MPFS025T-FCVG484I_1_1" 
       (rectangle (start 5.08 5.08) (end 86.36 -76.2)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -282,7 +282,7 @@
         (number "Y21" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "MPFS025T-FCVG484I_2_1"
+    (symbol "MPFS025T-FCVG484I_2_1" 
       (rectangle (start 5.08 5.08) (end 86.36 -106.68)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -627,7 +627,7 @@
         (number "H17" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "MPFS025T-FCVG484I_3_1"
+    (symbol "MPFS025T-FCVG484I_3_1" 
       (rectangle (start 5.08 5.08) (end 30.48 -30.48)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -732,7 +732,7 @@
         (number "G5" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "MPFS025T-FCVG484I_4_1"
+    (symbol "MPFS025T-FCVG484I_4_1" 
       (rectangle (start 5.08 5.08) (end 30.48 -17.78)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -793,7 +793,7 @@
         (number "H9" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "MPFS025T-FCVG484I_5_1"
+    (symbol "MPFS025T-FCVG484I_5_1" 
       (rectangle (start 5.08 5.08) (end 30.48 -17.78)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -858,7 +858,7 @@
         (number "K5" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "MPFS025T-FCVG484I_6_1"
+    (symbol "MPFS025T-FCVG484I_6_1" 
       (rectangle (start 5.08 5.08) (end 40.64 -20.32)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -907,7 +907,7 @@
         (number "N8" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "MPFS025T-FCVG484I_7_1"
+    (symbol "MPFS025T-FCVG484I_7_1" 
       (rectangle (start 5.08 5.08) (end 58.42 -139.7)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -1268,7 +1268,7 @@
         (number "Y9" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "MPFS025T-FCVG484I_8_1"
+    (symbol "MPFS025T-FCVG484I_8_1" 
       (rectangle (start 5.08 5.08) (end 45.72 -43.18)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -1365,7 +1365,7 @@
         (number "T22" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "MPFS025T-FCVG484I_9_1"
+    (symbol "MPFS025T-FCVG484I_9_1" 
       (rectangle (start 5.08 2.54) (end 27.94 -22.86)
         (stroke (width 0.254) (type default))
         (fill (type background))

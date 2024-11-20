@@ -1,39 +1,39 @@
-(kicad_symbol_lib (version 20220914) (generator kicad_symbol_editor)
-  (symbol "XCVP1202-2MSEVSVA2785" (in_bom yes) (on_board yes)
+(kicad_symbol_lib
+  (symbol "XCVP1202-2MSEVSVA2785"  (exclude_from_sim no) (in_bom yes) (on_board yes)
     (property "Reference" "U" (at 68.58 2.54 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
     )
     (property "Value" "XCVP1202-2MSEVSVA2785" (at 68.58 -7.62 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "Footprint" "XCVP1202-2MSEVSVA2785:BGA-2809-2736_50x50mm_Layout53x53_P0.92mm_AMD-Xilinx_VSVA2785-VP1202" (at 68.58 -10.16 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "Datasheet" "https://docs.xilinx.com/r/en-US/ug1568-vpk120-eval-bd/Introduction" (at 68.58 -12.7 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
+    )
+    (property "Description" "FPGA Xilinx Versal, 1969240 logic cells, BGA2809" (at 0 0 0)
+      (effects (font (size 1.27 1.27))( hide yes ))
     )
     (property "Manufacturer" "AMD-Xilinx" (at 68.58 0 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "MPN" "XCVP1202-2MSEVSVA2785" (at 68.58 -2.54 0)
       (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom))
     )
     (property "Author" "Antmicro" (at 68.58 -15.24 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "License" "Apache-2.0" (at 68.58 -17.78 0)
-      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom) hide)
+      (effects (font (size 1.27 1.27) (thickness 0.15)) (justify left bottom)( hide yes ))
     )
     (property "ki_locked" "" (at 0 0 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "ki_keywords" "SMT, IC, FPGA" (at 0 0 0)
-      (effects (font (size 1.27 1.27)) hide)
+      (effects (font (size 1.27 1.27))( hide yes ))
     )
-    (property "ki_description" "FPGA Xilinx Versal, 1969240 logic cells, BGA2809" (at 0 0 0)
-      (effects (font (size 1.27 1.27)) hide)
-    )
-    (symbol "XCVP1202-2MSEVSVA2785_1_1"
+    (symbol "XCVP1202-2MSEVSVA2785_1_1" 
       (rectangle (start 5.08 6.35) (end 46.99 -93.98)
         (stroke (width 0.254) (type default))
         (fill (type background))
@@ -6598,7 +6598,7 @@
         (number "Y7" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XCVP1202-2MSEVSVA2785_2_1"
+    (symbol "XCVP1202-2MSEVSVA2785_2_1" 
       (polyline
         (pts
           (xy 31.75 1.27)
@@ -6700,7 +6700,7 @@
         (number "BG7" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XCVP1202-2MSEVSVA2785_3_1"
+    (symbol "XCVP1202-2MSEVSVA2785_3_1" 
       (polyline
         (pts
           (xy 33.02 1.27)
@@ -6802,7 +6802,7 @@
         (number "BC7" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XCVP1202-2MSEVSVA2785_4_1"
+    (symbol "XCVP1202-2MSEVSVA2785_4_1" 
       (polyline
         (pts
           (xy 33.02 1.27)
@@ -6904,7 +6904,7 @@
         (number "AT5" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XCVP1202-2MSEVSVA2785_5_1"
+    (symbol "XCVP1202-2MSEVSVA2785_5_1" 
       (polyline
         (pts
           (xy 33.02 -2.54)
@@ -7014,7 +7014,7 @@
         (number "AM9" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XCVP1202-2MSEVSVA2785_6_1"
+    (symbol "XCVP1202-2MSEVSVA2785_6_1" 
       (polyline
         (pts
           (xy 33.02 -2.54)
@@ -7124,7 +7124,7 @@
         (number "Y9" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XCVP1202-2MSEVSVA2785_7_1"
+    (symbol "XCVP1202-2MSEVSVA2785_7_1" 
       (polyline
         (pts
           (xy 33.02 1.27)
@@ -7226,7 +7226,7 @@
         (number "BN43" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XCVP1202-2MSEVSVA2785_8_1"
+    (symbol "XCVP1202-2MSEVSVA2785_8_1" 
       (polyline
         (pts
           (xy 33.02 1.27)
@@ -7336,7 +7336,7 @@
         (number "BN47" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XCVP1202-2MSEVSVA2785_9_1"
+    (symbol "XCVP1202-2MSEVSVA2785_9_1" 
       (polyline
         (pts
           (xy 33.02 1.27)
@@ -7438,7 +7438,7 @@
         (number "BN49" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XCVP1202-2MSEVSVA2785_10_1"
+    (symbol "XCVP1202-2MSEVSVA2785_10_1" 
       (polyline
         (pts
           (xy 33.02 -2.54)
@@ -7548,7 +7548,7 @@
         (number "BG53" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XCVP1202-2MSEVSVA2785_11_1"
+    (symbol "XCVP1202-2MSEVSVA2785_11_1" 
       (polyline
         (pts
           (xy 33.02 1.27)
@@ -7650,7 +7650,7 @@
         (number "BA48" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XCVP1202-2MSEVSVA2785_12_1"
+    (symbol "XCVP1202-2MSEVSVA2785_12_1" 
       (polyline
         (pts
           (xy 33.02 1.27)
@@ -7752,7 +7752,7 @@
         (number "Y46" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XCVP1202-2MSEVSVA2785_13_1"
+    (symbol "XCVP1202-2MSEVSVA2785_13_1" 
       (polyline
         (pts
           (xy 33.02 1.27)
@@ -7854,7 +7854,7 @@
         (number "Y51" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XCVP1202-2MSEVSVA2785_14_1"
+    (symbol "XCVP1202-2MSEVSVA2785_14_1" 
       (polyline
         (pts
           (xy 31.75 -15.24)
@@ -8012,7 +8012,7 @@
         (number "W15" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XCVP1202-2MSEVSVA2785_15_1"
+    (symbol "XCVP1202-2MSEVSVA2785_15_1" 
       (polyline
         (pts
           (xy 31.75 -2.54)
@@ -8146,7 +8146,7 @@
         (number "W18" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XCVP1202-2MSEVSVA2785_16_1"
+    (symbol "XCVP1202-2MSEVSVA2785_16_1" 
       (polyline
         (pts
           (xy 31.75 -1.27)
@@ -8280,7 +8280,7 @@
         (number "Y16" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XCVP1202-2MSEVSVA2785_17_1"
+    (symbol "XCVP1202-2MSEVSVA2785_17_1" 
       (polyline
         (pts
           (xy 31.75 -3.81)
@@ -8370,7 +8370,7 @@
         (number "D20" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XCVP1202-2MSEVSVA2785_18_1"
+    (symbol "XCVP1202-2MSEVSVA2785_18_1" 
       (polyline
         (pts
           (xy 33.02 -2.54)
@@ -8624,7 +8624,7 @@
         (number "BF10" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XCVP1202-2MSEVSVA2785_19_1"
+    (symbol "XCVP1202-2MSEVSVA2785_19_1" 
       (polyline
         (pts
           (xy 34.29 -2.54)
@@ -8874,7 +8874,7 @@
         (number "BN9" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XCVP1202-2MSEVSVA2785_20_1"
+    (symbol "XCVP1202-2MSEVSVA2785_20_1" 
       (polyline
         (pts
           (xy 31.75 -3.81)
@@ -9124,7 +9124,7 @@
         (number "BN17" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XCVP1202-2MSEVSVA2785_21_1"
+    (symbol "XCVP1202-2MSEVSVA2785_21_1" 
       (polyline
         (pts
           (xy 33.02 -2.54)
@@ -9374,7 +9374,7 @@
         (number "BN22" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XCVP1202-2MSEVSVA2785_22_1"
+    (symbol "XCVP1202-2MSEVSVA2785_22_1" 
       (polyline
         (pts
           (xy 34.29 -3.81)
@@ -9624,7 +9624,7 @@
         (number "BN27" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XCVP1202-2MSEVSVA2785_23_1"
+    (symbol "XCVP1202-2MSEVSVA2785_23_1" 
       (polyline
         (pts
           (xy 34.29 -2.54)
@@ -9874,7 +9874,7 @@
         (number "BN31" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XCVP1202-2MSEVSVA2785_24_1"
+    (symbol "XCVP1202-2MSEVSVA2785_24_1" 
       (polyline
         (pts
           (xy 33.02 -1.27)
@@ -10124,7 +10124,7 @@
         (number "BN35" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XCVP1202-2MSEVSVA2785_25_1"
+    (symbol "XCVP1202-2MSEVSVA2785_25_1" 
       (polyline
         (pts
           (xy 34.29 -2.54)
@@ -10374,7 +10374,7 @@
         (number "BE45" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XCVP1202-2MSEVSVA2785_26_1"
+    (symbol "XCVP1202-2MSEVSVA2785_26_1" 
       (polyline
         (pts
           (xy 34.29 -3.81)
@@ -10624,7 +10624,7 @@
         (number "AW45" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XCVP1202-2MSEVSVA2785_27_1"
+    (symbol "XCVP1202-2MSEVSVA2785_27_1" 
       (polyline
         (pts
           (xy 33.02 -2.54)
@@ -10874,7 +10874,7 @@
         (number "V22" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XCVP1202-2MSEVSVA2785_28_1"
+    (symbol "XCVP1202-2MSEVSVA2785_28_1" 
       (polyline
         (pts
           (xy 34.29 -3.81)
@@ -11124,7 +11124,7 @@
         (number "V27" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XCVP1202-2MSEVSVA2785_29_1"
+    (symbol "XCVP1202-2MSEVSVA2785_29_1" 
       (polyline
         (pts
           (xy 34.29 -3.81)
@@ -11374,7 +11374,7 @@
         (number "V30" (effects (font (size 1.27 1.27))))
       )
     )
-    (symbol "XCVP1202-2MSEVSVA2785_30_1"
+    (symbol "XCVP1202-2MSEVSVA2785_30_1" 
       (polyline
         (pts
           (xy 29.21 -2.54)

@@ -5,7 +5,7 @@
     "datasheet": "http://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT230X.pdf",
     "manufacturer": "FTDI Chip",
     "mpn": "FT230XS-R",
-    "description": "USB Interface, USB-UART Converter, USB 2.0, 2.97 V, 5.5 V, SSOP, 16 Pins",
+    "description": null,
     "keywords": "SMT, INTERFACE, IC, CONTROLLER, USB, UART",
     "displayName": null,
     "gitHub": null,

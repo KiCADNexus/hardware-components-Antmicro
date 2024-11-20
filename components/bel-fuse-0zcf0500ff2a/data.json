@@ -1,14 +1,27 @@
 {
     "reference": "F",
     "symbol": "F_5A_2920",
-    "footprint": "2920-fuse",
+    "footprint": "F_2920",
     "datasheet": "https://www.mouser.com/datasheet/2/643/ds_CP_0zcf_series-1633784.pdf",
     "manufacturer": "Bel Fuse",
     "mpn": "0ZCF0500FF2A",
-    "description": "Polymeric PTC Resettable Fuse 16V 5 A Ih Surface Mount 2920 (7351 Metric), Concave",
+    "description": null,
     "keywords": "FUSE, PASSIVE",
     "displayName": null,
     "gitHub": null,
-    "blender_model": null,
-    "pads": []
+    "blender_model": "F_2920",
+    "pads": [
+        {
+            "reference": "1",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        },
+        {
+            "reference": "2",
+            "pin_name": "~",
+            "alternate_pin_names": [],
+            "electrical_type": "passive"
+        }
+    ]
 }
